@@ -1,23 +1,19 @@
-<div align="center">
-
-# Awesome GPT Image 2.5 Prompts
+# Awesome GPT Image 2.5 Prompts ✨
 
 **Creative image prompts and workflows, curated by SeeAPI.**
 
 Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature worlds, GIF assets, and stop-motion-style scenes. Copy a prompt, make it your own, and start creating on SeeAPI.
 
-[**Browse More Prompts**](https://www.aiimage.net/prompts/) · [**Create Your Image**](https://www.aiimage.net/image/)
+[**🔎 Browse More Prompts**](https://www.aiimage.net/prompts/) · [**🎨 Create Your Image**](https://www.aiimage.net/image/)
 
-</div>
+## 📖 Contents
 
-## Contents
+- [🔎 Explore More Prompts](#-explore-more-prompts)
+- [🧭 Choose Your Model](#-choose-your-model)
+- [🔧 Tools to Create These Examples](#-tools-to-create-these-examples)
+- [💡 10 Creative Things to Try](#-10-creative-things-to-try)
 
-- [Explore More Prompts](#explore-more-prompts)
-- [Choose Your Model](#choose-your-model)
-- [Tools to Create These Examples](#tools-to-create-these-examples)
-- [10 Creative Things to Try](#10-creative-things-to-try)
-
-## Explore More Prompts
+## 🔎 Explore More Prompts
 
 Looking for a starting point? Explore the [SeeAPI Prompt Library](https://www.aiimage.net/prompts/) for image prompts across product photography, portraits, illustration, branding, interiors, and more.
 
@@ -25,7 +21,7 @@ You can browse examples by category or use the page's prompt generator to turn y
 
 **Start with an example. Change one major detail. Compare the result.**
 
-## Choose Your Model
+## 🧭 Choose Your Model
 
 GPT Image 2.5 includes two models with different priorities. Choose based on what matters most for your next image.
 
@@ -42,7 +38,7 @@ For an edit, describe both **what should change** and **what should stay the sam
 
 Model descriptions: [Sunburst documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst) · [Flare documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare). Available models and settings are shown in the SeeAPI interface.
 
-## Tools to Create These Examples
+## 🔧 Tools to Create These Examples
 
 ### SeeAPI Image Generator
 
@@ -62,7 +58,7 @@ GPT Image 2.5 produces still images. GIF and stop-motion-style workflows need an
 
 The relevant ideas below explain that handoff. Specific animation tools and tested end-to-end examples will be added as those workflows are completed.
 
-## 10 Creative Things to Try
+## 💡 10 Creative Things to Try
 
 These are original starter prompts and workflow ideas, not a gallery of verified outputs. Example images and reproduction notes will be added after testing. Prompts describe the intended result; details such as text accuracy and character consistency should be checked after generation.
 
