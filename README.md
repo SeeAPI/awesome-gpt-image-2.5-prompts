@@ -2,61 +2,39 @@
 
 **Creative image prompts and workflows, curated by SeeAPI.**
 
-Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature worlds, GIF assets, and stop-motion-style scenes. Copy a prompt, make it your own, and start creating on SeeAPI.
+Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature worlds, GIF assets, and stop-motion-style scenes. Copy a prompt, make it your own, and explore new creative directions.
 
-[**🔎 Browse More Prompts**](https://www.aiimage.net/prompts/) · [**🎨 Create Your Image**](https://www.aiimage.net/image/)
+This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
 ## 📖 Contents
 
-- [🔎 Explore More Prompts](#-explore-more-prompts)
 - [🧭 Choose Your Model](#-choose-your-model)
-- [🔧 Tools to Create These Examples](#-tools-to-create-these-examples)
+- [🗂 Prompt Directory](#-prompt-directory)
 - [💡 10 Creative Things to Try](#-10-creative-things-to-try)
-
-## 🔎 Explore More Prompts
-
-Looking for a starting point? Explore the [SeeAPI Prompt Library](https://www.aiimage.net/prompts/) for image prompts across product photography, portraits, illustration, branding, interiors, and more.
-
-You can browse examples by category or use the page's prompt generator to turn your own idea into three creative directions. Choose a direction, customize the subject and style, then take your prompt to the [image generator](https://www.aiimage.net/image/).
-
-**Start with an example. Change one major detail. Compare the result.**
 
 ## 🧭 Choose Your Model
 
-GPT Image 2.5 includes two models with different priorities. Choose based on what matters most for your next image.
+OpenAI's GPT Image 2.5 family includes Sunburst and Flare. Both accept text and image inputs and produce still images.
 
-| | GPT Image 2.5 Sunburst | GPT Image 2.5 Flare |
-|---|---|---|
-| Main focus | Image generation and precise editing | Fast, high-quality everyday image generation |
-| Start here when… | You need to revise an existing image and preserve important details | You want to explore new subjects, styles, and compositions quickly |
-| Suggested uses | Product background changes, focused visual corrections, reference-led refinements | Creative concepts, social visuals, illustration ideas, first-pass assets |
-| API model ID | `gpt-image-2.5-sunburst` | `gpt-image-2.5-flare` |
+### GPT Image 2.5 Sunburst
 
-**Our suggested workflow:** explore a visual direction with Flare, then use Sunburst when you need focused edits to an image you want to keep. Sunburst also generates new images; these are starting recommendations, not exclusive use cases.
+Sunburst is OpenAI's most capable image generation and editing model, with an emphasis on editing precision. It can create new images or revise existing ones from text instructions and image references.
 
-For an edit, describe both **what should change** and **what should stay the same**. For a new image, specify the subject, composition, lighting, material, and intended use.
+**API model ID:** `gpt-image-2.5-sunburst` · [Official documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst)
 
-Model descriptions: [Sunburst documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst) · [Flare documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare). Available models and settings are shown in the SeeAPI interface.
+### GPT Image 2.5 Flare
 
-## 🔧 Tools to Create These Examples
+Flare is OpenAI's fastest model for high-quality everyday image generation. It supports text prompts and image references for creating new visuals.
 
-### SeeAPI Image Generator
+**API model ID:** `gpt-image-2.5-flare` · [Official documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare)
 
-Use the [SeeAPI Image Generator](https://www.aiimage.net/image/) to turn the prompts below into images or work from a reference image.
+## 🗂 Prompt Directory
 
-1. Open the generator and choose an available model and task mode.
-2. Paste a prompt. Replace details such as the character, product, colors, or exact wording.
-3. For reference-based work, upload the image and explain what it should control.
-4. Choose the available aspect ratio and resolution settings, then generate.
-5. Review the result. Refine one visible issue at a time.
+A growing library of individual prompt examples, updated regularly. Each entry will include a copyable prompt, an example image, the model used, any required reference images, and source credits where applicable.
 
-[**Open the Image Generator →**](https://www.aiimage.net/image/)
+**Coming soon:** New entries will be listed here with links to their full prompts and images, with the latest additions first.
 
-### From Images to GIFs and Video
-
-GPT Image 2.5 produces still images. GIF and stop-motion-style workflows need an additional step: assemble individual frames in an animation editor, or animate an approved still with an image-to-video tool. A GIF export may then be needed.
-
-The relevant ideas below explain that handoff. Specific animation tools and tested end-to-end examples will be added as those workflows are completed.
+For starter prompts you can try now, explore the [10 creative ideas below](#-10-creative-things-to-try).
 
 ## 💡 10 Creative Things to Try
 
@@ -75,6 +53,8 @@ These are original starter prompts and workflow ideas, not a gallery of verified
 | 09 | [Paper-Cut Storybook Scene](#09-paper-cut-storybook-scene) | Text | Image |
 | 10 | [Glass Material Remix](#10-glass-material-remix) | Object reference | Image edit |
 
+GPT Image 2.5 produces still images. The GIF and stop-motion ideas below require a separate animation step and, where needed, GIF export.
+
 ### 01. Reaction GIF Character
 
 Create a recognizable character with a simple silhouette, ready for a short reaction loop.
@@ -88,8 +68,6 @@ Use a clean 3D cartoon style, soft matte materials, warm studio lighting, and a 
 ```
 
 **Next step:** Animate one small action, such as an ear twitch and blink, with a fixed camera. Check the transition between the last and first frames before exporting a looping GIF.
-
-[Create the starting image](https://www.aiimage.net/image/)
 
 ### 02. Clay Stop-Motion Scene
 
@@ -105,8 +83,6 @@ Visible clay fingerprints, slightly uneven sculpted edges, felt curtains, and a 
 
 **Next step:** Use the approved still as a reference for a short animation in which the squirrel lifts the croissant. Request small, stepped movements and a locked camera. Review paws, props, and character shape between frames.
 
-[Create the starting image](https://www.aiimage.net/image/)
-
 ### 03. Personalized Sticker Pack
 
 Turn an original character into a set of expressive stickers.
@@ -120,8 +96,6 @@ Keep the character's face shape, colors, outfit, and distinctive features consis
 ```
 
 **Next step:** Check each expression, then crop and isolate the stickers individually. A flat background is not a transparent export.
-
-[Create your sticker sheet](https://www.aiimage.net/image/)
 
 ### 04. Collectible Figure Packaging
 
@@ -137,8 +111,6 @@ The figure is a cheerful astronaut wearing a cream spacesuit with sage-green gar
 
 **Next step:** Check the title, accessory count, and reflections. If using a character reference, explicitly ask to preserve its identifying features.
 
-[Create your collectible concept](https://www.aiimage.net/image/)
-
 ### 05. Miniature World in an Everyday Object
 
 Give a familiar object a surprising second life.
@@ -150,8 +122,6 @@ A miniature hillside village built inside an open vintage suitcase resting on a 
 
 Show the whole suitcase from a three-quarter overhead angle. Make the scale relationship unmistakable through detailed stitching, brass clasps, and a life-size ceramic cup beside it. Warm afternoon light, realistic miniature materials, shallow depth of field that keeps the village readable. No floating buildings or text. Landscape composition.
 ```
-
-[Create your miniature world](https://www.aiimage.net/image/)
 
 ### 06. Product Photo to Campaign Visual
 
@@ -168,8 +138,6 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 ```
 
 **Next step:** Compare the product and label against the source before using the image. Add campaign copy after approving the product rendering.
-
-[Create your product visual](https://www.aiimage.net/image/)
 
 ### 07. Editorial Poster with Exact Copy
 
@@ -190,8 +158,6 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 
 **Next step:** Proofread every word and inspect readability at the intended display size.
 
-[Create your poster](https://www.aiimage.net/image/)
-
 ### 08. One Character, Three Scenes
 
 Build a small visual series around one approved character.
@@ -206,8 +172,6 @@ Create one new image of this character browsing a quiet neighborhood bookshop. T
 
 **Next step:** Generate separate versions by changing only the scene and action—for example, waiting at a train platform or tending a balcony plant. Reuse the original reference each time and compare identity details across all three images.
 
-[Start your character series](https://www.aiimage.net/image/)
-
 ### 09. Paper-Cut Storybook Scene
 
 Create depth from layered paper rather than photographic realism.
@@ -219,8 +183,6 @@ A storybook forest made entirely from layered cut paper. A small cream-colored r
 
 Use visible paper fibers, crisp cut edges, gently bent leaves, and real shadows between the layers. Limit the palette to forest green, warm cream, ochre, and muted coral. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic fur. Square composition.
 ```
-
-[Create your paper world](https://www.aiimage.net/image/)
 
 ### 10. Glass Material Remix
 
@@ -236,10 +198,6 @@ Place it on a pale stone surface against a warm gray studio background. Show bel
 
 **Next step:** Inspect edges, supports, and transparent areas. Refine structural mistakes before exploring alternate colors or materials.
 
-[Create your material remix](https://www.aiimage.net/image/)
-
 ---
-
-**What will you make next?** [Find another prompt](https://www.aiimage.net/prompts/) or [start creating on SeeAPI](https://www.aiimage.net/image/).
 
 Curated by SeeAPI. Independent of OpenAI; product names belong to their respective owners.
