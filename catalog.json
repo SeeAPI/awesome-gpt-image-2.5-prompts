@@ -272,14 +272,14 @@
       "categories": [
         "Products & Materials"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p08-glass-material-remix.md",
       "prompts": [
         "prompts/p08-glass-material-remix/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p08-glass-material-remix/seeapi-glass-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p08-glass-material-remix"
     }

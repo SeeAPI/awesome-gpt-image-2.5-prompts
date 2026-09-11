@@ -1,26 +1,26 @@
 # P05. Editorial Poster with Exact Copy
 
-**by SeeAPI**
-
-## Preview
+## 👀 Preview
 
 Example image pending.
 
-## Workflow
+## 👇 Workflow
 
 `Text → poster image`
 
-## Full Prompt
+## 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Text → poster image**
 
 ```text
-Design a portrait exhibition poster on warm off-white paper. A large sculptural cobalt-blue ribbon occupies the middle third of the composition, lit from the upper left with a soft shadow.
+Design a portrait exhibition poster on [paper color and texture]. A large sculptural [central object] in [object color] occupies the middle third of the composition, lit from the upper left with a soft shadow.
 
-Include only this exact text:
-Top, large bold sans-serif: "FORM & FLOW"
-Below the sculpture, smaller: "A Study in Motion"
-Bottom, small: "October 18–24"
+Include only this exact text, using the supplied values without brackets:
+Top, large bold sans-serif: "[main title]"
+Below the sculpture, smaller: "[subtitle]"
+Bottom, small: "[date or supporting line]"
 
 Use generous margins, a strict left-aligned text grid, and strong separation between the title, sculpture, and supporting copy. Keep every word fully visible. No extra lettering, logos, frames, or watermarks.
 ```

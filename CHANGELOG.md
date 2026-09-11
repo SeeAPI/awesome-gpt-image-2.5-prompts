@@ -2,6 +2,8 @@
 
 ## 2026-09-11
 
+- Added P08’s supplied glass result and color-preserving prompt; generalized P01–P07 with customizable placeholders and neutral character wording.
+
 - Expanded all fourteen cases in README with Preview, Workflow, and ordered Full Prompt sections; switched directories to page anchors and matched Contents emoji to section headings.
 
 - Added the supplied C06 MP4 and its approximately 120° camera-orbit prompt; kept the case title and workflow at 360°, with the supplied 120° prompt separately identified.

@@ -2,7 +2,7 @@
 
 **by SeeAPI** · Inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)
 
-## Preview
+## 👀 Preview
 
 ![Clay Stop-Motion: Fishing for a Star — GIF result](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
 
@@ -12,11 +12,11 @@
 
 Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
 
-## Workflow
+## 👇 Workflow
 
 `Text → contact sheet → GIF`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — Text → contact sheet**
 

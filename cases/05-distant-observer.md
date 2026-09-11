@@ -2,7 +2,7 @@
 
 **by SeeAPI** · Inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)
 
-## Preview
+## 👀 Preview
 
 **Rainy street draft**
 
@@ -18,11 +18,11 @@
 
 Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
 
-## Workflow
+## 👇 Workflow
 
 `Text → character reference → scene image → corrected scene image → video`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — Text → character reference**
 

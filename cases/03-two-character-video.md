@@ -2,7 +2,7 @@
 
 **by SeeAPI** · Inspired by [TechieSA](https://x.com/TechieBySA/status/2096196085198839832)
 
-## Preview
+## 👀 Preview
 
 **Character reference sheet**
 
@@ -22,11 +22,11 @@
 
 Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
 
-## Workflow
+## 👇 Workflow
 
 `Text → two character references → opening image → video`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — Text → two character references**
 

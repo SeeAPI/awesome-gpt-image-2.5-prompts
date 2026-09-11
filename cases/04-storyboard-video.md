@@ -2,7 +2,7 @@
 
 **by SeeAPI** · Inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)
 
-## Preview
+## 👀 Preview
 
 **Inez reference**
 
@@ -30,11 +30,11 @@
 
 Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
 
-## Workflow
+## 👇 Workflow
 
 `Text → character reference → storyboard → individual shot images → video clips → edited video`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — Text → character reference**
 

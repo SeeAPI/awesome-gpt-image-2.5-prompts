@@ -2,7 +2,7 @@
 
 **by SeeAPI**
 
-## Preview
+## 👀 Preview
 
 ![Pixel Art Character GIF — GIF result](../assets/01-pixel-art-gif/elephant-roll.gif)
 
@@ -12,11 +12,11 @@
 
 The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
 
-## Workflow
+## 👇 Workflow
 
 `Text / optional character reference → sprite sheet → GIF`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — Text → sprite sheet**
 

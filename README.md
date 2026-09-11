@@ -53,8 +53,6 @@ Choose a subject or technique. A case can appear in more than one category.
 
 ## 🗂 Prompt Directory
 
-Standalone prompts for image generation and editing, with the newest entries listed first. **These eight entries currently contain full prompts; example images and generation validation are pending.** Select a title to jump to its full prompt below.
-
 - [P08: Glass Material Remix (by SeeAPI)](#p08-glass-material-remix)
 - [P07: Paper-Cut Storybook Scene (by SeeAPI)](#p07-paper-cut-storybook-scene)
 - [P06: One Character, Three Scenes (by SeeAPI)](#p06-one-character-three-scenes)
@@ -67,187 +65,187 @@ Standalone prompts for image generation and editing, with the newest entries lis
 
 ### P08. Glass Material Remix
 
-**by SeeAPI**
+#### 👀 Preview
 
-#### Preview
+![SeeAPI logo transformed into translucent glass while preserving its colors](assets/p08-glass-material-remix/seeapi-glass-result.png)
 
-Example image pending.
-
-#### Workflow
+#### 👇 Workflow
 
 `Object reference → glass material image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Object reference → glass material image**
 
 ```text
-Transform the main object in the uploaded image into translucent amber glass while preserving its overall silhouette, proportions, orientation, and defining structural details.
+Transform the main object in the uploaded image into translucent glass while preserving its overall silhouette, proportions, orientation, color, and defining structural details.
 
 Place it on a pale stone surface against a warm gray studio background. Show believable glass thickness, subtle internal reflections, softened refraction through curved areas, and a grounded contact shadow. Use a large soft light from the left and a faint rim light from behind. Keep the full object visible. Do not add extra parts, labels, text, or unrelated props.
 ```
 
 ### P07. Paper-Cut Storybook Scene
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
-`Text → paper-cut image`
+`Text / optional character reference → paper-cut image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Text → paper-cut image**
 
 ```text
-A storybook forest made entirely from layered cut paper. A small cream-colored rabbit stands on a curved ochre path beneath oversized fern leaves, looking toward a lantern hanging from a low branch.
+Create a storybook scene made entirely from layered cut paper, set in [environment]. A character defined by [character description] performs [anatomy-appropriate action] near [focal object]. If a character reference is uploaded, preserve its identity, anatomy, proportions, colors, and distinctive features while translating its appearance into cut paper.
 
-Use visible paper fibers, crisp cut edges, gently bent leaves, and real shadows between the layers. Limit the palette to forest green, warm cream, ochre, and muted coral. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic fur. Square composition.
+Use visible paper fibers, crisp cut edges, gently bent paper elements, and real shadows between the layers. Limit the palette to [color palette]. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic surface textures. Square composition.
 ```
 
 ### P06. One Character, Three Scenes
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Character reference → scene image → repeat for three scenes`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Character reference → scene image → repeat for three scenes**
 
 Reuse the same reference and change only scene/action for the other two images.
 
 ```text
-Use the uploaded image as the character identity reference. Preserve the character's facial features, hairstyle, outfit, colors, and body proportions.
+Use the uploaded person or character as the identity reference. Preserve the subject's identifying features, anatomy, body proportions, colors, hairstyle or surface details, and clothing if present. Do not change the subject's species or gender presentation.
 
-Create one new image of this character browsing a quiet neighborhood bookshop. The character is holding a closed book in both hands, with a warm reading lamp and softly blurred shelves behind them. Eye-level medium shot, gentle natural lighting, and the same visual style as the reference. No additional foreground characters or readable text.
+Create one new image of this subject in [scene or location], performing [action appropriate to the subject's anatomy]. Include [environment details], using [framing] and [lighting]. Keep the same visual style as the reference, with believable contact between the subject, props, and supporting surfaces. No additional foreground characters or readable text.
 ```
 
 ### P05. Editorial Poster with Exact Copy
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → poster image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Text → poster image**
 
 ```text
-Design a portrait exhibition poster on warm off-white paper. A large sculptural cobalt-blue ribbon occupies the middle third of the composition, lit from the upper left with a soft shadow.
+Design a portrait exhibition poster on [paper color and texture]. A large sculptural [central object] in [object color] occupies the middle third of the composition, lit from the upper left with a soft shadow.
 
-Include only this exact text:
-Top, large bold sans-serif: "FORM & FLOW"
-Below the sculpture, smaller: "A Study in Motion"
-Bottom, small: "October 18–24"
+Include only this exact text, using the supplied values without brackets:
+Top, large bold sans-serif: "[main title]"
+Below the sculpture, smaller: "[subtitle]"
+Bottom, small: "[date or supporting line]"
 
 Use generous margins, a strict left-aligned text grid, and strong separation between the title, sculpture, and supporting copy. Keep every word fully visible. No extra lettering, logos, frames, or watermarks.
 ```
 
 ### P04. Product Photo to Campaign Visual
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Product reference → campaign image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Product reference → campaign image**
 
 ```text
 Edit the uploaded product photograph. Preserve the product's silhouette, proportions, orientation, packaging, logo placement, and all visible label wording.
 
-Replace the surrounding scene with a warm ivory studio background and a matte stone platform. Add soft window light from the upper left and a natural contact shadow beneath the product. Keep the product on the right half of the frame and leave the left half uncluttered for copy to be added later.
+Replace the surrounding scene with a [background color and material] studio background and a [platform material] platform. Add soft window light from the upper left and a natural contact shadow beneath the product. Keep the product on the right half of the frame and leave the left half uncluttered for copy to be added later.
 
 Do not add text, extra products, decorative ingredients, or a new label. Do not crop any part of the product. Landscape composition.
 ```
 
 ### P03. Miniature World in an Everyday Object
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → miniature scene image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Text → miniature scene image**
 
 ```text
-A miniature hillside village built inside an open vintage suitcase resting on a real wooden table. The suitcase contains a winding stone path, five small cottages, moss-covered terraces, and a tiny pond. Its open lid forms the backdrop, lined with faded botanical fabric.
+Create a miniature [world or scene theme] built inside an open [everyday container], resting on a real [supporting surface]. Include [main structures], [landscape details], and [focal feature], all physically contained within the object. The container's interior forms the backdrop, with materials appropriate to its real construction.
 
-Show the whole suitcase from a three-quarter overhead angle. Make the scale relationship unmistakable through detailed stitching, brass clasps, and a life-size ceramic cup beside it. Warm afternoon light, realistic miniature materials, shallow depth of field that keeps the village readable. No floating buildings or text. Landscape composition.
+Show the whole container from a three-quarter overhead angle. Make the scale relationship unmistakable through realistic seams, edges, fittings, and a life-size [scale reference object] beside it. Use [lighting mood], realistic miniature materials, and shallow depth of field that keeps the scene readable. No floating structures or text. Landscape composition.
 ```
 
 ### P02. Collectible Figure Packaging
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text / optional character reference → packaging image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Text / optional character reference → packaging image**
 
 ```text
-Create a studio product photograph of an original collectible toy called "MOON GARDENER" inside a clear blister package on a midnight-blue cardboard backing.
+Create a studio product photograph of an original collectible character toy called "[toy name]" inside a clear blister package on a [backing color] cardboard backing.
 
-The figure is a cheerful astronaut wearing a cream spacesuit with sage-green gardening gloves. Arrange exactly three accessories in separate compartments to its right: a tiny watering can, a potted sprout, and a small shovel. Keep the figure fully visible. Place the title "MOON GARDENER" at the top in large, readable lettering. Use realistic molded plastic, controlled reflections, and soft studio shadows. No additional text or existing brand logos. Portrait composition.
+Use the uploaded person or character as the identity reference if provided; otherwise design a character based on [character description]. Preserve the reference's identifying features, anatomy, proportions, and colors. Use [outfit or surface details], retaining the reference appearance unless a change is explicitly requested.
+
+Arrange exactly three accessories in separate compartments to the figure's right: [accessory 1], [accessory 2], and [accessory 3]. Keep the figure fully visible. Place the exact title "[toy name]" at the top in large, readable lettering. Use realistic molded plastic, controlled reflections, and soft studio shadows. No additional text or unrelated brand logos. Portrait composition.
 ```
 
 ### P01. Personalized Sticker Pack
 
-**by SeeAPI**
-
-#### Preview
+#### 👀 Preview
 
 Example image pending.
 
-#### Workflow
+#### 👇 Workflow
 
 `Character reference → sticker image`
 
-#### Full Prompt
+#### 🔖 Full Prompt
+
+Replace each `[placeholder]` with your own content before generating.
 
 **Step 1 — Character reference → sticker image**
 
 ```text
-Using the uploaded character as the identity reference, create a clean 2-by-2 sticker sheet with four expressions: delighted, sleepy, surprised, and quietly proud.
+Using the uploaded person or character as the identity reference, create a clean 2-by-2 sticker sheet with four expressions: [expression 1], [expression 2], [expression 3], and [expression 4].
 
-Keep the character's face shape, colors, outfit, and distinctive features consistent. Show the complete character in each cell, with a thick white sticker outline and ample separation between stickers. Use a flat pastel-pink background so the silhouettes are easy to isolate. No captions, letters, decorative objects, or overlap between cells.
+Preserve the subject's identity, anatomy, proportions, colors, clothing if present, and distinctive features. Adapt each expression and pose to the subject's anatomy without changing its species or gender presentation. Show the complete subject in each cell, with a thick white sticker outline and ample separation between stickers. Use a flat [background color] background so the silhouettes are easy to isolate. No captions, letters, decorative objects, or overlap between cells.
 ```
 
 ## 💡 10 Creative Cases
@@ -270,7 +268,7 @@ These workflows use still-image generation followed by a separate GIF assembly o
 
 **by SeeAPI**
 
-#### Preview
+#### 👀 Preview
 
 ![Pixel Art Character GIF — GIF result](assets/01-pixel-art-gif/elephant-roll.gif)
 
@@ -280,11 +278,11 @@ These workflows use still-image generation followed by a separate GIF assembly o
 
 The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text / optional character reference → sprite sheet → GIF`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → sprite sheet**
 
@@ -310,7 +308,7 @@ Preserve the pixel art and white background. Use a shared color palette, no dith
 
 **by SeeAPI** · Inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)
 
-#### Preview
+#### 👀 Preview
 
 ![Clay Stop-Motion: Fishing for a Star — GIF result](assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
 
@@ -320,11 +318,11 @@ Preserve the pixel art and white background. Use a shared color palette, no dith
 
 Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → contact sheet → GIF`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → contact sheet**
 
@@ -376,7 +374,7 @@ Inspect the character, rod, line, star, ice hole, and first-to-last transition. 
 
 **by SeeAPI** · Inspired by [TechieSA](https://x.com/TechieBySA/status/2096196085198839832)
 
-#### Preview
+#### 👀 Preview
 
 **Character reference sheet**
 
@@ -396,11 +394,11 @@ Inspect the character, rod, line, star, ice hole, and first-to-last transition. 
 
 Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → two character references → opening image → video`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → two character references**
 
@@ -445,7 +443,7 @@ Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disa
 
 **by SeeAPI** · Inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)
 
-#### Preview
+#### 👀 Preview
 
 **Inez reference**
 
@@ -473,11 +471,11 @@ Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disa
 
 Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → character reference → storyboard → individual shot images → video clips → edited video`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → character reference**
 
@@ -530,7 +528,7 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 **by SeeAPI** · Inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)
 
-#### Preview
+#### 👀 Preview
 
 **Rainy street draft**
 
@@ -546,11 +544,11 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → character reference → scene image → corrected scene image → video`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → character reference**
 
@@ -608,7 +606,7 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 
 **by SeeAPI**
 
-#### Preview
+#### 👀 Preview
 
 [![Supplied orbit video preview](assets/featured/glass-orbit.gif)](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
@@ -620,11 +618,11 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 
 Supplied video: 640 × 640, approximately 6.04 seconds; model not recorded. The GIF is a preview; the original MP4 is unchanged. A complete 360° orbit has not been verified.
 
-#### Workflow
+#### 👇 Workflow
 
 `Text → poster image → 360° orbit video`
 
-#### Full Prompt
+#### 🔖 Full Prompt
 
 **Step 1 — Text → poster image**
 

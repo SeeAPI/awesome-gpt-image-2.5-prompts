@@ -2,22 +2,22 @@
 
 **by SeeAPI** · {If inspired by a source, name its author and link the original post.}
 
-## Preview
+## 👀 Preview
 
 {Embed actual result and required reference images; state when an example or video is pending. Keep essential provenance or limitations to a short note.}
 
-## Workflow
+## 👇 Workflow
 
 `{Text → image → video, or Reference image → edited image. Include intermediate stages and upload roles where needed.}`
 
-## Full Prompt
+## 🔖 Full Prompt
 
 **Step 1 — {Match the first Workflow stage}**
 
 {One short upload instruction, if needed.}
 
 ```text
-{Complete prompt, identical to its canonical .txt file.}
+{Complete prompt, identical to its canonical .txt file. For P entries, prefer reusable person/character wording without fixed species or gender; use [placeholders] for customizable subjects, scenes, and copy. Preserve explicitly supplied prompts verbatim.}
 ```
 
 {Repeat in workflow order for additional prompts. Label alternatives and negative prompts clearly. Publish this content inline in README with an H3 case title and H4 Preview / Workflow / Full Prompt headings; link the directory entry to that title’s page anchor.}

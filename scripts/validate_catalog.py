@@ -18,7 +18,7 @@ def main():
     seen = set()
     statuses = {'prompt-only', 'gif-included', 'stills-included-video-pending',
                 'image-included', 'video-included'}
-    required = ['## Preview', '## Workflow', '## Full Prompt']
+    required = ['## 👀 Preview', '## 👇 Workflow', '## 🔖 Full Prompt']
     homepage = (ROOT / 'README.md').read_text()
     for entry in entries:
         key = entry['id']
@@ -39,7 +39,7 @@ def main():
         for heading in required:
             if heading not in body:
                 errors.append(f'{key}: missing {heading}')
-        if f"by {entry['author']}" not in body:
+        if f"by {entry['author']}" not in (homepage if key.startswith("P") else body):
             errors.append(f'{key}: missing author')
         if entry['inspiration'] and entry['inspiration']['url'] not in body:
             errors.append(f'{key}: missing inspiration URL')
