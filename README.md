@@ -44,7 +44,7 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 Choose a subject or technique. A case can appear in more than one category.
 
-- **Characters & Stickers:** [Pixel GIF · C01](#c01-pixel-art-character-gif), [Two Characters · C03](#c03-two-characters-one-scene), [Character Storyboard · C04](#c04-character-to-storyboard-to-film), [Stickers · P01](#p01-personalized-sticker-pack), [Three Scenes · P06](#p06-one-character-three-scenes).
+- **Characters & Stickers:** [Pixel GIF · C01](#c01-pixel-art-character-gif), [Two Characters · C03](#c03-two-characters-one-scene), [Character Storyboard · C04](#c04-character-to-storyboard-to-film), [Stickers · P01](#p01-personalized-sticker-pack), [Portrait Views · P06](#p06-portrait-reference-to-multi-view-sheet).
 - **GIF & Stop-Motion:** [Pixel GIF · C01](#c01-pixel-art-character-gif), [Clay Stop-Motion · C02](#c02-clay-stop-motion-fishing-for-a-star).
 - **Story & Video:** [Two Characters · C03](#c03-two-characters-one-scene), [Storyboard · C04](#c04-character-to-storyboard-to-film), [Distant Observer · C05](#c05-distant-observer-a-robot-in-the-rain), [360° Orbit · C06](#c06-frosted-glass-poster-to-360-orbit).
 - **Products & Materials:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit), [Toy Packaging · P02](#p02-collectible-figure-packaging), [Campaign Visual · P04](#p04-product-photo-to-campaign-visual), [Glass Remix · P08](#p08-glass-material-remix).
@@ -55,7 +55,7 @@ Choose a subject or technique. A case can appear in more than one category.
 
 - [P08: Glass Material Remix (by SeeAPI)](#p08-glass-material-remix)
 - [P07: Paper-Cut Storybook Scene (by SeeAPI)](#p07-paper-cut-storybook-scene)
-- [P06: One Character, Three Scenes (by SeeAPI)](#p06-one-character-three-scenes)
+- [P06: Portrait Reference to Multi-View Sheet (by SeeAPI)](#p06-portrait-reference-to-multi-view-sheet)
 - [P05: Editorial Poster with Exact Copy (by SeeAPI)](#p05-editorial-poster-with-exact-copy)
 - [P04: Product Photo to Campaign Visual (by SeeAPI)](#p04-product-photo-to-campaign-visual)
 - [P03: Miniature World in an Everyday Object (by SeeAPI)](#p03-miniature-world-in-an-everyday-object)
@@ -67,15 +67,13 @@ Choose a subject or technique. A case can appear in more than one category.
 
 #### 👀 Preview
 
-![SeeAPI logo transformed into translucent glass while preserving its colors](assets/p08-glass-material-remix/seeapi-glass-result.png)
+[<img src="assets/p08-glass-material-remix/seeapi-glass-result.png" width="400" height="400" alt="SeeAPI logo transformed into translucent glass while preserving its colors">](assets/p08-glass-material-remix/seeapi-glass-result.png)
 
 #### 👇 Workflow
 
 `Object reference → glass material image`
 
 #### 🔖 Full Prompt
-
-**Step 1 — Object reference → glass material image**
 
 ```text
 Transform the main object in the uploaded image into translucent glass while preserving its overall silhouette, proportions, orientation, color, and defining structural details.
@@ -87,7 +85,7 @@ Place it on a pale stone surface against a warm gray studio background. Show bel
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p07-paper-cut-storybook/paper-cut-character-result.png" width="400" height="400" alt="Layered cut-paper cat in a cozy room">](assets/p07-paper-cut-storybook/paper-cut-character-result.png)
 
 #### 👇 Workflow
 
@@ -95,55 +93,50 @@ Example image pending.
 
 #### 🔖 Full Prompt
 
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Text → paper-cut image**
-
 ```text
 Create a storybook scene made entirely from layered cut paper, set in [environment]. A character defined by [character description] performs [anatomy-appropriate action] near [focal object]. If a character reference is uploaded, preserve its identity, anatomy, proportions, colors, and distinctive features while translating its appearance into cut paper.
 
 Use visible paper fibers, crisp cut edges, gently bent paper elements, and real shadows between the layers. Limit the palette to [color palette]. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic surface textures. Square composition.
 ```
 
-### P06. One Character, Three Scenes
+*Replace `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]` with your own content before generating.*
+
+### P06. Portrait Reference to Multi-View Sheet
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p06-character-scenes/portrait-views-result.png" width="400" height="225" alt="Portrait reference sheet with three full-body views and two face views">](assets/p06-character-scenes/portrait-views-result.png)
 
 #### 👇 Workflow
 
-`Character reference → scene image → repeat for three scenes`
+`Portrait reference → reference sheet`
 
 #### 🔖 Full Prompt
 
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Character reference → scene image → repeat for three scenes**
-
-Reuse the same reference and change only scene/action for the other two images.
-
 ```text
-Use the uploaded person or character as the identity reference. Preserve the subject's identifying features, anatomy, body proportions, colors, hairstyle or surface details, and clothing if present. Do not change the subject's species or gender presentation.
+Use the uploaded portrait as the identity reference for one person. Create a single landscape character reference sheet with exactly five views of that same person. Preserve facial identity, age, gender presentation, skin tone, hairstyle, body proportions, and visible clothing details. If the portrait does not show the full outfit or body, use [outfit and footwear description] and infer unseen proportions conservatively; keep those choices consistent across every view.
 
-Create one new image of this subject in [scene or location], performing [action appropriate to the subject's anatomy]. Include [environment details], using [framing] and [lighting]. Keep the same visual style as the reference, with believable contact between the subject, props, and supporting surfaces. No additional foreground characters or readable text.
+Divide the canvas into two main regions. The LEFT TWO-THIRDS contains three equally sized, evenly spaced full-body views arranged horizontally: front view on the left, true side profile in the middle facing left, and back view on the right. Show the entire person from the top of the head to the soles of the shoes in each view, with aligned head and ground levels, identical scale, relaxed neutral standing poses, and a small safety margin. Keep arms slightly clear of the torso where anatomically appropriate so the silhouette and clothing remain readable.
+
+The RIGHT ONE-THIRD contains two equally sized face close-ups stacked vertically: front-facing face at the top and a true side-profile face facing left at the bottom. Show the complete head, hair, ears where visible, and upper neck without clipping. Use a consistent close-up scale, neutral expression, and clear facial detail. These are the same person as the three full-body views, not additional characters.
+
+Use a plain [background color] studio background, soft even lighting, and the same visual style as the uploaded reference. Keep camera perspective natural and proportions undistorted. Separate views with clean whitespace rather than drawn borders. Preserve outfit colors, hairstyle, and identity across all five views. No text, labels, grid lines, extra views, extra people, invented accessories, cropped feet, duplicated limbs, or three-quarter poses replacing the required front, side, and back views.
 ```
+
+*Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
+
 
 ### P05. Editorial Poster with Exact Copy
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p05-editorial-poster/summer-poster-result.png" width="225" height="400" alt="Blue summer poster featuring a surfboard">](assets/p05-editorial-poster/summer-poster-result.png)
 
 #### 👇 Workflow
 
 `Text → poster image`
 
 #### 🔖 Full Prompt
-
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Text → poster image**
 
 ```text
 Design a portrait exhibition poster on [paper color and texture]. A large sculptural [central object] in [object color] occupies the middle third of the composition, lit from the upper left with a soft shadow.
@@ -156,21 +149,19 @@ Bottom, small: "[date or supporting line]"
 Use generous margins, a strict left-aligned text grid, and strong separation between the title, sculpture, and supporting copy. Keep every word fully visible. No extra lettering, logos, frames, or watermarks.
 ```
 
+*Replace `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]` with your own content before generating.*
+
 ### P04. Product Photo to Campaign Visual
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p04-product-campaign/product-campaign-result.png" width="400" height="400" alt="Product campaign visual on a pale stone platform">](assets/p04-product-campaign/product-campaign-result.png)
 
 #### 👇 Workflow
 
 `Product reference → campaign image`
 
 #### 🔖 Full Prompt
-
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Product reference → campaign image**
 
 ```text
 Edit the uploaded product photograph. Preserve the product's silhouette, proportions, orientation, packaging, logo placement, and all visible label wording.
@@ -180,11 +171,13 @@ Replace the surrounding scene with a [background color and material] studio back
 Do not add text, extra products, decorative ingredients, or a new label. Do not crop any part of the product. Landscape composition.
 ```
 
+*Replace `[background color and material]`, `[platform material]` with your own content before generating.*
+
 ### P03. Miniature World in an Everyday Object
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p03-miniature-world/miniature-world-result.png" width="400" height="400" alt="Miniature woodland village inside a bark-covered container">](assets/p03-miniature-world/miniature-world-result.png)
 
 #### 👇 Workflow
 
@@ -192,31 +185,25 @@ Example image pending.
 
 #### 🔖 Full Prompt
 
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Text → miniature scene image**
-
 ```text
 Create a miniature [world or scene theme] built inside an open [everyday container], resting on a real [supporting surface]. Include [main structures], [landscape details], and [focal feature], all physically contained within the object. The container's interior forms the backdrop, with materials appropriate to its real construction.
 
 Show the whole container from a three-quarter overhead angle. Make the scale relationship unmistakable through realistic seams, edges, fittings, and a life-size [scale reference object] beside it. Use [lighting mood], realistic miniature materials, and shallow depth of field that keeps the scene readable. No floating structures or text. Landscape composition.
 ```
 
+*Replace `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]` with your own content before generating.*
+
 ### P02. Collectible Figure Packaging
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p02-collectible-figure-packaging/collectible-packaging-result.png" width="400" height="400" alt="Collectible character in pink blister packaging">](assets/p02-collectible-figure-packaging/collectible-packaging-result.png)
 
 #### 👇 Workflow
 
 `Text / optional character reference → packaging image`
 
 #### 🔖 Full Prompt
-
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Text / optional character reference → packaging image**
 
 ```text
 Create a studio product photograph of an original collectible character toy called "[toy name]" inside a clear blister package on a [backing color] cardboard backing.
@@ -226,11 +213,13 @@ Use the uploaded person or character as the identity reference if provided; othe
 Arrange exactly three accessories in separate compartments to the figure's right: [accessory 1], [accessory 2], and [accessory 3]. Keep the figure fully visible. Place the exact title "[toy name]" at the top in large, readable lettering. Use realistic molded plastic, controlled reflections, and soft studio shadows. No additional text or unrelated brand logos. Portrait composition.
 ```
 
+*Replace `[toy name]`, `[backing color]`, `[character description]`, `[outfit or surface details]`, `[accessory 1]`, `[accessory 2]`, `[accessory 3]` with your own content before generating.*
+
 ### P01. Personalized Sticker Pack
 
 #### 👀 Preview
 
-Example image pending.
+[<img src="assets/p01-personalized-sticker-pack/character-stickers-result.png" width="400" height="400" alt="Four expressive cat character stickers on a blue background">](assets/p01-personalized-sticker-pack/character-stickers-result.png)
 
 #### 👇 Workflow
 
@@ -238,15 +227,13 @@ Example image pending.
 
 #### 🔖 Full Prompt
 
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Character reference → sticker image**
-
 ```text
 Using the uploaded person or character as the identity reference, create a clean 2-by-2 sticker sheet with four expressions: [expression 1], [expression 2], [expression 3], and [expression 4].
 
 Preserve the subject's identity, anatomy, proportions, colors, clothing if present, and distinctive features. Adapt each expression and pose to the subject's anatomy without changing its species or gender presentation. Show the complete subject in each cell, with a thick white sticker outline and ample separation between stickers. Use a flat [background color] background so the silhouettes are easy to isolate. No captions, letters, decorative objects, or overlap between cells.
 ```
+
+*Replace `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]` with your own content before generating.*
 
 ## 💡 10 Creative Cases
 
@@ -270,11 +257,11 @@ These workflows use still-image generation followed by a separate GIF assembly o
 
 #### 👀 Preview
 
-![Pixel Art Character GIF — GIF result](assets/01-pixel-art-gif/elephant-roll.gif)
+[<img src="assets/01-pixel-art-gif/elephant-roll.gif" width="291" height="278" alt="Pixel Art Character GIF — GIF result">](assets/01-pixel-art-gif/elephant-roll.gif)
 
 **Elephant sprite sheet**
 
-![elephant sprite sheet](assets/01-pixel-art-gif/elephant-sprite-sheet.png)
+[<img src="assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
 The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
 
@@ -291,6 +278,8 @@ Optional: upload one character reference.
 ```text
 Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
 ```
+
+*Replace `[a gray elephant is rolling on the ground]` with your own content before generating.*
 
 **Step 2 — Sprite sheet → GIF**
 
@@ -310,11 +299,11 @@ Preserve the pixel art and white background. Use a shared color palette, no dith
 
 #### 👀 Preview
 
-![Clay Stop-Motion: Fishing for a Star — GIF result](assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
+[<img src="assets/02-clay-stop-motion/penguin-star-stop-motion.gif" width="313" height="313" alt="Clay Stop-Motion: Fishing for a Star — GIF result">](assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
 
 **Penguin star contact sheet**
 
-![penguin star contact sheet](assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
+[<img src="assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
 Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
 
@@ -378,19 +367,19 @@ Inspect the character, rod, line, star, ice hole, and first-to-last transition. 
 
 **Character reference sheet**
 
-![character reference sheet](assets/03-two-character-video/character-reference-sheet.png)
+[<img src="assets/03-two-character-video/character-reference-sheet.png" width="400" height="267" alt="character reference sheet">](assets/03-two-character-video/character-reference-sheet.png)
 
 **Greenhouse opening**
 
-![greenhouse opening](assets/03-two-character-video/greenhouse-opening.png)
+[<img src="assets/03-two-character-video/greenhouse-opening.png" width="400" height="225" alt="greenhouse opening">](assets/03-two-character-video/greenhouse-opening.png)
 
 **Mira reference**
 
-![mira reference](assets/03-two-character-video/mira-reference.png)
+[<img src="assets/03-two-character-video/mira-reference.png" width="298" height="400" alt="mira reference">](assets/03-two-character-video/mira-reference.png)
 
 **Ren reference**
 
-![ren reference](assets/03-two-character-video/ren-reference.png)
+[<img src="assets/03-two-character-video/ren-reference.png" width="298" height="400" alt="ren reference">](assets/03-two-character-video/ren-reference.png)
 
 Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
 
@@ -447,27 +436,27 @@ Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disa
 
 **Inez reference**
 
-![inez reference](assets/04-storyboard-video/inez-reference.png)
+[<img src="assets/04-storyboard-video/inez-reference.png" width="400" height="267" alt="inez reference">](assets/04-storyboard-video/inez-reference.png)
 
 **Lighthouse storyboard**
 
-![lighthouse storyboard](assets/04-storyboard-video/lighthouse-storyboard.png)
+[<img src="assets/04-storyboard-video/lighthouse-storyboard.png" width="400" height="225" alt="lighthouse storyboard">](assets/04-storyboard-video/lighthouse-storyboard.png)
 
 **Shot 01**
 
-![shot 01](assets/04-storyboard-video/shot-01.png)
+[<img src="assets/04-storyboard-video/shot-01.png" width="400" height="225" alt="shot 01">](assets/04-storyboard-video/shot-01.png)
 
 **Shot 02**
 
-![shot 02](assets/04-storyboard-video/shot-02.png)
+[<img src="assets/04-storyboard-video/shot-02.png" width="400" height="225" alt="shot 02">](assets/04-storyboard-video/shot-02.png)
 
 **Shot 03**
 
-![shot 03](assets/04-storyboard-video/shot-03.png)
+[<img src="assets/04-storyboard-video/shot-03.png" width="400" height="225" alt="shot 03">](assets/04-storyboard-video/shot-03.png)
 
 **Shot 04**
 
-![shot 04](assets/04-storyboard-video/shot-04.png)
+[<img src="assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](assets/04-storyboard-video/shot-04.png)
 
 Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
 
@@ -532,15 +521,15 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 **Rainy street draft**
 
-![rainy street draft](assets/05-distant-observer/rainy-street-draft.png)
+[<img src="assets/05-distant-observer/rainy-street-draft.png" width="225" height="400" alt="rainy street draft">](assets/05-distant-observer/rainy-street-draft.png)
 
 **Rainy street opening**
 
-![rainy street opening](assets/05-distant-observer/rainy-street-opening.png)
+[<img src="assets/05-distant-observer/rainy-street-opening.png" width="225" height="400" alt="rainy street opening">](assets/05-distant-observer/rainy-street-opening.png)
 
 **Robot reference**
 
-![robot reference](assets/05-distant-observer/robot-reference.png)
+[<img src="assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](assets/05-distant-observer/robot-reference.png)
 
 Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
 
@@ -608,13 +597,13 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 
 #### 👀 Preview
 
-[![Supplied orbit video preview](assets/featured/glass-orbit.gif)](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
+[<img src="assets/featured/glass-orbit.gif" width="320" height="320" alt="Supplied orbit video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
 [Original MP4](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
 **Frosted glass mug poster**
 
-![frosted glass mug poster](assets/06-360-orbit/frosted-glass-mug-poster.png)
+[<img src="assets/06-360-orbit/frosted-glass-mug-poster.png" width="400" height="400" alt="frosted glass mug poster">](assets/06-360-orbit/frosted-glass-mug-poster.png)
 
 Supplied video: 640 × 640, approximately 6.04 seconds; model not recorded. The GIF is a preview; the original MP4 is unchanged. A complete 360° orbit has not been verified.
 

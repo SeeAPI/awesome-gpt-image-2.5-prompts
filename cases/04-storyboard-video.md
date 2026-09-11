@@ -6,27 +6,27 @@
 
 **Inez reference**
 
-![inez reference](../assets/04-storyboard-video/inez-reference.png)
+[<img src="../assets/04-storyboard-video/inez-reference.png" width="400" height="267" alt="inez reference">](../assets/04-storyboard-video/inez-reference.png)
 
 **Lighthouse storyboard**
 
-![lighthouse storyboard](../assets/04-storyboard-video/lighthouse-storyboard.png)
+[<img src="../assets/04-storyboard-video/lighthouse-storyboard.png" width="400" height="225" alt="lighthouse storyboard">](../assets/04-storyboard-video/lighthouse-storyboard.png)
 
 **Shot 01**
 
-![shot 01](../assets/04-storyboard-video/shot-01.png)
+[<img src="../assets/04-storyboard-video/shot-01.png" width="400" height="225" alt="shot 01">](../assets/04-storyboard-video/shot-01.png)
 
 **Shot 02**
 
-![shot 02](../assets/04-storyboard-video/shot-02.png)
+[<img src="../assets/04-storyboard-video/shot-02.png" width="400" height="225" alt="shot 02">](../assets/04-storyboard-video/shot-02.png)
 
 **Shot 03**
 
-![shot 03](../assets/04-storyboard-video/shot-03.png)
+[<img src="../assets/04-storyboard-video/shot-03.png" width="400" height="225" alt="shot 03">](../assets/04-storyboard-video/shot-03.png)
 
 **Shot 04**
 
-![shot 04](../assets/04-storyboard-video/shot-04.png)
+[<img src="../assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](../assets/04-storyboard-video/shot-04.png)
 
 Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
 

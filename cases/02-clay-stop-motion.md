@@ -4,11 +4,11 @@
 
 ## 👀 Preview
 
-![Clay Stop-Motion: Fishing for a Star — GIF result](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
+[<img src="../assets/02-clay-stop-motion/penguin-star-stop-motion.gif" width="313" height="313" alt="Clay Stop-Motion: Fishing for a Star — GIF result">](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
 
 **Penguin star contact sheet**
 
-![penguin star contact sheet](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
+[<img src="../assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
 Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
 

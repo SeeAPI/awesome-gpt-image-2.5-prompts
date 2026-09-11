@@ -6,19 +6,19 @@
 
 **Character reference sheet**
 
-![character reference sheet](../assets/03-two-character-video/character-reference-sheet.png)
+[<img src="../assets/03-two-character-video/character-reference-sheet.png" width="400" height="267" alt="character reference sheet">](../assets/03-two-character-video/character-reference-sheet.png)
 
 **Greenhouse opening**
 
-![greenhouse opening](../assets/03-two-character-video/greenhouse-opening.png)
+[<img src="../assets/03-two-character-video/greenhouse-opening.png" width="400" height="225" alt="greenhouse opening">](../assets/03-two-character-video/greenhouse-opening.png)
 
 **Mira reference**
 
-![mira reference](../assets/03-two-character-video/mira-reference.png)
+[<img src="../assets/03-two-character-video/mira-reference.png" width="298" height="400" alt="mira reference">](../assets/03-two-character-video/mira-reference.png)
 
 **Ren reference**
 
-![ren reference](../assets/03-two-character-video/ren-reference.png)
+[<img src="../assets/03-two-character-video/ren-reference.png" width="298" height="400" alt="ren reference">](../assets/03-two-character-video/ren-reference.png)
 
 Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
 

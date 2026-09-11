@@ -2,6 +2,11 @@
 
 ## 2026-09-11
 
+- Added supplied P01–P06 example images, completing previews for all eight Prompt Directory entries.
+- Limited case preview display to 400 × 400 bounds, removed redundant Step 1 labels, and placed italic placeholder guidance below prompts. Original images remain unchanged.
+
+- Added P07’s supplied cut-paper example and replaced P06 with a portrait-based five-view reference sheet workflow.
+
 - Added P08’s supplied glass result and color-preserving prompt; generalized P01–P07 with customizable placeholders and neutral character wording.
 
 - Expanded all fourteen cases in README with Preview, Workflow, and ordered Full Prompt sections; switched directories to page anchors and matched Contents emoji to section headings.

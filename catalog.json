@@ -146,14 +146,14 @@
       "categories": [
         "Characters & Stickers"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p01-personalized-sticker-pack.md",
       "prompts": [
         "prompts/p01-personalized-sticker-pack/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p01-personalized-sticker-pack/character-stickers-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p01-personalized-sticker-pack"
     },
@@ -164,14 +164,14 @@
       "categories": [
         "Products & Materials"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p02-collectible-figure-packaging.md",
       "prompts": [
         "prompts/p02-collectible-figure-packaging/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p02-collectible-figure-packaging/collectible-packaging-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p02-collectible-figure-packaging"
     },
@@ -182,14 +182,14 @@
       "categories": [
         "Illustration & Miniatures"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p03-miniature-world.md",
       "prompts": [
         "prompts/p03-miniature-world/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p03-miniature-world/miniature-world-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p03-miniature-world-in-an-everyday-object"
     },
@@ -200,14 +200,14 @@
       "categories": [
         "Products & Materials"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p04-product-campaign.md",
       "prompts": [
         "prompts/p04-product-campaign/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p04-product-campaign/product-campaign-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p04-product-photo-to-campaign-visual"
     },
@@ -218,34 +218,34 @@
       "categories": [
         "Posters & Typography"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p05-editorial-poster.md",
       "prompts": [
         "prompts/p05-editorial-poster/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p05-editorial-poster/summer-poster-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p05-editorial-poster-with-exact-copy"
     },
     {
       "id": "P06",
-      "title": "One Character, Three Scenes",
+      "title": "Portrait Reference to Multi-View Sheet",
       "slug": "p06-character-scenes",
       "categories": [
         "Characters & Stickers"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p06-character-scenes.md",
       "prompts": [
         "prompts/p06-character-scenes/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p06-character-scenes/portrait-views-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p06-one-character-three-scenes"
+      "readme_anchor": "p06-portrait-reference-to-multi-view-sheet"
     },
     {
       "id": "P07",
@@ -254,14 +254,14 @@
       "categories": [
         "Illustration & Miniatures"
       ],
-      "status": "prompt-only",
+      "status": "image-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/p07-paper-cut-storybook.md",
       "prompts": [
         "prompts/p07-paper-cut-storybook/image-prompt.txt"
       ],
-      "preview": null,
+      "preview": "assets/p07-paper-cut-storybook/paper-cut-character-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p07-paper-cut-storybook-scene"
     },

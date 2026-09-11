@@ -4,7 +4,7 @@
 
 ## 👀 Preview
 
-{Embed actual result and required reference images; state when an example or video is pending. Keep essential provenance or limitations to a short note.}
+{Embed actual result and required reference images using an img tag with proportional width/height bounded by 400 × 400 pixels, without upscaling. Link the image to its original file (or original video for a video preview). Keep original media unchanged; state when an example or video is pending. Keep essential provenance or limitations to a short note.}
 
 ## 👇 Workflow
 
@@ -21,3 +21,5 @@
 ```
 
 {Repeat in workflow order for additional prompts. Label alternatives and negative prompts clearly. Publish this content inline in README with an H3 case title and H4 Preview / Workflow / Full Prompt headings; link the directory entry to that title’s page anchor.}
+
+For prompts containing bracketed placeholders, put an italic note directly below the prompt block listing the actual fields to replace. Omit the note when no placeholders exist.

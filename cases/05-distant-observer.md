@@ -6,15 +6,15 @@
 
 **Rainy street draft**
 
-![rainy street draft](../assets/05-distant-observer/rainy-street-draft.png)
+[<img src="../assets/05-distant-observer/rainy-street-draft.png" width="225" height="400" alt="rainy street draft">](../assets/05-distant-observer/rainy-street-draft.png)
 
 **Rainy street opening**
 
-![rainy street opening](../assets/05-distant-observer/rainy-street-opening.png)
+[<img src="../assets/05-distant-observer/rainy-street-opening.png" width="225" height="400" alt="rainy street opening">](../assets/05-distant-observer/rainy-street-opening.png)
 
 **Robot reference**
 
-![robot reference](../assets/05-distant-observer/robot-reference.png)
+[<img src="../assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](../assets/05-distant-observer/robot-reference.png)
 
 Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
 

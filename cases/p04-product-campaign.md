@@ -2,17 +2,13 @@
 
 ## 👀 Preview
 
-Example image pending.
+[<img src="../assets/p04-product-campaign/product-campaign-result.png" width="400" height="400" alt="Product campaign visual on a pale stone platform">](../assets/p04-product-campaign/product-campaign-result.png)
 
 ## 👇 Workflow
 
 `Product reference → campaign image`
 
 ## 🔖 Full Prompt
-
-Replace each `[placeholder]` with your own content before generating.
-
-**Step 1 — Product reference → campaign image**
 
 ```text
 Edit the uploaded product photograph. Preserve the product's silhouette, proportions, orientation, packaging, logo placement, and all visible label wording.
@@ -21,5 +17,7 @@ Replace the surrounding scene with a [background color and material] studio back
 
 Do not add text, extra products, decorative ingredients, or a new label. Do not crop any part of the product. Landscape composition.
 ```
+
+*Replace `[background color and material]`, `[platform material]` with your own content before generating.*
 
 [← Back to this case in the README](../README.md#p04-product-photo-to-campaign-visual)

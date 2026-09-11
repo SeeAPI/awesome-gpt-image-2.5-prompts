@@ -4,11 +4,11 @@
 
 ## 👀 Preview
 
-![Pixel Art Character GIF — GIF result](../assets/01-pixel-art-gif/elephant-roll.gif)
+[<img src="../assets/01-pixel-art-gif/elephant-roll.gif" width="291" height="278" alt="Pixel Art Character GIF — GIF result">](../assets/01-pixel-art-gif/elephant-roll.gif)
 
 **Elephant sprite sheet**
 
-![elephant sprite sheet](../assets/01-pixel-art-gif/elephant-sprite-sheet.png)
+[<img src="../assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](../assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
 The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
 
@@ -25,6 +25,8 @@ Optional: upload one character reference.
 ```text
 Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
 ```
+
+*Replace `[a gray elephant is rolling on the ground]` with your own content before generating.*
 
 **Step 2 — Sprite sheet → GIF**
 

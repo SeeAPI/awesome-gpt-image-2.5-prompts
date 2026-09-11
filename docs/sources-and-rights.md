@@ -19,7 +19,7 @@ These cases use newly developed subjects and prompts. The linked posts' video fo
 - C02: generated contact sheet; GIF assembled locally. The underlying image model ID was not exposed.
 - C03–C05: original illustrative stills generated with Codex's built-in image generation tool; the model ID was not exposed. Video outputs are pending.
 - C06: supplied frosted-glass poster; image model and settings were not recorded. A maintainer-supplied 640 × 640 video (approximately 6.04 seconds) and its approximately 120° camera-arc prompt are included. The original MP4 is unchanged; the generation model was not supplied.
-- P01–P07: reusable prompts with customizable placeholders; example images are pending. P08: a maintainer-supplied SeeAPI glass result and prompt are included; the generation model and settings were not supplied.
+- P01–P08: maintainer-supplied example images are included alongside reusable prompts. Generation models, original reference inputs, and exact generation settings or placeholder values were not supplied. Examples illustrate the use cases rather than verified exact reproductions of every prompt constraint.
 
 ## Reuse Terms
 
