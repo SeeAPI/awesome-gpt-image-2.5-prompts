@@ -13,7 +13,7 @@ SeeAPI maintains this collection. External prompt submissions and contribution r
 
 ## Publish a Result for an Existing Prompt
 
-Keep its ID and slug. Add media, actual model/settings when known, result checks, and any remaining defects. Update its status and preview in the catalog and case, then update homepage wording. When adding C06's video, verify the full six-second orbit, single handle, typography, and matching final viewpoint before calling it a completed example.
+Keep its ID and slug. Add media, actual model/settings when known, result checks, and any remaining defects. Update its status and preview in the catalog and case, then update homepage wording. When replacing C06's video, review the camera movement, single handle, geometry, and typography against the associated prompt. Its current prompt requests a 120° arc; the earlier 360° alternative remains untested.
 
 ## Review Rhythm
 

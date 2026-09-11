@@ -18,7 +18,7 @@ These cases use newly developed subjects and prompts. The linked posts' video fo
 - C01: supplied elephant sprite sheet; GIF assembled locally with the included script. The image model and settings were not recorded.
 - C02: generated contact sheet; GIF assembled locally. The underlying image model ID was not exposed.
 - C03–C05: original illustrative stills generated with Codex's built-in image generation tool; the model ID was not exposed. Video outputs are pending.
-- C06: supplied frosted-glass poster; image model and settings were not recorded. The six-second video is pending maintainer generation.
+- C06: supplied frosted-glass poster; image model and settings were not recorded. A maintainer-supplied 640 × 640 video (approximately 6.04 seconds) and its approximately 120° camera-arc prompt are included. The original MP4 is unchanged; the generation model was not supplied.
 - P01–P08: complete starter prompts; no generated examples or model-specific validation published yet.
 
 ## Reuse Terms

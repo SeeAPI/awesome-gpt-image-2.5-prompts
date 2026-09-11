@@ -2,6 +2,9 @@
 
 ## 2026-09-11
 
+- Added the supplied C06 MP4 and its approximately 120° camera-orbit prompt; kept the case title and workflow at 360°, with the supplied 120° prompt separately identified.
+- Standardized featured GIF previews to 320 × 320 canvases with identical 280 × 280 display dimensions, preserving all original media.
+
 - Removed How to Use and its navigation link, plus the explanatory paragraph below the model comparison table.
 
 - Restored the original introduction and creative-case table; placed models and usage before categories, and creative cases after the Prompt Directory. Removed the homepage prompting-tips section and featured-table commentary.

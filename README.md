@@ -10,11 +10,12 @@ This collection will grow with regular additions of prompt examples, generated i
 
 ## ✨ Featured Examples
 
-| Pixel Art Character GIF | Clay Stop-Motion | Frosted Glass Poster |
+| Pixel Art GIF | Clay Stop-Motion | Glass 360° Orbit |
 |---|---|---|
-| [![Pixel art elephant GIF](assets/01-pixel-art-gif/elephant-roll.gif)](cases/01-pixel-art-gif.md) | [![Clay penguin stop-motion GIF](assets/02-clay-stop-motion/penguin-star-stop-motion.gif)](cases/02-clay-stop-motion.md) | [![Frosted glass mug poster; orbit video pending](assets/06-360-orbit/frosted-glass-mug-poster.png)](cases/06-360-orbit.md) |
-| Text → sprite sheet → GIF | Text → contact sheet → GIF | Text → poster → 360° video |
-| GIF included · by SeeAPI | GIF included · by SeeAPI, inspired by Charlie Guo | Supplied poster · by SeeAPI · video pending |
+| [<img src="assets/featured/pixel-art.gif" width="280" height="280" alt="Pixel art elephant GIF">](cases/01-pixel-art-gif.md) | [<img src="assets/featured/clay-stop-motion.gif" width="280" height="280" alt="Clay penguin stop-motion GIF">](cases/02-clay-stop-motion.md) | [<img src="assets/featured/glass-orbit.gif" width="280" height="280" alt="Frosted glass mug video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4) |
+| Text → image → GIF | Text → image → GIF | Text → image → video |
+| [Prompt & steps](cases/01-pixel-art-gif.md) | [Prompt & steps](cases/02-clay-stop-motion.md) | [Prompt & steps](cases/06-360-orbit.md) |
+
 
 ## 📖 Contents
 
@@ -64,7 +65,7 @@ Standalone prompts for image generation and editing, with the newest entries lis
 
 ## 💡 10 Creative Cases
 
-Ten workflows are planned; **six are defined so far**. C01–C02 include assembled GIFs. C03–C06 include still assets and video prompts, with video outputs pending. C07–C10 will be introduced as their concepts are developed.
+Ten workflows are planned; **six are defined so far**. C01–C02 include assembled GIFs. C03–C05 include still assets and video prompts, with video outputs pending. C06 includes a supplied video and its image-to-video prompt. C07–C10 will be introduced as their concepts are developed.
 
 | # | Idea | Starting material | Output path |
 |---|---|---|---|

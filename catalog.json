@@ -119,17 +119,19 @@
         "Posters & Typography",
         "Story & Video"
       ],
-      "status": "stills-included-video-pending",
+      "status": "video-included",
       "author": "SeeAPI",
       "inspiration": null,
       "case": "cases/06-360-orbit.md",
       "prompts": [
         "prompts/06-360-orbit/image-prompt.txt",
         "prompts/06-360-orbit/negative-prompt.txt",
-        "prompts/06-360-orbit/video-prompt.txt"
+        "prompts/06-360-orbit/video-prompt.txt",
+        "prompts/06-360-orbit/360-orbit-alternative-prompt.txt"
       ],
-      "preview": "assets/06-360-orbit/frosted-glass-mug-poster.png",
-      "updated": "2026-09-11"
+      "preview": "assets/featured/glass-orbit.gif",
+      "updated": "2026-09-11",
+      "video": "assets/06-360-orbit/frosted-glass-mug-orbit.mp4"
     },
     {
       "id": "P01",
