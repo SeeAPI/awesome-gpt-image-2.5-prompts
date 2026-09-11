@@ -69,4 +69,4 @@ Keep movement restrained and expressive, with coherent hand anatomy and stable p
 Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disappearing seed, extra fingers or arms, passing objects through solid glass, floating lantern, premature illumination, camera orbit, zoom, captions, text, logos, unrelated cuts, flickering identities.
 ```
 
-[← Back to this case in the README](../README.md#c03-two-characters-one-scene)
+[← Browse the active creative workflows](../README.md#-5-creative-cases)

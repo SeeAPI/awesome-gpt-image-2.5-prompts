@@ -281,6 +281,1290 @@
       "preview": "assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp",
       "updated": "2026-09-11",
       "readme_anchor": "p09-paper-folk-story"
+    },
+    {
+      "id": "P10",
+      "title": "1980s Retro Film Portrait",
+      "slug": "p10-1980s-retro-film-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2097954772586557873",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "177537f1652a2359"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p10-1980s-retro-film-portrait.md",
+      "prompts": [
+        "prompts/p10-1980s-retro-film-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p10-1980s-retro-film-portrait/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p10-1980s-retro-film-portrait/source-example-01.webp",
+          "sha256": "56a6cfbfafb61c29d5aad4c756b4710333ae1d1231a03fa33a425edfb36a3e4b",
+          "width": 320,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p10-1980s-retro-film-portrait/source-example-02.webp",
+          "sha256": "b91242b37df225f00469e099e7e66c66d6c9356e726a890c485de2040073d887",
+          "width": 320,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p10-1980s-retro-film-portrait/source-example-03.webp",
+          "sha256": "f1c3b19e97953d1b7a77b5cb9ecfbbc6a4a0a1fd4f2aa65f1fba6de4cd494174",
+          "width": 320,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p10-1980s-retro-film-portrait/source-example-04.webp",
+          "sha256": "dd62da21395375c521d09426fc6e98e47e9be8ee744b5890a29cd2c25bfe085b",
+          "width": 320,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p10-1980s-retro-film-portrait"
+    },
+    {
+      "id": "P11",
+      "title": "Character Dance Pose Grid",
+      "slug": "p11-character-dance-pose-grid",
+      "categories": [
+        "Characters & Stickers"
+      ],
+      "status": "image-included",
+      "author": "@renoiseai",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/renoiseai/status/2097959984265130436",
+        "publisher": "@renoiseai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "8cd1d4af73c0fa1b"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p11-character-dance-pose-grid.md",
+      "prompts": [
+        "prompts/p11-character-dance-pose-grid/image-prompt.txt"
+      ],
+      "preview": "assets/p11-character-dance-pose-grid/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p11-character-dance-pose-grid/source-example-01.webp",
+          "sha256": "56e92c8323b4c69a446e814223c1153c21dcdfa87d28196372c16de8dffb1a74",
+          "width": 400,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p11-character-dance-pose-grid"
+    },
+    {
+      "id": "P12",
+      "title": "Cinematic Subway Motion Portrait",
+      "slug": "p12-cinematic-subway-motion-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "dec8a2337c2513cc"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p12-cinematic-subway-motion-portrait.md",
+      "prompts": [
+        "prompts/p12-cinematic-subway-motion-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p12-cinematic-subway-motion-portrait/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p12-cinematic-subway-motion-portrait/source-example-01.webp",
+          "sha256": "124211510b6df834d23be12be3be9fed0caf21dfdc0d7a9b32b2d11d9d3f4ddb",
+          "width": 224,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p12-cinematic-subway-motion-portrait"
+    },
+    {
+      "id": "P13",
+      "title": "Candid Sailor Portrait",
+      "slug": "p13-candid-sailor-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "d42ef74f9dc17e52"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p13-candid-sailor-portrait.md",
+      "prompts": [
+        "prompts/p13-candid-sailor-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p13-candid-sailor-portrait/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p13-candid-sailor-portrait/source-example-01.webp",
+          "sha256": "efce669c2565189a3cb8525c4131aa5133bc1e7b63c14459f1f2bc60d09f814f",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p13-candid-sailor-portrait"
+    },
+    {
+      "id": "P14",
+      "title": "Automatic Coffee Machine Infographic",
+      "slug": "p14-automatic-coffee-machine-infographic",
+      "categories": [
+        "Diagrams & Interfaces"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "e2e42644fbac78ec"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p14-automatic-coffee-machine-infographic.md",
+      "prompts": [
+        "prompts/p14-automatic-coffee-machine-infographic/image-prompt.txt"
+      ],
+      "preview": "assets/p14-automatic-coffee-machine-infographic/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p14-automatic-coffee-machine-infographic/source-example-01.webp",
+          "sha256": "124cfbf5308404affa3aeb5dcff5354237df748acdb5e56bae178d1f2117eb9d",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p14-automatic-coffee-machine-infographic/source-example-02.webp",
+          "sha256": "3a506a37eb3aaf6a54e53464ae825729b326fc3dd1668af729ecb95b94aa8fa3",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p14-automatic-coffee-machine-infographic"
+    },
+    {
+      "id": "P15",
+      "title": "Streetwear Campaign with Exact Typography",
+      "slug": "p15-streetwear-campaign-with-exact-typography",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "5525bfd9b51f5146"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p15-streetwear-campaign-with-exact-typography.md",
+      "prompts": [
+        "prompts/p15-streetwear-campaign-with-exact-typography/image-prompt.txt"
+      ],
+      "preview": "assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp",
+          "sha256": "8da44ce47367a25718fdcf29b7ebe4e72c33f3c6923fdac69d60c64a2e8de7b5",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p15-streetwear-campaign-with-exact-typography"
+    },
+    {
+      "id": "P16",
+      "title": "Minimal Bakery Logo",
+      "slug": "p16-minimal-bakery-logo",
+      "categories": [
+        "Products & Materials"
+      ],
+      "status": "prompt-only",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "7ae6122e54c9f629"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p16-minimal-bakery-logo.md",
+      "prompts": [
+        "prompts/p16-minimal-bakery-logo/image-prompt.txt"
+      ],
+      "preview": null,
+      "media": [],
+      "updated": "2026-09-11",
+      "readme_anchor": "p16-minimal-bakery-logo"
+    },
+    {
+      "id": "P17",
+      "title": "1969 Outdoor Festival Crowd",
+      "slug": "p17-1969-outdoor-festival-crowd",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "524a39392c0618d2"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p17-1969-outdoor-festival-crowd.md",
+      "prompts": [
+        "prompts/p17-1969-outdoor-festival-crowd/image-prompt.txt"
+      ],
+      "preview": "assets/p17-1969-outdoor-festival-crowd/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p17-1969-outdoor-festival-crowd/source-example-01.webp",
+          "sha256": "6bee2394430078cc7050d5696191ee497ae6dacb84ba960f546810ccecbc3e15",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p17-1969-outdoor-festival-crowd/source-example-02.webp",
+          "sha256": "c5b1b77db9ec32d2ef96455aec4f6b5244b9d124533306ad64e46082f4a075ff",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p17-1969-outdoor-festival-crowd"
+    },
+    {
+      "id": "P18",
+      "title": "Four-Panel Pet Comic",
+      "slug": "p18-four-panel-pet-comic",
+      "categories": [
+        "Illustration & Miniatures"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "d5b5faaa61873403"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p18-four-panel-pet-comic.md",
+      "prompts": [
+        "prompts/p18-four-panel-pet-comic/image-prompt.txt"
+      ],
+      "preview": "assets/p18-four-panel-pet-comic/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p18-four-panel-pet-comic/source-example-01.webp",
+          "sha256": "c6da2e73c1528ea42e96251663114a6bbd35d24cfe39fdd9e50ba1994bdb2940",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p18-four-panel-pet-comic"
+    },
+    {
+      "id": "P19",
+      "title": "Farmers Market Mobile App Mockup",
+      "slug": "p19-farmers-market-mobile-app-mockup",
+      "categories": [
+        "Diagrams & Interfaces"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "73ae443c6222a8dc"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p19-farmers-market-mobile-app-mockup.md",
+      "prompts": [
+        "prompts/p19-farmers-market-mobile-app-mockup/image-prompt.txt"
+      ],
+      "preview": "assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp",
+          "sha256": "03f2f2a7684f5a83ec7019fdd1cb48c3119d63a6e8c9b0184985dbb6bf07ab8c",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p19-farmers-market-mobile-app-mockup/source-example-02.webp",
+          "sha256": "34d7477f4db198c03d5a4d012ba356f1cc4eafc91b14750ba10673894f08e6f3",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p19-farmers-market-mobile-app-mockup"
+    },
+    {
+      "id": "P20",
+      "title": "Cellular Respiration Classroom Diagram",
+      "slug": "p20-cellular-respiration-classroom-diagram",
+      "categories": [
+        "Diagrams & Interfaces"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "eb8dba3349063e32"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p20-cellular-respiration-classroom-diagram.md",
+      "prompts": [
+        "prompts/p20-cellular-respiration-classroom-diagram/image-prompt.txt"
+      ],
+      "preview": "assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp",
+          "sha256": "c348cdecfecbfa04fb0daa47874ee485244513bbcc04247cdba17e28011d959c",
+          "width": 400,
+          "height": 267,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p20-cellular-respiration-classroom-diagram"
+    },
+    {
+      "id": "P21",
+      "title": "Vintage Toy Airplane Packaging",
+      "slug": "p21-vintage-toy-airplane-packaging",
+      "categories": [
+        "Products & Materials"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "99155a4f664295b9"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p21-vintage-toy-airplane-packaging.md",
+      "prompts": [
+        "prompts/p21-vintage-toy-airplane-packaging/image-prompt.txt"
+      ],
+      "preview": "assets/p21-vintage-toy-airplane-packaging/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p21-vintage-toy-airplane-packaging/source-example-01.webp",
+          "sha256": "80fc01fe40c02da9fd6be1242a06a33f5a04d70019a58eb561cc68ecf2887f84",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p21-vintage-toy-airplane-packaging/source-example-02.webp",
+          "sha256": "ea2ac44004c3eeecca7c11b1d902e0478f82f808b9c18595d9fd4782a0a6153b",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p21-vintage-toy-airplane-packaging"
+    },
+    {
+      "id": "P22",
+      "title": "Wine Label with Tasting Notes",
+      "slug": "p22-wine-label-with-tasting-notes",
+      "categories": [
+        "Products & Materials",
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "478bbd521831bc07",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p22-wine-label-with-tasting-notes.md",
+      "prompts": [
+        "prompts/p22-wine-label-with-tasting-notes/image-prompt.txt"
+      ],
+      "preview": "assets/p22-wine-label-with-tasting-notes/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p22-wine-label-with-tasting-notes/source-example-01.webp",
+          "sha256": "421d97c7b3faa0ac2a94df27f08ab0abe269bee51e9996979ebf4bedbfd2d508",
+          "width": 400,
+          "height": 225,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p22-wine-label-with-tasting-notes"
+    },
+    {
+      "id": "P23",
+      "title": "National Park Trail Map",
+      "slug": "p23-national-park-trail-map",
+      "categories": [
+        "Diagrams & Interfaces"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "5e42dc0bbd7d590a",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p23-national-park-trail-map.md",
+      "prompts": [
+        "prompts/p23-national-park-trail-map/image-prompt.txt"
+      ],
+      "preview": "assets/p23-national-park-trail-map/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p23-national-park-trail-map/source-example-01.webp",
+          "sha256": "2707d7f8944f7a3fbb75d63a344d4ce5e6f1280684c58db69e885792f42843f8",
+          "width": 400,
+          "height": 225,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p23-national-park-trail-map"
+    },
+    {
+      "id": "P24",
+      "title": "Boarding Pass Layout",
+      "slug": "p24-boarding-pass-layout",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "1770ade62800d282",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p24-boarding-pass-layout.md",
+      "prompts": [
+        "prompts/p24-boarding-pass-layout/image-prompt.txt"
+      ],
+      "preview": "assets/p24-boarding-pass-layout/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p24-boarding-pass-layout/source-example-01.webp",
+          "sha256": "dbc24121a258d61fb8c34af2a9f0ee1e5f182d3e36aeea679b0d1bc9e48a50da",
+          "width": 400,
+          "height": 225,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p24-boarding-pass-layout"
+    },
+    {
+      "id": "P25",
+      "title": "Three-Panel Dialogue Comic",
+      "slug": "p25-three-panel-dialogue-comic",
+      "categories": [
+        "Illustration & Miniatures"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "595e0461c4ad2c9e",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p25-three-panel-dialogue-comic.md",
+      "prompts": [
+        "prompts/p25-three-panel-dialogue-comic/image-prompt.txt"
+      ],
+      "preview": "assets/p25-three-panel-dialogue-comic/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p25-three-panel-dialogue-comic/source-example-01.webp",
+          "sha256": "e8eae6e91426440007ad74e50c8edf9f5f70a300d100ba7d6540146246769d90",
+          "width": 400,
+          "height": 226,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p25-three-panel-dialogue-comic"
+    },
+    {
+      "id": "P26",
+      "title": "Ornate Award Certificate",
+      "slug": "p26-ornate-award-certificate",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "ac2e1db97f9245cf",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p26-ornate-award-certificate.md",
+      "prompts": [
+        "prompts/p26-ornate-award-certificate/image-prompt.txt"
+      ],
+      "preview": "assets/p26-ornate-award-certificate/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p26-ornate-award-certificate/source-example-01.webp",
+          "sha256": "b1fd1396a56591ddd32978058c9763b47e7b32f92070daffadc06d19958d571f",
+          "width": 400,
+          "height": 226,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p26-ornate-award-certificate"
+    },
+    {
+      "id": "P27",
+      "title": "Cereal Box Nutrition Panel",
+      "slug": "p27-cereal-box-nutrition-panel",
+      "categories": [
+        "Products & Materials",
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Morphic",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "9ea76ab9c8bcb4fc",
+        "original_source": {
+          "url": "https://morphic.com/resources/models/gpt-image-2-5",
+          "publisher": "Morphic"
+        },
+        "credit_role": "collection"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p27-cereal-box-nutrition-panel.md",
+      "prompts": [
+        "prompts/p27-cereal-box-nutrition-panel/image-prompt.txt"
+      ],
+      "preview": "assets/p27-cereal-box-nutrition-panel/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p27-cereal-box-nutrition-panel/source-example-01.webp",
+          "sha256": "9c15815737e50b17de33095adf5dbf00422ab94263fd4e972a60e3e632b81c7a",
+          "width": 400,
+          "height": 226,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p27-cereal-box-nutrition-panel"
+    },
+    {
+      "id": "P28",
+      "title": "Fashion Movements Across Four Decades",
+      "slug": "p28-fashion-movements-across-four-decades",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "@Gdgtify",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Gdgtify/status/2098228786156196084",
+        "publisher": "@Gdgtify",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "3bac9286de5bd90a"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p28-fashion-movements-across-four-decades.md",
+      "prompts": [
+        "prompts/p28-fashion-movements-across-four-decades/image-prompt.txt"
+      ],
+      "preview": "assets/p28-fashion-movements-across-four-decades/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p28-fashion-movements-across-four-decades/source-example-01.jpg",
+          "sha256": "bf0bafa9264ed8fd869a96db1f2704b088776c82640e685ee963e33e4855a610",
+          "width": 400,
+          "height": 225,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p28-fashion-movements-across-four-decades"
+    },
+    {
+      "id": "P29",
+      "title": "Caramel Suit Studio Portrait",
+      "slug": "p29-caramel-suit-studio-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@abs_uiux",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/abs_uiux/status/2098216202870964315",
+        "publisher": "@abs_uiux",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "6e328d5dc40df2dc"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p29-caramel-suit-studio-portrait.md",
+      "prompts": [
+        "prompts/p29-caramel-suit-studio-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p29-caramel-suit-studio-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p29-caramel-suit-studio-portrait/source-example-01.jpg",
+          "sha256": "8957e611bdf4f6bd3c87819238eb744c16fd99fc15ea2191d7268a00217fc819",
+          "width": 267,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p29-caramel-suit-studio-portrait"
+    },
+    {
+      "id": "P30",
+      "title": "Spanish Infographic Translation",
+      "slug": "p30-spanish-infographic-translation",
+      "categories": [
+        "Diagrams & Interfaces",
+        "Image Editing"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "647b0c6e0826da30"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p30-spanish-infographic-translation.md",
+      "prompts": [
+        "prompts/p30-spanish-infographic-translation/image-prompt.txt"
+      ],
+      "preview": "assets/p30-spanish-infographic-translation/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p30-spanish-infographic-translation/source-example-01.jpg",
+          "sha256": "7be049c83efdb8cc903431f414dd0acf628cd8d07d7c8b8c2e1d2f612adb630b",
+          "width": 400,
+          "height": 313,
+          "role": "source-output-comparison"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p30-spanish-infographic-translation"
+    },
+    {
+      "id": "P31",
+      "title": "Virtual Outfit Replacement",
+      "slug": "p31-virtual-outfit-replacement",
+      "categories": [
+        "Image Editing",
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "9097f25e2f9e7d66"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p31-virtual-outfit-replacement.md",
+      "prompts": [
+        "prompts/p31-virtual-outfit-replacement/image-prompt.txt"
+      ],
+      "preview": "assets/p31-virtual-outfit-replacement/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p31-virtual-outfit-replacement/source-example-01.jpg",
+          "sha256": "d5549dac576cb31f06e57995f9780bce4a5f99c8ed659a44109d377219e0d5c9",
+          "width": 400,
+          "height": 313,
+          "role": "source-output-comparison"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p31-virtual-outfit-replacement"
+    },
+    {
+      "id": "P32",
+      "title": "Dog Compositing into a Street Scene",
+      "slug": "p32-dog-compositing-into-a-street-scene",
+      "categories": [
+        "Image Editing"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/",
+        "publisher": "u/Fun_Walk_4965",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "263de965880d6490"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p32-dog-compositing-into-a-street-scene.md",
+      "prompts": [
+        "prompts/p32-dog-compositing-into-a-street-scene/image-prompt.txt"
+      ],
+      "preview": "assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg",
+          "sha256": "4faa4be4e2078aa854010078ceda2440850792782b878145c0e923fcf493b8af",
+          "width": 400,
+          "height": 313,
+          "role": "source-output-comparison"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p32-dog-compositing-into-a-street-scene"
+    },
+    {
+      "id": "P33",
+      "title": "Expressive Meme Sticker Sheet",
+      "slug": "p33-expressive-meme-sticker-sheet",
+      "categories": [
+        "Characters & Stickers"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.aiimage.net/prompts/",
+        "publisher": "SeeAPI",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "f2b466deccc0ee5e"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p33-expressive-meme-sticker-sheet.md",
+      "prompts": [
+        "prompts/p33-expressive-meme-sticker-sheet/image-prompt.txt"
+      ],
+      "preview": "assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg",
+          "sha256": "bdfb1b80cba51fa5f709572fa3bc4e4847053b1216e603721495d6bfe4d27504",
+          "width": 400,
+          "height": 300,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p33-expressive-meme-sticker-sheet"
+    },
+    {
+      "id": "P34",
+      "title": "Woodland Clearing",
+      "slug": "p34-woodland-clearing",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@mark_k",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/mark_k/status/2097411028510179759",
+        "publisher": "Mark Kretschmann (@mark_k)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "6891393d382cbdd7"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p34-woodland-clearing.md",
+      "prompts": [
+        "prompts/p34-woodland-clearing/image-prompt.txt"
+      ],
+      "preview": "assets/p34-woodland-clearing/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p34-woodland-clearing/source-example-01.jpg",
+          "sha256": "4d4b4745499a8a17c316d8550377419da2b6a44f47ab017ee3bc24f135059948",
+          "width": 400,
+          "height": 300,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p34-woodland-clearing"
+    },
+    {
+      "id": "P35",
+      "title": "Monochrome Cybernetic Horror Portrait",
+      "slug": "p35-monochrome-cybernetic-horror-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@meng_dagg695",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/meng_dagg695/status/2097558679956664521",
+        "publisher": "Shahid Wani",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "dea9c7d645d97b4e"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p35-monochrome-cybernetic-horror-portrait.md",
+      "prompts": [
+        "prompts/p35-monochrome-cybernetic-horror-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg",
+          "sha256": "3e8c6f7233e961395b26ed49bf9061923fcd198fc5ad8df58f49c2968d96f590",
+          "width": 400,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p35-monochrome-cybernetic-horror-portrait"
+    },
+    {
+      "id": "P36",
+      "title": "Dreamy High-Angle Qipao Portrait",
+      "slug": "p36-dreamy-high-angle-qipao-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@BubbleBrain",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/BubbleBrain/status/2097513469172129825",
+        "publisher": "BubbleBrain",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "4c27f27a68fc7823"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p36-dreamy-high-angle-qipao-portrait.md",
+      "prompts": [
+        "prompts/p36-dreamy-high-angle-qipao-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg",
+          "sha256": "bbdbd7c412241df145b1c4559ca7d422fa5df99ee9202e05cdcad86dc54c1db2",
+          "width": 225,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p36-dreamy-high-angle-qipao-portrait"
+    },
+    {
+      "id": "P37",
+      "title": "Realistic iPhone Cafe Portrait",
+      "slug": "p37-realistic-iphone-cafe-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@blueemi99",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/blueemi99/status/2097602273085931662",
+        "publisher": "bluedev",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "6c26289cbeba9221"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p37-realistic-iphone-cafe-portrait.md",
+      "prompts": [
+        "prompts/p37-realistic-iphone-cafe-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg",
+          "sha256": "696061b768c0079e264f8d44aba31d1270bd0e3738309fb23a75691acd6b719f",
+          "width": 300,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p37-realistic-iphone-cafe-portrait"
+    },
+    {
+      "id": "P38",
+      "title": "Candid Mont-Saint-Michel Travel Portrait",
+      "slug": "p38-candid-mont-saint-michel-travel-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@saniaspeaks_",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+        "publisher": "𝗦𝗮𝗻𝗶𝗮",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "7cbade6d89574572"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p38-candid-mont-saint-michel-travel-portrait.md",
+      "prompts": [
+        "prompts/p38-candid-mont-saint-michel-travel-portrait/image-prompt.txt"
+      ],
+      "preview": "assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg",
+          "sha256": "c22cfd69121093634bcdfdb436d0c88c7c1cca5168180813baff69862572af86",
+          "width": 300,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p38-candid-mont-saint-michel-travel-portrait"
+    },
+    {
+      "id": "P39",
+      "title": "Neon Motorsport Poster",
+      "slug": "p39-neon-motorsport-poster",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Comfy-Org",
+      "inspiration": null,
+      "source": {
+        "url": "https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json",
+        "publisher": "Comfy-Org",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "e7d7e0cdab0e0f7c"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Flare",
+        "verification": "source-workflow-config"
+      },
+      "case": "cases/p39-neon-motorsport-poster.md",
+      "prompts": [
+        "prompts/p39-neon-motorsport-poster/image-prompt.txt"
+      ],
+      "preview": "assets/p39-neon-motorsport-poster/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p39-neon-motorsport-poster/source-example-01.webp",
+          "sha256": "46bca31bd912bdd3f2fc2504e6ba882e372040b46ad762b281c4298cdfe28932",
+          "width": 400,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p39-neon-motorsport-poster"
+    },
+    {
+      "id": "P40",
+      "title": "Desert Motorcycle Editorial Poster",
+      "slug": "p40-desert-motorcycle-editorial-poster",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "image-included",
+      "author": "Comfy-Org",
+      "inspiration": null,
+      "source": {
+        "url": "https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json",
+        "publisher": "Comfy-Org",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "f981000ad13b62dd"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Sunburst",
+        "verification": "source-workflow-config"
+      },
+      "case": "cases/p40-desert-motorcycle-editorial-poster.md",
+      "prompts": [
+        "prompts/p40-desert-motorcycle-editorial-poster/image-prompt.txt"
+      ],
+      "preview": "assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp",
+          "sha256": "74942f6347c9b59d3b220bbba225becc920d4f44b1c6be9786d9e08ebb3a3725",
+          "width": 400,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-11",
+      "readme_anchor": "p40-desert-motorcycle-editorial-poster"
     }
   ]
 }

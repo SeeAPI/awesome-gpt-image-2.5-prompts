@@ -2,9 +2,11 @@
 
 SeeAPI maintains this collection. External prompt submissions and contribution requests are not open at this stage.
 
+For Feishu imports and collection handoff, follow [the update SOP](feishu-update-sop.zh-CN.md).
+
 ## Add a Case
 
-1. Assign the next stable ID and a descriptive English slug. C07–C10 remain reserved for the creative series; use P09 onward for new standalone prompts.
+1. Assign the next stable ID and a descriptive English slug. C07–C10 remain reserved for the creative series; C03 is archived. Allocate standalone IDs above the highest published or local catalog ID (currently P40, so the next is P41). After pulling, resolve ID collisions by preserving published IDs and reassigning only unpublished drafts, including their paths and links.
 2. Copy [the case template](../templates/case.md). Write the complete prompt, reference requirements, source credits, and known limitations.
 3. Store copyable prompts under `prompts/{slug}/`. Store actual media under `assets/{slug}/` and label its role and provenance. Do not mark a prompt tested simply because its text is complete.
 4. Add the case to `catalog.json`. Allowed statuses are `prompt-only`, `gif-included`, `stills-included-video-pending`, `image-included`, and `video-included`. A status describes available output, not perfection or a model benchmark.

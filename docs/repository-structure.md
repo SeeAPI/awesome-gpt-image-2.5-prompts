@@ -42,9 +42,9 @@ scripts/
 
 ## IDs and Names
 
-Creative workflows have stable IDs **C01–C10**; only C01–C06 currently exist. Their slugs retain the existing `01-pixel-art-gif` format to preserve image and script paths. Standalone prompts use **P01, P02, …** with slugs such as `p01-personalized-sticker-pack`.
+Creative workflows have stable IDs **C01–C10**; C01, C02, C04, C05, and C06 are active; C03 remains archived with its original files. Their slugs retain the existing `01-pixel-art-gif` format to preserve image and script paths. Standalone prompts use **P01, P02, …** with slugs such as `p01-personalized-sticker-pack`.
 
-Use the exact same slug for the case filename, prompt folder, and media folder. Use lowercase English words separated by hyphens. Never renumber an existing case when adding a new one. Keep the title in English; category membership can change without changing the ID.
+Use the exact same slug for the case filename, prompt folder, and media folder. Use lowercase English words separated by hyphens. Never renumber a published case when adding a new one. If an unpublished draft collides with an upstream ID, allocate it a new ID and update its slug, files, catalog, cross-references, and internal handoff mapping together. The current standalone range is P01–P40. Keep the title in English; category membership can change without changing the ID.
 
 Name files by their role: `character-prompt.txt`, `scene-prompt.txt`, `video-prompt.txt`, `negative-prompt.txt`, `mira-reference.png`, `greenhouse-opening.png`, `shot-01.png`, or `result.gif`. For corrections, retain a named draft and its correction prompt. Add a media directory when media exists; P01–P08 do not need empty asset folders.
 
@@ -60,3 +60,11 @@ Name files by their role: `character-prompt.txt`, `scene-prompt.txt`, `video-pro
 Record model provenance in the case, not in a guessed filename. Keep original supplied media unchanged; add a separately named optimized preview if needed later. Link large future videos from a stable hosted result or use Git LFS with a documented setup rather than repeatedly committing large binary versions.
 
 [← Back to the collection](../README.md)
+
+## Collected source metadata
+
+Collected entries add `source` with a public `url`, `publisher`, stable `item_key`, `author_status` (`credited-by-source` or `unconfirmed`), and `relationship` (`collected` or `adapted`). `content_type` distinguishes `full-prompt` from `short-template`. `model_provenance` distinguishes source claims from source workflow configuration; neither means a repository test. `media` records each local path, role, proportional display dimensions, and SHA-256. Keep private review snapshots and record IDs outside the repository.
+
+Follow [the Feishu update SOP](feishu-update-sop.zh-CN.md) for collection handoff and publication.
+
+When a maintainer selects a collection page for display, set `source.credit_role` to `collection`, use its publisher and URL for the “Collected from” credit, and retain `source.original_source` and original `author` for provenance. This does not transfer original authorship.

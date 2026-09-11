@@ -2,6 +2,15 @@
 
 ## 2026-09-11
 
+- Resolved the upstream P09 collision by retaining Paper Folk Story as P09 and assigning the unpublished import batch P10–P40. Preserved the five-workflow layout, revised C02 prompts, archived C03, and updated creative-case anchors.
+
+- Changed P22–P27 display credits and source links to the SeeAPI prompt collection, preserving original-source provenance in the catalog.
+
+- Added P10–P40 from the reviewed source queue snapshot: 31 collected prompts, including six short templates, with 37 distinct source images after removing three exact duplicates. Kept source claims, missing inputs, and known limitations explicit; these are not repository generation tests.
+- Added clickable source/author credits and per-source metadata, plus checks for source links, item keys, media hashes, and prompt copies within each README section.
+
+- Added the Feishu-to-repository update SOP and collected-prompt attribution rules; removed the template’s default assumption of SeeAPI authorship.
+
 - Reduced Creative Cases to five by archiving C03, moved credits into titles, simplified previews, and revised C02 to clay image → sheet → GIF with text/reference input options.
 
 - Added P09 Paper Folk Story with the original shared prompt and one source image, credited to @azed_ai.

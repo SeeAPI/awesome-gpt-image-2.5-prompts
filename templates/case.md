@@ -1,6 +1,10 @@
 # {ID}. {English Title}
 
-**by SeeAPI** · {If inspired by a source, name its author and link the original post.}
+**by {Prompt author}** · [Source]({Public original post or collection-page URL})
+
+{Link a credited author as a clickable @handle. Use SeeAPI only for prompts developed by SeeAPI. For collected prompts, preserve source attribution; if authorship is unresolved, write **Author unconfirmed** and identify the collection-page publisher separately. For adaptations, name the adapter and add “inspired by” with the original author/post. Omit the Source link for originals without an external source; never invent a URL.}
+
+{State source-image provenance, model evidence, and any unresolved original-source or reuse question briefly.}
 
 ## 👀 Preview
 

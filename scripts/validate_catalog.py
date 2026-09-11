@@ -5,11 +5,29 @@ Run from any directory with Python 3. No third-party packages are required.
 
 import json
 import re
+import hashlib
+from html import unescape
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def markdown_anchors(body):
+    """GitHub-style anchors for this collection's Markdown headings."""
+    body = re.sub(r'```.*?```', '', body, flags=re.S)
+    anchors = set(re.findall(r'<a\s+(?:id|name)="([^"]+)"', body))
+    for heading in re.findall(r'^#{1,6}\s+(.+)$', body, re.M):
+        heading = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', heading)
+        heading = unescape(re.sub(r'<[^>]*>', '', heading)).strip().lower()
+        slug = re.sub(r'[^\w\-\s]', '', heading).replace(' ', '-')
+        candidate, suffix = slug, 0
+        while candidate in anchors:
+            suffix += 1
+            candidate = f'{slug}-{suffix}'
+        anchors.add(candidate)
+    return anchors
 
 
 def main():
@@ -20,6 +38,9 @@ def main():
                 'image-included', 'video-included'}
     required = ['## 👀 Preview', '## 👇 Workflow', '## 🔖 Full Prompt']
     homepage = (ROOT / 'README.md').read_text()
+    homepage_anchors = markdown_anchors(homepage)
+    source_keys = set()
+    prompt_hashes = {}
     for entry in entries:
         key = entry['id']
         if key in seen:
@@ -32,15 +53,64 @@ def main():
             errors.append(f'{key}: missing case {path}')
             continue
         body = path.read_text()
+        section_match = re.search(
+            rf'^### {re.escape(key)}\. .*?(?=^### |^## |\Z)', homepage, re.M | re.S)
+        section = section_match.group() if section_match else ''
+        if not section:
+            errors.append(f'{key}: missing inline homepage section')
         if not body.startswith(f"# {key}. {entry['title']}"):
             errors.append(f'{key}: title disagrees with catalog')
         if '](' + '#' + entry['readme_anchor'] + ')' not in homepage:
             errors.append(f'{key}: missing from homepage')
+        if entry['readme_anchor'] not in homepage_anchors:
+            errors.append(f'{key}: README anchor does not match a heading')
+        if path.stem != entry['slug']:
+            errors.append(f'{key}: case slug mismatch')
         for heading in required:
             if heading not in body:
                 errors.append(f'{key}: missing {heading}')
-        if f"by {entry['author']}" not in (homepage if key.startswith("P") else body):
+        plain_credit = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1',
+                              homepage if key.startswith('P') else body)
+        source = entry.get('source')
+        collection_credit = source and source.get('credit_role') == 'collection'
+        if not collection_credit and entry['author'] != 'Author unconfirmed' and f"by {entry['author']}" not in plain_credit:
             errors.append(f'{key}: missing author')
+        if source:
+            if collection_credit:
+                original = source.get('original_source', {})
+                if not original.get('publisher') or urlsplit(original.get('url', '')).scheme != 'https':
+                    errors.append(f'{key}: collection credit requires original-source provenance')
+            url = source.get('url', '')
+            parsed = urlsplit(url)
+            if parsed.scheme != 'https' or not parsed.netloc or 'feishu.cn' in parsed.netloc:
+                errors.append(f'{key}: source must be a public HTTPS source')
+            if source.get('author_status') not in {'unconfirmed', 'credited-by-source'}:
+                errors.append(f'{key}: unknown author status')
+            if source.get('relationship') not in {'collected', 'adapted'}:
+                errors.append(f'{key}: unknown source relationship')
+            source_key = (url, source.get('item_key'))
+            if not source_key[1] or source_key in source_keys:
+                errors.append(f'{key}: missing or duplicate source item key')
+            source_keys.add(source_key)
+            for location, text in [('case', body), ('README section', section)]:
+                if f'[Source]({url})' not in text:
+                    errors.append(f'{key}: missing source link in {location}')
+                text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
+                credit = 'Author unconfirmed' if entry['author'] == 'Author unconfirmed' else f"by {entry['author']}"
+                if collection_credit:
+                    credit = f"Collected from {source['publisher']}"
+                if credit not in text:
+                    errors.append(f'{key}: missing attribution in {location}')
+            if entry.get('content_type') == 'short-template' and 'Short source template' not in section:
+                errors.append(f'{key}: short template is not labelled')
+        for media in entry.get('media', []):
+            asset = ROOT / media['path']
+            if not asset.is_file():
+                errors.append(f'{key}: missing media {media["path"]}')
+            elif hashlib.sha256(asset.read_bytes()).hexdigest() != media['sha256']:
+                errors.append(f'{key}: media hash mismatch {media["path"]}')
+            if media['path'] not in body or media['path'] not in section:
+                errors.append(f'{key}: media missing from case or README section')
         if entry['inspiration'] and entry['inspiration']['url'] not in body:
             errors.append(f'{key}: missing inspiration URL')
         if entry['preview'] and not (ROOT / entry['preview']).is_file():
@@ -54,8 +124,14 @@ def main():
             if prompt.parent.name != entry['slug']:
                 errors.append(f'{key}: prompt slug mismatch')
             prompt_texts.add(prompt.read_text().strip())
-            if prompt.read_text().strip() not in body or prompt.read_text().strip() not in homepage:
+            if prompt.read_text().strip() not in body or prompt.read_text().strip() not in section:
                 errors.append(f'{key}: full prompt missing from case or README: {name}')
+            if source:
+                normalized = ' '.join(prompt.read_text().split()).casefold()
+                digest = hashlib.sha256(normalized.encode()).hexdigest()
+                if digest in prompt_hashes:
+                    errors.append(f'{key}: duplicate collected prompt of {prompt_hashes[digest]}')
+                prompt_hashes[digest] = key
         for block in re.findall(r'```text\n(.*?)\n```', body, re.S):
             if block.strip() not in prompt_texts:
                 errors.append(f'{key}: inline prompt differs from prompt files')
@@ -66,13 +142,19 @@ def main():
         body = path.read_text()
         # Ignore code examples; examine Markdown destinations, including images.
         prose = re.sub(r'```.*?```', '', body, flags=re.S)
+        prose = re.sub(r'`[^`\n]+`', '', prose)
         for destination in re.findall(r'\]\(([^\s)]+)\)', prose):
             parsed = urlsplit(destination)
-            if parsed.scheme or parsed.netloc or not parsed.path:
+            if parsed.scheme or parsed.netloc:
                 continue
-            target = path.parent / unquote(parsed.path)
+            target = path.parent / unquote(parsed.path) if parsed.path else path
             if not target.exists():
                 errors.append(f'{path.relative_to(ROOT)}: broken link {destination}')
+            elif parsed.fragment and target.suffix == '.md':
+                if unquote(parsed.fragment) not in markdown_anchors(target.read_text()):
+                    errors.append(f'{path.relative_to(ROOT)}: broken anchor {destination}')
+        if re.search(r'^(?:<{7}|={7}|>{7})(?: |$)', body, re.M):
+            errors.append(f'{path.relative_to(ROOT)}: unresolved merge marker')
         if '&#x20;' in body or '</div>' in body:
             errors.append(f'{path.relative_to(ROOT)}: stray formatting markup')
         if len(re.findall(r'^```', body, re.M)) % 2:

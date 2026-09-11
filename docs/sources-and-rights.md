@@ -15,6 +15,12 @@ These cases use newly developed subjects and prompts. The linked posts' video fo
 
 P09 reproduces the shared prompt and one image from [Amira Zairi (@azed_ai)’s Paper Folk Story post](https://x.com/azed_ai/status/2096191635348705726). It is credited to the source author, not SeeAPI. The image is the first image in the original post; no image was regenerated. The post does not specify a reuse license, so this repository grants no additional rights to that third-party material.
 
+## Collected Prompts
+
+Collected prompts retain their source text and language. Credit the named Prompt author with a clickable author or original-post link immediately below the case title, and add a separate **Source** link. Directory entries show the same attribution beside the internal case link. A collection-page publisher is not automatically the original author. Use **Author unconfirmed** and **Original source unconfirmed** when evidence is missing; never substitute SeeAPI for an unknown author.
+
+Keep Prompt authorship, adaptation credit, collection-page publisher, image provenance, and model evidence distinct. A source model label is a source claim unless independently verified. Internal review links and reviewer information are not public attribution. Follow the [Feishu update SOP](feishu-update-sop.zh-CN.md) for importing, review, and publication.
+
 ## Example Provenance
 
 - C01: supplied elephant sprite sheet; GIF assembled locally with the included script. The image model and settings were not recorded.
@@ -22,6 +28,12 @@ P09 reproduces the shared prompt and one image from [Amira Zairi (@azed_ai)’s 
 - C03–C05: original illustrative stills generated with Codex's built-in image generation tool; the model ID was not exposed. Video outputs are pending.
 - C06: supplied frosted-glass poster; image model and settings were not recorded. A maintainer-supplied 640 × 640 video (approximately 6.04 seconds) and its approximately 120° camera-arc prompt are included. The original MP4 is unchanged; the generation model was not supplied.
 - P01–P08: maintainer-supplied example images are included alongside reusable prompts. Generation models, original reference inputs, and exact generation settings or placeholder values were not supplied. Examples illustrate the use cases rather than verified exact reproductions of every prompt constraint.
+
+## Collected Example Provenance
+
+P10–P40 preserve 31 collected prompts, including six short source templates (P22–P27). Thirty entries include source examples; P16 has no clear preview. The 37 included source images retain their downloaded bytes; three exact duplicate attachments were omitted. These are collected examples, not generation runs by this repository. Each case links its source and records missing inputs or known limitations.
+
+X posts credit their named publishers; Comfy-Org workflows credit their publishing organization. P22–P27 display SeeAPI as their collection source at the maintainer’s request; the catalog retains the original source publisher and URL separately, without transferring original authorship. P12, P13–P21, and P30–P33 have unconfirmed original authorship, with the known collection page or repost publisher still linked. The Reddit reposts claim OpenAI origin, which has not been independently verified here. P39–P40 expose model IDs in their source workflow configuration, which does not prove the exact generation history of their previews. All other new model labels are source claims. Public reuse terms for third-party prompts and images have not been established by this import.
 
 ## Reuse Terms
 
