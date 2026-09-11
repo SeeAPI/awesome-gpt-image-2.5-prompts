@@ -13,6 +13,8 @@ Current inspiration credits:
 
 These cases use newly developed subjects and prompts. The linked posts' video footage is not stored in this repository. A source's model names describe that source, not the model used to make this repository's examples.
 
+P09 reproduces the shared prompt and one image from [Amira Zairi (@azed_ai)’s Paper Folk Story post](https://x.com/azed_ai/status/2096191635348705726). It is credited to the source author, not SeeAPI. The image is the first image in the original post; no image was regenerated. The post does not specify a reuse license, so this repository grants no additional rights to that third-party material.
+
 ## Example Provenance
 
 - C01: supplied elephant sprite sheet; GIF assembled locally with the included script. The image model and settings were not recorded.
@@ -34,3 +36,5 @@ For other entries, consult any case-specific terms and obtain permission from th
 SeeAPI maintains source links, credits, and reuse notes. When a source or permission changes, update the affected case and this document together. External case submissions are not open at present.
 
 [← Back to the collection](../README.md)
+
+C03 is archived and excluded from the five active creative workflows. C02’s existing penguin GIF and sheet were made with the earlier direct-sheet prompt; the revised clay-image → sheet workflow has not been regenerated. Its original generation prompt is retained in the prompt folder for provenance.

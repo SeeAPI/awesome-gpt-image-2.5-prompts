@@ -1,6 +1,4 @@
-# C04. Character to Storyboard to Film
-
-**by SeeAPI** · Inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)
+# C04. Character to Storyboard to Film (by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103))
 
 ## 👀 Preview
 
@@ -28,7 +26,7 @@
 
 [<img src="../assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](../assets/04-storyboard-video/shot-04.png)
 
-Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
+
 
 ## 👇 Workflow
 
@@ -83,4 +81,4 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
 
-[← Back to this case in the README](../README.md#c04-character-to-storyboard-to-film)
+[← Back to this case in the README](../README.md#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine)

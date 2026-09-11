@@ -1,6 +1,4 @@
-# C05. Distant Observer: A Robot in the Rain
-
-**by SeeAPI** · Inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)
+# C05. Distant Observer: A Robot in the Rain (by SeeAPI; inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744))
 
 ## 👀 Preview
 
@@ -16,7 +14,7 @@
 
 [<img src="../assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](../assets/05-distant-observer/robot-reference.png)
 
-Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
+
 
 ## 👇 Workflow
 
@@ -76,4 +74,4 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
 
-[← Back to this case in the README](../README.md#c05-distant-observer-a-robot-in-the-rain)
+[← Back to this case in the README](../README.md#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt)

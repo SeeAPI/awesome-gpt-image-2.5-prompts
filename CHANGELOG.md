@@ -2,6 +2,10 @@
 
 ## 2026-09-11
 
+- Reduced Creative Cases to five by archiving C03, moved credits into titles, simplified previews, and revised C02 to clay image → sheet → GIF with text/reference input options.
+
+- Added P09 Paper Folk Story with the original shared prompt and one source image, credited to @azed_ai.
+
 - Added supplied P01–P06 example images, completing previews for all eight Prompt Directory entries.
 - Limited case preview display to 400 × 400 bounds, removed redundant Step 1 labels, and placed italic placeholder guidance below prompts. Original images remain unchanged.
 

@@ -6,15 +6,15 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**6 creative workflows · 8 standalone prompts · Updated September 11, 2026**
+**5 creative workflows · 9 standalone prompts · Updated September 11, 2026**
 
 ## ✨ Featured Examples
 
 | Pixel Art GIF | Clay Stop-Motion | Glass 360° Orbit |
 |---|---|---|
-| [<img src="assets/featured/pixel-art.gif" width="280" height="280" alt="Pixel art elephant GIF">](#c01-pixel-art-character-gif) | [<img src="assets/featured/clay-stop-motion.gif" width="280" height="280" alt="Clay penguin stop-motion GIF">](#c02-clay-stop-motion-fishing-for-a-star) | [<img src="assets/featured/glass-orbit.gif" width="280" height="280" alt="Frosted glass mug video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4) |
+| [<img src="assets/featured/pixel-art.gif" width="280" height="280" alt="Pixel art elephant GIF">](#c01-pixel-art-character-gif-by-seeapi) | [<img src="assets/featured/clay-stop-motion.gif" width="280" height="280" alt="Clay penguin stop-motion GIF">](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo) | [<img src="assets/featured/glass-orbit.gif" width="280" height="280" alt="Frosted glass mug video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4) |
 | Text → image → GIF | Text → image → GIF | Text → image → video |
-| [Prompt & steps](#c01-pixel-art-character-gif) | [Prompt & steps](#c02-clay-stop-motion-fishing-for-a-star) | [Prompt & steps](#c06-frosted-glass-poster-to-360-orbit) |
+| [Prompt & steps](#c01-pixel-art-character-gif-by-seeapi) | [Prompt & steps](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo) | [Prompt & steps](#c06-frosted-glass-poster-to-360-orbit-by-seeapi) |
 
 
 ## 📖 Contents
@@ -23,7 +23,7 @@ This collection will grow with regular additions of prompt examples, generated i
 - [🧭 Choose Your Model](#-choose-your-model)
 - [🧩 Browse by Category](#-browse-by-category)
 - [🗂 Prompt Directory](#-prompt-directory)
-- [💡 10 Creative Cases](#-10-creative-cases)
+- [💡 5 Creative Cases](#-5-creative-cases)
 - [📝 Sources, Reuse & Maintenance](#-sources-reuse--maintenance)
 - [🙏 Acknowledgments](#-acknowledgments)
 
@@ -44,15 +44,16 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 Choose a subject or technique. A case can appear in more than one category.
 
-- **Characters & Stickers:** [Pixel GIF · C01](#c01-pixel-art-character-gif), [Two Characters · C03](#c03-two-characters-one-scene), [Character Storyboard · C04](#c04-character-to-storyboard-to-film), [Stickers · P01](#p01-personalized-sticker-pack), [Portrait Views · P06](#p06-portrait-reference-to-multi-view-sheet).
-- **GIF & Stop-Motion:** [Pixel GIF · C01](#c01-pixel-art-character-gif), [Clay Stop-Motion · C02](#c02-clay-stop-motion-fishing-for-a-star).
-- **Story & Video:** [Two Characters · C03](#c03-two-characters-one-scene), [Storyboard · C04](#c04-character-to-storyboard-to-film), [Distant Observer · C05](#c05-distant-observer-a-robot-in-the-rain), [360° Orbit · C06](#c06-frosted-glass-poster-to-360-orbit).
-- **Products & Materials:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit), [Toy Packaging · P02](#p02-collectible-figure-packaging), [Campaign Visual · P04](#p04-product-photo-to-campaign-visual), [Glass Remix · P08](#p08-glass-material-remix).
-- **Posters & Typography:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit), [Exact Copy Poster · P05](#p05-editorial-poster-with-exact-copy).
-- **Illustration & Miniatures:** [Suitcase Village · P03](#p03-miniature-world-in-an-everyday-object), [Paper-Cut Forest · P07](#p07-paper-cut-storybook-scene).
+- **Characters & Stickers:** [Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Character Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Stickers · P01](#p01-personalized-sticker-pack), [Portrait Views · P06](#p06-portrait-reference-to-multi-view-sheet).
+- **GIF & Stop-Motion:** [Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Clay Stop-Motion · C02](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo).
+- **Story & Video:** [Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Distant Observer · C05](#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt), [360° Orbit · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi).
+- **Products & Materials:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Toy Packaging · P02](#p02-collectible-figure-packaging), [Campaign Visual · P04](#p04-product-photo-to-campaign-visual), [Glass Remix · P08](#p08-glass-material-remix).
+- **Posters & Typography:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Exact Copy Poster · P05](#p05-editorial-poster-with-exact-copy).
+- **Illustration & Miniatures:** [Paper Folk Story · P09](#p09-paper-folk-story), [Suitcase Village · P03](#p03-miniature-world-in-an-everyday-object), [Paper-Cut Forest · P07](#p07-paper-cut-storybook-scene).
 
 ## 🗂 Prompt Directory
 
+- [P09: Paper Folk Story (by @azed_ai)](#p09-paper-folk-story) · [Source](https://x.com/azed_ai/status/2096191635348705726)
 - [P08: Glass Material Remix (by SeeAPI)](#p08-glass-material-remix)
 - [P07: Paper-Cut Storybook Scene (by SeeAPI)](#p07-paper-cut-storybook-scene)
 - [P06: Portrait Reference to Multi-View Sheet (by SeeAPI)](#p06-portrait-reference-to-multi-view-sheet)
@@ -62,6 +63,24 @@ Choose a subject or technique. A case can appear in more than one category.
 - [P02: Collectible Figure Packaging (by SeeAPI)](#p02-collectible-figure-packaging)
 - [P01: Personalized Sticker Pack (by SeeAPI)](#p01-personalized-sticker-pack)
 
+
+### P09. Paper Folk Story
+
+#### 👀 Preview
+
+[<img src="assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp" width="400" height="267" alt="Paper-cut character carrying a lantern, from azed_ai’s original post">](https://x.com/azed_ai/status/2096191635348705726)
+
+#### 👇 Workflow
+
+`Text → paper-cut character image`
+
+#### 🔖 Full Prompt
+
+```text
+Paper cut-out animation of a [subject] [simple action], full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, minimal paper-collage scenery, charming folk story aesthetic, gentle stop-motion feel, poetic children’s book atmosphere, clean white background
+```
+
+*Replace `[subject]` with your person or character and `[simple action]` with the action you want to depict.*
 
 ### P08. Glass Material Remix
 
@@ -235,25 +254,18 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 
 *Replace `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]` with your own content before generating.*
 
-## 💡 10 Creative Cases
-
-Ten workflows are planned; **six are defined so far**. C01–C02 include assembled GIFs. C03–C05 include still assets and video prompts, with video outputs pending. C06 includes a supplied video and its image-to-video prompt. C07–C10 will be introduced as their concepts are developed.
+## 💡 5 Creative Cases
 
 | # | Idea | Starting material | Output path |
 |---|---|---|---|
-| 01 | [Pixel Art Character GIF](#c01-pixel-art-character-gif) | Text; optional character reference | Text → sprite sheet → GIF |
-| 02 | [Clay Stop-Motion: Fishing for a Star](#c02-clay-stop-motion-fishing-for-a-star) | Text | Text → frame sheet → GIF |
-| 03 | [Two Characters, One Scene](#c03-two-characters-one-scene) | Two character references | Images → shared keyframe → video |
-| 04 | [Character to Storyboard to Film](#c04-character-to-storyboard-to-film) | Character concept and story | Character → storyboard → video |
-| 05 | [Distant Observer: A Robot in the Rain](#c05-distant-observer-a-robot-in-the-rain) | Character concept and scene | Character → distant scene → video |
-| 06 | [Frosted Glass Poster to 360° Orbit](#c06-frosted-glass-poster-to-360-orbit) | Text or supplied poster | Text → poster → 360° orbit video |
-
-These workflows use still-image generation followed by a separate GIF assembly or video-generation step. GPT Image 2.5 itself outputs still images.
+| 01 | [Pixel Art Character GIF](#c01-pixel-art-character-gif-by-seeapi) | Text; optional character reference | Text → sprite sheet → GIF |
+| 02 | [Clay Stop-Motion: Fishing for a Star](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo) | Text or reference image | Clay-style image → frame sheet → GIF |
+| 04 | [Character to Storyboard to Film](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine) | Character concept and story | Character → storyboard → video |
+| 05 | [Distant Observer: A Robot in the Rain](#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt) | Character concept and scene | Character → distant scene → video |
+| 06 | [Frosted Glass Poster to 360° Orbit](#c06-frosted-glass-poster-to-360-orbit-by-seeapi) | Text or supplied poster | Text → poster → 360° orbit video |
 
 
-### C01. Pixel Art Character GIF
-
-**by SeeAPI**
+### C01. Pixel Art Character GIF (by SeeAPI)
 
 #### 👀 Preview
 
@@ -263,7 +275,7 @@ These workflows use still-image generation followed by a separate GIF assembly o
 
 [<img src="assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
-The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
+
 
 #### 👇 Workflow
 
@@ -293,9 +305,7 @@ Remove excess blank space around each character without clipping any ears, limbs
 Preserve the pixel art and white background. Use a shared color palette, no dithering, no smoothing, and no invented in-between poses. Adjust frame timing so the action reads clearly and the final pose returns naturally to the first. Export an infinitely looping GIF. Check every frame for clipping and alignment, inspect the loop transition, and provide the GIF plus a reproducible Python script. Report the frame order, dimensions, and timing used, and flag any pose gaps that would require a revised sprite sheet.
 ```
 
-### C02. Clay Stop-Motion: Fishing for a Star
-
-**by SeeAPI** · Inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)
+### C02. Clay Stop-Motion: Fishing for a Star (by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071))
 
 #### 👀 Preview
 
@@ -305,49 +315,43 @@ Preserve the pixel art and white background. Use a shared color palette, no dith
 
 [<img src="assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
-Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
+
 
 #### 👇 Workflow
 
-`Text → contact sheet → GIF`
+`Reference image / Text → clay-style image → contact sheet → GIF`
 
 #### 🔖 Full Prompt
 
-**Step 1 — Text → contact sheet**
-
-No reference required.
+**Step 1A — Reference image → clay-style image**
 
 ```text
-Create one square image that is an EXACT 4 by 4 contact sheet of sixteen equally sized square animation frames, edge-to-edge with NO gutters, borders, labels or text. This is a handcrafted clay stop-motion sequence, not pixel art.
-
-Original story: a tiny charcoal-gray clay penguin in a mustard-yellow knitted scarf sits on the LEFT of a small round fishing hole in a pale-blue miniature ice floor. The penguin has a cream belly, two short flippers, two orange feet, black bead eyes, and a short orange beak. A short wooden fishing rod held in its right flipper extends diagonally toward the hole at RIGHT. One thin fishing line connects the rod tip to one small coral-pink five-point clay star. The star starts below the hole, rises out as the penguin pulls, briefly hangs above the hole, then is lowered back into it. No fish, other characters, buckets or extra props.
-
-All sixteen frames show the EXACT SAME locked eye-level three-quarter camera, fixed wide composition, penguin at x35%, hole at x67%, same ice floor and seamless dusty-lavender backdrop, same object sizes, same soft warm light from upper left. Keep all objects entirely inside each cell with generous 10% safety margin. Real clay fingerprints, slightly lumpy handmade forms, tactile wool scarf, soft contact shadows. Every frame looks like a photographed tabletop miniature. Use modest, clearly distinct stepped pose changes and consistent anatomy.
-
-Frame progression in strict reading order, left to right then top to bottom:
-1: penguin holds rod low, looks at hole, star hidden.
-2: penguin leans forward slightly, rod low.
-3: penguin starts raising rod, fishing line taut.
-4: penguin leans back, rod rises, pink star tip appears inside hole.
-5: star half emerges, line visibly attached.
-6: full star just clears hole, penguin looks at it.
-7: star rises a little more, rod higher.
-8: star hangs one star-height above hole, penguin eyes wide.
-9: hold the same star height, penguin tilts its head in delight.
-10: penguin begins lowering rod, star slightly lower.
-11: star descends toward hole.
-12: star touches hole rim level.
-13: star half submerged.
-14: only star tip visible, penguin straightens.
-15: star hidden, rod returning to initial low angle.
-16: same composition and near-identical pose as frame 1, ready to loop.
-
-Prioritize exact 4x4 equal cell geometry, unchanging set placement, stable identity, line continuity and readable incremental motion. No motion blur, camera movement, frame numbers, captions, changing background, extra limbs, floating penguin or disconnected fishing line.
+Edit the uploaded image into a handcrafted clay stop-motion still. Preserve the character’s identity, species, anatomy, proportions, clothing, colors, signature props, pose, and scene composition. Translate surfaces into tactile modeling clay with subtle fingerprints, slightly imperfect sculpted edges, soft miniature-set shadows, and fabric texture where appropriate. Keep a single coherent scene with all important elements visible. No added characters, props, text, contact sheet, or animation frames. This is one clay-style starting image.
 ```
 
-**Step 2 — Contact sheet → GIF**
+**Step 1B — Text → clay-style image (without a reference)**
 
-Upload the complete 4 × 4 sheet to Codex; preserve the full set.
+```text
+Create one handcrafted clay stop-motion starting image of [character description] in [setting], preparing to [simple action]. Use anatomy-appropriate poses and only [required props]. Place the character and props so the intended action can occur clearly in one locked-camera shot. Tactile modeling clay, subtle fingerprints, slightly imperfect sculpted shapes, soft miniature-set lighting, and a clean readable composition. Keep all subjects and props fully inside the frame with space for movement. No text, montage, contact sheet, or multiple frames.
+```
+
+*Replace `[character description]`, `[setting]`, `[simple action]`, and `[required props]` with your own content. Choose either Step 1A or Step 1B.*
+
+**Step 2 — Clay-style image → contact sheet**
+
+```text
+Use the uploaded clay-style image as the strict identity, material, set, lighting, and camera reference. Create one square 4-by-4 contact sheet containing exactly sixteen equally sized square frames in reading order, with no gutters, grid lines, labels, or text.
+
+Animate this action: [simple action]. Frames 1–4 establish the starting pose and anticipation; frames 5–8 begin the main movement; frames 9–12 show the action’s peak; frames 13–16 recover toward the starting pose for a loop. Use distinct, incremental, anatomy-appropriate poses with changing silhouettes. Keep the reference character’s species, proportions, outfit, colors, and props unchanged. Do not invent additional limbs, characters, or props.
+
+Preserve one locked camera, consistent subject scale, fixed set placement, background, lighting, and scene geometry across every cell. Keep moving elements inside each cell with a small safety margin. Maintain physical contact and continuous grips on props. Retain tactile clay, handmade surface imperfections, and a gently stepped stop-motion feel. Frame 16 should flow naturally into frame 1. No camera movement, motion blur, duplicated idle frames, or changing scenery.
+```
+
+*Replace `[simple action]` with the movement you want to animate.*
+
+**Step 3 — Contact sheet → GIF**
+
+Upload the complete sheet to Codex; preserve one shared scene crop.
 
 ```text
 Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
@@ -359,78 +363,7 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
 
-### C03. Two Characters, One Scene
-
-**by SeeAPI** · Inspired by [TechieSA](https://x.com/TechieBySA/status/2096196085198839832)
-
-#### 👀 Preview
-
-**Character reference sheet**
-
-[<img src="assets/03-two-character-video/character-reference-sheet.png" width="400" height="267" alt="character reference sheet">](assets/03-two-character-video/character-reference-sheet.png)
-
-**Greenhouse opening**
-
-[<img src="assets/03-two-character-video/greenhouse-opening.png" width="400" height="225" alt="greenhouse opening">](assets/03-two-character-video/greenhouse-opening.png)
-
-**Mira reference**
-
-[<img src="assets/03-two-character-video/mira-reference.png" width="298" height="400" alt="mira reference">](assets/03-two-character-video/mira-reference.png)
-
-**Ren reference**
-
-[<img src="assets/03-two-character-video/ren-reference.png" width="298" height="400" alt="ren reference">](assets/03-two-character-video/ren-reference.png)
-
-Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
-
-#### 👇 Workflow
-
-`Text → two character references → opening image → video`
-
-#### 🔖 Full Prompt
-
-**Step 1 — Text → two character references**
-
-Split the generated two-panel sheet into Mira and Ren portraits.
-
-```text
-Generate a widescreen 3:2 character reference diptych, exactly two equal vertical panels with a plain warm gray background, no border or text. The panels will be cropped into two separate identity reference images. Each panel contains exactly one full-body adult original human character, head to boots fully visible with ample margins, both at identical scale.
-Left panel: MIRA, an adult woman aged about 30, medium-brown skin, short curly black bob, oval face, dark eyes, rust-orange utility jacket over cream shirt, navy work trousers, brown ankle boots. No jewelry, no hat, no props. Arms relaxed and hands fully visible.
-Right panel: REN, an adult man aged about 32, light olive skin, straight dark hair tied in a small low bun, clean-shaven angular face, dark eyes, moss-green utility jacket over charcoal shirt, charcoal trousers, brown work boots. No jewelry, no hat, no props. Arms relaxed and hands fully visible.
-Style: cinematic hand-painted animation concept art, softly textured gouache backgrounds, clear expressive faces, grounded anatomy, restrained warm colors, diffuse studio lighting. Neutral front three-quarter standing poses. These are original greenhouse caretakers, no celebrities, no existing film characters. Do not blend identities, duplicate people, invent props, add text or crop limbs.
-```
-
-**Step 2 — Two references → opening image**
-
-Upload Mira first, Ren second.
-
-```text
-Use the two uploaded character portraits as separate strict identity references: image 1 is MIRA, the woman with a rust-orange jacket; image 2 is REN, the man with a moss-green jacket. Preserve each person's face, hairstyle, skin tone, age, body proportions, and entire outfit. Do not merge or swap their identities.
-
-Create a single cinematic 16:9 opening frame in the same hand-painted animation style. A glass greenhouse at blue hour, quiet foliage at the edges, dark blue glass roof overhead, a waist-high stone workbench across the foreground. Mira stands on the LEFT, Ren on the RIGHT, facing slightly inward toward one small unlit brass lantern fixed at the center of the bench. Mira's open right palm holds exactly one small amber glass seed just left of the lantern. Ren's left hand rests beside the lantern base, leaving the empty circular socket clearly visible. All hands remain distinct. Both faces are clearly readable in a medium-wide shot.
-
-The lantern is attached to the bench and cannot move; its socket is empty. The amber seed has not been inserted yet. Soft cool dusk light and a faint warm reflection from the seed. Calm anticipation, grounded anatomy, subtle gouache texture, no text, no labels, no montage, no extra people, no duplicate seed, no costume changes, no oversized hands. This is the first frame before the action, not the finished glowing result.
-```
-
-**Step 3 — Opening image → video**
-
-Use the greenhouse image as the first frame; portraits are optional identity references.
-
-```text
-Create an 8-second cinematic hand-painted animation, 16:9, one continuous medium-wide shot. C03-K01 is the exact first frame and controls composition, greenhouse, bench, lantern, and initial hand positions. C03-R01 locks Mira's identity and rust-orange outfit; C03-R02 locks Ren's identity and moss-green outfit. If only one image is supported, use C03-K01 alone. Mira stays on screen-left, Ren on screen-right. Preserve both faces, hairstyles, skin tones, ages, clothes, and body proportions throughout.
-
-0–2 seconds: Mira looks from the single amber seed on her seed-bearing palm to the empty lantern socket. Ren watches the socket, his visible hand resting beside the fixed base. Gentle breathing; leaves shift slightly in the greenhouse draft. The camera stays locked.
-2–5 seconds: Mira uses the thumb and index finger of her free hand to lift the seed from her open seed-bearing palm, then seats it in the lantern's circular socket. Show one continuous transfer and contact. Ren does not take the seed or move the lantern. Once the seed is seated, its amber light gradually illuminates the lantern and nearby faces.
-5–8 seconds: Mira withdraws the hand that placed the seed; the seed remains visibly seated. Both look at the illuminated lantern and exchange a small satisfied smile. Warm reflections settle on the glass roof. End on the two distinct characters and the lit lantern. Do not reset the action or loop.
-
-Keep movement restrained and expressive, with coherent hand anatomy and stable painted textures. No scene cuts. Optional audio: faint greenhouse wind, a soft glass click at contact, and a gentle electrical hum after illumination; no dialogue or lip-sync. If audio is unavailable, export silently.
-
-Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disappearing seed, extra fingers or arms, passing objects through solid glass, floating lantern, premature illumination, camera orbit, zoom, captions, text, logos, unrelated cuts, flickering identities.
-```
-
-### C04. Character to Storyboard to Film
-
-**by SeeAPI** · Inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)
+### C04. Character to Storyboard to Film (by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103))
 
 #### 👀 Preview
 
@@ -458,7 +391,7 @@ Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disa
 
 [<img src="assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](assets/04-storyboard-video/shot-04.png)
 
-Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
+
 
 #### 👇 Workflow
 
@@ -513,9 +446,7 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
 
-### C05. Distant Observer: A Robot in the Rain
-
-**by SeeAPI** · Inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)
+### C05. Distant Observer: A Robot in the Rain (by SeeAPI; inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744))
 
 #### 👀 Preview
 
@@ -531,7 +462,7 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 [<img src="assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](assets/05-distant-observer/robot-reference.png)
 
-Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
+
 
 #### 👇 Workflow
 
@@ -591,21 +522,19 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
 
-### C06. Frosted Glass Poster to 360° Orbit
-
-**by SeeAPI**
+### C06. Frosted Glass Poster to 360° Orbit (by SeeAPI)
 
 #### 👀 Preview
 
 [<img src="assets/featured/glass-orbit.gif" width="320" height="320" alt="Supplied orbit video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
-[Original MP4](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
+[**Original MP4**](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
 **Frosted glass mug poster**
 
 [<img src="assets/06-360-orbit/frosted-glass-mug-poster.png" width="400" height="400" alt="frosted glass mug poster">](assets/06-360-orbit/frosted-glass-mug-poster.png)
 
-Supplied video: 640 × 640, approximately 6.04 seconds; model not recorded. The GIF is a preview; the original MP4 is unchanged. A complete 360° orbit has not been verified.
+
 
 #### 👇 Workflow
 
@@ -688,10 +617,4 @@ Maintainer resources: [Repository Structure](docs/repository-structure.md) · [C
 
 ## 🙏 Acknowledgments
 
-Thanks to the creators whose posts inspired C02–C05; each case links to its original source. The organization of this collection also draws inspiration from:
-
-- [YouMind — Awesome Seedance 2.0 Prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): featured examples and browse-first presentation.
-- [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images): a numbered, credited directory and complete reproduction prompts.
-- [Awesome Nano Banana Pro](https://github.com/ZeroLu/awesome-nanobanana-pro): practical categories for discovering use cases.
-
-Curated by SeeAPI. Independent of OpenAI; product names belong to their respective owners.
+- [YouMind — Awesome Seedance 2.0 Prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): inspiration for the collection’s organization and featured examples.

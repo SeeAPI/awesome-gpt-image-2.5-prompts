@@ -1,6 +1,4 @@
-# C02. Clay Stop-Motion: Fishing for a Star
-
-**by SeeAPI** · Inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)
+# C02. Clay Stop-Motion: Fishing for a Star (by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071))
 
 ## 👀 Preview
 
@@ -10,49 +8,43 @@
 
 [<img src="../assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
-Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
+
 
 ## 👇 Workflow
 
-`Text → contact sheet → GIF`
+`Reference image / Text → clay-style image → contact sheet → GIF`
 
 ## 🔖 Full Prompt
 
-**Step 1 — Text → contact sheet**
-
-No reference required.
+**Step 1A — Reference image → clay-style image**
 
 ```text
-Create one square image that is an EXACT 4 by 4 contact sheet of sixteen equally sized square animation frames, edge-to-edge with NO gutters, borders, labels or text. This is a handcrafted clay stop-motion sequence, not pixel art.
-
-Original story: a tiny charcoal-gray clay penguin in a mustard-yellow knitted scarf sits on the LEFT of a small round fishing hole in a pale-blue miniature ice floor. The penguin has a cream belly, two short flippers, two orange feet, black bead eyes, and a short orange beak. A short wooden fishing rod held in its right flipper extends diagonally toward the hole at RIGHT. One thin fishing line connects the rod tip to one small coral-pink five-point clay star. The star starts below the hole, rises out as the penguin pulls, briefly hangs above the hole, then is lowered back into it. No fish, other characters, buckets or extra props.
-
-All sixteen frames show the EXACT SAME locked eye-level three-quarter camera, fixed wide composition, penguin at x35%, hole at x67%, same ice floor and seamless dusty-lavender backdrop, same object sizes, same soft warm light from upper left. Keep all objects entirely inside each cell with generous 10% safety margin. Real clay fingerprints, slightly lumpy handmade forms, tactile wool scarf, soft contact shadows. Every frame looks like a photographed tabletop miniature. Use modest, clearly distinct stepped pose changes and consistent anatomy.
-
-Frame progression in strict reading order, left to right then top to bottom:
-1: penguin holds rod low, looks at hole, star hidden.
-2: penguin leans forward slightly, rod low.
-3: penguin starts raising rod, fishing line taut.
-4: penguin leans back, rod rises, pink star tip appears inside hole.
-5: star half emerges, line visibly attached.
-6: full star just clears hole, penguin looks at it.
-7: star rises a little more, rod higher.
-8: star hangs one star-height above hole, penguin eyes wide.
-9: hold the same star height, penguin tilts its head in delight.
-10: penguin begins lowering rod, star slightly lower.
-11: star descends toward hole.
-12: star touches hole rim level.
-13: star half submerged.
-14: only star tip visible, penguin straightens.
-15: star hidden, rod returning to initial low angle.
-16: same composition and near-identical pose as frame 1, ready to loop.
-
-Prioritize exact 4x4 equal cell geometry, unchanging set placement, stable identity, line continuity and readable incremental motion. No motion blur, camera movement, frame numbers, captions, changing background, extra limbs, floating penguin or disconnected fishing line.
+Edit the uploaded image into a handcrafted clay stop-motion still. Preserve the character’s identity, species, anatomy, proportions, clothing, colors, signature props, pose, and scene composition. Translate surfaces into tactile modeling clay with subtle fingerprints, slightly imperfect sculpted edges, soft miniature-set shadows, and fabric texture where appropriate. Keep a single coherent scene with all important elements visible. No added characters, props, text, contact sheet, or animation frames. This is one clay-style starting image.
 ```
 
-**Step 2 — Contact sheet → GIF**
+**Step 1B — Text → clay-style image (without a reference)**
 
-Upload the complete 4 × 4 sheet to Codex; preserve the full set.
+```text
+Create one handcrafted clay stop-motion starting image of [character description] in [setting], preparing to [simple action]. Use anatomy-appropriate poses and only [required props]. Place the character and props so the intended action can occur clearly in one locked-camera shot. Tactile modeling clay, subtle fingerprints, slightly imperfect sculpted shapes, soft miniature-set lighting, and a clean readable composition. Keep all subjects and props fully inside the frame with space for movement. No text, montage, contact sheet, or multiple frames.
+```
+
+*Replace `[character description]`, `[setting]`, `[simple action]`, and `[required props]` with your own content. Choose either Step 1A or Step 1B.*
+
+**Step 2 — Clay-style image → contact sheet**
+
+```text
+Use the uploaded clay-style image as the strict identity, material, set, lighting, and camera reference. Create one square 4-by-4 contact sheet containing exactly sixteen equally sized square frames in reading order, with no gutters, grid lines, labels, or text.
+
+Animate this action: [simple action]. Frames 1–4 establish the starting pose and anticipation; frames 5–8 begin the main movement; frames 9–12 show the action’s peak; frames 13–16 recover toward the starting pose for a loop. Use distinct, incremental, anatomy-appropriate poses with changing silhouettes. Keep the reference character’s species, proportions, outfit, colors, and props unchanged. Do not invent additional limbs, characters, or props.
+
+Preserve one locked camera, consistent subject scale, fixed set placement, background, lighting, and scene geometry across every cell. Keep moving elements inside each cell with a small safety margin. Maintain physical contact and continuous grips on props. Retain tactile clay, handmade surface imperfections, and a gently stepped stop-motion feel. Frame 16 should flow naturally into frame 1. No camera movement, motion blur, duplicated idle frames, or changing scenery.
+```
+
+*Replace `[simple action]` with the movement you want to animate.*
+
+**Step 3 — Contact sheet → GIF**
+
+Upload the complete sheet to Codex; preserve one shared scene crop.
 
 ```text
 Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
@@ -64,4 +56,4 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
 
-[← Back to this case in the README](../README.md#c02-clay-stop-motion-fishing-for-a-star)
+[← Back to this case in the README](../README.md#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo)

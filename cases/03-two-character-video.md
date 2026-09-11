@@ -1,3 +1,5 @@
+> Archived: this workflow is no longer part of the five featured creative cases.
+
 # C03. Two Characters, One Scene
 
 **by SeeAPI** · Inspired by [TechieSA](https://x.com/TechieBySA/status/2096196085198839832)

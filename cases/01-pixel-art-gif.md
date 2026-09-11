@@ -1,6 +1,4 @@
-# C01. Pixel Art Character GIF
-
-**by SeeAPI**
+# C01. Pixel Art Character GIF (by SeeAPI)
 
 ## 👀 Preview
 
@@ -10,7 +8,7 @@
 
 [<img src="../assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](../assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
-The supplied sheet’s generation model was not recorded. The GIF has some pose jumps; no missing poses were synthesized.
+
 
 ## 👇 Workflow
 
@@ -40,4 +38,4 @@ Remove excess blank space around each character without clipping any ears, limbs
 Preserve the pixel art and white background. Use a shared color palette, no dithering, no smoothing, and no invented in-between poses. Adjust frame timing so the action reads clearly and the final pose returns naturally to the first. Export an infinitely looping GIF. Check every frame for clipping and alignment, inspect the loop transition, and provide the GIF plus a reproducible Python script. Report the frame order, dimensions, and timing used, and flag any pose gaps that would require a revised sprite sheet.
 ```
 
-[← Back to this case in the README](../README.md#c01-pixel-art-character-gif)
+[← Back to this case in the README](../README.md#c01-pixel-art-character-gif-by-seeapi)

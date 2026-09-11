@@ -32,7 +32,7 @@ def main():
             errors.append(f'{key}: missing case {path}')
             continue
         body = path.read_text()
-        if not body.startswith(f"# {key}. {entry['title']}\n"):
+        if not body.startswith(f"# {key}. {entry['title']}"):
             errors.append(f'{key}: title disagrees with catalog')
         if '](' + '#' + entry['readme_anchor'] + ')' not in homepage:
             errors.append(f'{key}: missing from homepage')

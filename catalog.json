@@ -19,7 +19,7 @@
       ],
       "preview": "assets/01-pixel-art-gif/elephant-roll.gif",
       "updated": "2026-09-11",
-      "readme_anchor": "c01-pixel-art-character-gif"
+      "readme_anchor": "c01-pixel-art-character-gif-by-seeapi"
     },
     {
       "id": "C02",
@@ -36,36 +36,14 @@
       },
       "case": "cases/02-clay-stop-motion.md",
       "prompts": [
-        "prompts/02-clay-stop-motion/generation-prompt.txt",
+        "prompts/02-clay-stop-motion/clay-edit-prompt.txt",
+        "prompts/02-clay-stop-motion/clay-image-prompt.txt",
+        "prompts/02-clay-stop-motion/clay-sheet-prompt.txt",
         "prompts/02-clay-stop-motion/gif-assembly-prompt.txt"
       ],
       "preview": "assets/02-clay-stop-motion/penguin-star-stop-motion.gif",
       "updated": "2026-09-11",
-      "readme_anchor": "c02-clay-stop-motion-fishing-for-a-star"
-    },
-    {
-      "id": "C03",
-      "title": "Two Characters, One Scene",
-      "slug": "03-two-character-video",
-      "categories": [
-        "Characters & Stickers",
-        "Story & Video"
-      ],
-      "status": "stills-included-video-pending",
-      "author": "SeeAPI",
-      "inspiration": {
-        "author": "TechieSA",
-        "url": "https://x.com/TechieBySA/status/2096196085198839832"
-      },
-      "case": "cases/03-two-character-video.md",
-      "prompts": [
-        "prompts/03-two-character-video/character-prompt.txt",
-        "prompts/03-two-character-video/keyframe-prompt.txt",
-        "prompts/03-two-character-video/video-prompt.txt"
-      ],
-      "preview": "assets/03-two-character-video/greenhouse-opening.png",
-      "updated": "2026-09-11",
-      "readme_anchor": "c03-two-characters-one-scene"
+      "readme_anchor": "c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo"
     },
     {
       "id": "C04",
@@ -89,7 +67,7 @@
       ],
       "preview": "assets/04-storyboard-video/lighthouse-storyboard.png",
       "updated": "2026-09-11",
-      "readme_anchor": "c04-character-to-storyboard-to-film"
+      "readme_anchor": "c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine"
     },
     {
       "id": "C05",
@@ -113,7 +91,7 @@
       ],
       "preview": "assets/05-distant-observer/rainy-street-opening.png",
       "updated": "2026-09-11",
-      "readme_anchor": "c05-distant-observer-a-robot-in-the-rain"
+      "readme_anchor": "c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt"
     },
     {
       "id": "C06",
@@ -137,7 +115,7 @@
       "preview": "assets/featured/glass-orbit.gif",
       "updated": "2026-09-11",
       "video": "assets/06-360-orbit/frosted-glass-mug-orbit.mp4",
-      "readme_anchor": "c06-frosted-glass-poster-to-360-orbit"
+      "readme_anchor": "c06-frosted-glass-poster-to-360-orbit-by-seeapi"
     },
     {
       "id": "P01",
@@ -282,6 +260,27 @@
       "preview": "assets/p08-glass-material-remix/seeapi-glass-result.png",
       "updated": "2026-09-11",
       "readme_anchor": "p08-glass-material-remix"
+    },
+    {
+      "id": "P09",
+      "title": "Paper Folk Story",
+      "slug": "p09-paper-folk-story",
+      "categories": [
+        "Illustration & Miniatures"
+      ],
+      "status": "image-included",
+      "author": "@azed_ai",
+      "inspiration": {
+        "author": "Amira Zairi (@azed_ai)",
+        "url": "https://x.com/azed_ai/status/2096191635348705726"
+      },
+      "case": "cases/p09-paper-folk-story.md",
+      "prompts": [
+        "prompts/p09-paper-folk-story/image-prompt.txt"
+      ],
+      "preview": "assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp",
+      "updated": "2026-09-11",
+      "readme_anchor": "p09-paper-folk-story"
     }
   ]
 }
