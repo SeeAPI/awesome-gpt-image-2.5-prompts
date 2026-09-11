@@ -1,32 +1,36 @@
-# Case 03：双人温室点灯
+# C03. Two Characters, One Scene
 
-## 项目理解与关键假设
+**Prompt: by SeeAPI.** **Inspiration:** [TechieSA](https://x.com/TechieBySA/status/2096196085198839832). Original concept and prompt adaptation by SeeAPI; no source footage is included.
 
-两张独立人物图 → 双人场景首帧 → 8 秒单镜头视频，横屏 16:9。采用手绘动画质感，重点是双人身份一致和一个可读的道具动作。本包已生成静态参考素材；视频尚未生成。
+**Category:** Characters & Stickers · Story & Video
 
-## 故事梗概
+**Updated:** 2026-09-11
 
-Mira 将一颗琥珀种子放入温室灯具，Ren 在旁守候；灯亮起后，两人相视微笑。
+## Preview
 
-## 完整故事
+**Opening frame — video pending.**
 
-傍晚温室里，两位照料者面对一盏尚未点亮的铜灯。Mira 靠近灯具的手掌托着唯一的种子，她看向空槽；Ren 可见的一只手停在灯座旁。Mira 用空闲手的拇指和食指从托举的掌心拿起种子，放进空槽。接触后，暖光照亮两人的脸。她收回手，种子留在槽内，两人确认成功并微笑。视频停在亮灯结果，不自动复位。
+![Two Characters, One Scene: opening frame — video pending](../assets/03-two-character-video/greenhouse-opening.png)
 
-## 连续性设定
+## Reference Images
 
-| 对象 | 固定设定 | 允许变化 |
-|---|---|---|
-| C03-R01 Mira 定妆图 | 约 30 岁，棕色皮肤，黑色短卷发，橘色外套，奶油色上衣，海军蓝裤子 | 手部动作、视线和表情 |
-| C03-R02 Ren 定妆图 | 约 32 岁，浅橄榄肤色，黑色低发髻，绿色外套，深灰上衣和裤子 | 视线和微笑 |
-| 琥珀种子 | 全片仅一颗 | 托举掌心 → 空闲手指间 → 灯槽 |
-| 铜灯 | 固定在石台中央，开始未亮、空槽 | 种子入槽后逐渐亮起 |
-| 温室 | Mira 画面左，Ren 右，蓝调黄昏、石台和玻璃顶 | 轻微叶片运动、暖光反射 |
+Upload Mira (C03-R01) first and Ren (C03-R02) second to create the shared scene. For video, use the greenhouse opening frame (C03-K01) as the first frame; the portraits are optional additional identity references only. Follow the upload roles below when using references.
 
-## Text to Image 资产与提示词
+## Full Prompt & Workflow
 
-C03-R01 Mira 定妆图与 C03-R02 Ren 定妆图：本例先生成双人设定图，再拆成两个独立文件供下游上传。源图目标比例为 3:2，拆分后为竖幅。用户已有两张人物图时可直接替换，跳过生成。
+Bring two separately defined characters into one scene, then animate their interaction. In this original example, greenhouse caretakers Mira and Ren place an amber seed into a lantern and watch it light up together.
 
-无需上传其他原始图片，本图可直接使用文字生成。
+**Inspiration:** [TechieSA's character-reference-to-video workflow](https://x.com/TechieBySA/status/2096196085198839832). The source post names GPT Image 2 and Seedance 2.5. This adaptation uses original characters and a new scene; it is not a reproduction of that post or a tested claim about those models.
+
+**Workflow:** Two character images → shared opening frame → image-to-video.
+
+**Input:** Two separate character reference images. Use your own, or create the original pair below.
+
+**Status:** Character images and an opening frame are included. The video prompt is ready to use; no video has been generated or verified. Example stills were made with Codex's built-in image generation tool; its underlying model ID was not exposed.
+
+### Step 1 — Prepare two character references
+
+Keep each character in a separate image so the video workflow can distinguish them. For this example, generate the following two-panel reference sheet, then split it into the two supplied portrait files. If using your own images, skip this generation step and assign them the same reference roles.
 
 ```text
 Generate a widescreen 3:2 character reference diptych, exactly two equal vertical panels with a plain warm gray background, no border or text. The panels will be cropped into two separate identity reference images. Each panel contains exactly one full-body adult original human character, head to boots fully visible with ample margins, both at identical scale.
@@ -35,26 +39,13 @@ Right panel: REN, an adult man aged about 32, light olive skin, straight dark ha
 Style: cinematic hand-painted animation concept art, softly textured gouache backgrounds, clear expressive faces, grounded anatomy, restrained warm colors, diffuse studio lighting. Neutral front three-quarter standing poses. These are original greenhouse caretakers, no celebrities, no existing film characters. Do not blend identities, duplicate people, invent props, add text or crop limbs.
 ```
 
-负面提示词：extra person, mixed identities, cropped feet, text, prop, collage inside a character panel。
+| C03-R01 — Mira | C03-R02 — Ren |
+|---|---|
+| ![Mira in a rust-orange utility jacket](../assets/03-two-character-video/mira-reference.png) | ![Ren in a moss-green utility jacket](../assets/03-two-character-video/ren-reference.png) |
 
-实际图片：[Mira](../assets/03-two-character-video/mira-reference.png)、[Ren](../assets/03-two-character-video/ren-reference.png)。
+### Step 2 — Create a shared opening frame
 
-## Image Edit 关键帧
-
-### 新图片编号与名称
-
-C03-K01 温室点灯首帧。
-
-### 本次任务
-
-将两名已定义的人物放入同一个温室，保留身份，建立种子尚未入槽的动作起点。目标比例 16:9。
-
-### 本次需要使用的原始图片
-
-- C03-R01 Mira 定妆图（T2I 资产）：作为上传图片 1，锁定脸、发型、肤色和橘色服装。
-- C03-R02 Ren 定妆图（T2I 资产）：作为上传图片 2，锁定脸、发型、肤色和绿色服装。
-
-### 编辑提示词
+Upload **C03-R01 first and C03-R02 second**. Use the images to preserve the two identities while changing their poses and placing them together in the greenhouse.
 
 ```text
 Use the two uploaded character portraits as separate strict identity references: image 1 is MIRA, the woman with a rust-orange jacket; image 2 is REN, the man with a moss-green jacket. Preserve each person's face, hairstyle, skin tone, age, body proportions, and entire outfit. Do not merge or swap their identities.
@@ -64,25 +55,21 @@ Create a single cinematic 16:9 opening frame in the same hand-painted animation 
 The lantern is attached to the bench and cannot move; its socket is empty. The amber seed has not been inserted yet. Soft cool dusk light and a faint warm reflection from the seed. Calm anticipation, grounded anatomy, subtle gouache texture, no text, no labels, no montage, no extra people, no duplicate seed, no costume changes, no oversized hands. This is the first frame before the action, not the finished glowing result.
 ```
 
-### 负面提示词
+**C03-K01 — Opening-frame example:**
 
-face swap, merged hands, duplicate seed, lit lantern before insertion, costume change, split screen, text。
+![Mira and Ren beside an unlit lantern in a greenhouse at dusk](../assets/03-two-character-video/greenhouse-opening.png)
 
-### 验收要点
+Check both faces and outfits, the single seed, the empty socket, and the separation of the hands before animating. The generated example reverses the anatomical hand assignments in the image prompt; the video prompt therefore follows the visible seed-bearing palm and free hand instead of forcing a left/right swap.
 
-- Mira 左、Ren 右，两张脸可辨，衣服对应原图。
-- 只有一颗种子，仍在 Mira 靠近灯具的掌心上。
-- 灯槽为空，灯未点亮，手与灯具没有融合。
+### Step 3 — Animate the interaction
 
-## Image to Video 参考图上传方案
+| Upload | Role |
+|---|---|
+| C03-K01 — greenhouse opening frame | First frame; scene layout and starting poses |
+| C03-R01 — Mira portrait | Optional identity reference, if supported |
+| C03-R02 — Ren portrait | Optional identity reference, if supported |
 
-- 首帧：C03-K01 温室点灯首帧；优先级最高。
-- 人物身份：C03-R01、C03-R02；仅在工具有额外身份参考槽时追加。
-- 环境由 C03-K01 控制；无需额外环境图。
-- 无独立尾帧，不将未生成的结果图当作素材。
-- 仅支持一张图时只上传 C03-K01，不上传双栏人物设定图。
-
-### 主提示词与负面提示词
+If the video tool accepts only one image, upload **C03-K01**. Do not upload the two-person reference sheet as the first frame: that would start the video from a split-screen portrait layout. The 8-second duration is a creative target; use supported settings and trim if needed.
 
 ```text
 Create an 8-second cinematic hand-painted animation, 16:9, one continuous medium-wide shot. C03-K01 is the exact first frame and controls composition, greenhouse, bench, lantern, and initial hand positions. C03-R01 locks Mira's identity and rust-orange outfit; C03-R02 locks Ren's identity and moss-green outfit. If only one image is supported, use C03-K01 alone. Mira stays on screen-left, Ren on screen-right. Preserve both faces, hairstyles, skin tones, ages, clothes, and body proportions throughout.
@@ -96,6 +83,22 @@ Keep movement restrained and expressive, with coherent hand anatomy and stable p
 Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disappearing seed, extra fingers or arms, passing objects through solid glass, floating lantern, premature illumination, camera orbit, zoom, captions, text, logos, unrelated cuts, flickering identities.
 ```
 
-## 后期制作建议
+**Video result:** Pending generation. Check identity consistency, the seed's continuous transfer into the socket, and illumination only after contact. A still-image slideshow would not validate this workflow.
 
-使用工具实际支持的时长，必要时剪成约 8 秒；保持一个完整镜头。视频生成后再验收身份、手部、种子数量及入槽后亮灯的因果顺序。本仓库尚无该视频成片。
+**Production notes:** [Chinese story, continuity rules, and exact upload instructions](../docs/production/03-two-character-video.md). The [image prompt](../prompts/03-two-character-video/keyframe-prompt.txt) and [video prompt](../prompts/03-two-character-video/video-prompt.txt) are also available as text files.
+
+## Prompt Files
+
+- [character-prompt.txt](../prompts/03-two-character-video/character-prompt.txt)
+- [keyframe-prompt.txt](../prompts/03-two-character-video/keyframe-prompt.txt)
+- [video-prompt.txt](../prompts/03-two-character-video/video-prompt.txt)
+
+## Sources & Attribution
+
+**Prompt: by SeeAPI.** **Inspiration:** [TechieSA](https://x.com/TechieBySA/status/2096196085198839832). Original concept and prompt adaptation by SeeAPI; no source footage is included.
+
+Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
+
+See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
+
+[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)

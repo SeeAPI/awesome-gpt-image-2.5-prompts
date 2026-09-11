@@ -1,0 +1,271 @@
+{
+  "updated": "2026-09-11",
+  "entries": [
+    {
+      "id": "C01",
+      "title": "Pixel Art Character GIF",
+      "slug": "01-pixel-art-gif",
+      "categories": [
+        "Characters & Stickers",
+        "GIF & Stop-Motion"
+      ],
+      "status": "gif-included",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/01-pixel-art-gif.md",
+      "prompts": [
+        "prompts/01-pixel-art-gif/gif-assembly-prompt.txt",
+        "prompts/01-pixel-art-gif/image-prompt.txt"
+      ],
+      "preview": "assets/01-pixel-art-gif/elephant-roll.gif",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "C02",
+      "title": "Clay Stop-Motion: Fishing for a Star",
+      "slug": "02-clay-stop-motion",
+      "categories": [
+        "GIF & Stop-Motion"
+      ],
+      "status": "gif-included",
+      "author": "SeeAPI",
+      "inspiration": {
+        "author": "Charlie Guo",
+        "url": "https://x.com/charlierguo/status/2097399137142772071"
+      },
+      "case": "cases/02-clay-stop-motion.md",
+      "prompts": [
+        "prompts/02-clay-stop-motion/generation-prompt.txt",
+        "prompts/02-clay-stop-motion/gif-assembly-prompt.txt"
+      ],
+      "preview": "assets/02-clay-stop-motion/penguin-star-stop-motion.gif",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "C03",
+      "title": "Two Characters, One Scene",
+      "slug": "03-two-character-video",
+      "categories": [
+        "Characters & Stickers",
+        "Story & Video"
+      ],
+      "status": "stills-included-video-pending",
+      "author": "SeeAPI",
+      "inspiration": {
+        "author": "TechieSA",
+        "url": "https://x.com/TechieBySA/status/2096196085198839832"
+      },
+      "case": "cases/03-two-character-video.md",
+      "prompts": [
+        "prompts/03-two-character-video/character-prompt.txt",
+        "prompts/03-two-character-video/keyframe-prompt.txt",
+        "prompts/03-two-character-video/video-prompt.txt"
+      ],
+      "preview": "assets/03-two-character-video/greenhouse-opening.png",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "C04",
+      "title": "Character to Storyboard to Film",
+      "slug": "04-storyboard-video",
+      "categories": [
+        "Characters & Stickers",
+        "Story & Video"
+      ],
+      "status": "stills-included-video-pending",
+      "author": "SeeAPI",
+      "inspiration": {
+        "author": "el.cine",
+        "url": "https://x.com/EHuanglu/status/2097519538632024103"
+      },
+      "case": "cases/04-storyboard-video.md",
+      "prompts": [
+        "prompts/04-storyboard-video/character-prompt.txt",
+        "prompts/04-storyboard-video/storyboard-prompt.txt",
+        "prompts/04-storyboard-video/video-prompt.txt"
+      ],
+      "preview": "assets/04-storyboard-video/lighthouse-storyboard.png",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "C05",
+      "title": "Distant Observer: A Robot in the Rain",
+      "slug": "05-distant-observer",
+      "categories": [
+        "Story & Video"
+      ],
+      "status": "stills-included-video-pending",
+      "author": "SeeAPI",
+      "inspiration": {
+        "author": "Pablo Prompt",
+        "url": "https://x.com/pabloprompt/status/2097382752622436744"
+      },
+      "case": "cases/05-distant-observer.md",
+      "prompts": [
+        "prompts/05-distant-observer/character-prompt.txt",
+        "prompts/05-distant-observer/scene-correction-prompt.txt",
+        "prompts/05-distant-observer/scene-prompt.txt",
+        "prompts/05-distant-observer/video-prompt.txt"
+      ],
+      "preview": "assets/05-distant-observer/rainy-street-opening.png",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "C06",
+      "title": "Frosted Glass Poster to 360° Orbit",
+      "slug": "06-360-orbit",
+      "categories": [
+        "Products & Materials",
+        "Posters & Typography",
+        "Story & Video"
+      ],
+      "status": "stills-included-video-pending",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/06-360-orbit.md",
+      "prompts": [
+        "prompts/06-360-orbit/image-prompt.txt",
+        "prompts/06-360-orbit/negative-prompt.txt",
+        "prompts/06-360-orbit/video-prompt.txt"
+      ],
+      "preview": "assets/06-360-orbit/frosted-glass-mug-poster.png",
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P01",
+      "title": "Personalized Sticker Pack",
+      "slug": "p01-personalized-sticker-pack",
+      "categories": [
+        "Characters & Stickers"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p01-personalized-sticker-pack.md",
+      "prompts": [
+        "prompts/p01-personalized-sticker-pack/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P02",
+      "title": "Collectible Figure Packaging",
+      "slug": "p02-collectible-figure-packaging",
+      "categories": [
+        "Products & Materials"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p02-collectible-figure-packaging.md",
+      "prompts": [
+        "prompts/p02-collectible-figure-packaging/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P03",
+      "title": "Miniature World in an Everyday Object",
+      "slug": "p03-miniature-world",
+      "categories": [
+        "Illustration & Miniatures"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p03-miniature-world.md",
+      "prompts": [
+        "prompts/p03-miniature-world/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P04",
+      "title": "Product Photo to Campaign Visual",
+      "slug": "p04-product-campaign",
+      "categories": [
+        "Products & Materials"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p04-product-campaign.md",
+      "prompts": [
+        "prompts/p04-product-campaign/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P05",
+      "title": "Editorial Poster with Exact Copy",
+      "slug": "p05-editorial-poster",
+      "categories": [
+        "Posters & Typography"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p05-editorial-poster.md",
+      "prompts": [
+        "prompts/p05-editorial-poster/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P06",
+      "title": "One Character, Three Scenes",
+      "slug": "p06-character-scenes",
+      "categories": [
+        "Characters & Stickers"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p06-character-scenes.md",
+      "prompts": [
+        "prompts/p06-character-scenes/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P07",
+      "title": "Paper-Cut Storybook Scene",
+      "slug": "p07-paper-cut-storybook",
+      "categories": [
+        "Illustration & Miniatures"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p07-paper-cut-storybook.md",
+      "prompts": [
+        "prompts/p07-paper-cut-storybook/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "P08",
+      "title": "Glass Material Remix",
+      "slug": "p08-glass-material-remix",
+      "categories": [
+        "Products & Materials"
+      ],
+      "status": "prompt-only",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p08-glass-material-remix.md",
+      "prompts": [
+        "prompts/p08-glass-material-remix/image-prompt.txt"
+      ],
+      "preview": null,
+      "updated": "2026-09-11"
+    }
+  ]
+}

@@ -1,36 +1,34 @@
-# C05. Distant Observer: A Robot in the Rain
+# Case 05：雨中机器人与远景旁观视角
 
-**Prompt: by SeeAPI.** **Inspiration:** [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744). Original concept and prompt adaptation by SeeAPI; no source footage is included.
+## 项目理解与关键假设
 
-**Category:** Story & Video
+采用用户指定的远景“偶然拍到”视角，先定义角色，再创建远处场景首帧，最后图生视频。原创故事为旧机器人把自己的伞让给路边小花。目标竖屏 9:16、约 8 秒、单镜头。静态素材由内置图像工具生成，视频尚未生成。
 
-**Updated:** 2026-09-11
+参考链接：[Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)。原帖文字注明 GPT Image 2 + Seedance 2.5 in CapCut；本文不将其改称为 GPT Image 2.5。已读取帖文，视频截图未成功，下面按用户给定的远景玩法独立设计，不声称逐镜复现。
 
-## Preview
+## 故事梗概
 
-**Opening frame — video pending.**
+雨中，一个旧机器人发现路边的小花正在淋雨。它弯下身，把伞移过去，自己留在雨里。
 
-![Distant Observer: A Robot in the Rain: opening frame — video pending](../assets/05-distant-observer/rainy-street-opening.png)
+## 完整故事
 
-## Reference Images
+摄影机躲在街对面空门廊的遮雨处，越过模糊的门框望向对面人行道。一个锈红色机器人举着黄色伞停在青绿色卷帘门前。它低头注意到脚边陶盆里的一朵小白花，慢慢屈膝弯腰，把始终打开的雨伞降到花盆上方。伞沿不碰花，握柄的手不更换。雨继续打在它露出的头和肩上，它只是低头看着花。镜头始终不靠近，机器人也没有发现摄影机。
 
-Use the robot portrait (C05-R01) for scene creation. Use the corrected rainy-street opening frame (C05-K01) for video. Upload the draft (C05-K00) alone only when applying the flowerpot correction. Follow the upload roles below when using references.
+## 连续性设定
 
-## Full Prompt & Workflow
+| 对象 | 固定设定 | 状态变化 |
+|---|---|---|
+| C05-R01 旧机器人定妆图 | 锈红钢身、米白头、双圆眼、无嘴、双臂双腿、三指手、左髋橄榄色小包 | 站立 → 低头 → 屈膝弯腰 |
+| 黄色雨伞 | 仅一把，始终打开，伞杆连接完整，持续由同一只手握持 | 机器人上方 → 陶盆上方 |
+| 陶盆小白花 | 一个陶盆、一株植物、一朵白花 | 位置不动，仅茎叶微晃 |
+| 场景 | 街对面人行道、青绿卷帘门、湿路面、持续阴雨 | 水面波纹和雨线运动 |
+| 观察点 | 对街门廊，本例主体直立时约占画面高 18% | 极轻手持漂移，不推近 |
 
-Create the feeling of noticing a small, unexpected moment from across the street. In this original scene, an old maintenance robot lowers its own umbrella over a tiny flowerpot, leaving itself in the rain. The emotional beat comes from the action and the distant framing, rather than a face close-up.
+弯腰时机器人投影高度自然变小；不能通过放大角色或推镜头来维持固定占比。
 
-**Inspiration:** [Pablo Prompt's post](https://x.com/pabloprompt/status/2097382752622436744). Its caption credits GPT Image 2 and Seedance 2.5 in CapCut. This example develops the distant-observer approach identified in the reference brief with a newly designed robot and story; it does not reproduce the post's footage or claim that the source used GPT Image 2.5.
+## Text to Image 资产与提示词
 
-**Workflow:** Text-defined character → distant scene image → image-to-video.
-
-**Input:** A character idea; optionally replace the supplied original robot with your own character reference.
-
-**Status:** A generated robot reference and scene image are included. The 8-second video prompt is ready; video generation and motion validation remain pending. Stills were made with Codex's built-in image generation tool; its model ID was not exposed.
-
-### Step 1 — Define the character
-
-Use a clean character reference to establish the robot's silhouette, colors, joints, and pouch. This close reference is for identity only; it should not become the video's opening composition.
+C05-R01 旧机器人定妆图：目标 2:3 竖幅全身，锁定外形和颜色。它是身份图，不是视频首帧。无需上传其他原始图片，本图可直接使用文字生成。
 
 ```text
 Create one portrait 2:3 full-body character identity reference photograph of an original friendly obsolete street-maintenance robot. It is a physically built practical movie prop, about 2 meters tall, with a stocky weathered rust-red steel torso, off-white rounded rectangular head, exactly two small round dark glass eyes, no mouth, two thick articulated arms, exactly three blunt fingers on each hand, two short sturdy legs, and broad dark rubber feet. Its plates show chipped paint and light rain marks, never military armor. One small olive canvas pouch is strapped at its left hip. No writing, badges, logos, screens, weapons, or human face.
@@ -38,22 +36,25 @@ The robot stands upright in a relaxed front three-quarter pose on a plain mid-gr
 Photoreal practical-effects cinematography, tactile metal and canvas, soft overcast illumination, understated warmth. Design a unique humble municipal helper with rounded proportions, not an existing franchise robot.
 ```
 
-**C05-R01 — Robot identity reference:**
+负面提示词：existing franchise robot, extra limbs, mouth, human face, extra pouch, text, weapon, cropped feet。
 
-![Weathered rust-red maintenance robot with an off-white head and olive hip pouch](../assets/05-distant-observer/robot-reference.png)
+实际素材：[机器人定妆图](../../assets/05-distant-observer/robot-reference.png)。
 
-### Step 2 — Build the distant scene
+## Image Edit / Image-to-Image 场景图
 
-Upload **C05-R01 only**. Change the setting, scale within the composition, and arm pose while retaining the robot design. Establish the umbrella above the robot and the flowerpot beside it, before the act of sheltering the flower.
+### 新图片编号与名称
 
-| Visual choice | Direction |
-|---|---|
-| Framing | Vertical 9:16, distant view across the street |
-| Subject scale | Small in frame; the generated example is about one-fifth of frame height |
-| Foreground | Soft doorway edge and ledge, away from the action |
-| Camera | Compressed perspective; fixed observer position |
-| Motion to preserve later | Small handheld drift; no push-in or close-up |
-| Story anchor | One yellow umbrella moves from robot to flowerpot |
+C05-K00 雨街远景草稿。
+
+### 本次任务
+
+将同一个机器人置于街对面，加入伞和花盆，建立远景、遮挡及未开始让伞的动作状态。目标 9:16。
+
+### 本次需要使用的原始图片
+
+- C05-R01 旧机器人定妆图（T2I 资产）：锁定机器人头部、身形、装甲颜色、关节、手指和小包；不继承定妆图的近景构图。
+
+### 编辑提示词
 
 ```text
 Use the uploaded robot portrait as the strict identity reference C05-R01: preserve the rust-red stocky steel body, off-white rounded rectangular head, two round dark eyes, no mouth, two arms, three blunt fingers per hand, two legs, rubber feet, and single olive pouch at its left hip.
@@ -65,22 +66,59 @@ On the far sidewalk, the robot stands just right of center beneath its one OPEN 
 Quiet old tram-stop frontage with a closed teal shutter behind the robot, damp pale plaster walls, a curb, a wet road occupying much of the lower middle frame, soft rain and broad puddle reflections. No readable shop names, road text, logos, vehicles, pedestrians, or other plants. The setting and wet empty space should dominate. Overcast afternoon daylight, subdued colors except the rust-red robot, yellow umbrella, and terracotta pot. The umbrella and flowerpot remain separate and fully visible. Natural slightly imperfect observer framing, no surveillance overlays, timestamp, cinematic black bars, or exaggerated bokeh. This is an ordinary street seen from afar, with one unexpected quiet act about to happen; not a hero portrait.
 ```
 
-The first generation placed the pot beneath the umbrella edge. A [local correction prompt](../prompts/05-distant-observer/scene-correction-prompt.txt) moves that one pot outside the canopy before animation. Upload the [draft scene C05-K00](../assets/05-distant-observer/rainy-street-draft.png) alone for that correction, keeping the robot and camera fixed. The final example also places the robot slightly smaller than the original size target; the video prompt follows the actual frame.
+### 负面提示词
 
-**C05-K01 — Distant opening-frame example:**
+hero portrait, close-up, cropped umbrella, extra flowerpot, blocked action, readable text, crowd, vehicle, sunny weather, CCTV overlay。
 
-![A small robot with a yellow umbrella on the far sidewalk, seen from a sheltered doorway across a wet street](../assets/05-distant-observer/rainy-street-opening.png)
+### 验收要点
 
-Before animation, check that the robot remains small, both feet are grounded, the umbrella shaft reaches its hand, and the pot is within reach. Rain, the road, and the shutter must remain consistent through the action.
+- 机器人明显小于环境，双脚落在对街人行道上。
+- 仅一把伞和一盆花，伞杆与手连续连接。
+- 伞仍在机器人上方，小花尚未被遮住，后续动作才有变化。
+- 门框只挡边缘，不挡机器人、伞或小花。
+- 静态远景成功不代表视频镜头锁定已验证。
 
-### Step 3 — Animate without losing the distant viewpoint
+## 场景局部修正
 
-| Upload | Role |
-|---|---|
-| C05-K01 — rainy street scene | Required first frame; distance, environment, props, and starting pose |
-| C05-R01 — robot portrait | Optional identity reference only, if an extra slot is supported |
+### 新图片编号与名称
 
-If only one image is supported, upload **C05-K01**. Keep the distant composition even when the robot bends down. A close-up of its face would change the central idea of this case. Eight seconds is a creative target, not a claim about any particular video model's duration settings.
+C05-K01 雨街远景首帧（从 C05-K00 修正）。
+
+### 本次任务
+
+首轮图片的花盆位于伞沿下，需将它移到伞右侧的雨中，让“给花让伞”有明确起点。保留实际较小的主体占比，不为了满足原始 24–28% 目标而放大它。
+
+### 本次需要使用的原始图片
+
+- C05-K00 雨街远景草稿（已生成场景图）：锁定机器人、雨伞、摄影机位置和所有环境，只改变一盆花的位置。该草稿位于 `assets/05-distant-observer/rainy-street-draft.png`。
+
+### 编辑提示词
+
+```text
+Edit this distant rainy street frame with one local correction only. Move the existing terracotta pot and its single white flower to the RIGHT along the same sidewalk plane, so the ENTIRE pot and flower are visibly outside the yellow umbrella canopy's rightmost edge and receiving rain. Place the pot center at approximately 89% of image width, preserving its current size and its grounded contact with the sidewalk. Leave a visible horizontal rain-filled gap between the canopy's right edge and the flower. Remove the pot completely from its old position; there must still be exactly one pot and one flower.
+
+Keep everything else unchanged: exact camera distance and framing, small robot size and pose, its two eyes and olive pouch, umbrella angle and connected shaft, hand grip, shutter, building, wet road, rain, bench, foreground doorway and blurred ledge, light, texture, and image dimensions. Do not move or enlarge the robot, change the umbrella, add characters, or crop the image. This frame is BEFORE the robot moves its umbrella over the pot.
+```
+
+### 负面提示词
+
+duplicate flowerpot, moved robot, enlarged subject, changed umbrella, new camera angle, missing rain。
+
+### 验收要点
+
+- 花盆仅一只，原位置清空，新位置在伞外且落地。
+- 机器人和摄影机不移动，伞仍罩着机器人。
+- 视频使用修正后的 C05-K01，不再使用草稿 C05-K00。
+
+## Image to Video 参考图上传方案
+
+- 必需首帧：C05-K01 雨街远景首帧，锁定距离、构图、道具和动作起点。
+- 可选身份图：C05-R01 旧机器人定妆图，仅在支持额外参考槽时追加。
+- 环境由 C05-K01 控制，不需要额外场景图。
+- 无独立尾帧，结束状态由动作提示词定义。
+- 单图工具只上传 C05-K01，不使用近景定妆图做首帧。
+
+### 主提示词与负面提示词
 
 ```text
 Animate C05-K01 as the exact first frame of an 8-second photoreal 9:16 distant-observer video, one uninterrupted shot. C05-R01 is optional robot identity reference only if the tool supports an extra reference slot. If only one image is allowed, use C05-K01. Preserve its street layout, wet road, teal shutter, foreground doorway edge, robot size, umbrella, and flowerpot.
@@ -96,23 +134,6 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
 
-**Video result:** Pending generation. Validate the umbrella's rigid shape and continuous grip, the pot's fixed location, natural joints, and the absence of an automatic zoom. The body occupies less vertical space when bending; preserve camera distance rather than enlarging the crouched robot to compensate.
+## 后期制作建议
 
-**Production notes:** [Chinese story, continuity rules, and per-image upload instructions](../docs/production/05-distant-observer.md). Download the [scene prompt](../prompts/05-distant-observer/scene-prompt.txt) and [video prompt](../prompts/05-distant-observer/video-prompt.txt) for reuse.
-
-## Prompt Files
-
-- [character-prompt.txt](../prompts/05-distant-observer/character-prompt.txt)
-- [scene-correction-prompt.txt](../prompts/05-distant-observer/scene-correction-prompt.txt)
-- [scene-prompt.txt](../prompts/05-distant-observer/scene-prompt.txt)
-- [video-prompt.txt](../prompts/05-distant-observer/video-prompt.txt)
-
-## Sources & Attribution
-
-**Prompt: by SeeAPI.** **Inspiration:** [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
-
-See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
-
-[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)
+保留完整的远景动作，不裁切成角色特写。按工具支持时长生成后剪取约 8 秒的连贯单镜头。声音采用观察点附近的雨声，远处关节声很轻；没有音频能力时导出静音。验收伞杆、握持和膝关节连续性，确认花盆不漂移、镜头不推近。本仓库目前没有该案例的视频成片。
