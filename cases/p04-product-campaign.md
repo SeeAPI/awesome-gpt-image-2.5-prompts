@@ -19,5 +19,3 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 ```
 
 *Replace `[background color and material]`, `[platform material]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p04-product-photo-to-campaign-visual)

@@ -32,7 +32,8 @@
       "author": "SeeAPI",
       "inspiration": {
         "author": "Charlie Guo",
-        "url": "https://x.com/charlierguo/status/2097399137142772071"
+        "url": "https://x.com/charlierguo/status/2097399137142772071",
+        "platform": "X"
       },
       "case": "cases/02-clay-stop-motion.md",
       "prompts": [
@@ -57,7 +58,8 @@
       "author": "SeeAPI",
       "inspiration": {
         "author": "el.cine",
-        "url": "https://x.com/EHuanglu/status/2097519538632024103"
+        "url": "https://x.com/EHuanglu/status/2097519538632024103",
+        "platform": "X"
       },
       "case": "cases/04-storyboard-video.md",
       "prompts": [
@@ -80,7 +82,8 @@
       "author": "SeeAPI",
       "inspiration": {
         "author": "Pablo Prompt",
-        "url": "https://x.com/pabloprompt/status/2097382752622436744"
+        "url": "https://x.com/pabloprompt/status/2097382752622436744",
+        "platform": "X"
       },
       "case": "cases/05-distant-observer.md",
       "prompts": [
@@ -272,7 +275,8 @@
       "author": "@azed_ai",
       "inspiration": {
         "author": "Amira Zairi (@azed_ai)",
-        "url": "https://x.com/azed_ai/status/2096191635348705726"
+        "url": "https://x.com/azed_ai/status/2096191635348705726",
+        "platform": "X"
       },
       "case": "cases/p09-paper-folk-story.md",
       "prompts": [
@@ -297,7 +301,8 @@
         "publisher": "@Goodmanprotocol",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "177537f1652a2359"
+        "item_key": "177537f1652a2359",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -357,7 +362,8 @@
         "publisher": "@renoiseai",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "8cd1d4af73c0fa1b"
+        "item_key": "8cd1d4af73c0fa1b",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -396,7 +402,8 @@
         "publisher": "SeeAPI",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "dec8a2337c2513cc"
+        "item_key": "dec8a2337c2513cc",
+        "platform": "SeeAPI"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -435,7 +442,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "d42ef74f9dc17e52"
+        "item_key": "d42ef74f9dc17e52",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -474,7 +482,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "e2e42644fbac78ec"
+        "item_key": "e2e42644fbac78ec",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -520,7 +529,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "5525bfd9b51f5146"
+        "item_key": "5525bfd9b51f5146",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -559,7 +569,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "7ae6122e54c9f629"
+        "item_key": "7ae6122e54c9f629",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -590,7 +601,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "524a39392c0618d2"
+        "item_key": "524a39392c0618d2",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -636,7 +648,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "d5b5faaa61873403"
+        "item_key": "d5b5faaa61873403",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -675,7 +688,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "73ae443c6222a8dc"
+        "item_key": "73ae443c6222a8dc",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -721,7 +735,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "eb8dba3349063e32"
+        "item_key": "eb8dba3349063e32",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -760,7 +775,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "99155a4f664295b9"
+        "item_key": "99155a4f664295b9",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -812,7 +828,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -856,7 +873,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -900,7 +918,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -944,7 +963,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -988,7 +1008,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -1033,7 +1054,8 @@
           "url": "https://morphic.com/resources/models/gpt-image-2-5",
           "publisher": "Morphic"
         },
-        "credit_role": "collection"
+        "credit_role": "collection",
+        "platform": "SeeAPI"
       },
       "content_type": "short-template",
       "model_provenance": {
@@ -1072,7 +1094,8 @@
         "publisher": "@Gdgtify",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "3bac9286de5bd90a"
+        "item_key": "3bac9286de5bd90a",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1111,7 +1134,8 @@
         "publisher": "@abs_uiux",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "6e328d5dc40df2dc"
+        "item_key": "6e328d5dc40df2dc",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1151,7 +1175,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "647b0c6e0826da30"
+        "item_key": "647b0c6e0826da30",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1191,7 +1216,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "9097f25e2f9e7d66"
+        "item_key": "9097f25e2f9e7d66",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1230,7 +1256,8 @@
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "263de965880d6490"
+        "item_key": "263de965880d6490",
+        "platform": "Reddit"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1269,7 +1296,8 @@
         "publisher": "SeeAPI",
         "author_status": "unconfirmed",
         "relationship": "collected",
-        "item_key": "f2b466deccc0ee5e"
+        "item_key": "f2b466deccc0ee5e",
+        "platform": "SeeAPI"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1308,7 +1336,8 @@
         "publisher": "Mark Kretschmann (@mark_k)",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "6891393d382cbdd7"
+        "item_key": "6891393d382cbdd7",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1347,7 +1376,8 @@
         "publisher": "Shahid Wani",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "dea9c7d645d97b4e"
+        "item_key": "dea9c7d645d97b4e",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1386,7 +1416,8 @@
         "publisher": "BubbleBrain",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "4c27f27a68fc7823"
+        "item_key": "4c27f27a68fc7823",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1425,7 +1456,8 @@
         "publisher": "bluedev",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "6c26289cbeba9221"
+        "item_key": "6c26289cbeba9221",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1464,7 +1496,8 @@
         "publisher": "𝗦𝗮𝗻𝗶𝗮",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "7cbade6d89574572"
+        "item_key": "7cbade6d89574572",
+        "platform": "X"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1503,7 +1536,8 @@
         "publisher": "Comfy-Org",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "e7d7e0cdab0e0f7c"
+        "item_key": "e7d7e0cdab0e0f7c",
+        "platform": "GitHub"
       },
       "content_type": "full-prompt",
       "model_provenance": {
@@ -1542,7 +1576,8 @@
         "publisher": "Comfy-Org",
         "author_status": "credited-by-source",
         "relationship": "collected",
-        "item_key": "f981000ad13b62dd"
+        "item_key": "f981000ad13b62dd",
+        "platform": "GitHub"
       },
       "content_type": "full-prompt",
       "model_provenance": {

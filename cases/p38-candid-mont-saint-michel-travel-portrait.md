@@ -1,12 +1,8 @@
 # P38. Candid Mont-Saint-Michel Travel Portrait
 
-**by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)** · [Source](https://x.com/saniaspeaks_/status/2097532595814940683)
-
 ## 👀 Preview
 
 [<img src="../assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg" width="300" height="400" alt="Candid Mont-Saint-Michel Travel Portrait — source example">](../assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
 
 ## 👇 Workflow
 
@@ -23,5 +19,3 @@ The composition captures her in the foreground while the vast historic abbey dom
 
 Ultra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.
 ```
-
-[← Back to this case in the README](../README.md#p38-candid-mont-saint-michel-travel-portrait)

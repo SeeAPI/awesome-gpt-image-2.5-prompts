@@ -92,17 +92,10 @@ def main():
             if not source_key[1] or source_key in source_keys:
                 errors.append(f'{key}: missing or duplicate source item key')
             source_keys.add(source_key)
-            for location, text in [('case', body), ('README section', section)]:
-                if f'[Source]({url})' not in text:
-                    errors.append(f'{key}: missing source link in {location}')
-                text = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text)
-                credit = 'Author unconfirmed' if entry['author'] == 'Author unconfirmed' else f"by {entry['author']}"
-                if collection_credit:
-                    credit = f"Collected from {source['publisher']}"
-                if credit not in text:
-                    errors.append(f'{key}: missing attribution in {location}')
-            if entry.get('content_type') == 'short-template' and 'Short source template' not in section:
-                errors.append(f'{key}: short template is not labelled')
+            directory = homepage.split('## 🗂 Prompt Directory', 1)[1].split('\n### ', 1)[0]
+            line = next((line for line in directory.splitlines() if line.startswith(f'- [{key}:')), '')
+            if f"[Source: {source['platform']}]({url})" not in line:
+                errors.append(f'{key}: missing platform-labelled source in directory')
         for media in entry.get('media', []):
             asset = ROOT / media['path']
             if not asset.is_file():
@@ -111,7 +104,7 @@ def main():
                 errors.append(f'{key}: media hash mismatch {media["path"]}')
             if media['path'] not in body or media['path'] not in section:
                 errors.append(f'{key}: media missing from case or README section')
-        if entry['inspiration'] and entry['inspiration']['url'] not in body:
+        if entry['inspiration'] and entry['inspiration']['url'] not in homepage:
             errors.append(f'{key}: missing inspiration URL')
         if entry['preview'] and not (ROOT / entry['preview']).is_file():
             errors.append(f'{key}: missing preview')

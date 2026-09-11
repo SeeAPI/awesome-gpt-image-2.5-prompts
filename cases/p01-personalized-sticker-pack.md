@@ -17,5 +17,3 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 ```
 
 *Replace `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p01-personalized-sticker-pack)

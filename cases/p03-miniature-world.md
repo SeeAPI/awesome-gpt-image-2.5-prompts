@@ -17,5 +17,3 @@ Show the whole container from a three-quarter overhead angle. Make the scale rel
 ```
 
 *Replace `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p03-miniature-world-in-an-everyday-object)

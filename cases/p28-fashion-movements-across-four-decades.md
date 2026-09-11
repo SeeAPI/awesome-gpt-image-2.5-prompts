@@ -1,14 +1,8 @@
 # P28. Fashion Movements Across Four Decades
 
-**by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)** · [Source](https://x.com/Gdgtify/status/2098228786156196084)
-
 ## 👀 Preview
 
 [<img src="../assets/p28-fashion-movements-across-four-decades/source-example-01.jpg" width="400" height="225" alt="Fashion Movements Across Four Decades — source example">](../assets/p28-fashion-movements-across-four-decades/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-The original prompt conflicts between 16:9 and 1:1. Choose the intended ratio before generating; the collected text is unchanged.
 
 ## 👇 Workflow
 
@@ -19,5 +13,3 @@ The original prompt conflicts between 16:9 and 1:1. Choose the intended ratio be
 ```text
 2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution = self.resolve_auto_fields(topic)              def resolve_auto_fields(self, topic):         # Module 2: Copy & Facts         self.title = generate_title(topic, max_words=5)         self.tagline = generate_tagline(topic, min_words=3, max_words=8)         self.labels = extract_key_points(topic, count=6-12, relationship="components") # principles/stages/types                  # Module 3: The Surreal Character Engine         self.mechanism = infer_verb(topic) # e.g., "filtering", "branching", "accumulating"         self.base_form = select_organism(self.mechanism) # human, animal, or object         # CRITICAL: Transformation must be structural, not just accessories         self.transformation = invent_structural_alteration(self.base_form, self.mechanism)         self.pose = select_pose(topic, attitude="intriguing_uncanny")                  # Module 5: Geometry & Palette         self.geometry = select_geometric_family(topic) # rays, arcs, ribbons, grids         self.palette = derive_accent_colors(topic, count=2-6, mood="flat_matte_weathered")      def verify_character_logic(self):         # The "Thumbnail & Concept" Check         assert is_structural(self.transformation), "Module 3: Must be anatomy/proportion, not accessories."         assert fits_sentence(self.transformation, self.mechanism), "Module 3: Logic check failed."         assert visible_at_thumbnail(self.transformation), "Module 3: Must read at small scale."         assert not is_generic_cute_scary(self.pose), "Module 3: Avoid default emotional tropes."      def render(self):         self.verify_character_logic()                  # Module 1 & 6: Style Kernel         canvas = Canvas(aspect="1:1", bg="warm_ivory", texture="subtle_analog_grain")                  # Hero: Grayscale, sculptural shading, stippling/halftone         hero = render_grayscale_sculptural(self.base_form, self.transformation, self.pose,                                             shading="fine_stippling", texture="tactile_print")                  # Module 4: Adaptive Layout         layout = adaptive_composition(             hero=hero,              title=self.title, # Oversized, black, condensed, uppercase             labels=self.labels, # Compact, high contrast             geometry=self.geometry, # Connects hero to info             palette=self.palette # Flat, matte accents         )                  return canvas.compose(layout, typography="extreme_contrast_hierarchy")  EditorialPoster($ TOPIC).render()
 ```
-
-[← Back to this case in the README](../README.md#p28-fashion-movements-across-four-decades)

@@ -1,14 +1,8 @@
 # P11. Character Dance Pose Grid
 
-**by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)** · [Source](https://x.com/renoiseai/status/2097959984265130436)
-
 ## 👀 Preview
 
 [<img src="../assets/p11-character-dance-pose-grid/source-example-01.webp" width="400" height="400" alt="Character Dance Pose Grid — source example">](../assets/p11-character-dance-pose-grid/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload one character reference. The source input is not included; this is a still pose sheet, not an animation.
 
 ## 👇 Workflow
 
@@ -54,5 +48,3 @@ Final output: one complete, clearly readable 4×4 sheet of sixteen original danc
 ```
 
 *Replace `@[Image 1]` with your uploaded character reference.*
-
-[← Back to this case in the README](../README.md#p11-character-dance-pose-grid)

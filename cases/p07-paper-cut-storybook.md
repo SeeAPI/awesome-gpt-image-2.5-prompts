@@ -17,5 +17,3 @@ Use visible paper fibers, crisp cut edges, gently bent paper elements, and real 
 ```
 
 *Replace `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p07-paper-cut-storybook-scene)

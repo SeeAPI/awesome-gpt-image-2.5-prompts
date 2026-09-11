@@ -21,5 +21,3 @@ Use a plain [background color] studio background, soft even lighting, and the sa
 ```
 
 *Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
-
-[← Back to this case in the README](../README.md#p06-portrait-reference-to-multi-view-sheet)

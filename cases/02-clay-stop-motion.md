@@ -8,8 +8,6 @@
 
 [<img src="../assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
-
-
 ## 👇 Workflow
 
 `Reference image / Text → clay-style image → contact sheet → GIF`
@@ -44,8 +42,6 @@ Preserve one locked camera, consistent subject scale, fixed set placement, backg
 
 **Step 3 — Contact sheet → GIF**
 
-Upload the complete sheet to Codex; preserve one shared scene crop.
-
 ```text
 Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
 
@@ -55,5 +51,3 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
-
-[← Back to this case in the README](../README.md#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo)

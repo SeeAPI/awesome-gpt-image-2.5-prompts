@@ -15,5 +15,3 @@ Paper cut-out animation of a [subject] [simple action], full-body character, lay
 ```
 
 *Replace `[subject]` with your person or character and `[simple action]` with the action you want to depict.*
-
-[← Back to this case in the README](../README.md#p09-paper-folk-story)

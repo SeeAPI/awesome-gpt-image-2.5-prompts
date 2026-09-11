@@ -1,14 +1,8 @@
 # P29. Caramel Suit Studio Portrait
 
-**by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)** · [Source](https://x.com/abs_uiux/status/2098216202870964315)
-
 ## 👀 Preview
 
 [<img src="../assets/p29-caramel-suit-studio-portrait/source-example-01.jpg" width="267" height="400" alt="Caramel Suit Studio Portrait — source example">](../assets/p29-caramel-suit-studio-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload a composition, clothing, pose and lighting reference. The original input is not included.
 
 ## 👇 Workflow
 
@@ -29,5 +23,3 @@ Use a minimal light-gray studio background with a seamless gray floor. Lighting 
 
 Full-body framing from head to shoes, centered composition, eye-level camera angle, editorial menswear photography, realistic skin texture, sharp focus, premium fashion campaign aesthetic, clean minimal styling, photorealistic, high detail, 4K quality, vertical 2:3 composition.
 ```
-
-[← Back to this case in the README](../README.md#p29-caramel-suit-studio-portrait)

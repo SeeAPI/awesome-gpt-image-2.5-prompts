@@ -59,38 +59,38 @@ Choose a subject or technique. A case can appear in more than one category.
 
 ## 🗂 Prompt Directory
 
-- [P40: Desert Motorcycle Editorial Poster](#p40-desert-motorcycle-editorial-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)
-- [P39: Neon Motorsport Poster](#p39-neon-motorsport-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
-- [P38: Candid Mont-Saint-Michel Travel Portrait](#p38-candid-mont-saint-michel-travel-portrait) (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source](https://x.com/saniaspeaks_/status/2097532595814940683)
-- [P37: Realistic iPhone Cafe Portrait](#p37-realistic-iphone-cafe-portrait) (by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source](https://x.com/blueemi99/status/2097602273085931662)
-- [P36: Dreamy High-Angle Qipao Portrait](#p36-dreamy-high-angle-qipao-portrait) (by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source](https://x.com/BubbleBrain/status/2097513469172129825)
-- [P35: Monochrome Cybernetic Horror Portrait](#p35-monochrome-cybernetic-horror-portrait) (by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source](https://x.com/meng_dagg695/status/2097558679956664521)
-- [P34: Woodland Clearing](#p34-woodland-clearing) (by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source](https://x.com/mark_k/status/2097411028510179759)
-- [P33: Expressive Meme Sticker Sheet](#p33-expressive-meme-sticker-sheet) (Author unconfirmed) · [Source](https://www.aiimage.net/prompts/)
-- [P32: Dog Compositing into a Street Scene](#p32-dog-compositing-into-a-street-scene) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
-- [P31: Virtual Outfit Replacement](#p31-virtual-outfit-replacement) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
-- [P30: Spanish Infographic Translation](#p30-spanish-infographic-translation) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
-- [P29: Caramel Suit Studio Portrait](#p29-caramel-suit-studio-portrait) (by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source](https://x.com/abs_uiux/status/2098216202870964315)
-- [P28: Fashion Movements Across Four Decades](#p28-fashion-movements-across-four-decades) (by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [Source](https://x.com/Gdgtify/status/2098228786156196084)
-- [P27: Cereal Box Nutrition Panel](#p27-cereal-box-nutrition-panel) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P26: Ornate Award Certificate](#p26-ornate-award-certificate) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P25: Three-Panel Dialogue Comic](#p25-three-panel-dialogue-comic) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P24: Boarding Pass Layout](#p24-boarding-pass-layout) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P23: National Park Trail Map](#p23-national-park-trail-map) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P22: Wine Label with Tasting Notes](#p22-wine-label-with-tasting-notes) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source](https://www.aiimage.net/prompts/)
-- [P21: Vintage Toy Airplane Packaging](#p21-vintage-toy-airplane-packaging) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P20: Cellular Respiration Classroom Diagram](#p20-cellular-respiration-classroom-diagram) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P19: Farmers Market Mobile App Mockup](#p19-farmers-market-mobile-app-mockup) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P18: Four-Panel Pet Comic](#p18-four-panel-pet-comic) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P17: 1969 Outdoor Festival Crowd](#p17-1969-outdoor-festival-crowd) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P16: Minimal Bakery Logo](#p16-minimal-bakery-logo) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P15: Streetwear Campaign with Exact Typography](#p15-streetwear-campaign-with-exact-typography) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P14: Automatic Coffee Machine Infographic](#p14-automatic-coffee-machine-infographic) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P13: Candid Sailor Portrait](#p13-candid-sailor-portrait) (Author unconfirmed) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P12: Cinematic Subway Motion Portrait](#p12-cinematic-subway-motion-portrait) (Author unconfirmed) · [Source](https://www.aiimage.net/prompts/)
-- [P11: Character Dance Pose Grid](#p11-character-dance-pose-grid) (by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source](https://x.com/renoiseai/status/2097959984265130436)
-- [P10: 1980s Retro Film Portrait](#p10-1980s-retro-film-portrait) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source](https://x.com/Goodmanprotocol/status/2097954772586557873)
-- [P09: Paper Folk Story (by @azed_ai)](#p09-paper-folk-story) · [Source](https://x.com/azed_ai/status/2096191635348705726)
+- [P40: Desert Motorcycle Editorial Poster](#p40-desert-motorcycle-editorial-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)
+- [P39: Neon Motorsport Poster](#p39-neon-motorsport-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
+- [P38: Candid Mont-Saint-Michel Travel Portrait](#p38-candid-mont-saint-michel-travel-portrait) (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683)
+- [P37: Realistic iPhone Cafe Portrait](#p37-realistic-iphone-cafe-portrait) (by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source: X](https://x.com/blueemi99/status/2097602273085931662)
+- [P36: Dreamy High-Angle Qipao Portrait](#p36-dreamy-high-angle-qipao-portrait) (by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825)
+- [P35: Monochrome Cybernetic Horror Portrait](#p35-monochrome-cybernetic-horror-portrait) (by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521)
+- [P34: Woodland Clearing](#p34-woodland-clearing) (by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source: X](https://x.com/mark_k/status/2097411028510179759)
+- [P33: Expressive Meme Sticker Sheet](#p33-expressive-meme-sticker-sheet) (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P32: Dog Compositing into a Street Scene](#p32-dog-compositing-into-a-street-scene) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+- [P31: Virtual Outfit Replacement](#p31-virtual-outfit-replacement) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+- [P30: Spanish Infographic Translation](#p30-spanish-infographic-translation) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+- [P29: Caramel Suit Studio Portrait](#p29-caramel-suit-studio-portrait) (by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315)
+- [P28: Fashion Movements Across Four Decades](#p28-fashion-movements-across-four-decades) (by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [Source: X](https://x.com/Gdgtify/status/2098228786156196084)
+- [P27: Cereal Box Nutrition Panel](#p27-cereal-box-nutrition-panel) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P26: Ornate Award Certificate](#p26-ornate-award-certificate) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P25: Three-Panel Dialogue Comic](#p25-three-panel-dialogue-comic) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P24: Boarding Pass Layout](#p24-boarding-pass-layout) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P23: National Park Trail Map](#p23-national-park-trail-map) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P22: Wine Label with Tasting Notes](#p22-wine-label-with-tasting-notes) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P21: Vintage Toy Airplane Packaging](#p21-vintage-toy-airplane-packaging) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P20: Cellular Respiration Classroom Diagram](#p20-cellular-respiration-classroom-diagram) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P19: Farmers Market Mobile App Mockup](#p19-farmers-market-mobile-app-mockup) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P18: Four-Panel Pet Comic](#p18-four-panel-pet-comic) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P17: 1969 Outdoor Festival Crowd](#p17-1969-outdoor-festival-crowd) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P16: Minimal Bakery Logo](#p16-minimal-bakery-logo) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P15: Streetwear Campaign with Exact Typography](#p15-streetwear-campaign-with-exact-typography) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P14: Automatic Coffee Machine Infographic](#p14-automatic-coffee-machine-infographic) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P13: Candid Sailor Portrait](#p13-candid-sailor-portrait) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P12: Cinematic Subway Motion Portrait](#p12-cinematic-subway-motion-portrait) (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P11: Character Dance Pose Grid](#p11-character-dance-pose-grid) (by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source: X](https://x.com/renoiseai/status/2097959984265130436)
+- [P10: 1980s Retro Film Portrait](#p10-1980s-retro-film-portrait) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)
+- [P09: Paper Folk Story (by @azed_ai)](#p09-paper-folk-story) · [Source: X](https://x.com/azed_ai/status/2096191635348705726)
 - [P08: Glass Material Remix (by SeeAPI)](#p08-glass-material-remix)
 - [P07: Paper-Cut Storybook Scene (by SeeAPI)](#p07-paper-cut-storybook-scene)
 - [P06: Portrait Reference to Multi-View Sheet (by SeeAPI)](#p06-portrait-reference-to-multi-view-sheet)
@@ -103,15 +103,9 @@ Choose a subject or technique. A case can appear in more than one category.
 
 ### P40. Desert Motorcycle Editorial Poster
 
-**by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)** · [Source](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)
-
 #### 👀 Preview
 
 [<img src="assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp" width="400" height="400" alt="Desert Motorcycle Editorial Poster — source example">](assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model configured in the source workflow: GPT Image 2.5 Sunburst.
-
-The original prompt requests both “only” the title text and additional caption text. Resolve that conflict before generating.
 
 #### 👇 Workflow
 
@@ -123,16 +117,11 @@ The original prompt requests both “only” the title text and additional capti
 1:1 square editorial fashion poster, futuristic desert motorcycle rally scene. A rugged male biker with long dark hair and weathered leather jacket stands beside a giant black armored motorcycle in the center, surrounded by enormous rusty mechanical towers, glowing energy gates and drifting sandstorms. He has a confident expression, arms crossed, leaning slightly against the bike. Large oversized display typography spelling the exact text “GPT IMAGE 2.5” in bold industrial sans-serif font, burnt orange, letters weaving through the upper half of the frame, some behind the biker, some in front, overlapping motorcycle parts and desert towers, the only text in the scene. Small scattered graphic elements: circular speed badge upper right, rubber-stamp style icon lower left, thin wavy line doodles, tiny star icons, small crescent near bottom, vertical stack of colourful abstract symbols on right edge, small sun-shaped emblem bottom right. Short justified caption-style text block lower right, subtitle line above it in thin tracked-out caps. Asymmetric grid layout, burnt orange, black, desert beige and electric blue palette, hyperrealistic 3D render, cinematic depth of field, intricate details, soft grainy film texture, premium print quality.
 ```
 
-
 ### P39. Neon Motorsport Poster
-
-**by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)** · [Source](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
 
 #### 👀 Preview
 
 [<img src="assets/p39-neon-motorsport-poster/source-example-01.webp" width="400" height="400" alt="Neon Motorsport Poster — source example">](assets/p39-neon-motorsport-poster/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model configured in the source workflow: GPT Image 2.5 Flare.
 
 #### 👇 Workflow
 
@@ -144,16 +133,11 @@ Source examples; not generated or independently tested by this repository. Model
 1:1 square poster, an extreme close-up, high-contrast shot of a racing car front nose, aerodynamic wing and tire rim, cutting through darkness with bright red motion blur and glowing orange light. The words “GPT IMAGE 2.5” are projected directly onto the car body in brilliant neon orange, overlapping the front wing and tire rim. Intense red and black palette, cinematic low key, sharp reflections, dramatic low angle, shallow depth of field, high-speed motorsport aesthetic. No sidebar, no extra UI panels, no technical symbols, no barcode, no additional text except “GPT IMAGE 2.5”.
 ```
 
-
 ### P38. Candid Mont-Saint-Michel Travel Portrait
-
-**by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)** · [Source](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 #### 👀 Preview
 
 [<img src="assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg" width="300" height="400" alt="Candid Mont-Saint-Michel Travel Portrait — source example">](assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
 
 #### 👇 Workflow
 
@@ -171,18 +155,11 @@ The composition captures her in the foreground while the vast historic abbey dom
 Ultra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.
 ```
 
-
 ### P37. Realistic iPhone Cafe Portrait
-
-**by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)** · [Source](https://x.com/blueemi99/status/2097602273085931662)
 
 #### 👀 Preview
 
 [<img src="assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg" width="300" height="400" alt="Realistic iPhone Cafe Portrait — source example">](assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Inspect hand and finger anatomy before reuse.
 
 #### 👇 Workflow
 
@@ -194,16 +171,11 @@ Inspect hand and finger anatomy before reuse.
 make me a realistic iphone photo of a woman in a cafe
 ```
 
-
 ### P36. Dreamy High-Angle Qipao Portrait
-
-**by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)** · [Source](https://x.com/BubbleBrain/status/2097513469172129825)
 
 #### 👀 Preview
 
 [<img src="assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg" width="225" height="400" alt="Dreamy High-Angle Qipao Portrait — source example">](assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
 
 #### 👇 Workflow
 
@@ -215,16 +187,11 @@ Source examples; not generated or independently tested by this repository. Model
 9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
 ```
 
-
 ### P35. Monochrome Cybernetic Horror Portrait
-
-**by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)** · [Source](https://x.com/meng_dagg695/status/2097558679956664521)
 
 #### 👀 Preview
 
 [<img src="assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg" width="400" height="400" alt="Monochrome Cybernetic Horror Portrait — source example">](assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
 
 #### 👇 Workflow
 
@@ -236,18 +203,11 @@ Source examples; not generated or independently tested by this repository. Model
 Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.
 ```
 
-
 ### P34. Woodland Clearing
-
-**by [@mark_k](https://x.com/mark_k/status/2097411028510179759)** · [Source](https://x.com/mark_k/status/2097411028510179759)
 
 #### 👀 Preview
 
 [<img src="assets/p34-woodland-clearing/source-example-01.jpg" width="400" height="300" alt="Woodland Clearing — source example">](assets/p34-woodland-clearing/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-The source presents this as a noise-artifact test and describes mixed results. Inspect fine foliage texture.
 
 #### 👇 Workflow
 
@@ -259,18 +219,11 @@ The source presents this as a noise-artifact test and describes mixed results. I
 Photo of a clearing in the woods with lots of green foliage, highly detailed
 ```
 
-
 ### P33. Expressive Meme Sticker Sheet
-
-**Author unconfirmed** · Collected from [SeeAPI](https://www.aiimage.net/prompts/) · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg" width="400" height="300" alt="Expressive Meme Sticker Sheet — source example">](assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed.
-
-Upload a character reference. This JPEG preview has a baked-in checkerboard, not transparent pixels; a transparent final output is still needed.
 
 #### 👇 Workflow
 
@@ -286,18 +239,11 @@ Create a Meme sticker pack based on the images attached, remixing with 😎😛�
 Create a single square(1:1) transparent sticker sheet with nine distinct stickers arranged in a 3×3 grid, each showing a different expression, pose, or reaction. Separate the stickers with wide, fully transparent gaps. No background, shadows, or overlapping elements.
 ```
 
-
 ### P32. Dog Compositing into a Street Scene
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
 
 #### 👀 Preview
 
 [<img src="assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg" width="400" height="313" alt="Dog Compositing into a Street Scene — source example">](assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-Upload the street scene first and dog reference second. Original inputs are not included; the preview is a source-labelled output comparison.
 
 #### 👇 Workflow
 
@@ -309,18 +255,11 @@ Upload the street scene first and dog reference second. Original inputs are not 
 Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
 ```
 
-
 ### P31. Virtual Outfit Replacement
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
 
 #### 👀 Preview
 
 [<img src="assets/p31-virtual-outfit-replacement/source-example-01.jpg" width="400" height="313" alt="Virtual Outfit Replacement — source example">](assets/p31-virtual-outfit-replacement/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-Upload the person photo and clothing references. Original input images are not included; the preview is a source-labelled output comparison.
 
 #### 👇 Workflow
 
@@ -332,18 +271,11 @@ Upload the person photo and clothing references. Original input images are not i
 Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
 ```
 
-
 ### P30. Spanish Infographic Translation
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
 
 #### 👀 Preview
 
 [<img src="assets/p30-spanish-infographic-translation/source-example-01.jpg" width="400" height="313" alt="Spanish Infographic Translation — source example">](assets/p30-spanish-infographic-translation/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-Upload the English coffee-machine infographic (see P14) or your own infographic. Proofread Spanish labels and check layout preservation.
 
 #### 👇 Workflow
 
@@ -355,18 +287,11 @@ Upload the English coffee-machine infographic (see P14) or your own infographic.
 Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
 ```
 
-
 ### P29. Caramel Suit Studio Portrait
-
-**by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)** · [Source](https://x.com/abs_uiux/status/2098216202870964315)
 
 #### 👀 Preview
 
 [<img src="assets/p29-caramel-suit-studio-portrait/source-example-01.jpg" width="267" height="400" alt="Caramel Suit Studio Portrait — source example">](assets/p29-caramel-suit-studio-portrait/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload a composition, clothing, pose and lighting reference. The original input is not included.
 
 #### 👇 Workflow
 
@@ -388,18 +313,11 @@ Use a minimal light-gray studio background with a seamless gray floor. Lighting 
 Full-body framing from head to shoes, centered composition, eye-level camera angle, editorial menswear photography, realistic skin texture, sharp focus, premium fashion campaign aesthetic, clean minimal styling, photorealistic, high detail, 4K quality, vertical 2:3 composition.
 ```
 
-
 ### P28. Fashion Movements Across Four Decades
-
-**by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)** · [Source](https://x.com/Gdgtify/status/2098228786156196084)
 
 #### 👀 Preview
 
 [<img src="assets/p28-fashion-movements-across-four-decades/source-example-01.jpg" width="400" height="225" alt="Fashion Movements Across Four Decades — source example">](assets/p28-fashion-movements-across-four-decades/source-example-01.jpg)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-The original prompt conflicts between 16:9 and 1:1. Choose the intended ratio before generating; the collected text is unchanged.
 
 #### 👇 Workflow
 
@@ -411,131 +329,91 @@ The original prompt conflicts between 16:9 and 1:1. Choose the intended ratio be
 2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution = self.resolve_auto_fields(topic)              def resolve_auto_fields(self, topic):         # Module 2: Copy & Facts         self.title = generate_title(topic, max_words=5)         self.tagline = generate_tagline(topic, min_words=3, max_words=8)         self.labels = extract_key_points(topic, count=6-12, relationship="components") # principles/stages/types                  # Module 3: The Surreal Character Engine         self.mechanism = infer_verb(topic) # e.g., "filtering", "branching", "accumulating"         self.base_form = select_organism(self.mechanism) # human, animal, or object         # CRITICAL: Transformation must be structural, not just accessories         self.transformation = invent_structural_alteration(self.base_form, self.mechanism)         self.pose = select_pose(topic, attitude="intriguing_uncanny")                  # Module 5: Geometry & Palette         self.geometry = select_geometric_family(topic) # rays, arcs, ribbons, grids         self.palette = derive_accent_colors(topic, count=2-6, mood="flat_matte_weathered")      def verify_character_logic(self):         # The "Thumbnail & Concept" Check         assert is_structural(self.transformation), "Module 3: Must be anatomy/proportion, not accessories."         assert fits_sentence(self.transformation, self.mechanism), "Module 3: Logic check failed."         assert visible_at_thumbnail(self.transformation), "Module 3: Must read at small scale."         assert not is_generic_cute_scary(self.pose), "Module 3: Avoid default emotional tropes."      def render(self):         self.verify_character_logic()                  # Module 1 & 6: Style Kernel         canvas = Canvas(aspect="1:1", bg="warm_ivory", texture="subtle_analog_grain")                  # Hero: Grayscale, sculptural shading, stippling/halftone         hero = render_grayscale_sculptural(self.base_form, self.transformation, self.pose,                                             shading="fine_stippling", texture="tactile_print")                  # Module 4: Adaptive Layout         layout = adaptive_composition(             hero=hero,              title=self.title, # Oversized, black, condensed, uppercase             labels=self.labels, # Compact, high contrast             geometry=self.geometry, # Connects hero to info             palette=self.palette # Flat, matte accents         )                  return canvas.compose(layout, typography="extreme_contrast_hierarchy")  EditorialPoster($ TOPIC).render()
 ```
 
-
 ### P27. Cereal Box Nutrition Panel
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p27-cereal-box-nutrition-panel/source-example-01.webp" width="400" height="226" alt="Cereal Box Nutrition Panel — source example">](assets/p27-cereal-box-nutrition-panel/source-example-01.webp)
 
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
-
 #### 👇 Workflow
 
 `Text → image`
 
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 A cereal box back panel, a full nutrition table with every figure legible
 ```
 
-
 ### P26. Ornate Award Certificate
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p26-ornate-award-certificate/source-example-01.webp" width="400" height="226" alt="Ornate Award Certificate — source example">](assets/p26-ornate-award-certificate/source-example-01.webp)
 
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
-
 #### 👇 Workflow
 
 `Text → image`
 
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 An award certificate, ornate border, name and date in calligraphic script
 ```
 
-
 ### P25. Three-Panel Dialogue Comic
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p25-three-panel-dialogue-comic/source-example-01.webp" width="400" height="226" alt="Three-Panel Dialogue Comic — source example">](assets/p25-three-panel-dialogue-comic/source-example-01.webp)
 
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
-
 #### 👇 Workflow
 
 `Text → image`
 
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 ```
 
-
 ### P24. Boarding Pass Layout
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p24-boarding-pass-layout/source-example-01.webp" width="400" height="225" alt="Boarding Pass Layout — source example">](assets/p24-boarding-pass-layout/source-example-01.webp)
 
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
-
 #### 👇 Workflow
 
 `Text → image`
 
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 ```
 
-
 ### P23. National Park Trail Map
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p23-national-park-trail-map/source-example-01.webp" width="400" height="225" alt="National Park Trail Map — source example">](assets/p23-national-park-trail-map/source-example-01.webp)
 
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
-
 #### 👇 Workflow
 
 `Text → image`
 
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 A national park trail map poster, six routes labelled with names and distances
 ```
 
-
 ### P22. Wine Label with Tasting Notes
-
-**Collected from [SeeAPI](https://www.aiimage.net/prompts/)** · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p22-wine-label-with-tasting-notes/source-example-01.webp" width="400" height="225" alt="Wine Label with Tasting Notes — source example">](assets/p22-wine-label-with-tasting-notes/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. This is a short published template; the complete generation input for the preview is unconfirmed.
 
 #### 👇 Workflow
 
@@ -543,24 +421,17 @@ Source examples; not generated or independently tested by this repository. Model
 
 #### 🔖 Full Prompt
 
-**Short source template**
-
 ```text
 A wine bottle label, estate name, vintage year, and four lines of tasting notes
 ```
 
-
 ### P21. Vintage Toy Airplane Packaging
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p21-vintage-toy-airplane-packaging/source-example-01.webp" width="267" height="400" alt="Vintage Toy Airplane Packaging — source example">](assets/p21-vintage-toy-airplane-packaging/source-example-01.webp)
 
 [<img src="assets/p21-vintage-toy-airplane-packaging/source-example-02.webp" width="267" height="400" alt="Vintage Toy Airplane Packaging — source example">](assets/p21-vintage-toy-airplane-packaging/source-example-02.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -588,18 +459,11 @@ No logos
 Include ONLY this packaging text (verbatim): "Christmas Memories Edition"
 ```
 
-
 ### P20. Cellular Respiration Classroom Diagram
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp" width="400" height="267" alt="Cellular Respiration Classroom Diagram — source example">](assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-Scientific labels and molecule counts need subject-matter review before classroom use.
 
 #### 👇 Workflow
 
@@ -615,18 +479,13 @@ Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs 
 Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
 ```
 
-
 ### P19. Farmers Market Mobile App Mockup
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp" width="267" height="400" alt="Farmers Market Mobile App Mockup — source example">](assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp)
 
 [<img src="assets/p19-farmers-market-mobile-app-mockup/source-example-02.webp" width="267" height="400" alt="Farmers Market Mobile App Mockup — source example">](assets/p19-farmers-market-mobile-app-mockup/source-example-02.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -642,16 +501,11 @@ It should look like a real, well-designed, beautiful app for a small local marke
 Place the UI mockup in an iPhone frame.
 ```
 
-
 ### P18. Four-Panel Pet Comic
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p18-four-panel-pet-comic/source-example-01.webp" width="267" height="400" alt="Four-Panel Pet Comic — source example">](assets/p18-four-panel-pet-comic/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -667,18 +521,13 @@ Panel 3: The house transformed. The pet sprawls across the couch like it owns th
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
-
 ### P17. 1969 Outdoor Festival Crowd
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p17-1969-outdoor-festival-crowd/source-example-01.webp" width="267" height="400" alt="1969 Outdoor Festival Crowd — source example">](assets/p17-1969-outdoor-festival-crowd/source-example-01.webp)
 
 [<img src="assets/p17-1969-outdoor-festival-crowd/source-example-02.webp" width="267" height="400" alt="1969 Outdoor Festival Crowd — source example">](assets/p17-1969-outdoor-festival-crowd/source-example-02.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -691,18 +540,9 @@ Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
 ```
 
-
 ### P16. Minimal Bakery Logo
 
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-
 #### 👀 Preview
-
-Example image pending.
-
-Collected prompt; no example or independent generation test is included. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-No clear preview is available. Generate and inspect the logo and alpha channel before use.
 
 #### 👇 Workflow
 
@@ -717,16 +557,11 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
 ```
 
-
 ### P15. Streetwear Campaign with Exact Typography
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp" width="267" height="400" alt="Streetwear Campaign with Exact Typography — source example">](assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -743,20 +578,13 @@ Render the tagline exactly once, clearly and legibly, integrated into the ad lay
 No extra text, no watermarks, no unrelated logos.
 ```
 
-
 ### P14. Automatic Coffee Machine Infographic
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p14-automatic-coffee-machine-infographic/source-example-01.webp" width="267" height="400" alt="Automatic Coffee Machine Infographic — source example">](assets/p14-automatic-coffee-machine-infographic/source-example-01.webp)
 
 [<img src="assets/p14-automatic-coffee-machine-infographic/source-example-02.webp" width="267" height="400" alt="Automatic Coffee Machine Infographic — source example">](assets/p14-automatic-coffee-machine-infographic/source-example-02.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
-
-Inspect the technical flow and small labels before using this as an explanatory diagram.
 
 #### 👇 Workflow
 
@@ -770,16 +598,11 @@ From bean basket, to grinding, to scale, water tank, boiler, etc.
 I'd like to understand technically and visually the flow.
 ```
 
-
 ### P13. Candid Sailor Portrait
-
-**Author unconfirmed** · Collected from [u/Fun_Walk_4965](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · [Source](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 
 #### 👀 Preview
 
 [<img src="assets/p13-candid-sailor-portrait/source-example-01.webp" width="267" height="400" alt="Candid Sailor Portrait — source example">](assets/p13-candid-sailor-portrait/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed. The repost attributes these prompts to OpenAI; that original attribution has not been independently verified.
 
 #### 👇 Workflow
 
@@ -795,16 +618,11 @@ Soft coastal daylight, shallow depth of field, subtle film grain, natural color 
 The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
 ```
 
-
 ### P12. Cinematic Subway Motion Portrait
-
-**Author unconfirmed** · Collected from [SeeAPI](https://www.aiimage.net/prompts/) · [Source](https://www.aiimage.net/prompts/)
 
 #### 👀 Preview
 
 [<img src="assets/p12-cinematic-subway-motion-portrait/source-example-01.webp" width="224" height="400" alt="Cinematic Subway Motion Portrait — source example">](assets/p12-cinematic-subway-motion-portrait/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5. Original authorship is unconfirmed.
 
 #### 👇 Workflow
 
@@ -816,18 +634,11 @@ Source examples; not generated or independently tested by this repository. Model
 cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. She is wearing a cream-colored, off-the-shoulder ribbed knit sweater that emphasizes the soft texture of the wool. In her hands, she clutches a vibrant bouquet of orange and deep red gerbera daisies, which serve as the primary color accent against her neutral clothing. The background is a dynamic, horizontal motion blur of a silver and yellow subway train, creating a high-contrast sense of speed against her stillness. The lighting is a blend of cool, overhead station light and warm highlights on her skin, captured with a shallow depth of field and a subtle cinematic film grain.
 ```
 
-
 ### P11. Character Dance Pose Grid
-
-**by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)** · [Source](https://x.com/renoiseai/status/2097959984265130436)
 
 #### 👀 Preview
 
 [<img src="assets/p11-character-dance-pose-grid/source-example-01.webp" width="400" height="400" alt="Character Dance Pose Grid — source example">](assets/p11-character-dance-pose-grid/source-example-01.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload one character reference. The source input is not included; this is a still pose sheet, not an animation.
 
 #### 👇 Workflow
 
@@ -874,10 +685,7 @@ Final output: one complete, clearly readable 4×4 sheet of sixteen original danc
 
 *Replace `@[Image 1]` with your uploaded character reference.*
 
-
 ### P10. 1980s Retro Film Portrait
-
-**by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)** · [Source](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 #### 👀 Preview
 
@@ -888,10 +696,6 @@ Final output: one complete, clearly readable 4×4 sheet of sixteen original danc
 [<img src="assets/p10-1980s-retro-film-portrait/source-example-03.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](assets/p10-1980s-retro-film-portrait/source-example-03.webp)
 
 [<img src="assets/p10-1980s-retro-film-portrait/source-example-04.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](assets/p10-1980s-retro-film-portrait/source-example-04.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload your own identity reference; the original input portraits are not included.
 
 #### 👇 Workflow
 
@@ -908,7 +712,6 @@ Capture the image as if shot on a 35mm analog film camera, with realistic film g
 
 Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
-
 
 ### P09. Paper Folk Story
 
@@ -989,7 +792,6 @@ Use a plain [background color] studio background, soft even lighting, and the sa
 ```
 
 *Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
-
 
 ### P05. Editorial Poster with Exact Copy
 
@@ -1121,8 +923,6 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 
 [<img src="assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
-
-
 #### 👇 Workflow
 
 `Text / optional character reference → sprite sheet → GIF`
@@ -1131,8 +931,6 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 
 **Step 1 — Text → sprite sheet**
 
-Optional: upload one character reference.
-
 ```text
 Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
 ```
@@ -1140,8 +938,6 @@ Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cel
 *Replace `[a gray elephant is rolling on the ground]` with your own content before generating.*
 
 **Step 2 — Sprite sheet → GIF**
-
-Upload the complete 4 × 4 sheet to Codex.
 
 ```text
 Turn the attached 4x4 character sprite sheet into an animated GIF. Use Python and Pillow to extract all 16 cells, reading left to right and top to bottom. Inspect the poses and choose a coherent action sequence from anticipation through the signature action and recovery; reorder frames only where this improves continuity.
@@ -1160,8 +956,6 @@ Preserve the pixel art and white background. Use a shared color palette, no dith
 **Penguin star contact sheet**
 
 [<img src="assets/02-clay-stop-motion/penguin-star-contact-sheet.png" width="400" height="400" alt="penguin star contact sheet">](assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
-
-
 
 #### 👇 Workflow
 
@@ -1196,8 +990,6 @@ Preserve one locked camera, consistent subject scale, fixed set placement, backg
 *Replace `[simple action]` with the movement you want to animate.*
 
 **Step 3 — Contact sheet → GIF**
-
-Upload the complete sheet to Codex; preserve one shared scene crop.
 
 ```text
 Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
@@ -1237,8 +1029,6 @@ Inspect the character, rod, line, star, ice hole, and first-to-last transition. 
 
 [<img src="assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](assets/04-storyboard-video/shot-04.png)
 
-
-
 #### 👇 Workflow
 
 `Text → character reference → storyboard → individual shot images → video clips → edited video`
@@ -1247,16 +1037,12 @@ Inspect the character, rod, line, star, ice hole, and first-to-last transition. 
 
 **Step 1 — Text → character reference**
 
-Generate Inez’s identity image.
-
 ```text
 Generate one landscape 3:2 clean single-character full-body identity reference portrait. Original protagonist INEZ, a lighthouse mechanic aged about 60, warm tan skin, short silver-gray curly hair, round tortoiseshell glasses, kind lined face, navy wool chore coat over an ochre knitted sweater, charcoal trousers and weathered dark brown work boots. Her hands are empty and visible, arms relaxed, head and boots fully inside the frame with ample margins. She stands in a neutral three-quarter pose against a simple warm gray studio backdrop. No other characters or props, no collage or additional views, no text.
 Visual style: tactile miniature stop-motion film design, felted wool costume, subtly sculpted expressive face, cinematic soft overcast coastal light, muted navy and ochre palette, believable anatomy. Preserve the subject as a clearly older adult woman, no glamour retouching.
 ```
 
 **Step 2 — Character reference → storyboard**
-
-Upload Inez’s reference, then crop the 2 × 2 storyboard into four separate shot images.
 
 ```text
 Use the uploaded full-body portrait of INEZ as the strict identity and visual-style reference. Preserve her older adult face, short silver-gray curls, round tortoiseshell glasses, navy wool coat, ochre sweater, charcoal trousers, and brown work boots. Create one 16:9 storyboard sheet divided into an EXACT 2x2 grid of four equal 16:9 cinematic panels, no gutters, panel labels, numbers, captions, text, or borders. Reading order is left to right, top to bottom. This is a four-shot narrative storyboard, NOT consecutive animation frames.
@@ -1272,8 +1058,6 @@ Keep causal continuity, a single recognizable protagonist, one bird, stable cost
 ```
 
 **Step 3 — Individual shot images → video clips → edited video**
-
-Upload the matching shot image for each clip, not the full storyboard. Assemble clips in shot order.
 
 ```text
 Create a 12-second, 16:9 miniature stop-motion-style short film called The Last Flight, with four shots and clear tactile stepped motion. Do not render the title as text. C04-R01 is the identity reference for Inez. C04-B01 is a storyboard for planning only, not a frame sheet to animate directly. C04-K01 through C04-K04 are individual shot-start references. Never show the grid or multiple panels in the video.
@@ -1308,8 +1092,6 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 [<img src="assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](assets/05-distant-observer/robot-reference.png)
 
-
-
 #### 👇 Workflow
 
 `Text → character reference → scene image → corrected scene image → video`
@@ -1318,8 +1100,6 @@ Limited-input fallback: generate four separate 3-second clips using only the mat
 
 **Step 1 — Text → character reference**
 
-Generate the robot identity image.
-
 ```text
 Create one portrait 2:3 full-body character identity reference photograph of an original friendly obsolete street-maintenance robot. It is a physically built practical movie prop, about 2 meters tall, with a stocky weathered rust-red steel torso, off-white rounded rectangular head, exactly two small round dark glass eyes, no mouth, two thick articulated arms, exactly three blunt fingers on each hand, two short sturdy legs, and broad dark rubber feet. Its plates show chipped paint and light rain marks, never military armor. One small olive canvas pouch is strapped at its left hip. No writing, badges, logos, screens, weapons, or human face.
 The robot stands upright in a relaxed front three-quarter pose on a plain mid-gray studio floor and seamless backdrop. Both empty hands, full head, and both feet are clearly visible with ample margins. No props in the hands, no umbrella in this identity reference. Keep one single robot, no collage, no turnaround grid, no other subject.
@@ -1327,8 +1107,6 @@ Photoreal practical-effects cinematography, tactile metal and canvas, soft overc
 ```
 
 **Step 2 — Character reference → scene image**
-
-Upload the robot portrait.
 
 ```text
 Use the uploaded robot portrait as the strict identity reference C05-R01: preserve the rust-red stocky steel body, off-white rounded rectangular head, two round dark eyes, no mouth, two arms, three blunt fingers per hand, two legs, rubber feet, and single olive pouch at its left hip.
@@ -1342,8 +1120,6 @@ Quiet old tram-stop frontage with a closed teal shutter behind the robot, damp p
 
 **Step 3 — Scene image → corrected scene image**
 
-Upload the draft scene alone to reposition the flowerpot.
-
 ```text
 Edit this distant rainy street frame with one local correction only. Move the existing terracotta pot and its single white flower to the RIGHT along the same sidewalk plane, so the ENTIRE pot and flower are visibly outside the yellow umbrella canopy's rightmost edge and receiving rain. Place the pot center at approximately 89% of image width, preserving its current size and its grounded contact with the sidewalk. Leave a visible horizontal rain-filled gap between the canopy's right edge and the flower. Remove the pot completely from its old position; there must still be exactly one pot and one flower.
 
@@ -1351,8 +1127,6 @@ Keep everything else unchanged: exact camera distance and framing, small robot s
 ```
 
 **Step 4 — Corrected scene image → video**
-
-Upload the corrected rainy-street image as the first frame; the robot portrait is optional.
 
 ```text
 Animate C05-K01 as the exact first frame of an 8-second photoreal 9:16 distant-observer video, one uninterrupted shot. C05-R01 is optional robot identity reference only if the tool supports an extra reference slot. If only one image is allowed, use C05-K01. Preserve its street layout, wet road, teal shutter, foreground doorway edge, robot size, umbrella, and flowerpot.
@@ -1374,13 +1148,9 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 
 [<img src="assets/featured/glass-orbit.gif" width="320" height="320" alt="Supplied orbit video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
 
-[**Original MP4**](assets/06-360-orbit/frosted-glass-mug-orbit.mp4)
-
 **Frosted glass mug poster**
 
 [<img src="assets/06-360-orbit/frosted-glass-mug-poster.png" width="400" height="400" alt="frosted glass mug poster">](assets/06-360-orbit/frosted-glass-mug-poster.png)
-
-
 
 #### 👇 Workflow
 
@@ -1389,8 +1159,6 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 #### 🔖 Full Prompt
 
 **Step 1 — Text → poster image**
-
-No reference required; alternatively use the supplied poster.
 
 ```text
 A minimalist futurist exhibition poster with an ultra-light cool yellow background (#e7ff48).
@@ -1409,8 +1177,6 @@ The overall layout is clean with generous whitespace, balanced composition, shar
 
 **Step 2 — Poster image → 360° orbit video**
 
-Upload the poster as the first frame, and optionally the last frame. This is the full-orbit workflow target.
-
 ```text
 Create a 6-second, square 1:1 product film in ONE continuous shot, using C06-R01 as the exact opening composition. The hook is one complete 360-degree camera orbit around the same sculptural frosted-glass mug, revealing its fluid silhouette, hollow rim, single attached handle, and changing transmitted light. Preserve the minimalist futurist exhibition-poster aesthetic and cool yellow #E7FF48 to pearl-white palette.
 
@@ -1427,15 +1193,11 @@ End at the source camera angle, scale, lighting, and composition with zero resid
 
 **Step 3 — 360° orbit video — negative prompt**
 
-Use with Step 2 only.
-
 ```text
 Partial orbit, camera reversing before completing the circle, stationary-camera turntable spin, flat poster rotation, simple zoom or 2D parallax, jump cut hiding the back, extra mug, extra handle, detached handle, sealed mug opening, changing rim shape, melting glass, changing product scale, camera roll, tilt drift, sudden opacity changes, random sparkling particles, unstable grain, moving or misspelled lettering, mirrored text, text printed onto the mug, extra captions, watermarks, background color change, mismatched final viewpoint.
 ```
 
 **Step 4 — Alternative: poster image → supplied video**
-
-The supplied video’s original prompt requests approximately 120°, not a verified full 360° orbit. Use the poster as the first frame only.
 
 ```text
 Create image-to-video sequence in one continuous shot. Use the uploaded image as the opening frame. Preserve the original subject’s identity, appearance, proportions, clothing or surface details, visual style, lighting, and environment.

@@ -26,8 +26,6 @@
 
 [<img src="../assets/04-storyboard-video/shot-04.png" width="400" height="225" alt="shot 04">](../assets/04-storyboard-video/shot-04.png)
 
-
-
 ## 👇 Workflow
 
 `Text → character reference → storyboard → individual shot images → video clips → edited video`
@@ -36,16 +34,12 @@
 
 **Step 1 — Text → character reference**
 
-Generate Inez’s identity image.
-
 ```text
 Generate one landscape 3:2 clean single-character full-body identity reference portrait. Original protagonist INEZ, a lighthouse mechanic aged about 60, warm tan skin, short silver-gray curly hair, round tortoiseshell glasses, kind lined face, navy wool chore coat over an ochre knitted sweater, charcoal trousers and weathered dark brown work boots. Her hands are empty and visible, arms relaxed, head and boots fully inside the frame with ample margins. She stands in a neutral three-quarter pose against a simple warm gray studio backdrop. No other characters or props, no collage or additional views, no text.
 Visual style: tactile miniature stop-motion film design, felted wool costume, subtly sculpted expressive face, cinematic soft overcast coastal light, muted navy and ochre palette, believable anatomy. Preserve the subject as a clearly older adult woman, no glamour retouching.
 ```
 
 **Step 2 — Character reference → storyboard**
-
-Upload Inez’s reference, then crop the 2 × 2 storyboard into four separate shot images.
 
 ```text
 Use the uploaded full-body portrait of INEZ as the strict identity and visual-style reference. Preserve her older adult face, short silver-gray curls, round tortoiseshell glasses, navy wool coat, ochre sweater, charcoal trousers, and brown work boots. Create one 16:9 storyboard sheet divided into an EXACT 2x2 grid of four equal 16:9 cinematic panels, no gutters, panel labels, numbers, captions, text, or borders. Reading order is left to right, top to bottom. This is a four-shot narrative storyboard, NOT consecutive animation frames.
@@ -61,8 +55,6 @@ Keep causal continuity, a single recognizable protagonist, one bird, stable cost
 ```
 
 **Step 3 — Individual shot images → video clips → edited video**
-
-Upload the matching shot image for each clip, not the full storyboard. Assemble clips in shot order.
 
 ```text
 Create a 12-second, 16:9 miniature stop-motion-style short film called The Last Flight, with four shots and clear tactile stepped motion. Do not render the title as text. C04-R01 is the identity reference for Inez. C04-B01 is a storyboard for planning only, not a frame sheet to animate directly. C04-K01 through C04-K04 are individual shot-start references. Never show the grid or multiple panels in the video.
@@ -80,5 +72,3 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
-
-[← Back to this case in the README](../README.md#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine)

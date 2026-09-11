@@ -19,5 +19,3 @@ Arrange exactly three accessories in separate compartments to the figure's right
 ```
 
 *Replace `[toy name]`, `[backing color]`, `[character description]`, `[outfit or surface details]`, `[accessory 1]`, `[accessory 2]`, `[accessory 3]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p02-collectible-figure-packaging)

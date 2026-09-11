@@ -1,7 +1,5 @@
 # P10. 1980s Retro Film Portrait
 
-**by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)** · [Source](https://x.com/Goodmanprotocol/status/2097954772586557873)
-
 ## 👀 Preview
 
 [<img src="../assets/p10-1980s-retro-film-portrait/source-example-01.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](../assets/p10-1980s-retro-film-portrait/source-example-01.webp)
@@ -11,10 +9,6 @@
 [<img src="../assets/p10-1980s-retro-film-portrait/source-example-03.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](../assets/p10-1980s-retro-film-portrait/source-example-03.webp)
 
 [<img src="../assets/p10-1980s-retro-film-portrait/source-example-04.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](../assets/p10-1980s-retro-film-portrait/source-example-04.webp)
-
-Source examples; not generated or independently tested by this repository. Model claimed by the source: GPT Image 2.5.
-
-Upload your own identity reference; the original input portraits are not included.
 
 ## 👇 Workflow
 
@@ -31,5 +25,3 @@ Capture the image as if shot on a 35mm analog film camera, with realistic film g
 
 Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
-
-[← Back to this case in the README](../README.md#p10-1980s-retro-film-portrait)

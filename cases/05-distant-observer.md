@@ -14,8 +14,6 @@
 
 [<img src="../assets/05-distant-observer/robot-reference.png" width="267" height="400" alt="robot reference">](../assets/05-distant-observer/robot-reference.png)
 
-
-
 ## 👇 Workflow
 
 `Text → character reference → scene image → corrected scene image → video`
@@ -24,8 +22,6 @@
 
 **Step 1 — Text → character reference**
 
-Generate the robot identity image.
-
 ```text
 Create one portrait 2:3 full-body character identity reference photograph of an original friendly obsolete street-maintenance robot. It is a physically built practical movie prop, about 2 meters tall, with a stocky weathered rust-red steel torso, off-white rounded rectangular head, exactly two small round dark glass eyes, no mouth, two thick articulated arms, exactly three blunt fingers on each hand, two short sturdy legs, and broad dark rubber feet. Its plates show chipped paint and light rain marks, never military armor. One small olive canvas pouch is strapped at its left hip. No writing, badges, logos, screens, weapons, or human face.
 The robot stands upright in a relaxed front three-quarter pose on a plain mid-gray studio floor and seamless backdrop. Both empty hands, full head, and both feet are clearly visible with ample margins. No props in the hands, no umbrella in this identity reference. Keep one single robot, no collage, no turnaround grid, no other subject.
@@ -33,8 +29,6 @@ Photoreal practical-effects cinematography, tactile metal and canvas, soft overc
 ```
 
 **Step 2 — Character reference → scene image**
-
-Upload the robot portrait.
 
 ```text
 Use the uploaded robot portrait as the strict identity reference C05-R01: preserve the rust-red stocky steel body, off-white rounded rectangular head, two round dark eyes, no mouth, two arms, three blunt fingers per hand, two legs, rubber feet, and single olive pouch at its left hip.
@@ -48,8 +42,6 @@ Quiet old tram-stop frontage with a closed teal shutter behind the robot, damp p
 
 **Step 3 — Scene image → corrected scene image**
 
-Upload the draft scene alone to reposition the flowerpot.
-
 ```text
 Edit this distant rainy street frame with one local correction only. Move the existing terracotta pot and its single white flower to the RIGHT along the same sidewalk plane, so the ENTIRE pot and flower are visibly outside the yellow umbrella canopy's rightmost edge and receiving rain. Place the pot center at approximately 89% of image width, preserving its current size and its grounded contact with the sidewalk. Leave a visible horizontal rain-filled gap between the canopy's right edge and the flower. Remove the pot completely from its old position; there must still be exactly one pot and one flower.
 
@@ -57,8 +49,6 @@ Keep everything else unchanged: exact camera distance and framing, small robot s
 ```
 
 **Step 4 — Corrected scene image → video**
-
-Upload the corrected rainy-street image as the first frame; the robot portrait is optional.
 
 ```text
 Animate C05-K01 as the exact first frame of an 8-second photoreal 9:16 distant-observer video, one uninterrupted shot. C05-R01 is optional robot identity reference only if the tool supports an extra reference slot. If only one image is allowed, use C05-K01. Preserve its street layout, wet road, teal shutter, foreground doorway edge, robot size, umbrella, and flowerpot.
@@ -73,5 +63,3 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
-
-[← Back to this case in the README](../README.md#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt)

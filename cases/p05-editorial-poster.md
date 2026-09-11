@@ -22,5 +22,3 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 ```
 
 *Replace `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]` with your own content before generating.*
-
-[← Back to this case in the README](../README.md#p05-editorial-poster-with-exact-copy)

@@ -8,8 +8,6 @@
 
 [<img src="../assets/01-pixel-art-gif/elephant-sprite-sheet.png" width="400" height="400" alt="elephant sprite sheet">](../assets/01-pixel-art-gif/elephant-sprite-sheet.png)
 
-
-
 ## 👇 Workflow
 
 `Text / optional character reference → sprite sheet → GIF`
@@ -17,8 +15,6 @@
 ## 🔖 Full Prompt
 
 **Step 1 — Text → sprite sheet**
-
-Optional: upload one character reference.
 
 ```text
 Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
@@ -28,8 +24,6 @@ Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cel
 
 **Step 2 — Sprite sheet → GIF**
 
-Upload the complete 4 × 4 sheet to Codex.
-
 ```text
 Turn the attached 4x4 character sprite sheet into an animated GIF. Use Python and Pillow to extract all 16 cells, reading left to right and top to bottom. Inspect the poses and choose a coherent action sequence from anticipation through the signature action and recovery; reorder frames only where this improves continuity.
 
@@ -37,5 +31,3 @@ Remove excess blank space around each character without clipping any ears, limbs
 
 Preserve the pixel art and white background. Use a shared color palette, no dithering, no smoothing, and no invented in-between poses. Adjust frame timing so the action reads clearly and the final pose returns naturally to the first. Export an infinitely looping GIF. Check every frame for clipping and alignment, inspect the loop transition, and provide the GIF plus a reproducible Python script. Report the frame order, dimensions, and timing used, and flag any pose gaps that would require a revised sprite sheet.
 ```
-
-[← Back to this case in the README](../README.md#c01-pixel-art-character-gif-by-seeapi)
