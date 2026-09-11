@@ -39,7 +39,7 @@ Flare is OpenAI's fastest model for high-quality everyday image generation. It s
 
 ## 💡 10 Creative Things to Try
 
-Explore ten creative workflows, with prompts and examples added as each case is completed. Cases 01–02 include frame sheets and assembled GIFs. Cases 03–05 cover character-reference, storyboard, and distant-observer video workflows; their video outputs are pending. Cases 06–10 will be defined as the collection develops. Standalone image prompts are collected in the [Prompt Directory](#-prompt-directory).
+Explore ten creative workflows, with prompts and examples added as each case is completed. Cases 01–02 include frame sheets and assembled GIFs. Cases 03–06 cover character-reference, storyboard, distant-observer, and 360-degree orbit video workflows; their video outputs are pending. Cases 07–10 will be defined as the collection develops. Standalone image prompts are collected in the [Prompt Directory](#-prompt-directory).
 
 | # | Idea | Starting material | Output path |
 |---|---|---|---|
@@ -48,6 +48,7 @@ Explore ten creative workflows, with prompts and examples added as each case is 
 | 03 | [Two Characters, One Scene](#03-two-characters-one-scene) | Two character references | Images → shared keyframe → video |
 | 04 | [Character to Storyboard to Film](#04-character-to-storyboard-to-film) | Character concept and story | Character → storyboard → video |
 | 05 | [Distant Observer: A Robot in the Rain](#05-distant-observer-a-robot-in-the-rain) | Character concept and scene | Character → distant scene → video |
+| 06 | [Frosted Glass Poster to 360° Orbit](#06-frosted-glass-poster-to-360-orbit) | Text or supplied poster | Text → poster → 360° orbit video |
 
 GPT Image 2.5 produces still images. The GIF and stop-motion ideas below require a separate animation step and, where needed, GIF export.
 
@@ -412,6 +413,75 @@ Negative prompt: growing subject, automatic zoom, face close-up, moving across t
 **Video result:** Pending generation. Validate the umbrella's rigid shape and continuous grip, the pot's fixed location, natural joints, and the absence of an automatic zoom. The body occupies less vertical space when bending; preserve camera distance rather than enlarging the crouched robot to compensate.
 
 **Production notes:** [Chinese story, continuity rules, and per-image upload instructions](cases/05-distant-observer.md). Download the [scene prompt](assets/05-distant-observer/scene-prompt.txt) and [video prompt](assets/05-distant-observer/video-prompt.txt) for reuse.
+
+### 06. Frosted Glass Poster to 360° Orbit
+
+**by SeeAPI**
+
+Turn a minimalist exhibition poster into a six-second product film: the camera makes one full orbit around a sculptural frosted-glass mug, then returns to the original poster composition. Changing refraction and the handle's silhouette make the motion readable.
+
+**Workflow:** Text to image → image to 360° orbit video.
+
+**Input:** The image prompt below, or the supplied finished poster.
+
+**Status:** The supplied poster and ready-to-use video prompts are included. The video will be generated separately by the contributor; no orbit video has been generated or validated here. The source image's generation model and settings were not recorded.
+
+#### Step 1 — Generate the exhibition poster
+
+The prompt below preserves the supplied wording, with formatting escapes removed. The supplied render uses an uppercase subtitle, so the video prompt follows its visible lettering.
+
+```text
+A minimalist futurist exhibition poster with an ultra-light cool yellow background (#e7ff48).
+
+At the center of the poster is a fluid 3D metaball shaped mug in full form, rendered in frosted glass with delicate grainy noise.
+The fluid gradient transitions from light yellow (#E7FF48) to Pearl White (#FFFFFF), giving it a silky glass-like appearance.
+
+High-position softbox lighting casts long, soft colored shadows and a subtle halo.
+
+The fluid overlaps with the text: letters obscured by the frosted glass appear with a gentle Gaussian blur.
+- The main title, the light yellow “SeeAPI” logo, is centered and partially obscured by the fluid. The covered letters are slightly blurred through the frosted glass.
+- The subtitle, in bold all-caps modern sans-serif pure black font, reads: “Images, videos and models API”, placed below the main title. It is also partially overlapped by the fluid and blurred in those areas, while the rest remains sharp.
+
+The overall layout is clean with generous whitespace, balanced composition, sharp focus, and HDR high dynamic range.
+```
+
+**C06-R01 — Supplied frosted-glass poster:**
+
+![SeeAPI exhibition poster with a frosted fluid-shaped mug on a cool-yellow background](assets/06-360-orbit/frosted-glass-mug-poster.png)
+
+#### Step 2 — Generate a complete six-second orbit
+
+Upload **C06-R01 as the first frame**. If the video tool has a last-frame slot, use the same image there to guide the return composition. Keep the output square, matching the source.
+
+The camera travels around a stationary mug. The typography is treated as a fixed graphic layer behind the mug's projected image, with changing glass occlusion. This keeps the brand layout readable without turning the entire poster into a rotating plane.
+
+```text
+Create a 6-second, square 1:1 product film in ONE continuous shot, using C06-R01 as the exact opening composition. The hook is one complete 360-degree camera orbit around the same sculptural frosted-glass mug, revealing its fluid silhouette, hollow rim, single attached handle, and changing transmitted light. Preserve the minimalist futurist exhibition-poster aesthetic and cool yellow #E7FF48 to pearl-white palette.
+
+Keep exactly one mug with the source image's proportions, asymmetric metaball contours, glass thickness, open top, and one continuous handle. The mug remains stationary in world space at its original height relative to the surface; its position, shape, and orientation do not animate. Infer unseen surfaces conservatively as a continuation of that same mug, without adding decoration or a second handle.
+
+SHOT 1: Starting at the supplied three-quarter view, move the camera clockwise as seen from above through one uninterrupted circular orbit: front three-quarter to side, rear, opposite side, and back to the exact starting view. Complete the full 360 degrees within the six seconds. Keep the camera radius, elevation, focal length, and aim at the mug's center fixed, with no camera roll. Let the motion begin promptly and run at a smooth near-constant pace so every side is shown; settle briefly only after returning to the starting angle. Keep the whole mug and handle within the frame at a stable scale. Let the single handle naturally become hidden by the body and reappear according to perspective; it must never split or jump between sides.
+
+The high softbox and seamless cool-yellow studio environment remain fixed in world space. Highlights, visible glass thickness, refraction, and the projected soft shadow change coherently as the camera travels. Preserve the fine frosted grain as surface texture, not flickering noise. The glass stays frosted and translucent throughout, with a restrained halo and no melting or opacity transformation.
+
+Typography is a screen-aligned exhibition graphic behind the rendered mug, not lettering printed on the mug and not a physical sign that the camera orbits. Keep the source layout, font, spacing, colors, and exact visible text fixed: "SeeAPI" and "IMAGES, VIDEOS AND MODELS API". As the mug's projection changes, only the regions seen through its frosted glass receive gentle refraction and soft blur; unobscured text stays sharp. Never rotate, mirror, rewrite, or move the letters with the mug. At the final angle, restore the original overlap and blur pattern.
+
+End at the source camera angle, scale, lighting, and composition with zero residual camera motion. If a last-frame slot is available, use C06-R01 there as well while retaining the full-orbit instruction. The result should reveal actual changing viewpoints of a volumetric object, not rotate the flat poster, spin the mug on a turntable, or substitute a zoom or layered 2D drift. No scene cuts. Silent output is suitable.
+```
+
+**Negative prompt:**
+
+```text
+Partial orbit, camera reversing before completing the circle, stationary-camera turntable spin, flat poster rotation, simple zoom or 2D parallax, jump cut hiding the back, extra mug, extra handle, detached handle, sealed mug opening, changing rim shape, melting glass, changing product scale, camera roll, tilt drift, sudden opacity changes, random sparkling particles, unstable grain, moving or misspelled lettering, mirrored text, text printed onto the mug, extra captions, watermarks, background color change, mismatched final viewpoint.
+```
+
+**Before publishing:** Confirm that the camera actually shows the side and back before returning, rather than stopping halfway or spinning the object. Check the single handle, hollow rim, frosted material, exact lettering, and final alignment. A single source image does not establish the mug's hidden geometry, so the generated rear view must be reviewed. Matching first and last images alone does not prove that a full orbit occurred.
+
+**Typography note:** If the video tool cannot hold the lettering or reproduce the glass blur reliably, composite the typography in post-production. A basic overlay can preserve spelling and placement; the through-glass effect additionally needs a matching mask and blur/refraction treatment.
+
+**Video result:** Pending contributor generation. [Chinese upload and camera instructions](cases/06-360-orbit.md) · [Video prompt](assets/06-360-orbit/video-prompt.txt) · [Negative prompt](assets/06-360-orbit/negative-prompt.txt).
+
+**Attribution:** Reproduction of this example is permitted with proper attribution to SeeAPI.
 
 ## 🗂 Prompt Directory
 
