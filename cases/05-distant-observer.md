@@ -1,36 +1,32 @@
 # C05. Distant Observer: A Robot in the Rain
 
-**Prompt: by SeeAPI.** **Inspiration:** [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-**Category:** Story & Video
-
-**Updated:** 2026-09-11
+**by SeeAPI** · Inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)
 
 ## Preview
 
-**Opening frame — video pending.**
+**Rainy street draft**
 
-![Distant Observer: A Robot in the Rain: opening frame — video pending](../assets/05-distant-observer/rainy-street-opening.png)
+![rainy street draft](../assets/05-distant-observer/rainy-street-draft.png)
 
-## Reference Images
+**Rainy street opening**
 
-Use the robot portrait (C05-R01) for scene creation. Use the corrected rainy-street opening frame (C05-K01) for video. Upload the draft (C05-K00) alone only when applying the flowerpot correction. Follow the upload roles below when using references.
+![rainy street opening](../assets/05-distant-observer/rainy-street-opening.png)
 
-## Full Prompt & Workflow
+**Robot reference**
 
-Create the feeling of noticing a small, unexpected moment from across the street. In this original scene, an old maintenance robot lowers its own umbrella over a tiny flowerpot, leaving itself in the rain. The emotional beat comes from the action and the distant framing, rather than a face close-up.
+![robot reference](../assets/05-distant-observer/robot-reference.png)
 
-**Inspiration:** [Pablo Prompt's post](https://x.com/pabloprompt/status/2097382752622436744). Its caption credits GPT Image 2 and Seedance 2.5 in CapCut. This example develops the distant-observer approach identified in the reference brief with a newly designed robot and story; it does not reproduce the post's footage or claim that the source used GPT Image 2.5.
+Video pending. Illustrative stills use an unexposed model ID; preserve the small subject scale of the corrected image.
 
-**Workflow:** Text-defined character → distant scene image → image-to-video.
+## Workflow
 
-**Input:** A character idea; optionally replace the supplied original robot with your own character reference.
+`Text → character reference → scene image → corrected scene image → video`
 
-**Status:** A generated robot reference and scene image are included. The 8-second video prompt is ready; video generation and motion validation remain pending. Stills were made with Codex's built-in image generation tool; its model ID was not exposed.
+## Full Prompt
 
-### Step 1 — Define the character
+**Step 1 — Text → character reference**
 
-Use a clean character reference to establish the robot's silhouette, colors, joints, and pouch. This close reference is for identity only; it should not become the video's opening composition.
+Generate the robot identity image.
 
 ```text
 Create one portrait 2:3 full-body character identity reference photograph of an original friendly obsolete street-maintenance robot. It is a physically built practical movie prop, about 2 meters tall, with a stocky weathered rust-red steel torso, off-white rounded rectangular head, exactly two small round dark glass eyes, no mouth, two thick articulated arms, exactly three blunt fingers on each hand, two short sturdy legs, and broad dark rubber feet. Its plates show chipped paint and light rain marks, never military armor. One small olive canvas pouch is strapped at its left hip. No writing, badges, logos, screens, weapons, or human face.
@@ -38,22 +34,9 @@ The robot stands upright in a relaxed front three-quarter pose on a plain mid-gr
 Photoreal practical-effects cinematography, tactile metal and canvas, soft overcast illumination, understated warmth. Design a unique humble municipal helper with rounded proportions, not an existing franchise robot.
 ```
 
-**C05-R01 — Robot identity reference:**
+**Step 2 — Character reference → scene image**
 
-![Weathered rust-red maintenance robot with an off-white head and olive hip pouch](../assets/05-distant-observer/robot-reference.png)
-
-### Step 2 — Build the distant scene
-
-Upload **C05-R01 only**. Change the setting, scale within the composition, and arm pose while retaining the robot design. Establish the umbrella above the robot and the flowerpot beside it, before the act of sheltering the flower.
-
-| Visual choice | Direction |
-|---|---|
-| Framing | Vertical 9:16, distant view across the street |
-| Subject scale | Small in frame; the generated example is about one-fifth of frame height |
-| Foreground | Soft doorway edge and ledge, away from the action |
-| Camera | Compressed perspective; fixed observer position |
-| Motion to preserve later | Small handheld drift; no push-in or close-up |
-| Story anchor | One yellow umbrella moves from robot to flowerpot |
+Upload the robot portrait.
 
 ```text
 Use the uploaded robot portrait as the strict identity reference C05-R01: preserve the rust-red stocky steel body, off-white rounded rectangular head, two round dark eyes, no mouth, two arms, three blunt fingers per hand, two legs, rubber feet, and single olive pouch at its left hip.
@@ -65,22 +48,19 @@ On the far sidewalk, the robot stands just right of center beneath its one OPEN 
 Quiet old tram-stop frontage with a closed teal shutter behind the robot, damp pale plaster walls, a curb, a wet road occupying much of the lower middle frame, soft rain and broad puddle reflections. No readable shop names, road text, logos, vehicles, pedestrians, or other plants. The setting and wet empty space should dominate. Overcast afternoon daylight, subdued colors except the rust-red robot, yellow umbrella, and terracotta pot. The umbrella and flowerpot remain separate and fully visible. Natural slightly imperfect observer framing, no surveillance overlays, timestamp, cinematic black bars, or exaggerated bokeh. This is an ordinary street seen from afar, with one unexpected quiet act about to happen; not a hero portrait.
 ```
 
-The first generation placed the pot beneath the umbrella edge. A [local correction prompt](../prompts/05-distant-observer/scene-correction-prompt.txt) moves that one pot outside the canopy before animation. Upload the [draft scene C05-K00](../assets/05-distant-observer/rainy-street-draft.png) alone for that correction, keeping the robot and camera fixed. The final example also places the robot slightly smaller than the original size target; the video prompt follows the actual frame.
+**Step 3 — Scene image → corrected scene image**
 
-**C05-K01 — Distant opening-frame example:**
+Upload the draft scene alone to reposition the flowerpot.
 
-![A small robot with a yellow umbrella on the far sidewalk, seen from a sheltered doorway across a wet street](../assets/05-distant-observer/rainy-street-opening.png)
+```text
+Edit this distant rainy street frame with one local correction only. Move the existing terracotta pot and its single white flower to the RIGHT along the same sidewalk plane, so the ENTIRE pot and flower are visibly outside the yellow umbrella canopy's rightmost edge and receiving rain. Place the pot center at approximately 89% of image width, preserving its current size and its grounded contact with the sidewalk. Leave a visible horizontal rain-filled gap between the canopy's right edge and the flower. Remove the pot completely from its old position; there must still be exactly one pot and one flower.
 
-Before animation, check that the robot remains small, both feet are grounded, the umbrella shaft reaches its hand, and the pot is within reach. Rain, the road, and the shutter must remain consistent through the action.
+Keep everything else unchanged: exact camera distance and framing, small robot size and pose, its two eyes and olive pouch, umbrella angle and connected shaft, hand grip, shutter, building, wet road, rain, bench, foreground doorway and blurred ledge, light, texture, and image dimensions. Do not move or enlarge the robot, change the umbrella, add characters, or crop the image. This frame is BEFORE the robot moves its umbrella over the pot.
+```
 
-### Step 3 — Animate without losing the distant viewpoint
+**Step 4 — Corrected scene image → video**
 
-| Upload | Role |
-|---|---|
-| C05-K01 — rainy street scene | Required first frame; distance, environment, props, and starting pose |
-| C05-R01 — robot portrait | Optional identity reference only, if an extra slot is supported |
-
-If only one image is supported, upload **C05-K01**. Keep the distant composition even when the robot bends down. A close-up of its face would change the central idea of this case. Eight seconds is a creative target, not a claim about any particular video model's duration settings.
+Upload the corrected rainy-street image as the first frame; the robot portrait is optional.
 
 ```text
 Animate C05-K01 as the exact first frame of an 8-second photoreal 9:16 distant-observer video, one uninterrupted shot. C05-R01 is optional robot identity reference only if the tool supports an extra reference slot. If only one image is allowed, use C05-K01. Preserve its street layout, wet road, teal shutter, foreground doorway edge, robot size, umbrella, and flowerpot.
@@ -96,23 +76,4 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
 
-**Video result:** Pending generation. Validate the umbrella's rigid shape and continuous grip, the pot's fixed location, natural joints, and the absence of an automatic zoom. The body occupies less vertical space when bending; preserve camera distance rather than enlarging the crouched robot to compensate.
-
-**Production notes:** [Chinese story, continuity rules, and per-image upload instructions](../docs/production/05-distant-observer.md). Download the [scene prompt](../prompts/05-distant-observer/scene-prompt.txt) and [video prompt](../prompts/05-distant-observer/video-prompt.txt) for reuse.
-
-## Prompt Files
-
-- [character-prompt.txt](../prompts/05-distant-observer/character-prompt.txt)
-- [scene-correction-prompt.txt](../prompts/05-distant-observer/scene-correction-prompt.txt)
-- [scene-prompt.txt](../prompts/05-distant-observer/scene-prompt.txt)
-- [video-prompt.txt](../prompts/05-distant-observer/video-prompt.txt)
-
-## Sources & Attribution
-
-**Prompt: by SeeAPI.** **Inspiration:** [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
-
-See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
-
-[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)
+[← Back to this case in the README](../README.md#c05-distant-observer-a-robot-in-the-rain)

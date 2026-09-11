@@ -18,7 +18,8 @@
         "prompts/01-pixel-art-gif/image-prompt.txt"
       ],
       "preview": "assets/01-pixel-art-gif/elephant-roll.gif",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "c01-pixel-art-character-gif"
     },
     {
       "id": "C02",
@@ -39,7 +40,8 @@
         "prompts/02-clay-stop-motion/gif-assembly-prompt.txt"
       ],
       "preview": "assets/02-clay-stop-motion/penguin-star-stop-motion.gif",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "c02-clay-stop-motion-fishing-for-a-star"
     },
     {
       "id": "C03",
@@ -62,7 +64,8 @@
         "prompts/03-two-character-video/video-prompt.txt"
       ],
       "preview": "assets/03-two-character-video/greenhouse-opening.png",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "c03-two-characters-one-scene"
     },
     {
       "id": "C04",
@@ -85,7 +88,8 @@
         "prompts/04-storyboard-video/video-prompt.txt"
       ],
       "preview": "assets/04-storyboard-video/lighthouse-storyboard.png",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "c04-character-to-storyboard-to-film"
     },
     {
       "id": "C05",
@@ -108,7 +112,8 @@
         "prompts/05-distant-observer/video-prompt.txt"
       ],
       "preview": "assets/05-distant-observer/rainy-street-opening.png",
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "c05-distant-observer-a-robot-in-the-rain"
     },
     {
       "id": "C06",
@@ -131,7 +136,8 @@
       ],
       "preview": "assets/featured/glass-orbit.gif",
       "updated": "2026-09-11",
-      "video": "assets/06-360-orbit/frosted-glass-mug-orbit.mp4"
+      "video": "assets/06-360-orbit/frosted-glass-mug-orbit.mp4",
+      "readme_anchor": "c06-frosted-glass-poster-to-360-orbit"
     },
     {
       "id": "P01",
@@ -148,7 +154,8 @@
         "prompts/p01-personalized-sticker-pack/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p01-personalized-sticker-pack"
     },
     {
       "id": "P02",
@@ -165,7 +172,8 @@
         "prompts/p02-collectible-figure-packaging/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p02-collectible-figure-packaging"
     },
     {
       "id": "P03",
@@ -182,7 +190,8 @@
         "prompts/p03-miniature-world/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p03-miniature-world-in-an-everyday-object"
     },
     {
       "id": "P04",
@@ -199,7 +208,8 @@
         "prompts/p04-product-campaign/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p04-product-photo-to-campaign-visual"
     },
     {
       "id": "P05",
@@ -216,7 +226,8 @@
         "prompts/p05-editorial-poster/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p05-editorial-poster-with-exact-copy"
     },
     {
       "id": "P06",
@@ -233,7 +244,8 @@
         "prompts/p06-character-scenes/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p06-one-character-three-scenes"
     },
     {
       "id": "P07",
@@ -250,7 +262,8 @@
         "prompts/p07-paper-cut-storybook/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p07-paper-cut-storybook-scene"
     },
     {
       "id": "P08",
@@ -267,7 +280,8 @@
         "prompts/p08-glass-material-remix/image-prompt.txt"
       ],
       "preview": null,
-      "updated": "2026-09-11"
+      "updated": "2026-09-11",
+      "readme_anchor": "p08-glass-material-remix"
     }
   ]
 }

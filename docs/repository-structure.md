@@ -50,9 +50,9 @@ Name files by their role: `character-prompt.txt`, `scene-prompt.txt`, `video-pro
 
 ## Where Content Lives
 
-- **Homepage:** previews, linked indexes, short usage/model guidance. Complete prompts belong in the case pages.
-- **Cases:** full prompts, input roles, stages, result status, source credits, and review notes.
-- **Prompts:** plain UTF-8 `.txt` copies for reuse, without Markdown fences. These are the canonical copyable prompt files; synchronize inline case blocks after an edit.
+- **Homepage:** previews, linked indexes, short usage/model guidance. All complete prompts and existing example images are expanded inline in the README.
+- **Cases:** concise copies of the README cases to preserve existing direct links. Use Preview, Workflow, and Full Prompt.
+- **Prompts:** plain UTF-8 `.txt` copies for reuse, without Markdown fences. These are the canonical copyable prompt files; synchronize inline README and case blocks after an edit.
 - **Assets:** references, approved results, relevant drafts, GIFs, and eventual videos. Do not put prompt text in the media tree.
 - **Production notes:** longer Chinese shot planning and correction instructions.
 - **Catalog:** machine-readable case metadata. The README is edited manually; it is not automatically generated from the catalog. Update both together and run the validator.

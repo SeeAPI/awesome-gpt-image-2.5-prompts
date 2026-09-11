@@ -1,56 +1,53 @@
 # C04. Character to Storyboard to Film
 
-**Prompt: by SeeAPI.** **Inspiration:** [el.cine](https://x.com/EHuanglu/status/2097519538632024103). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-**Category:** Characters & Stickers · Story & Video
-
-**Updated:** 2026-09-11
+**by SeeAPI** · Inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)
 
 ## Preview
 
-**Storyboard — video pending.**
+**Inez reference**
 
-![Character to Storyboard to Film: storyboard — video pending](../assets/04-storyboard-video/lighthouse-storyboard.png)
+![inez reference](../assets/04-storyboard-video/inez-reference.png)
 
-## Reference Images
+**Lighthouse storyboard**
 
-Use Inez (C04-R01) to build the storyboard. Crop the four storyboard panels into separate shot images before animation. Use the matching shot image for each clip; do not animate the full 2 × 2 board as a single scene. Follow the upload roles below when using references.
+![lighthouse storyboard](../assets/04-storyboard-video/lighthouse-storyboard.png)
 
-## Full Prompt & Workflow
+**Shot 01**
 
-Define a protagonist, plan the story as distinct shots, then animate each shot. In this original miniature-film concept, lighthouse mechanic Inez winds a dormant brass seabird, watches it wake, and releases it through an open window.
+![shot 01](../assets/04-storyboard-video/shot-01.png)
 
-**Inspiration:** [el.cine's cast-design and storyboard workflow](https://x.com/EHuanglu/status/2097519538632024103). The source describes character design and storyboards followed by video generation. The lighthouse setting, character, prop, and story below are newly designed for this repository.
+**Shot 02**
 
-**Workflow:** Character design → four-shot storyboard → individual shot-start images → image-to-video → edit.
+![shot 02](../assets/04-storyboard-video/shot-02.png)
 
-**Input:** A character concept and short story.
+**Shot 03**
 
-**Status:** Character reference, storyboard, and extracted shot-start images are included. The 12-second film remains a production plan; no generated video is included. Stills were created with Codex's built-in image generation tool, whose model ID was not exposed.
+![shot 03](../assets/04-storyboard-video/shot-03.png)
 
-### Step 1 — Define the character
+**Shot 04**
 
-Create one reusable identity reference. Lock Inez's age, face, glasses, hairstyle, and clothes before designing the shots.
+![shot 04](../assets/04-storyboard-video/shot-04.png)
+
+Video pending. Illustrative stills use an unexposed model ID; inspect bird and key continuity between shots.
+
+## Workflow
+
+`Text → character reference → storyboard → individual shot images → video clips → edited video`
+
+## Full Prompt
+
+**Step 1 — Text → character reference**
+
+Generate Inez’s identity image.
 
 ```text
 Generate one landscape 3:2 clean single-character full-body identity reference portrait. Original protagonist INEZ, a lighthouse mechanic aged about 60, warm tan skin, short silver-gray curly hair, round tortoiseshell glasses, kind lined face, navy wool chore coat over an ochre knitted sweater, charcoal trousers and weathered dark brown work boots. Her hands are empty and visible, arms relaxed, head and boots fully inside the frame with ample margins. She stands in a neutral three-quarter pose against a simple warm gray studio backdrop. No other characters or props, no collage or additional views, no text.
 Visual style: tactile miniature stop-motion film design, felted wool costume, subtly sculpted expressive face, cinematic soft overcast coastal light, muted navy and ochre palette, believable anatomy. Preserve the subject as a clearly older adult woman, no glamour retouching.
 ```
 
-**C04-R01 — Inez:**
+**Step 2 — Character reference → storyboard**
 
-![Inez, an older lighthouse mechanic in a navy coat and ochre sweater](../assets/04-storyboard-video/inez-reference.png)
-
-### Step 2 — Design the storyboard
-
-| Shot | Editing target | Story beat | Starting image |
-|---|---|---|---|
-| 1 | 0–3 s | Discover the inert bird; reach toward it | C04-K01 |
-| 2 | 3–6 s | Turn its attached winding key | C04-K02 |
-| 3 | 6–9 s | The wings unfold; Inez offers her palm | C04-K03 |
-| 4 | 9–12 s | Release the bird through the open window | C04-K04 |
-
-Upload **C04-R01 only** for the following storyboard generation. It locks the character and material style; the prompt defines the new workshop and brass bird.
+Upload Inez’s reference, then crop the 2 × 2 storyboard into four separate shot images.
 
 ```text
 Use the uploaded full-body portrait of INEZ as the strict identity and visual-style reference. Preserve her older adult face, short silver-gray curls, round tortoiseshell glasses, navy wool coat, ochre sweater, charcoal trousers, and brown work boots. Create one 16:9 storyboard sheet divided into an EXACT 2x2 grid of four equal 16:9 cinematic panels, no gutters, panel labels, numbers, captions, text, or borders. Reading order is left to right, top to bottom. This is a four-shot narrative storyboard, NOT consecutive animation frames.
@@ -65,26 +62,9 @@ Panel 4, medium-wide shot toward the open window: Inez remains on the LEFT with 
 Keep causal continuity, a single recognizable protagonist, one bird, stable costume, stable room geography, plausible hands, and a clear visual link between the close-up and wide shots. No magic beams, glowing eyes, extra characters, flying tools, missing glasses, unreadable writing, duplicate birds, grid overlays, or photoreal human replacement.
 ```
 
-**C04-B01 — Four-shot storyboard:**
+**Step 3 — Individual shot images → video clips → edited video**
 
-![Four shots showing Inez discovering, winding, awakening, and preparing to release a mechanical seabird](../assets/04-storyboard-video/lighthouse-storyboard.png)
-
-### Step 3 — Prepare individual shot-start images
-
-Split the storyboard into four images in reading order. A storyboard panel defines a shot; it is not one frame of a four-frame animation. Avoid feeding the entire grid into a first-frame-only video tool.
-
-| ID | File | What it controls |
-|---|---|---|
-| C04-K01 | [Discovery](../assets/04-storyboard-video/shot-01.png) | Establishing view and inert bird |
-| C04-K02 | [Winding](../assets/04-storyboard-video/shot-02.png) | Hand contact and key location |
-| C04-K03 | [Awakening](../assets/04-storyboard-video/shot-03.png) | Wing state and reaction |
-| C04-K04 | [Release](../assets/04-storyboard-video/shot-04.png) | Open window and takeoff position |
-
-The included crops can be reproduced with `python scripts/prepare_video_references.py` using Python 3 and Pillow. Check costume, hand anatomy, bird geometry, attached key, and window placement across the crops. The bird body, winding-key detail, and apparent scale vary somewhat between the generated panels. Treat these as draft shot references and refine those differences before final video production; the included stills do not establish video continuity.
-
-### Step 4 — Animate and edit
-
-For a video tool that supports multiple ordered shot references, map C04-K01–K04 to shots 1–4 and supply C04-R01 as an identity reference if a separate slot exists. Otherwise, generate each shot separately from its matching C04-K image, then join four selected three-second clips with straight cuts. Do not assume a particular tool accepts four reference images or an exact three-second duration.
+Upload the matching shot image for each clip, not the full storyboard. Assemble clips in shot order.
 
 ```text
 Create a 12-second, 16:9 miniature stop-motion-style short film called The Last Flight, with four shots and clear tactile stepped motion. Do not render the title as text. C04-R01 is the identity reference for Inez. C04-B01 is a storyboard for planning only, not a frame sheet to animate directly. C04-K01 through C04-K04 are individual shot-start references. Never show the grid or multiple panels in the video.
@@ -103,22 +83,4 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
 
-**Video result:** Pending generation. Verify that the key stays attached, the bird count stays at one, and the bird exits through the opening rather than through glass. Keep the move from workbench to sill as an intentional cut.
-
-**Production notes:** [Chinese story, continuity ledger, panel-edit instructions, and upload map](../docs/production/04-storyboard-video.md). The [storyboard prompt](../prompts/04-storyboard-video/storyboard-prompt.txt) and [video prompt](../prompts/04-storyboard-video/video-prompt.txt) are supplied as text files.
-
-## Prompt Files
-
-- [character-prompt.txt](../prompts/04-storyboard-video/character-prompt.txt)
-- [storyboard-prompt.txt](../prompts/04-storyboard-video/storyboard-prompt.txt)
-- [video-prompt.txt](../prompts/04-storyboard-video/video-prompt.txt)
-
-## Sources & Attribution
-
-**Prompt: by SeeAPI.** **Inspiration:** [el.cine](https://x.com/EHuanglu/status/2097519538632024103). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
-
-See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
-
-[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)
+[← Back to this case in the README](../README.md#c04-character-to-storyboard-to-film)

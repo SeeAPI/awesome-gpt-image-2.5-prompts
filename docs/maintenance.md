@@ -8,7 +8,7 @@ SeeAPI maintains this collection. External prompt submissions and contribution r
 2. Copy [the case template](../templates/case.md). Write the complete prompt, reference requirements, source credits, and known limitations.
 3. Store copyable prompts under `prompts/{slug}/`. Store actual media under `assets/{slug}/` and label its role and provenance. Do not mark a prompt tested simply because its text is complete.
 4. Add the case to `catalog.json`. Allowed statuses are `prompt-only`, `gif-included`, `stills-included-video-pending`, `image-included`, and `video-included`. A status describes available output, not perfection or a model benchmark.
-5. Add its linked entry to the homepage. Keep creative workflows after the Prompt Directory; list new P entries first. Update categories, totals, dates, and the changelog.
+5. Expand the case in the README using Preview, Workflow, and Full Prompt; point its directory entry to the README heading anchor. Set readme_anchor in the catalog. Keep creative workflows after the Prompt Directory; list new P entries first. Update categories, totals, dates, and the changelog.
 6. Verify local links, prompt copies, and catalog paths with `python3 scripts/validate_catalog.py`. Preview the Markdown and inspect any new image, GIF, or video.
 
 ## Publish a Result for an Existing Prompt

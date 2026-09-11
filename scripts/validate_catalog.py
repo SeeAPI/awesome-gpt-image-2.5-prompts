@@ -18,8 +18,7 @@ def main():
     seen = set()
     statuses = {'prompt-only', 'gif-included', 'stills-included-video-pending',
                 'image-included', 'video-included'}
-    required = ['## Preview', '## Reference Images', '## Full Prompt & Workflow',
-                '## Prompt Files', '## Sources & Attribution']
+    required = ['## Preview', '## Workflow', '## Full Prompt']
     homepage = (ROOT / 'README.md').read_text()
     for entry in entries:
         key = entry['id']
@@ -35,7 +34,7 @@ def main():
         body = path.read_text()
         if not body.startswith(f"# {key}. {entry['title']}\n"):
             errors.append(f'{key}: title disagrees with catalog')
-        if entry['case'] not in homepage:
+        if '](' + '#' + entry['readme_anchor'] + ')' not in homepage:
             errors.append(f'{key}: missing from homepage')
         for heading in required:
             if heading not in body:
@@ -55,9 +54,8 @@ def main():
             if prompt.parent.name != entry['slug']:
                 errors.append(f'{key}: prompt slug mismatch')
             prompt_texts.add(prompt.read_text().strip())
-            relative = '../' + name
-            if relative not in body:
-                errors.append(f'{key}: prompt not linked: {name}')
+            if prompt.read_text().strip() not in body or prompt.read_text().strip() not in homepage:
+                errors.append(f'{key}: full prompt missing from case or README: {name}')
         for block in re.findall(r'```text\n(.*?)\n```', body, re.S):
             if block.strip() not in prompt_texts:
                 errors.append(f'{key}: inline prompt differs from prompt files')

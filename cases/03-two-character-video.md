@@ -1,36 +1,36 @@
 # C03. Two Characters, One Scene
 
-**Prompt: by SeeAPI.** **Inspiration:** [TechieSA](https://x.com/TechieBySA/status/2096196085198839832). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-**Category:** Characters & Stickers · Story & Video
-
-**Updated:** 2026-09-11
+**by SeeAPI** · Inspired by [TechieSA](https://x.com/TechieBySA/status/2096196085198839832)
 
 ## Preview
 
-**Opening frame — video pending.**
+**Character reference sheet**
 
-![Two Characters, One Scene: opening frame — video pending](../assets/03-two-character-video/greenhouse-opening.png)
+![character reference sheet](../assets/03-two-character-video/character-reference-sheet.png)
 
-## Reference Images
+**Greenhouse opening**
 
-Upload Mira (C03-R01) first and Ren (C03-R02) second to create the shared scene. For video, use the greenhouse opening frame (C03-K01) as the first frame; the portraits are optional additional identity references only. Follow the upload roles below when using references.
+![greenhouse opening](../assets/03-two-character-video/greenhouse-opening.png)
 
-## Full Prompt & Workflow
+**Mira reference**
 
-Bring two separately defined characters into one scene, then animate their interaction. In this original example, greenhouse caretakers Mira and Ren place an amber seed into a lantern and watch it light up together.
+![mira reference](../assets/03-two-character-video/mira-reference.png)
 
-**Inspiration:** [TechieSA's character-reference-to-video workflow](https://x.com/TechieBySA/status/2096196085198839832). The source post names GPT Image 2 and Seedance 2.5. This adaptation uses original characters and a new scene; it is not a reproduction of that post or a tested claim about those models.
+**Ren reference**
 
-**Workflow:** Two character images → shared opening frame → image-to-video.
+![ren reference](../assets/03-two-character-video/ren-reference.png)
 
-**Input:** Two separate character reference images. Use your own, or create the original pair below.
+Video pending. Illustrative stills use an unexposed model ID; the video prompt follows the visible seed-bearing hand.
 
-**Status:** Character images and an opening frame are included. The video prompt is ready to use; no video has been generated or verified. Example stills were made with Codex's built-in image generation tool; its underlying model ID was not exposed.
+## Workflow
 
-### Step 1 — Prepare two character references
+`Text → two character references → opening image → video`
 
-Keep each character in a separate image so the video workflow can distinguish them. For this example, generate the following two-panel reference sheet, then split it into the two supplied portrait files. If using your own images, skip this generation step and assign them the same reference roles.
+## Full Prompt
+
+**Step 1 — Text → two character references**
+
+Split the generated two-panel sheet into Mira and Ren portraits.
 
 ```text
 Generate a widescreen 3:2 character reference diptych, exactly two equal vertical panels with a plain warm gray background, no border or text. The panels will be cropped into two separate identity reference images. Each panel contains exactly one full-body adult original human character, head to boots fully visible with ample margins, both at identical scale.
@@ -39,13 +39,9 @@ Right panel: REN, an adult man aged about 32, light olive skin, straight dark ha
 Style: cinematic hand-painted animation concept art, softly textured gouache backgrounds, clear expressive faces, grounded anatomy, restrained warm colors, diffuse studio lighting. Neutral front three-quarter standing poses. These are original greenhouse caretakers, no celebrities, no existing film characters. Do not blend identities, duplicate people, invent props, add text or crop limbs.
 ```
 
-| C03-R01 — Mira | C03-R02 — Ren |
-|---|---|
-| ![Mira in a rust-orange utility jacket](../assets/03-two-character-video/mira-reference.png) | ![Ren in a moss-green utility jacket](../assets/03-two-character-video/ren-reference.png) |
+**Step 2 — Two references → opening image**
 
-### Step 2 — Create a shared opening frame
-
-Upload **C03-R01 first and C03-R02 second**. Use the images to preserve the two identities while changing their poses and placing them together in the greenhouse.
+Upload Mira first, Ren second.
 
 ```text
 Use the two uploaded character portraits as separate strict identity references: image 1 is MIRA, the woman with a rust-orange jacket; image 2 is REN, the man with a moss-green jacket. Preserve each person's face, hairstyle, skin tone, age, body proportions, and entire outfit. Do not merge or swap their identities.
@@ -55,21 +51,9 @@ Create a single cinematic 16:9 opening frame in the same hand-painted animation 
 The lantern is attached to the bench and cannot move; its socket is empty. The amber seed has not been inserted yet. Soft cool dusk light and a faint warm reflection from the seed. Calm anticipation, grounded anatomy, subtle gouache texture, no text, no labels, no montage, no extra people, no duplicate seed, no costume changes, no oversized hands. This is the first frame before the action, not the finished glowing result.
 ```
 
-**C03-K01 — Opening-frame example:**
+**Step 3 — Opening image → video**
 
-![Mira and Ren beside an unlit lantern in a greenhouse at dusk](../assets/03-two-character-video/greenhouse-opening.png)
-
-Check both faces and outfits, the single seed, the empty socket, and the separation of the hands before animating. The generated example reverses the anatomical hand assignments in the image prompt; the video prompt therefore follows the visible seed-bearing palm and free hand instead of forcing a left/right swap.
-
-### Step 3 — Animate the interaction
-
-| Upload | Role |
-|---|---|
-| C03-K01 — greenhouse opening frame | First frame; scene layout and starting poses |
-| C03-R01 — Mira portrait | Optional identity reference, if supported |
-| C03-R02 — Ren portrait | Optional identity reference, if supported |
-
-If the video tool accepts only one image, upload **C03-K01**. Do not upload the two-person reference sheet as the first frame: that would start the video from a split-screen portrait layout. The 8-second duration is a creative target; use supported settings and trim if needed.
+Use the greenhouse image as the first frame; portraits are optional identity references.
 
 ```text
 Create an 8-second cinematic hand-painted animation, 16:9, one continuous medium-wide shot. C03-K01 is the exact first frame and controls composition, greenhouse, bench, lantern, and initial hand positions. C03-R01 locks Mira's identity and rust-orange outfit; C03-R02 locks Ren's identity and moss-green outfit. If only one image is supported, use C03-K01 alone. Mira stays on screen-left, Ren on screen-right. Preserve both faces, hairstyles, skin tones, ages, clothes, and body proportions throughout.
@@ -83,22 +67,4 @@ Keep movement restrained and expressive, with coherent hand anatomy and stable p
 Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disappearing seed, extra fingers or arms, passing objects through solid glass, floating lantern, premature illumination, camera orbit, zoom, captions, text, logos, unrelated cuts, flickering identities.
 ```
 
-**Video result:** Pending generation. Check identity consistency, the seed's continuous transfer into the socket, and illumination only after contact. A still-image slideshow would not validate this workflow.
-
-**Production notes:** [Chinese story, continuity rules, and exact upload instructions](../docs/production/03-two-character-video.md). The [image prompt](../prompts/03-two-character-video/keyframe-prompt.txt) and [video prompt](../prompts/03-two-character-video/video-prompt.txt) are also available as text files.
-
-## Prompt Files
-
-- [character-prompt.txt](../prompts/03-two-character-video/character-prompt.txt)
-- [keyframe-prompt.txt](../prompts/03-two-character-video/keyframe-prompt.txt)
-- [video-prompt.txt](../prompts/03-two-character-video/video-prompt.txt)
-
-## Sources & Attribution
-
-**Prompt: by SeeAPI.** **Inspiration:** [TechieSA](https://x.com/TechieBySA/status/2096196085198839832). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
-
-See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
-
-[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)
+[← Back to this case in the README](../README.md#c03-two-characters-one-scene)

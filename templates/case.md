@@ -1,42 +1,23 @@
 # {ID}. {English Title}
 
-**Prompt: by SeeAPI.** If inspired by a supplied source, add its creator's name and a direct source link here; state whether this is an adaptation or a new prompt inspired by the idea.
-
-**Category:** {one or more existing categories}
-**Updated:** {YYYY-MM-DD}
+**by SeeAPI** · {If inspired by a source, name its author and link the original post.}
 
 ## Preview
 
-{Embed the local result using a relative Markdown image link. Label it as final image, assembled GIF, opening frame, storyboard, or supplied reference. For a video, show a thumbnail and a link to the actual video file. If no result exists, say “Prompt only — example image pending” or “Video pending”; do not add an empty or invented output.}
+{Embed actual result and required reference images; state when an example or video is pending. Keep essential provenance or limitations to a short note.}
 
-## Reference Images
+## Workflow
 
-{Required image count, optional inputs, upload order, role of each image, visibility and quality requirements. State “None required” for text-only prompts. Distinguish identity reference from first/last frame.}
+`{Text → image → video, or Reference image → edited image. Include intermediate stages and upload roles where needed.}`
 
-## Full Prompt & Workflow
+## Full Prompt
 
-{Describe the intended result and the input → output steps. Separate recommended settings from actual generation settings.}
+**Step 1 — {Match the first Workflow stage}**
 
-### Step 1 — {Generate / Edit the Image}
+{One short upload instruction, if needed.}
 
 ```text
-{Complete, copyable English prompt. Define any replaceable fields explicitly.}
+{Complete prompt, identical to its canonical .txt file.}
 ```
 
-### Step 2 — {Optional Animation or Assembly}
-
-{Include only for multi-stage workflows. Provide upload instructions and the complete prompt. Put a negative prompt in a separate block if the workflow uses one.}
-
-### Review Notes
-
-{What to inspect, known defects, corrections made, actual generation tool/model/settings or “not recorded”, and whether any video output has been verified.}
-
-## Prompt Files
-
-{Link each canonical .txt prompt, using the matching case slug. Keep inline prompt blocks identical to the files.}
-
-## Sources & Attribution
-
-{Prompt author; inspiration author and original URL if supplied; who supplied or generated each reference/result; actual model provenance; explicit case-specific permission, or a link to the repository's sources-and-rights document. Never infer a license from “by SeeAPI”.}
-
-{Finish with a link back to the collection and, where useful, a related case. Product experience and API links are intentionally absent in the current edition.}
+{Repeat in workflow order for additional prompts. Label alternatives and negative prompts clearly. Publish this content inline in README with an H3 case title and H4 Preview / Workflow / Full Prompt headings; link the directory entry to that title’s page anchor.}

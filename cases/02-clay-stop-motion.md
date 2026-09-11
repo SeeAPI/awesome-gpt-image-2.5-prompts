@@ -1,36 +1,26 @@
 # C02. Clay Stop-Motion: Fishing for a Star
 
-**Prompt: by SeeAPI.** **Inspiration:** [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-**Category:** GIF & Stop-Motion
-
-**Updated:** 2026-09-11
+**by SeeAPI** · Inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)
 
 ## Preview
 
-**Assembled GIF.**
+![Clay Stop-Motion: Fishing for a Star — GIF result](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
 
-![Clay Stop-Motion: Fishing for a Star: assembled gif](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
+**Penguin star contact sheet**
 
-## Reference Images
+![penguin star contact sheet](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
 
-No reference is required for text-to-image. For GIF assembly, upload the complete 4 × 4 contact sheet and preserve the whole miniature set in every frame. Follow the upload roles below when using references.
+Illustrative stills generated with an unexposed model ID. Some rod, line, and set drift remains in the GIF.
 
-## Full Prompt & Workflow
+## Workflow
 
-A tiny clay penguin in a mustard-yellow scarf fishes a coral-pink star out of an ice hole, admires it, and gently lowers it back. Tactile clay, miniature scenery, and discrete pose changes give the sequence a handmade stop-motion look.
+`Text → contact sheet → GIF`
 
-**Inspiration:** [Charlie Guo's post about image-model stop-motion animation](https://x.com/charlierguo/status/2097399137142772071). This example uses an original penguin-and-star concept and a newly written prompt; it does not reproduce the post's footage or claim to use its exact workflow.
+## Full Prompt
 
-**Workflow:** Text to image → 16-frame contact sheet → animated GIF.
+**Step 1 — Text → contact sheet**
 
-**Input:** None.
-
-**Example generation:** Created with Codex's built-in image generation tool. The underlying model ID and quality setting were not exposed, so this is an illustrative workflow rather than a verified benchmark of either named model.
-
-### Step 1 — Generate the stop-motion frame sheet
-
-Use this prompt to generate all sixteen frames in one image. Keep the camera, ice hole, lighting, and character identity consistent. Unlike the isolated sprite in case 01, this scene needs its whole set to stay in place.
+No reference required.
 
 ```text
 Create one square image that is an EXACT 4 by 4 contact sheet of sixteen equally sized square animation frames, edge-to-edge with NO gutters, borders, labels or text. This is a handcrafted clay stop-motion sequence, not pixel art.
@@ -60,13 +50,9 @@ Frame progression in strict reading order, left to right then top to bottom:
 Prioritize exact 4x4 equal cell geometry, unchanging set placement, stable identity, line continuity and readable incremental motion. No motion blur, camera movement, frame numbers, captions, changing background, extra limbs, floating penguin or disconnected fishing line.
 ```
 
-**Generated frame sheet:**
+**Step 2 — Contact sheet → GIF**
 
-![Sixteen clay-style frames of a penguin lifting a pink star out of an ice fishing hole and lowering it back](../assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
-
-### Step 2 — Assemble the stop-motion GIF with Codex
-
-Attach the frame sheet to Codex and use this prompt:
+Upload the complete 4 × 4 sheet to Codex; preserve the full set.
 
 ```text
 Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
@@ -78,27 +64,4 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
 
-**Animated result:**
-
-![Clay-style penguin fishing a pink star from an ice hole in a looping stop-motion GIF](../assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
-
-**Example assembly:** 16 frames in source order, 313 × 313 pixels, a 2.48-second infinite loop. Each frame keeps the full miniature set. Frame durations in milliseconds: `200, 140, 140, 140, 140, 140, 140, 200, 220, 140, 140, 140, 140, 140, 140, 180`.
-
-**What to check:** The generated sheet communicates the lift-and-lower action, but the rod angle, penguin pose, and ice-hole placement vary slightly between frames. Some line-length changes also remain. These are source-image continuity limits, so the result is a stylized frame animation with visible stepping, not a perfectly registered physical stop-motion shoot.
-
-**Reproduce:** With Python 3 and Pillow installed, run `python scripts/build_penguin_gif.py` from the repository root. The [assembly script](../scripts/build_penguin_gif.py) and [exact generation prompt](../prompts/02-clay-stop-motion/generation-prompt.txt) are included.
-
-## Prompt Files
-
-- [generation-prompt.txt](../prompts/02-clay-stop-motion/generation-prompt.txt)
-- [gif-assembly-prompt.txt](../prompts/02-clay-stop-motion/gif-assembly-prompt.txt)
-
-## Sources & Attribution
-
-**Prompt: by SeeAPI.** **Inspiration:** [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071). Original concept and prompt adaptation by SeeAPI; no source footage is included.
-
-Example stills were created with Codex’s built-in image generation tool. The underlying model ID was not exposed; they are workflow illustrations, not verified GPT Image 2.5 model samples.
-
-See the [sources and reuse notes](../docs/sources-and-rights.md). Attribution alone is not a repository-wide reuse license.
-
-[← Browse the collection](../README.md) · [Prompting tips](../docs/prompting-tips.md)
+[← Back to this case in the README](../README.md#c02-clay-stop-motion-fishing-for-a-star)
