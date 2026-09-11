@@ -9,8 +9,8 @@ This collection will grow with regular additions of prompt examples, generated i
 ## 📖 Contents
 
 - [🧭 Choose Your Model](#-choose-your-model)
-- [🗂 Prompt Directory](#-prompt-directory)
 - [💡 10 Creative Things to Try](#-10-creative-things-to-try)
+- [🗂 Prompt Directory](#-prompt-directory)
 
 ## 🧭 Choose Your Model
 
@@ -28,62 +28,409 @@ Flare is OpenAI's fastest model for high-quality everyday image generation. It s
 
 **API model ID:** `gpt-image-2.5-flare` · [Official documentation](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare)
 
-## 🗂 Prompt Directory
+### At a Glance
 
-A growing library of individual prompt examples, updated regularly. Each entry will include a copyable prompt, an example image, the model used, any required reference images, and source credits where applicable.
-
-**Coming soon:** New entries will be listed here with links to their full prompts and images, with the latest additions first.
-
-For starter prompts you can try now, explore the [10 creative ideas below](#-10-creative-things-to-try).
+| Comparison | GPT Image 2.5 Sunburst | GPT Image 2.5 Flare |
+|---|---|---|
+| Main strength | Image generation and precise editing | Fast, high-quality everyday generation |
+| Choose when | Editing precision is your priority | Generation speed is your priority |
+| Input | Text and images | Text and images |
+| Output | Still images | Still images |
 
 ## 💡 10 Creative Things to Try
 
-These are original starter prompts and workflow ideas, not a gallery of verified outputs. Example images and reproduction notes will be added after testing. Prompts describe the intended result; details such as text accuracy and character consistency should be checked after generation.
+Explore ten creative workflows, with prompts and examples added as each case is completed. Cases 01–02 include frame sheets and assembled GIFs. Cases 03–05 cover character-reference, storyboard, and distant-observer video workflows; their video outputs are pending. Cases 06–10 will be defined as the collection develops. Standalone image prompts are collected in the [Prompt Directory](#-prompt-directory).
 
 | # | Idea | Starting material | Output path |
 |---|---|---|---|
-| 01 | [Reaction GIF Character](#01-reaction-gif-character) | Text | Still → animation → GIF |
-| 02 | [Clay Stop-Motion Scene](#02-clay-stop-motion-scene) | Text | Still → animation |
-| 03 | [Personalized Sticker Pack](#03-personalized-sticker-pack) | Character reference | Image → individual stickers |
-| 04 | [Collectible Figure Packaging](#04-collectible-figure-packaging) | Text or character reference | Image |
-| 05 | [Miniature World in an Everyday Object](#05-miniature-world-in-an-everyday-object) | Text | Image |
-| 06 | [Product Photo to Campaign Visual](#06-product-photo-to-campaign-visual) | Product photo | Image edit |
-| 07 | [Editorial Poster with Exact Copy](#07-editorial-poster-with-exact-copy) | Text | Image |
-| 08 | [One Character, Three Scenes](#08-one-character-three-scenes) | Character reference | Separate images |
-| 09 | [Paper-Cut Storybook Scene](#09-paper-cut-storybook-scene) | Text | Image |
-| 10 | [Glass Material Remix](#10-glass-material-remix) | Object reference | Image edit |
+| 01 | [Pixel Art Character GIF](#01-pixel-art-character-gif) | Text; optional character reference | Text → sprite sheet → GIF |
+| 02 | [Clay Stop-Motion: Fishing for a Star](#02-clay-stop-motion-fishing-for-a-star) | Text | Text → frame sheet → GIF |
+| 03 | [Two Characters, One Scene](#03-two-characters-one-scene) | Two character references | Images → shared keyframe → video |
+| 04 | [Character to Storyboard to Film](#04-character-to-storyboard-to-film) | Character concept and story | Character → storyboard → video |
+| 05 | [Distant Observer: A Robot in the Rain](#05-distant-observer-a-robot-in-the-rain) | Character concept and scene | Character → distant scene → video |
 
 GPT Image 2.5 produces still images. The GIF and stop-motion ideas below require a separate animation step and, where needed, GIF export.
 
-### 01. Reaction GIF Character
+### 01. Pixel Art Character GIF
 
-Create a recognizable character with a simple silhouette, ready for a short reaction loop.
+Turn a character idea into a 16-frame pixel art sprite sheet, then use Codex to assemble a centered looping GIF. The example below shows a gray elephant rolling on the ground.
 
-**Input:** None. **Starting model:** Flare.
+**Workflow:** Text to image → image to GIF.
 
-```text
-Create a single animation-ready keyframe of a tiny round orange fox sitting at a desk, looking directly at the viewer with a delighted expression. Its ears are upright, paws rest beside a small cream mug, and its fluffy tail curls around its body.
+**Input:** A character idea; optionally upload a character reference.
 
-Use a clean 3D cartoon style, soft matte materials, warm studio lighting, and a plain pale-blue background. Center the full character in a square composition with generous space above its ears. Keep the silhouette clear and the desk simple. No text, borders, or additional characters.
-```
+**Suggested starting model:** GPT Image 2.5 Flare. The model and generation settings of the supplied example sheet were not recorded.
 
-**Next step:** Animate one small action, such as an ear twitch and blink, with a fixed camera. Check the transition between the last and first frames before exporting a looping GIF.
+#### Step 1 — Generate the sprite sheet
 
-### 02. Clay Stop-Motion Scene
-
-Build a handmade miniature scene as the starting frame for a stop-motion-style clip.
-
-**Input:** None. **Starting model:** Flare.
+Copy the prompt below into an image generator. Replace the bracketed character idea at the end; keep the sheet-format instructions intact. If you upload a reference, use it to define the character's identity.
 
 ```text
-A handmade clay squirrel in a tiny bakery, standing behind a wooden counter with one miniature croissant on a plate. The squirrel wears a simple moss-green apron and rests both paws on the counter.
-
-Visible clay fingerprints, slightly uneven sculpted edges, felt curtains, and a warm paper backdrop give the set a practical handcrafted appearance. Frame the scene at the squirrel's eye level, with the entire counter and character visible. Soft light enters from the left. Keep every object physically supported. No text or motion blur. Landscape composition.
+Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
 ```
 
-**Next step:** Use the approved still as a reference for a short animation in which the squirrel lifts the croissant. Request small, stepped movements and a locked camera. Review paws, props, and character shape between frames.
+**Example sprite sheet:**
 
-### 03. Personalized Sticker Pack
+![A 4-by-4 sprite sheet of a gray pixel art elephant preparing, rolling, and recovering](assets/01-pixel-art-gif/elephant-sprite-sheet.png)
+
+#### Step 2 — Assemble the GIF with Codex
+
+Attach the generated sprite sheet to Codex and use this prompt:
+
+```text
+Turn the attached 4x4 character sprite sheet into an animated GIF. Use Python and Pillow to extract all 16 cells, reading left to right and top to bottom. Inspect the poses and choose a coherent action sequence from anticipation through the signature action and recovery; reorder frames only where this improves continuity.
+
+Remove excess blank space around each character without clipping any ears, limbs, tail, or props. Keep the original character scale and proportions across frames. Place each character at the center of one shared canvas sized to fit the largest pose, with a small consistent safety margin. Do not resize individual frames to fill the canvas.
+
+Preserve the pixel art and white background. Use a shared color palette, no dithering, no smoothing, and no invented in-between poses. Adjust frame timing so the action reads clearly and the final pose returns naturally to the first. Export an infinitely looping GIF. Check every frame for clipping and alignment, inspect the loop transition, and provide the GIF plus a reproducible Python script. Report the frame order, dimensions, and timing used, and flag any pose gaps that would require a revised sprite sheet.
+```
+
+**Animated result:**
+
+![A centered pixel art elephant rolling and returning to a standing pose in a looping GIF](assets/01-pixel-art-gif/elephant-roll.gif)
+
+**Example assembly:** 16 frames, 291 × 278 pixels, a 1.81-second infinite loop, white background, and at least 8 pixels of padding on each side. Character scale is preserved; each cropped pose is centered on the same canvas.
+
+The source cells are numbered 1–16 from left to right, top to bottom. Playback order: `1, 2, 5, 6, 7, 8, 9, 10, 11, 12, 4, 3, 13, 14, 15, 16`. The crouching poses follow the roll to make the recovery easier to read. The supplied poses still have some abrupt changes in body orientation; assembly cannot create missing motion. For a smoother roll, refine those poses in the source sheet.
+
+**Reproduce:** With Python 3 and Pillow installed, run `python scripts/build_elephant_gif.py` from the repository root. The [assembly script](scripts/build_elephant_gif.py) records the exact crops, frame order, palette, and per-frame timing.
+
+### 02. Clay Stop-Motion: Fishing for a Star
+
+A tiny clay penguin in a mustard-yellow scarf fishes a coral-pink star out of an ice hole, admires it, and gently lowers it back. Tactile clay, miniature scenery, and discrete pose changes give the sequence a handmade stop-motion look.
+
+**Inspiration:** [Charlie Guo's post about image-model stop-motion animation](https://x.com/charlierguo/status/2097399137142772071). This example uses an original penguin-and-star concept and a newly written prompt; it does not reproduce the post's footage or claim to use its exact workflow.
+
+**Workflow:** Text to image → 16-frame contact sheet → animated GIF.
+
+**Input:** None.
+
+**Example generation:** Created with Codex's built-in image generation tool. The underlying model ID and quality setting were not exposed, so this is an illustrative workflow rather than a verified benchmark of either named model.
+
+#### Step 1 — Generate the stop-motion frame sheet
+
+Use this prompt to generate all sixteen frames in one image. Keep the camera, ice hole, lighting, and character identity consistent. Unlike the isolated sprite in case 01, this scene needs its whole set to stay in place.
+
+```text
+Create one square image that is an EXACT 4 by 4 contact sheet of sixteen equally sized square animation frames, edge-to-edge with NO gutters, borders, labels or text. This is a handcrafted clay stop-motion sequence, not pixel art.
+
+Original story: a tiny charcoal-gray clay penguin in a mustard-yellow knitted scarf sits on the LEFT of a small round fishing hole in a pale-blue miniature ice floor. The penguin has a cream belly, two short flippers, two orange feet, black bead eyes, and a short orange beak. A short wooden fishing rod held in its right flipper extends diagonally toward the hole at RIGHT. One thin fishing line connects the rod tip to one small coral-pink five-point clay star. The star starts below the hole, rises out as the penguin pulls, briefly hangs above the hole, then is lowered back into it. No fish, other characters, buckets or extra props.
+
+All sixteen frames show the EXACT SAME locked eye-level three-quarter camera, fixed wide composition, penguin at x35%, hole at x67%, same ice floor and seamless dusty-lavender backdrop, same object sizes, same soft warm light from upper left. Keep all objects entirely inside each cell with generous 10% safety margin. Real clay fingerprints, slightly lumpy handmade forms, tactile wool scarf, soft contact shadows. Every frame looks like a photographed tabletop miniature. Use modest, clearly distinct stepped pose changes and consistent anatomy.
+
+Frame progression in strict reading order, left to right then top to bottom:
+1: penguin holds rod low, looks at hole, star hidden.
+2: penguin leans forward slightly, rod low.
+3: penguin starts raising rod, fishing line taut.
+4: penguin leans back, rod rises, pink star tip appears inside hole.
+5: star half emerges, line visibly attached.
+6: full star just clears hole, penguin looks at it.
+7: star rises a little more, rod higher.
+8: star hangs one star-height above hole, penguin eyes wide.
+9: hold the same star height, penguin tilts its head in delight.
+10: penguin begins lowering rod, star slightly lower.
+11: star descends toward hole.
+12: star touches hole rim level.
+13: star half submerged.
+14: only star tip visible, penguin straightens.
+15: star hidden, rod returning to initial low angle.
+16: same composition and near-identical pose as frame 1, ready to loop.
+
+Prioritize exact 4x4 equal cell geometry, unchanging set placement, stable identity, line continuity and readable incremental motion. No motion blur, camera movement, frame numbers, captions, changing background, extra limbs, floating penguin or disconnected fishing line.
+```
+
+**Generated frame sheet:**
+
+![Sixteen clay-style frames of a penguin lifting a pink star out of an ice fishing hole and lowering it back](assets/02-clay-stop-motion/penguin-star-contact-sheet.png)
+
+#### Step 2 — Assemble the stop-motion GIF with Codex
+
+Attach the frame sheet to Codex and use this prompt:
+
+```text
+Use Python and Pillow to turn the attached 4x4 stop-motion contact sheet into a looping GIF. Split it into 16 equal-sized frames, reading left to right and top to bottom. If the image dimensions are not divisible by four, round the cell boundaries and use a consistent crop size, trimming at most one edge pixel where necessary.
+
+Keep the complete miniature scene in every frame. Preserve one shared crop and the original image scale. Do not crop to the penguin's silhouette or recenter it independently: the ice hole, horizon, and floor must remain in place. Do not add camera movement, interpolated poses, optical flow, or crossfades.
+
+Use a shared 256-color palette with no dithering. Start with 140 ms per frame, hold the reveal briefly, and use a short pause at the loop boundary. Preserve the source order unless the poses clearly require a change. Export an infinitely looping GIF and provide a reproducible script with the exact frame order and durations.
+
+Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
+```
+
+**Animated result:**
+
+![Clay-style penguin fishing a pink star from an ice hole in a looping stop-motion GIF](assets/02-clay-stop-motion/penguin-star-stop-motion.gif)
+
+**Example assembly:** 16 frames in source order, 313 × 313 pixels, a 2.48-second infinite loop. Each frame keeps the full miniature set. Frame durations in milliseconds: `200, 140, 140, 140, 140, 140, 140, 200, 220, 140, 140, 140, 140, 140, 140, 180`.
+
+**What to check:** The generated sheet communicates the lift-and-lower action, but the rod angle, penguin pose, and ice-hole placement vary slightly between frames. Some line-length changes also remain. These are source-image continuity limits, so the result is a stylized frame animation with visible stepping, not a perfectly registered physical stop-motion shoot.
+
+**Reproduce:** With Python 3 and Pillow installed, run `python scripts/build_penguin_gif.py` from the repository root. The [assembly script](scripts/build_penguin_gif.py) and [exact generation prompt](assets/02-clay-stop-motion/generation-prompt.txt) are included.
+
+### 03. Two Characters, One Scene
+
+Bring two separately defined characters into one scene, then animate their interaction. In this original example, greenhouse caretakers Mira and Ren place an amber seed into a lantern and watch it light up together.
+
+**Inspiration:** [TechieSA's character-reference-to-video workflow](https://x.com/TechieBySA/status/2096196085198839832). The source post names GPT Image 2 and Seedance 2.5. This adaptation uses original characters and a new scene; it is not a reproduction of that post or a tested claim about those models.
+
+**Workflow:** Two character images → shared opening frame → image-to-video.
+
+**Input:** Two separate character reference images. Use your own, or create the original pair below.
+
+**Status:** Character images and an opening frame are included. The video prompt is ready to use; no video has been generated or verified. Example stills were made with Codex's built-in image generation tool; its underlying model ID was not exposed.
+
+#### Step 1 — Prepare two character references
+
+Keep each character in a separate image so the video workflow can distinguish them. For this example, generate the following two-panel reference sheet, then split it into the two supplied portrait files. If using your own images, skip this generation step and assign them the same reference roles.
+
+```text
+Generate a widescreen 3:2 character reference diptych, exactly two equal vertical panels with a plain warm gray background, no border or text. The panels will be cropped into two separate identity reference images. Each panel contains exactly one full-body adult original human character, head to boots fully visible with ample margins, both at identical scale.
+Left panel: MIRA, an adult woman aged about 30, medium-brown skin, short curly black bob, oval face, dark eyes, rust-orange utility jacket over cream shirt, navy work trousers, brown ankle boots. No jewelry, no hat, no props. Arms relaxed and hands fully visible.
+Right panel: REN, an adult man aged about 32, light olive skin, straight dark hair tied in a small low bun, clean-shaven angular face, dark eyes, moss-green utility jacket over charcoal shirt, charcoal trousers, brown work boots. No jewelry, no hat, no props. Arms relaxed and hands fully visible.
+Style: cinematic hand-painted animation concept art, softly textured gouache backgrounds, clear expressive faces, grounded anatomy, restrained warm colors, diffuse studio lighting. Neutral front three-quarter standing poses. These are original greenhouse caretakers, no celebrities, no existing film characters. Do not blend identities, duplicate people, invent props, add text or crop limbs.
+```
+
+| C03-R01 — Mira | C03-R02 — Ren |
+|---|---|
+| ![Mira in a rust-orange utility jacket](assets/03-two-character-video/mira-reference.png) | ![Ren in a moss-green utility jacket](assets/03-two-character-video/ren-reference.png) |
+
+#### Step 2 — Create a shared opening frame
+
+Upload **C03-R01 first and C03-R02 second**. Use the images to preserve the two identities while changing their poses and placing them together in the greenhouse.
+
+```text
+Use the two uploaded character portraits as separate strict identity references: image 1 is MIRA, the woman with a rust-orange jacket; image 2 is REN, the man with a moss-green jacket. Preserve each person's face, hairstyle, skin tone, age, body proportions, and entire outfit. Do not merge or swap their identities.
+
+Create a single cinematic 16:9 opening frame in the same hand-painted animation style. A glass greenhouse at blue hour, quiet foliage at the edges, dark blue glass roof overhead, a waist-high stone workbench across the foreground. Mira stands on the LEFT, Ren on the RIGHT, facing slightly inward toward one small unlit brass lantern fixed at the center of the bench. Mira's open right palm holds exactly one small amber glass seed just left of the lantern. Ren's left hand rests beside the lantern base, leaving the empty circular socket clearly visible. All hands remain distinct. Both faces are clearly readable in a medium-wide shot.
+
+The lantern is attached to the bench and cannot move; its socket is empty. The amber seed has not been inserted yet. Soft cool dusk light and a faint warm reflection from the seed. Calm anticipation, grounded anatomy, subtle gouache texture, no text, no labels, no montage, no extra people, no duplicate seed, no costume changes, no oversized hands. This is the first frame before the action, not the finished glowing result.
+```
+
+**C03-K01 — Opening-frame example:**
+
+![Mira and Ren beside an unlit lantern in a greenhouse at dusk](assets/03-two-character-video/greenhouse-opening.png)
+
+Check both faces and outfits, the single seed, the empty socket, and the separation of the hands before animating. The generated example reverses the anatomical hand assignments in the image prompt; the video prompt therefore follows the visible seed-bearing palm and free hand instead of forcing a left/right swap.
+
+#### Step 3 — Animate the interaction
+
+| Upload | Role |
+|---|---|
+| C03-K01 — greenhouse opening frame | First frame; scene layout and starting poses |
+| C03-R01 — Mira portrait | Optional identity reference, if supported |
+| C03-R02 — Ren portrait | Optional identity reference, if supported |
+
+If the video tool accepts only one image, upload **C03-K01**. Do not upload the two-person reference sheet as the first frame: that would start the video from a split-screen portrait layout. The 8-second duration is a creative target; use supported settings and trim if needed.
+
+```text
+Create an 8-second cinematic hand-painted animation, 16:9, one continuous medium-wide shot. C03-K01 is the exact first frame and controls composition, greenhouse, bench, lantern, and initial hand positions. C03-R01 locks Mira's identity and rust-orange outfit; C03-R02 locks Ren's identity and moss-green outfit. If only one image is supported, use C03-K01 alone. Mira stays on screen-left, Ren on screen-right. Preserve both faces, hairstyles, skin tones, ages, clothes, and body proportions throughout.
+
+0–2 seconds: Mira looks from the single amber seed on her seed-bearing palm to the empty lantern socket. Ren watches the socket, his visible hand resting beside the fixed base. Gentle breathing; leaves shift slightly in the greenhouse draft. The camera stays locked.
+2–5 seconds: Mira uses the thumb and index finger of her free hand to lift the seed from her open seed-bearing palm, then seats it in the lantern's circular socket. Show one continuous transfer and contact. Ren does not take the seed or move the lantern. Once the seed is seated, its amber light gradually illuminates the lantern and nearby faces.
+5–8 seconds: Mira withdraws the hand that placed the seed; the seed remains visibly seated. Both look at the illuminated lantern and exchange a small satisfied smile. Warm reflections settle on the glass roof. End on the two distinct characters and the lit lantern. Do not reset the action or loop.
+
+Keep movement restrained and expressive, with coherent hand anatomy and stable painted textures. No scene cuts. Optional audio: faint greenhouse wind, a soft glass click at contact, and a gentle electrical hum after illumination; no dialogue or lip-sync. If audio is unavailable, export silently.
+
+Negative prompt: face swap, merged people, outfit morphing, duplicate seed, disappearing seed, extra fingers or arms, passing objects through solid glass, floating lantern, premature illumination, camera orbit, zoom, captions, text, logos, unrelated cuts, flickering identities.
+```
+
+**Video result:** Pending generation. Check identity consistency, the seed's continuous transfer into the socket, and illumination only after contact. A still-image slideshow would not validate this workflow.
+
+**Production notes:** [Chinese story, continuity rules, and exact upload instructions](cases/03-two-character-video.md). The [image prompt](assets/03-two-character-video/keyframe-prompt.txt) and [video prompt](assets/03-two-character-video/video-prompt.txt) are also available as text files.
+
+### 04. Character to Storyboard to Film
+
+Define a protagonist, plan the story as distinct shots, then animate each shot. In this original miniature-film concept, lighthouse mechanic Inez winds a dormant brass seabird, watches it wake, and releases it through an open window.
+
+**Inspiration:** [el.cine's cast-design and storyboard workflow](https://x.com/EHuanglu/status/2097519538632024103). The source describes character design and storyboards followed by video generation. The lighthouse setting, character, prop, and story below are newly designed for this repository.
+
+**Workflow:** Character design → four-shot storyboard → individual shot-start images → image-to-video → edit.
+
+**Input:** A character concept and short story.
+
+**Status:** Character reference, storyboard, and extracted shot-start images are included. The 12-second film remains a production plan; no generated video is included. Stills were created with Codex's built-in image generation tool, whose model ID was not exposed.
+
+#### Step 1 — Define the character
+
+Create one reusable identity reference. Lock Inez's age, face, glasses, hairstyle, and clothes before designing the shots.
+
+```text
+Generate one landscape 3:2 clean single-character full-body identity reference portrait. Original protagonist INEZ, a lighthouse mechanic aged about 60, warm tan skin, short silver-gray curly hair, round tortoiseshell glasses, kind lined face, navy wool chore coat over an ochre knitted sweater, charcoal trousers and weathered dark brown work boots. Her hands are empty and visible, arms relaxed, head and boots fully inside the frame with ample margins. She stands in a neutral three-quarter pose against a simple warm gray studio backdrop. No other characters or props, no collage or additional views, no text.
+Visual style: tactile miniature stop-motion film design, felted wool costume, subtly sculpted expressive face, cinematic soft overcast coastal light, muted navy and ochre palette, believable anatomy. Preserve the subject as a clearly older adult woman, no glamour retouching.
+```
+
+**C04-R01 — Inez:**
+
+![Inez, an older lighthouse mechanic in a navy coat and ochre sweater](assets/04-storyboard-video/inez-reference.png)
+
+#### Step 2 — Design the storyboard
+
+| Shot | Editing target | Story beat | Starting image |
+|---|---|---|---|
+| 1 | 0–3 s | Discover the inert bird; reach toward it | C04-K01 |
+| 2 | 3–6 s | Turn its attached winding key | C04-K02 |
+| 3 | 6–9 s | The wings unfold; Inez offers her palm | C04-K03 |
+| 4 | 9–12 s | Release the bird through the open window | C04-K04 |
+
+Upload **C04-R01 only** for the following storyboard generation. It locks the character and material style; the prompt defines the new workshop and brass bird.
+
+```text
+Use the uploaded full-body portrait of INEZ as the strict identity and visual-style reference. Preserve her older adult face, short silver-gray curls, round tortoiseshell glasses, navy wool coat, ochre sweater, charcoal trousers, and brown work boots. Create one 16:9 storyboard sheet divided into an EXACT 2x2 grid of four equal 16:9 cinematic panels, no gutters, panel labels, numbers, captions, text, or borders. Reading order is left to right, top to bottom. This is a four-shot narrative storyboard, NOT consecutive animation frames.
+
+Original story: in a tiny coastal lighthouse workshop, Inez revives one palm-sized brass mechanical seabird with an attached winding key, then lets it fly out of an already-open window. Tactile miniature stop-motion film look, felted wool clothing, sculpted face, softly weathered brass, overcast coastal daylight. The same wooden workbench runs beneath one arched OPEN window on the RIGHT of the room; cool sea beyond. One brass mechanical bird only, two hinged wings, one small attached winding key on its left flank. No loose tools or unrelated objects.
+
+Panel 1, establishing medium-wide shot: Inez is on the LEFT of the workbench looking down at the inert bird resting on the bench at center-right. Both bird wings are folded. Her hands rest on the bench on either side of the bird without touching the key. The open window is visible on the right. This is the first moment before repair.
+Panel 2, close-up from the same side of the bench: one of Inez's hands gently braces the bird body; her other hand holds the small attached winding key on its left flank, ready to turn. Both wings remain folded. Show enough ochre sleeve and navy cuff to link her costume. Brass bird geometry must match panel 1, not a different bird. Key remains attached.
+Panel 3, medium shot: Inez smiles at the same bird standing on the bench, both hinged wings now partly unfolded, head lifted. Her hands are withdrawn and clearly separate from its wings. Bird has not taken off. Same window on right, same lighting and clothes.
+Panel 4, medium-wide shot toward the open window: Inez remains on the LEFT with an open supporting palm near the window sill. The same brass bird rests on the RIGHT sill with wings poised for takeoff toward the open sea, still physically supported. Maintain the single window and its already-open state. Inez's face is visible in three-quarter profile, quietly proud. This is the beginning of the release shot, before the bird flies away.
+
+Keep causal continuity, a single recognizable protagonist, one bird, stable costume, stable room geography, plausible hands, and a clear visual link between the close-up and wide shots. No magic beams, glowing eyes, extra characters, flying tools, missing glasses, unreadable writing, duplicate birds, grid overlays, or photoreal human replacement.
+```
+
+**C04-B01 — Four-shot storyboard:**
+
+![Four shots showing Inez discovering, winding, awakening, and preparing to release a mechanical seabird](assets/04-storyboard-video/lighthouse-storyboard.png)
+
+#### Step 3 — Prepare individual shot-start images
+
+Split the storyboard into four images in reading order. A storyboard panel defines a shot; it is not one frame of a four-frame animation. Avoid feeding the entire grid into a first-frame-only video tool.
+
+| ID | File | What it controls |
+|---|---|---|
+| C04-K01 | [Discovery](assets/04-storyboard-video/shot-01.png) | Establishing view and inert bird |
+| C04-K02 | [Winding](assets/04-storyboard-video/shot-02.png) | Hand contact and key location |
+| C04-K03 | [Awakening](assets/04-storyboard-video/shot-03.png) | Wing state and reaction |
+| C04-K04 | [Release](assets/04-storyboard-video/shot-04.png) | Open window and takeoff position |
+
+The included crops can be reproduced with `python scripts/prepare_video_references.py` using Python 3 and Pillow. Check costume, hand anatomy, bird geometry, attached key, and window placement across the crops. The bird body, winding-key detail, and apparent scale vary somewhat between the generated panels. Treat these as draft shot references and refine those differences before final video production; the included stills do not establish video continuity.
+
+#### Step 4 — Animate and edit
+
+For a video tool that supports multiple ordered shot references, map C04-K01–K04 to shots 1–4 and supply C04-R01 as an identity reference if a separate slot exists. Otherwise, generate each shot separately from its matching C04-K image, then join four selected three-second clips with straight cuts. Do not assume a particular tool accepts four reference images or an exact three-second duration.
+
+```text
+Create a 12-second, 16:9 miniature stop-motion-style short film called The Last Flight, with four shots and clear tactile stepped motion. Do not render the title as text. C04-R01 is the identity reference for Inez. C04-B01 is a storyboard for planning only, not a frame sheet to animate directly. C04-K01 through C04-K04 are individual shot-start references. Never show the grid or multiple panels in the video.
+
+Continuity: Inez is the same older woman with silver curls, round tortoiseshell glasses, navy coat and ochre sweater. There is one palm-sized brass mechanical seabird, two hinged wings, and one attached winding key on its left flank. The wooden bench is below a single already-open arched window on room-right. Overcast sea light stays constant. The bird progresses from inert to wound to active to airborne; it never duplicates or changes species.
+
+Shot 1, 0–3 seconds, start from C04-K01: locked medium-wide shot. Inez notices the folded, inert brass bird on the bench, leans slightly closer, and reaches toward its attached key. The open window remains visible on the right. Cut on her reaching hand to the matching close-up.
+Shot 2, 3–6 seconds, start from C04-K02: locked close-up. One hand braces the bird; the other gives its attached key one slow half-turn. The key remains attached and her fingers keep contact. A small mechanical click prompts the bird's head to lift slightly. Cut on this first movement to the wider reaction.
+Shot 3, 6–9 seconds, start from C04-K03: medium shot. The bird unfolds its two wings, takes two short steps toward the right, and Inez offers her open palm beside it. She smiles, keeping her glasses and outfit unchanged. Cut in the direction of the bird's movement to the open-window shot; the short move to the sill is an intentional edit, not a teleport within a shot.
+Shot 4, 9–12 seconds, start from C04-K04: medium-wide shot. From the sill, the bird pushes off with both feet and makes two small mechanical wingbeats, flying out through the already-open window toward screen-right. Inez withdraws her supporting palm and follows it with her gaze. End with her quiet smile and the open sea. The bird stays the same small brass object as it recedes. No reset or loop.
+
+No camera movement is required. Prioritize readable action over extra cuts. Optional audio: low coastal wind, a winding click, two soft metallic wing flutters; no dialogue, captions, or lip-sync. If audio generation is unavailable, export silent clips.
+
+Negative prompt: visible storyboard grid, collage animation, extra bird, detached key, changing bird design, wardrobe morph, missing glasses, extra fingers, hand-wing fusion, closed window, flight through glass, unmotivated room change, continuous-shot teleport, photoreal skin, fast montage, crossfades, text or logos.
+
+Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
+```
+
+**Video result:** Pending generation. Verify that the key stays attached, the bird count stays at one, and the bird exits through the opening rather than through glass. Keep the move from workbench to sill as an intentional cut.
+
+**Production notes:** [Chinese story, continuity ledger, panel-edit instructions, and upload map](cases/04-storyboard-video.md). The [storyboard prompt](assets/04-storyboard-video/storyboard-prompt.txt) and [video prompt](assets/04-storyboard-video/video-prompt.txt) are supplied as text files.
+
+### 05. Distant Observer: A Robot in the Rain
+
+Create the feeling of noticing a small, unexpected moment from across the street. In this original scene, an old maintenance robot lowers its own umbrella over a tiny flowerpot, leaving itself in the rain. The emotional beat comes from the action and the distant framing, rather than a face close-up.
+
+**Inspiration:** [Pablo Prompt's post](https://x.com/pabloprompt/status/2097382752622436744). Its caption credits GPT Image 2 and Seedance 2.5 in CapCut. This example develops the distant-observer approach identified in the reference brief with a newly designed robot and story; it does not reproduce the post's footage or claim that the source used GPT Image 2.5.
+
+**Workflow:** Text-defined character → distant scene image → image-to-video.
+
+**Input:** A character idea; optionally replace the supplied original robot with your own character reference.
+
+**Status:** A generated robot reference and scene image are included. The 8-second video prompt is ready; video generation and motion validation remain pending. Stills were made with Codex's built-in image generation tool; its model ID was not exposed.
+
+#### Step 1 — Define the character
+
+Use a clean character reference to establish the robot's silhouette, colors, joints, and pouch. This close reference is for identity only; it should not become the video's opening composition.
+
+```text
+Create one portrait 2:3 full-body character identity reference photograph of an original friendly obsolete street-maintenance robot. It is a physically built practical movie prop, about 2 meters tall, with a stocky weathered rust-red steel torso, off-white rounded rectangular head, exactly two small round dark glass eyes, no mouth, two thick articulated arms, exactly three blunt fingers on each hand, two short sturdy legs, and broad dark rubber feet. Its plates show chipped paint and light rain marks, never military armor. One small olive canvas pouch is strapped at its left hip. No writing, badges, logos, screens, weapons, or human face.
+The robot stands upright in a relaxed front three-quarter pose on a plain mid-gray studio floor and seamless backdrop. Both empty hands, full head, and both feet are clearly visible with ample margins. No props in the hands, no umbrella in this identity reference. Keep one single robot, no collage, no turnaround grid, no other subject.
+Photoreal practical-effects cinematography, tactile metal and canvas, soft overcast illumination, understated warmth. Design a unique humble municipal helper with rounded proportions, not an existing franchise robot.
+```
+
+**C05-R01 — Robot identity reference:**
+
+![Weathered rust-red maintenance robot with an off-white head and olive hip pouch](assets/05-distant-observer/robot-reference.png)
+
+#### Step 2 — Build the distant scene
+
+Upload **C05-R01 only**. Change the setting, scale within the composition, and arm pose while retaining the robot design. Establish the umbrella above the robot and the flowerpot beside it, before the act of sheltering the flower.
+
+| Visual choice | Direction |
+|---|---|
+| Framing | Vertical 9:16, distant view across the street |
+| Subject scale | Small in frame; the generated example is about one-fifth of frame height |
+| Foreground | Soft doorway edge and ledge, away from the action |
+| Camera | Compressed perspective; fixed observer position |
+| Motion to preserve later | Small handheld drift; no push-in or close-up |
+| Story anchor | One yellow umbrella moves from robot to flowerpot |
+
+```text
+Use the uploaded robot portrait as the strict identity reference C05-R01: preserve the rust-red stocky steel body, off-white rounded rectangular head, two round dark eyes, no mouth, two arms, three blunt fingers per hand, two legs, rubber feet, and single olive pouch at its left hip.
+
+Create one photoreal 9:16 vertical first frame with the visual feeling of a candid distant observation of a fictional scene. The camera is sheltered inside an unoccupied cafe doorway across a narrow rain-soaked street, about 25 meters from the robot. Use a moderate telephoto perspective with compressed depth and natural lens softness, not a wide-angle close-up. A dark out-of-focus door jamb occupies only the left 8% of the image and a soft blurred ledge crosses the bottom 5%; neither covers the robot or the flowerpot. No people or camera equipment are visible.
+
+On the far sidewalk, the robot stands just right of center beneath its one OPEN mustard-yellow umbrella. The robot's body from head to feet occupies only 24–28% of the entire image height; keep it visibly small in a much larger urban environment. Its lowered gaze is directed at one terracotta flowerpot on the ground immediately to its right, containing one short green plant with one small white flower. The pot is close enough for the robot to shelter it by lowering and moving the umbrella a short distance. The hand nearest the pot holds the umbrella shaft at chest height; the free hand hangs at its side. The umbrella is currently above the robot, NOT already above the pot. Show the shaft continuously attached to the canopy and gripped by one hand.
+
+Quiet old tram-stop frontage with a closed teal shutter behind the robot, damp pale plaster walls, a curb, a wet road occupying much of the lower middle frame, soft rain and broad puddle reflections. No readable shop names, road text, logos, vehicles, pedestrians, or other plants. The setting and wet empty space should dominate. Overcast afternoon daylight, subdued colors except the rust-red robot, yellow umbrella, and terracotta pot. The umbrella and flowerpot remain separate and fully visible. Natural slightly imperfect observer framing, no surveillance overlays, timestamp, cinematic black bars, or exaggerated bokeh. This is an ordinary street seen from afar, with one unexpected quiet act about to happen; not a hero portrait.
+```
+
+The first generation placed the pot beneath the umbrella edge. A [local correction prompt](assets/05-distant-observer/scene-correction-prompt.txt) moves that one pot outside the canopy before animation. Upload the [draft scene C05-K00](assets/05-distant-observer/rainy-street-draft.png) alone for that correction, keeping the robot and camera fixed. The final example also places the robot slightly smaller than the original size target; the video prompt follows the actual frame.
+
+**C05-K01 — Distant opening-frame example:**
+
+![A small robot with a yellow umbrella on the far sidewalk, seen from a sheltered doorway across a wet street](assets/05-distant-observer/rainy-street-opening.png)
+
+Before animation, check that the robot remains small, both feet are grounded, the umbrella shaft reaches its hand, and the pot is within reach. Rain, the road, and the shutter must remain consistent through the action.
+
+#### Step 3 — Animate without losing the distant viewpoint
+
+| Upload | Role |
+|---|---|
+| C05-K01 — rainy street scene | Required first frame; distance, environment, props, and starting pose |
+| C05-R01 — robot portrait | Optional identity reference only, if an extra slot is supported |
+
+If only one image is supported, upload **C05-K01**. Keep the distant composition even when the robot bends down. A close-up of its face would change the central idea of this case. Eight seconds is a creative target, not a claim about any particular video model's duration settings.
+
+```text
+Animate C05-K01 as the exact first frame of an 8-second photoreal 9:16 distant-observer video, one uninterrupted shot. C05-R01 is optional robot identity reference only if the tool supports an extra reference slot. If only one image is allowed, use C05-K01. Preserve its street layout, wet road, teal shutter, foreground doorway edge, robot size, umbrella, and flowerpot.
+
+The camera remains inside the doorway across the street at the same approximately 25-meter distance. Match the robot's exact small standing scale in C05-K01 (about 18% of frame height in the supplied example), rather than enlarging it to meet a numerical target. As it bends, allow its projected height to decrease naturally; never enlarge it or move the camera to compensate. The viewer should feel they happened to notice a small event on the far sidewalk. Only very slight low-amplitude handheld drift, under 1% of frame width; no zoom, push-in, tracking toward the subject, close-up, camera cut, or dramatic rack focus. Foreground occlusion remains at the edges, never over the action.
+
+0–2 seconds: the rust-red robot pauses under its open yellow umbrella and tilts its off-white head down toward the single terracotta pot and white flower beside it. Rain continues falling; the flower stem nods slightly. Keep exactly two eyes, no mouth, one olive hip pouch, and the same physical body proportions.
+2–6 seconds: the robot bends at the knees and waist, using the hand already gripping the umbrella shaft to lower and move the still-open umbrella toward the pot. The umbrella moves as one rigid connected canopy-and-shaft assembly. Keep its grip continuous and do not swap hands. The free hand rests against its own thigh. The feet remain planted on the sidewalk. Finish with the canopy visibly centered above the pot while most of the robot's head and shoulders are outside its cover in the rain. The umbrella does not shrink, fold, detach, or touch the flower.
+6–8 seconds: the robot holds the umbrella steady over the pot and quietly watches the flower. Rain remains visible around the canopy, and puddle rings continue on the road. End on this small act of care from the same distant viewpoint. The robot never notices or looks into the camera. No return to the starting pose and no loop.
+
+Photoreal practical-effects character with believable joint motion, damp metal, soft daylight, and restrained movement. Optional audio: rain recorded from the sheltered camera position, with very faint mechanical movement at a distance; no close-miked dialogue, music cue, or dramatic sound effect. If audio is not supported, export silently.
+
+Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
+```
+
+**Video result:** Pending generation. Validate the umbrella's rigid shape and continuous grip, the pot's fixed location, natural joints, and the absence of an automatic zoom. The body occupies less vertical space when bending; preserve camera distance rather than enlarging the crouched robot to compensate.
+
+**Production notes:** [Chinese story, continuity rules, and per-image upload instructions](cases/05-distant-observer.md). Download the [scene prompt](assets/05-distant-observer/scene-prompt.txt) and [video prompt](assets/05-distant-observer/video-prompt.txt) for reuse.
+
+## 🗂 Prompt Directory
+
+Browse standalone prompts for image generation and editing. New examples will be added regularly and listed first. The current entries are starter prompts; example images and reproduction notes will be added after testing.
+
+Original prompts are credited to SeeAPI. Entries adapted from a source or inspired by a shared reference will name and link to that source.
+
+- [P08: Glass Material Remix (by SeeAPI)](#p08-glass-material-remix)
+- [P07: Paper-Cut Storybook Scene (by SeeAPI)](#p07-paper-cut-storybook-scene)
+- [P06: One Character, Three Scenes (by SeeAPI)](#p06-one-character-three-scenes)
+- [P05: Editorial Poster with Exact Copy (by SeeAPI)](#p05-editorial-poster-with-exact-copy)
+- [P04: Product Photo to Campaign Visual (by SeeAPI)](#p04-product-photo-to-campaign-visual)
+- [P03: Miniature World in an Everyday Object (by SeeAPI)](#p03-miniature-world-in-an-everyday-object)
+- [P02: Collectible Figure Packaging (by SeeAPI)](#p02-collectible-figure-packaging)
+- [P01: Personalized Sticker Pack (by SeeAPI)](#p01-personalized-sticker-pack)
+
+### P01. Personalized Sticker Pack
+
+**by SeeAPI**
 
 Turn an original character into a set of expressive stickers.
 
@@ -97,7 +444,9 @@ Keep the character's face shape, colors, outfit, and distinctive features consis
 
 **Next step:** Check each expression, then crop and isolate the stickers individually. A flat background is not a transparent export.
 
-### 04. Collectible Figure Packaging
+### P02. Collectible Figure Packaging
+
+**by SeeAPI**
 
 Design an original toy concept with a clear character and accessory layout.
 
@@ -111,7 +460,9 @@ The figure is a cheerful astronaut wearing a cream spacesuit with sage-green gar
 
 **Next step:** Check the title, accessory count, and reflections. If using a character reference, explicitly ask to preserve its identifying features.
 
-### 05. Miniature World in an Everyday Object
+### P03. Miniature World in an Everyday Object
+
+**by SeeAPI**
 
 Give a familiar object a surprising second life.
 
@@ -123,7 +474,9 @@ A miniature hillside village built inside an open vintage suitcase resting on a 
 Show the whole suitcase from a three-quarter overhead angle. Make the scale relationship unmistakable through detailed stitching, brass clasps, and a life-size ceramic cup beside it. Warm afternoon light, realistic miniature materials, shallow depth of field that keeps the village readable. No floating buildings or text. Landscape composition.
 ```
 
-### 06. Product Photo to Campaign Visual
+### P04. Product Photo to Campaign Visual
+
+**by SeeAPI**
 
 Change the setting while keeping the product recognizable.
 
@@ -139,7 +492,9 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 
 **Next step:** Compare the product and label against the source before using the image. Add campaign copy after approving the product rendering.
 
-### 07. Editorial Poster with Exact Copy
+### P05. Editorial Poster with Exact Copy
+
+**by SeeAPI**
 
 Start with a short headline and a clear layout hierarchy.
 
@@ -158,7 +513,9 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 
 **Next step:** Proofread every word and inspect readability at the intended display size.
 
-### 08. One Character, Three Scenes
+### P06. One Character, Three Scenes
+
+**by SeeAPI**
 
 Build a small visual series around one approved character.
 
@@ -172,7 +529,9 @@ Create one new image of this character browsing a quiet neighborhood bookshop. T
 
 **Next step:** Generate separate versions by changing only the scene and action—for example, waiting at a train platform or tending a balcony plant. Reuse the original reference each time and compare identity details across all three images.
 
-### 09. Paper-Cut Storybook Scene
+### P07. Paper-Cut Storybook Scene
+
+**by SeeAPI**
 
 Create depth from layered paper rather than photographic realism.
 
@@ -184,7 +543,9 @@ A storybook forest made entirely from layered cut paper. A small cream-colored r
 Use visible paper fibers, crisp cut edges, gently bent leaves, and real shadows between the layers. Limit the palette to forest green, warm cream, ochre, and muted coral. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic fur. Square composition.
 ```
 
-### 10. Glass Material Remix
+### P08. Glass Material Remix
+
+**by SeeAPI**
 
 Reimagine an object's material while keeping its recognizable form.
 

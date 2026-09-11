@@ -1,0 +1,25 @@
+Create one square image that is an EXACT 4 by 4 contact sheet of sixteen equally sized square animation frames, edge-to-edge with NO gutters, borders, labels or text. This is a handcrafted clay stop-motion sequence, not pixel art.
+
+Original story: a tiny charcoal-gray clay penguin in a mustard-yellow knitted scarf sits on the LEFT of a small round fishing hole in a pale-blue miniature ice floor. The penguin has a cream belly, two short flippers, two orange feet, black bead eyes, and a short orange beak. A short wooden fishing rod held in its right flipper extends diagonally toward the hole at RIGHT. One thin fishing line connects the rod tip to one small coral-pink five-point clay star. The star starts below the hole, rises out as the penguin pulls, briefly hangs above the hole, then is lowered back into it. No fish, other characters, buckets or extra props.
+
+All sixteen frames show the EXACT SAME locked eye-level three-quarter camera, fixed wide composition, penguin at x35%, hole at x67%, same ice floor and seamless dusty-lavender backdrop, same object sizes, same soft warm light from upper left. Keep all objects entirely inside each cell with generous 10% safety margin. Real clay fingerprints, slightly lumpy handmade forms, tactile wool scarf, soft contact shadows. Every frame looks like a photographed tabletop miniature. Use modest, clearly distinct stepped pose changes and consistent anatomy.
+
+Frame progression in strict reading order, left to right then top to bottom:
+1: penguin holds rod low, looks at hole, star hidden.
+2: penguin leans forward slightly, rod low.
+3: penguin starts raising rod, fishing line taut.
+4: penguin leans back, rod rises, pink star tip appears inside hole.
+5: star half emerges, line visibly attached.
+6: full star just clears hole, penguin looks at it.
+7: star rises a little more, rod higher.
+8: star hangs one star-height above hole, penguin eyes wide.
+9: hold the same star height, penguin tilts its head in delight.
+10: penguin begins lowering rod, star slightly lower.
+11: star descends toward hole.
+12: star touches hole rim level.
+13: star half submerged.
+14: only star tip visible, penguin straightens.
+15: star hidden, rod returning to initial low angle.
+16: same composition and near-identical pose as frame 1, ready to loop.
+
+Prioritize exact 4x4 equal cell geometry, unchanging set placement, stable identity, line continuity and readable incremental motion. No motion blur, camera movement, frame numbers, captions, changing background, extra limbs, floating penguin or disconnected fishing line.
