@@ -13,3 +13,12 @@
 
 - Featured order: Pixel Art GIF → Minecraft Skin → Bedroom Redesign. Keep directory links free of emoji; put 📌 before P-series case numbers in the expanded README headings, preserving existing anchors.
 - 精选顺序固定为 GIF → Minecraft → 卧室改造。目录列表不加 emoji；README 展开的 P 系列案例标题在编号前加 📌，保留既有锚点。
+
+## Category-first layout / 按分类展示
+
+Use one Contents list and seven category sections. Each case appears once under its primary category in catalog.json. Keep the five creative cases together in the final GIF & Video Workflows category. Do not restore the separate Browse by Category block, full P-number directory, or creative overview table. Preserve existing case anchors and IDs. Place source/author credit in the expanded case title, including the source platform.
+
+使用一个目录与七个分类正文，每个案例只在 catalog.json 的主分类中展开一次。五个创意案例全部放在最后的 GIF 与视频工作流分类。不恢复独立分类索引、全部 P 编号列表或创意案例总表。保留既有锚点与编号，来源平台和作者署名放在案例标题后。此规则优先于较早的目录布局说明。
+
+- Display README cases with category-local numbers (1.1, 1.2, …, 7.5) from catalog.display_number. Keep P/C IDs and slugs internal and preserve legacy anchors. Renumber display values when category order changes, in both languages.
+- README 案例采用分类内连续编号（1.1、1.2……7.5），对应 catalog.display_number。P/C 编号与 slug 保留在内部，旧锚点保持有效。调整分类顺序时同步两种语言的展示编号。

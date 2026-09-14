@@ -32,3 +32,9 @@ Update reviewed UI translations in `docs/i18n/zh-CN.json`, then run `python3 scr
 每次公开内容更新都必须同步英文与简体中文。标题、来源、图片、工作流、完整提示词、数量和日期保持一致。中文提示词作为 `*.zh-CN.txt` 存于原英文文件旁，并登记到 `prompts_zh`；保留占位符名称、要求输出的原样文字及代码。英文变化后须先复核翻译，再记录源文 SHA-256。
 
 界面文案翻译放在 `docs/i18n/zh-CN.json`，运行上述生成命令更新中文 README 和案例页，然后执行双语校验。翻译不代表重新生成或验证模型效果。
+
+## Category-first navigation / 分类导航
+
+The current layout uses seven category sections under one Contents list. Assign one primary category per case, keep P IDs stable, and place the five C cases together in the last category. Put source-platform and author credits after the expanded case title. There is no separate full prompt directory or creative summary table.
+
+当前采用一个目录、七个分类正文。每条案例只有一个主分类，P 编号保持稳定，五个 C 案例全部位于最后分类。来源平台和作者跟在案例标题后，不再单独展示全量提示词目录或创意案例总表。

@@ -66,7 +66,7 @@ def main():
         chinese_case = ROOT / 'cases/zh-CN' / path.name
         chinese_body = chinese_case.read_text() if chinese_case.is_file() else ''
         zh_match = re.search(
-            rf'^### (?:📌 )?{re.escape(key)}\. .*?(?=^### |^## |\Z)', chinese_homepage, re.M | re.S)
+            rf"^### (?:📌 )?{re.escape(entry.get('display_number', key))}\. .*?(?=^### |^## |\Z)", chinese_homepage, re.M | re.S)
         chinese_section = zh_match.group() if zh_match else ''
         if not chinese_body.startswith(f'# {key}. {entry.get("title_zh", "")}') or not chinese_section:
             errors.append(f'{key}: missing Chinese title, case or inline section')
@@ -78,14 +78,12 @@ def main():
         if [x.removeprefix('../') for x in english_images] != [x.removeprefix('../../') for x in chinese_images]:
             errors.append(f'{key}: Chinese preview images differ from English')
         section_match = re.search(
-            rf'^### (?:📌 )?{re.escape(key)}\. .*?(?=^### |^## |\Z)', homepage, re.M | re.S)
+            rf"^### (?:📌 )?{re.escape(entry.get('display_number', key))}\. .*?(?=^### |^## |\Z)", homepage, re.M | re.S)
         section = section_match.group() if section_match else ''
         if not section:
             errors.append(f'{key}: missing inline homepage section')
         if not body.startswith(f"# {key}. {entry['title']}"):
             errors.append(f'{key}: title disagrees with catalog')
-        if '](' + '#' + entry['readme_anchor'] + ')' not in homepage:
-            errors.append(f'{key}: missing from homepage')
         if entry['readme_anchor'] not in homepage_anchors:
             errors.append(f'{key}: README anchor does not match a heading')
         if path.stem != entry['slug']:
@@ -116,10 +114,9 @@ def main():
             if not source_key[1] or source_key in source_keys:
                 errors.append(f'{key}: missing or duplicate source item key')
             source_keys.add(source_key)
-            directory = homepage.split('## 🗂 Prompt Directory', 1)[1].split('\n### ', 1)[0]
-            line = next((line for line in directory.splitlines() if line.startswith(f'- [{key}:')), '')
+            line = section.splitlines()[0] if section else ''
             if f"[Source: {source['platform']}]({url})" not in line:
-                errors.append(f'{key}: missing platform-labelled source in directory')
+                errors.append(f'{key}: missing platform-labelled source in case heading')
         for media in entry.get('media', []):
             asset = ROOT / media['path']
             if not asset.is_file():

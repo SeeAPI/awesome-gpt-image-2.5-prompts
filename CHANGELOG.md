@@ -2,6 +2,12 @@
 
 ## 2026-09-14
 
+- Numbered visible cases by category (1.1, 1.2, …) while retaining internal IDs and legacy anchors.
+- 案例展示编号改为分类内连续编号（1.1、1.2……），保留内部 ID 与旧锚点。
+
+- Centered Featured Examples and grouped all 47 cases into seven categories, with the five creative workflows last. Preserved case IDs, anchors, images and prompts; moved source credits to case titles.
+- 精选表格居中，全部 47 个案例按七个分类展示，五个创意流程位于最后。保留编号、锚点、图片和提示词，来源署名移至案例标题后。
+
 - Added supplied P41/P42 before/after images and exact prompts in both languages. Featured comparisons are side by side; categories are collapsed and expanded case headings use a consistent pin marker.
 - 补齐 P41/P42 用户提供的前后图片与准确提示词，同步中英文。精选并排展示前后效果，分类列表默认折叠，展开的案例标题统一使用图钉标记。
 
