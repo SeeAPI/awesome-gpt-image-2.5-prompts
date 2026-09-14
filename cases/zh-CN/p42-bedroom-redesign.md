@@ -1,0 +1,19 @@
+# P42. 照片 → 卧室改造
+
+[English](../p42-bedroom-redesign.md) | [简体中文](p42-bedroom-redesign.md)
+
+## 👀 预览
+
+| 原图 | 效果图 |
+|---|---|
+| [<img src="../../assets/p42-bedroom-redesign/reference.png" width="300" height="300" alt="照片 → 卧室改造——原图">](../../assets/p42-bedroom-redesign/reference.png) | [<img src="../../assets/p42-bedroom-redesign/result.png" width="300" height="300" alt="照片 → 卧室改造——效果图">](../../assets/p42-bedroom-redesign/result.png) |
+
+## 👇 工作流
+
+`卧室照片 → 改造后的卧室`
+
+## 🔖 完整提示词
+
+```text
+将这间普通卧室重新设计为更时尚、协调、具有专业装饰感的室内空间，同时保留原有房间结构、布局、窗户位置、床的位置和整体透视。通过改进家具风格、层次丰富的床品、精致配色、有品位的挂画、柔软织物、细腻装饰点缀以及更好的视觉平衡，将其转化为温暖、现代、令人向往的卧室。使用真实材质、整洁收纳、优雅照明和舒适的生活气息，营造更成熟的室内设计感。效果真实可信，像真实家居改造照片，而不是 CGI。保持自然比例和真实照明，让房间明显升级，同时仍能清楚看出它基于原图。
+```

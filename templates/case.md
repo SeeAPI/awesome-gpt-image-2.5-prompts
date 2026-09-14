@@ -29,3 +29,10 @@
 For prompts containing bracketed placeholders, put an italic note directly below the prompt block listing the actual fields to replace. Omit the note when no placeholders exist.
 
 Source credits belong in the Prompt Directory entry as Source: X / Reddit / TikTok / GitHub / the actual platform. Case bodies contain only Preview, Workflow, and Full Prompt; omit repeated source paragraphs, review commentary, and footer navigation. Preserve prompt text and italic placeholder guidance.
+
+
+## Bilingual maintenance / 双语维护
+
+Publish an English case and a matching Simplified Chinese case. Add the complete Chinese prompt beside its English source (`*.zh-CN.txt`), preserving placeholders and literal output text. Register `title_zh`, `prompts_zh`, and reviewed `translation_source_sha256` values in the catalog. Update `docs/i18n/zh-CN.json`, then regenerate the Chinese pages.
+
+每个英文案例均需对应的中文案例与完整中文提示词。保留占位符与原样输出文字，同步目录、预览、工作流和全部提示词步骤。运行双语生成和校验脚本；生成的中文页面不要手工修改。

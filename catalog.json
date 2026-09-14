@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-14",
   "entries": [
     {
       "id": "C01",
@@ -19,7 +19,16 @@
       ],
       "preview": "assets/01-pixel-art-gif/elephant-roll.gif",
       "updated": "2026-09-11",
-      "readme_anchor": "c01-pixel-art-character-gif-by-seeapi"
+      "readme_anchor": "c01-pixel-art-character-gif-by-seeapi",
+      "prompts_zh": {
+        "prompts/01-pixel-art-gif/gif-assembly-prompt.txt": "prompts/01-pixel-art-gif/gif-assembly-prompt.zh-CN.txt",
+        "prompts/01-pixel-art-gif/image-prompt.txt": "prompts/01-pixel-art-gif/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "像素角色 GIF",
+      "translation_source_sha256": {
+        "prompts/01-pixel-art-gif/gif-assembly-prompt.txt": "b90d1a7128f922d7a4203e050e76a1d6b4e23c7e8bfd7b63b01608d35595e8a8",
+        "prompts/01-pixel-art-gif/image-prompt.txt": "b237c4459fbc7f521f968f461c26ef42387fc03c617826c05b6fb0e90a598b2a"
+      }
     },
     {
       "id": "C02",
@@ -44,7 +53,20 @@
       ],
       "preview": "assets/02-clay-stop-motion/penguin-star-stop-motion.gif",
       "updated": "2026-09-11",
-      "readme_anchor": "c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo"
+      "readme_anchor": "c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo",
+      "prompts_zh": {
+        "prompts/02-clay-stop-motion/clay-edit-prompt.txt": "prompts/02-clay-stop-motion/clay-edit-prompt.zh-CN.txt",
+        "prompts/02-clay-stop-motion/clay-image-prompt.txt": "prompts/02-clay-stop-motion/clay-image-prompt.zh-CN.txt",
+        "prompts/02-clay-stop-motion/clay-sheet-prompt.txt": "prompts/02-clay-stop-motion/clay-sheet-prompt.zh-CN.txt",
+        "prompts/02-clay-stop-motion/gif-assembly-prompt.txt": "prompts/02-clay-stop-motion/gif-assembly-prompt.zh-CN.txt"
+      },
+      "title_zh": "陶土定格动画：钓起一颗星星",
+      "translation_source_sha256": {
+        "prompts/02-clay-stop-motion/clay-edit-prompt.txt": "021b8822fda13213c6d6ff1c72c236970599ab2d8f9e6c8338b0e1ed6972f522",
+        "prompts/02-clay-stop-motion/clay-image-prompt.txt": "e7e51afd0f1a979492cd1a4ec3342151d91214ad41a8f1fe175d4d77d1f816bb",
+        "prompts/02-clay-stop-motion/clay-sheet-prompt.txt": "bc297aa79baffe9f7311165b0cb5f007df34798337c85a87f73eab7f7110ec72",
+        "prompts/02-clay-stop-motion/gif-assembly-prompt.txt": "0990263af3ca873f2a0dd2c585da572726897d0f8a784669172ab8dcc17e4fbe"
+      }
     },
     {
       "id": "C04",
@@ -69,7 +91,18 @@
       ],
       "preview": "assets/04-storyboard-video/lighthouse-storyboard.png",
       "updated": "2026-09-11",
-      "readme_anchor": "c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine"
+      "readme_anchor": "c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine",
+      "prompts_zh": {
+        "prompts/04-storyboard-video/character-prompt.txt": "prompts/04-storyboard-video/character-prompt.zh-CN.txt",
+        "prompts/04-storyboard-video/storyboard-prompt.txt": "prompts/04-storyboard-video/storyboard-prompt.zh-CN.txt",
+        "prompts/04-storyboard-video/video-prompt.txt": "prompts/04-storyboard-video/video-prompt.zh-CN.txt"
+      },
+      "title_zh": "角色设定 → 分镜 → 短片",
+      "translation_source_sha256": {
+        "prompts/04-storyboard-video/character-prompt.txt": "bee20785472369849171d1872b9289d90cb03aaa2508ab6a25a1049c3bbc7dd8",
+        "prompts/04-storyboard-video/storyboard-prompt.txt": "27c1db4dcc75d5b29c11e809bc5c90df9a923ec13749a69134ff701b731d9bfa",
+        "prompts/04-storyboard-video/video-prompt.txt": "b489f2633a61f2480fe07e7968baaf75897bed9144f5753a92cf7c0719a86e0b"
+      }
     },
     {
       "id": "C05",
@@ -94,7 +127,20 @@
       ],
       "preview": "assets/05-distant-observer/rainy-street-opening.png",
       "updated": "2026-09-11",
-      "readme_anchor": "c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt"
+      "readme_anchor": "c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt",
+      "prompts_zh": {
+        "prompts/05-distant-observer/character-prompt.txt": "prompts/05-distant-observer/character-prompt.zh-CN.txt",
+        "prompts/05-distant-observer/scene-correction-prompt.txt": "prompts/05-distant-observer/scene-correction-prompt.zh-CN.txt",
+        "prompts/05-distant-observer/scene-prompt.txt": "prompts/05-distant-observer/scene-prompt.zh-CN.txt",
+        "prompts/05-distant-observer/video-prompt.txt": "prompts/05-distant-observer/video-prompt.zh-CN.txt"
+      },
+      "title_zh": "远景旁观：雨中的机器人",
+      "translation_source_sha256": {
+        "prompts/05-distant-observer/character-prompt.txt": "2df70f20dbd5ac90d6ce1d3befc49b9c299ee7ccb0ba17a83ead417aa946b34e",
+        "prompts/05-distant-observer/scene-correction-prompt.txt": "e7678d8b6735f1a210de4268ad38f39c41437550d8753b97486849e66355ee4f",
+        "prompts/05-distant-observer/scene-prompt.txt": "b141b8372b9d323750af3ea6373e2cd8f3799df4213cac40de5ceeab78efaa4c",
+        "prompts/05-distant-observer/video-prompt.txt": "63c615b1e4b322c2e1206c36ca93378f48aec12abea4a9747daf5637fe177d6c"
+      }
     },
     {
       "id": "C06",
@@ -118,7 +164,20 @@
       "preview": "assets/featured/glass-orbit.gif",
       "updated": "2026-09-11",
       "video": "assets/06-360-orbit/frosted-glass-mug-orbit.mp4",
-      "readme_anchor": "c06-frosted-glass-poster-to-360-orbit-by-seeapi"
+      "readme_anchor": "c06-frosted-glass-poster-to-360-orbit-by-seeapi",
+      "prompts_zh": {
+        "prompts/06-360-orbit/image-prompt.txt": "prompts/06-360-orbit/image-prompt.zh-CN.txt",
+        "prompts/06-360-orbit/negative-prompt.txt": "prompts/06-360-orbit/negative-prompt.zh-CN.txt",
+        "prompts/06-360-orbit/video-prompt.txt": "prompts/06-360-orbit/video-prompt.zh-CN.txt",
+        "prompts/06-360-orbit/360-orbit-alternative-prompt.txt": "prompts/06-360-orbit/360-orbit-alternative-prompt.zh-CN.txt"
+      },
+      "title_zh": "磨砂玻璃海报 → 360° 环绕视频",
+      "translation_source_sha256": {
+        "prompts/06-360-orbit/image-prompt.txt": "e4a17641f23cad7144e41d51ae02aec8103080bb2af5666a8008dfaf8a30314e",
+        "prompts/06-360-orbit/negative-prompt.txt": "492551cb2d55e223be2328edcb9c91ddd009ebbd01b15791f178a5abea9ac01b",
+        "prompts/06-360-orbit/video-prompt.txt": "adca3668b462ee8d5b10469b77966f47e68fd845bcea1d4e92ba5cc485b4e609",
+        "prompts/06-360-orbit/360-orbit-alternative-prompt.txt": "006155b07579e5e7d7663c1c55fc14ddf809bbc4d5f96ebf090b37af853c3965"
+      }
     },
     {
       "id": "P01",
@@ -136,7 +195,14 @@
       ],
       "preview": "assets/p01-personalized-sticker-pack/character-stickers-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p01-personalized-sticker-pack"
+      "readme_anchor": "p01-personalized-sticker-pack",
+      "prompts_zh": {
+        "prompts/p01-personalized-sticker-pack/image-prompt.txt": "prompts/p01-personalized-sticker-pack/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "个性化贴纸包",
+      "translation_source_sha256": {
+        "prompts/p01-personalized-sticker-pack/image-prompt.txt": "aa833f09631a34da1f0aec4a45a37ec89d7a91eb1382ac0a727e9d1b8e452d91"
+      }
     },
     {
       "id": "P02",
@@ -154,7 +220,14 @@
       ],
       "preview": "assets/p02-collectible-figure-packaging/collectible-packaging-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p02-collectible-figure-packaging"
+      "readme_anchor": "p02-collectible-figure-packaging",
+      "prompts_zh": {
+        "prompts/p02-collectible-figure-packaging/image-prompt.txt": "prompts/p02-collectible-figure-packaging/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "收藏玩偶包装",
+      "translation_source_sha256": {
+        "prompts/p02-collectible-figure-packaging/image-prompt.txt": "377b3d61981c7969bd472a45c3341f9b2e41f84c161206b8ca30337eccad5c14"
+      }
     },
     {
       "id": "P03",
@@ -172,7 +245,14 @@
       ],
       "preview": "assets/p03-miniature-world/miniature-world-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p03-miniature-world-in-an-everyday-object"
+      "readme_anchor": "p03-miniature-world-in-an-everyday-object",
+      "prompts_zh": {
+        "prompts/p03-miniature-world/image-prompt.txt": "prompts/p03-miniature-world/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "日常物品中的微缩世界",
+      "translation_source_sha256": {
+        "prompts/p03-miniature-world/image-prompt.txt": "33be04a47310b190396d6924ca8dbc0dc54529999d4763bc80008d31da8fa685"
+      }
     },
     {
       "id": "P04",
@@ -190,7 +270,14 @@
       ],
       "preview": "assets/p04-product-campaign/product-campaign-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p04-product-photo-to-campaign-visual"
+      "readme_anchor": "p04-product-photo-to-campaign-visual",
+      "prompts_zh": {
+        "prompts/p04-product-campaign/image-prompt.txt": "prompts/p04-product-campaign/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "产品照片 → 广告视觉",
+      "translation_source_sha256": {
+        "prompts/p04-product-campaign/image-prompt.txt": "d051ff1bd4420c845e28ec04cdee8d4ee866515812f7d3d20fa68b01b28756c6"
+      }
     },
     {
       "id": "P05",
@@ -208,7 +295,14 @@
       ],
       "preview": "assets/p05-editorial-poster/summer-poster-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p05-editorial-poster-with-exact-copy"
+      "readme_anchor": "p05-editorial-poster-with-exact-copy",
+      "prompts_zh": {
+        "prompts/p05-editorial-poster/image-prompt.txt": "prompts/p05-editorial-poster/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "准确文案的杂志风海报",
+      "translation_source_sha256": {
+        "prompts/p05-editorial-poster/image-prompt.txt": "23b27fec500e2a0658da6e3ed0c61bd773ef22943834571d02e6cc2fc0e58400"
+      }
     },
     {
       "id": "P06",
@@ -226,7 +320,14 @@
       ],
       "preview": "assets/p06-character-scenes/portrait-views-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p06-portrait-reference-to-multi-view-sheet"
+      "readme_anchor": "p06-portrait-reference-to-multi-view-sheet",
+      "prompts_zh": {
+        "prompts/p06-character-scenes/image-prompt.txt": "prompts/p06-character-scenes/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "人像参考 → 多视图设定图",
+      "translation_source_sha256": {
+        "prompts/p06-character-scenes/image-prompt.txt": "bc6867b24d06ec3b88180de845b8b36ef07d6e76c9afc019a58a308fd8646d17"
+      }
     },
     {
       "id": "P07",
@@ -244,7 +345,14 @@
       ],
       "preview": "assets/p07-paper-cut-storybook/paper-cut-character-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p07-paper-cut-storybook-scene"
+      "readme_anchor": "p07-paper-cut-storybook-scene",
+      "prompts_zh": {
+        "prompts/p07-paper-cut-storybook/image-prompt.txt": "prompts/p07-paper-cut-storybook/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "剪纸绘本场景",
+      "translation_source_sha256": {
+        "prompts/p07-paper-cut-storybook/image-prompt.txt": "222cfddcaee7d930f4ec6e6ff1dd083692aca81ebd6f5ec82c9dafb2a9c39fcd"
+      }
     },
     {
       "id": "P08",
@@ -262,7 +370,14 @@
       ],
       "preview": "assets/p08-glass-material-remix/seeapi-glass-result.png",
       "updated": "2026-09-11",
-      "readme_anchor": "p08-glass-material-remix"
+      "readme_anchor": "p08-glass-material-remix",
+      "prompts_zh": {
+        "prompts/p08-glass-material-remix/image-prompt.txt": "prompts/p08-glass-material-remix/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "玻璃材质重塑",
+      "translation_source_sha256": {
+        "prompts/p08-glass-material-remix/image-prompt.txt": "e77caf620560650916d88440c24b9b00bda7a5dc9b178af58086424504f5555c"
+      }
     },
     {
       "id": "P09",
@@ -284,7 +399,14 @@
       ],
       "preview": "assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp",
       "updated": "2026-09-11",
-      "readme_anchor": "p09-paper-folk-story"
+      "readme_anchor": "p09-paper-folk-story",
+      "prompts_zh": {
+        "prompts/p09-paper-folk-story/image-prompt.txt": "prompts/p09-paper-folk-story/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "剪纸民间故事",
+      "translation_source_sha256": {
+        "prompts/p09-paper-folk-story/image-prompt.txt": "375807e7fdef66a54bd2180598e89bead50a464d95e4302468e1c09a1680885a"
+      }
     },
     {
       "id": "P10",
@@ -345,7 +467,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p10-1980s-retro-film-portrait"
+      "readme_anchor": "p10-1980s-retro-film-portrait",
+      "prompts_zh": {
+        "prompts/p10-1980s-retro-film-portrait/image-prompt.txt": "prompts/p10-1980s-retro-film-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "1980 年代复古胶片人像",
+      "translation_source_sha256": {
+        "prompts/p10-1980s-retro-film-portrait/image-prompt.txt": "de0536e38dd9c57d678b76d53dfa8ee36d678e87245d5cca8fdbcaf4e442ce63"
+      }
     },
     {
       "id": "P11",
@@ -385,7 +514,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p11-character-dance-pose-grid"
+      "readme_anchor": "p11-character-dance-pose-grid",
+      "prompts_zh": {
+        "prompts/p11-character-dance-pose-grid/image-prompt.txt": "prompts/p11-character-dance-pose-grid/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "角色舞蹈姿势网格",
+      "translation_source_sha256": {
+        "prompts/p11-character-dance-pose-grid/image-prompt.txt": "b12e2dd5cbc1f94da84d8ea1d21e6482d6d3b9f22c3476402f26dd7c2b93c2c4"
+      }
     },
     {
       "id": "P12",
@@ -427,7 +563,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p12-cinematic-subway-motion-portrait",
       "original_prompt": "docs/source-prompts/p12-cinematic-subway-motion-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p12-cinematic-subway-motion-portrait/image-prompt.txt": "prompts/p12-cinematic-subway-motion-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "电影感地铁动感人像",
+      "translation_source_sha256": {
+        "prompts/p12-cinematic-subway-motion-portrait/image-prompt.txt": "eb9084b386c2e61b579d3465b342fb53a367e5b3ee9ea5a61789501f6b35f23a"
+      }
     },
     {
       "id": "P13",
@@ -469,7 +612,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p13-candid-sailor-portrait",
       "original_prompt": "docs/source-prompts/p13-candid-sailor-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p13-candid-sailor-portrait/image-prompt.txt": "prompts/p13-candid-sailor-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "渔船人物抓拍",
+      "translation_source_sha256": {
+        "prompts/p13-candid-sailor-portrait/image-prompt.txt": "1cc933dca0dc22f82213e93412cbbb27290def7d8ba4683a972fecdc8912196a"
+      }
     },
     {
       "id": "P14",
@@ -516,7 +666,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p14-automatic-coffee-machine-infographic"
+      "readme_anchor": "p14-automatic-coffee-machine-infographic",
+      "prompts_zh": {
+        "prompts/p14-automatic-coffee-machine-infographic/image-prompt.txt": "prompts/p14-automatic-coffee-machine-infographic/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "全自动咖啡机信息图",
+      "translation_source_sha256": {
+        "prompts/p14-automatic-coffee-machine-infographic/image-prompt.txt": "be39e80883184dd600332be7e65fce082b9ad43341b3a1d6782a1aae03827ec3"
+      }
     },
     {
       "id": "P15",
@@ -558,7 +715,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p15-streetwear-campaign-with-exact-typography",
       "original_prompt": "docs/source-prompts/p15-streetwear-campaign-with-exact-typography.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p15-streetwear-campaign-with-exact-typography/image-prompt.txt": "prompts/p15-streetwear-campaign-with-exact-typography/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "准确文字的街头服饰广告",
+      "translation_source_sha256": {
+        "prompts/p15-streetwear-campaign-with-exact-typography/image-prompt.txt": "f9e9ffda7c7d62dbf8ba8c03d58e5d071d4953e07e44b6cbba41f3da0a925e89"
+      }
     },
     {
       "id": "P16",
@@ -590,7 +754,14 @@
       "preview": null,
       "media": [],
       "updated": "2026-09-11",
-      "readme_anchor": "p16-minimal-bakery-logo"
+      "readme_anchor": "p16-minimal-bakery-logo",
+      "prompts_zh": {
+        "prompts/p16-minimal-bakery-logo/image-prompt.txt": "prompts/p16-minimal-bakery-logo/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "极简面包店标志",
+      "translation_source_sha256": {
+        "prompts/p16-minimal-bakery-logo/image-prompt.txt": "87a6d5df443ad4afa4e6a43e17c315091b0aee3c989c060526a2e6faa4c1a0af"
+      }
     },
     {
       "id": "P17",
@@ -637,7 +808,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p17-1969-outdoor-festival-crowd"
+      "readme_anchor": "p17-1969-outdoor-festival-crowd",
+      "prompts_zh": {
+        "prompts/p17-1969-outdoor-festival-crowd/image-prompt.txt": "prompts/p17-1969-outdoor-festival-crowd/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "1969 年户外音乐节人群",
+      "translation_source_sha256": {
+        "prompts/p17-1969-outdoor-festival-crowd/image-prompt.txt": "30e05ffdbbd9d638e2118d1b100e6bdd5c854a7aa6f049a231e5258da23c21d9"
+      }
     },
     {
       "id": "P18",
@@ -677,7 +855,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p18-four-panel-pet-comic"
+      "readme_anchor": "p18-four-panel-pet-comic",
+      "prompts_zh": {
+        "prompts/p18-four-panel-pet-comic/image-prompt.txt": "prompts/p18-four-panel-pet-comic/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "四格宠物漫画",
+      "translation_source_sha256": {
+        "prompts/p18-four-panel-pet-comic/image-prompt.txt": "b686709bbac8c6fa559c9f6bb5e340e200e584800114ceff20fdef2538db7891"
+      }
     },
     {
       "id": "P19",
@@ -724,7 +909,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p19-farmers-market-mobile-app-mockup"
+      "readme_anchor": "p19-farmers-market-mobile-app-mockup",
+      "prompts_zh": {
+        "prompts/p19-farmers-market-mobile-app-mockup/image-prompt.txt": "prompts/p19-farmers-market-mobile-app-mockup/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "农夫市集手机应用效果图",
+      "translation_source_sha256": {
+        "prompts/p19-farmers-market-mobile-app-mockup/image-prompt.txt": "f2c002848b788e3ba618def199077d76315283094fac89c1a9dab0c80cd8c141"
+      }
     },
     {
       "id": "P20",
@@ -764,7 +956,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p20-cellular-respiration-classroom-diagram"
+      "readme_anchor": "p20-cellular-respiration-classroom-diagram",
+      "prompts_zh": {
+        "prompts/p20-cellular-respiration-classroom-diagram/image-prompt.txt": "prompts/p20-cellular-respiration-classroom-diagram/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "课堂细胞呼吸示意图",
+      "translation_source_sha256": {
+        "prompts/p20-cellular-respiration-classroom-diagram/image-prompt.txt": "8112b681dc731d5ab7b819cb10a59326fe8a17cc320898c2cf278bd7ed2549e5"
+      }
     },
     {
       "id": "P21",
@@ -811,7 +1010,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p21-vintage-toy-airplane-packaging"
+      "readme_anchor": "p21-vintage-toy-airplane-packaging",
+      "prompts_zh": {
+        "prompts/p21-vintage-toy-airplane-packaging/image-prompt.txt": "prompts/p21-vintage-toy-airplane-packaging/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "复古玩具飞机包装",
+      "translation_source_sha256": {
+        "prompts/p21-vintage-toy-airplane-packaging/image-prompt.txt": "4ede91d0543c930514a91f30abde40d8baeb5bd20852b1d9e133a431b842402f"
+      }
     },
     {
       "id": "P22",
@@ -857,7 +1063,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p22-wine-label-with-tasting-notes"
+      "readme_anchor": "p22-wine-label-with-tasting-notes",
+      "prompts_zh": {
+        "prompts/p22-wine-label-with-tasting-notes/image-prompt.txt": "prompts/p22-wine-label-with-tasting-notes/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "附品鉴笔记的葡萄酒标签",
+      "translation_source_sha256": {
+        "prompts/p22-wine-label-with-tasting-notes/image-prompt.txt": "f823378746c7959373b95d17828de246d54f4e074f26855e1f9a7dd5b0ee9120"
+      }
     },
     {
       "id": "P23",
@@ -902,7 +1115,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p23-national-park-trail-map"
+      "readme_anchor": "p23-national-park-trail-map",
+      "prompts_zh": {
+        "prompts/p23-national-park-trail-map/image-prompt.txt": "prompts/p23-national-park-trail-map/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "国家公园步道地图",
+      "translation_source_sha256": {
+        "prompts/p23-national-park-trail-map/image-prompt.txt": "97eabcd38d9531ca7c97686b5ad8dc9144690c4369389c6aaf44f7059a4b0383"
+      }
     },
     {
       "id": "P24",
@@ -947,7 +1167,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p24-boarding-pass-layout"
+      "readme_anchor": "p24-boarding-pass-layout",
+      "prompts_zh": {
+        "prompts/p24-boarding-pass-layout/image-prompt.txt": "prompts/p24-boarding-pass-layout/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "登机牌版式",
+      "translation_source_sha256": {
+        "prompts/p24-boarding-pass-layout/image-prompt.txt": "df4088c8177b3e15cdbc0992cbf8ec7c4014dc4e5f9c2603c89bb512e1fcf1bc"
+      }
     },
     {
       "id": "P25",
@@ -992,7 +1219,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p25-three-panel-dialogue-comic"
+      "readme_anchor": "p25-three-panel-dialogue-comic",
+      "prompts_zh": {
+        "prompts/p25-three-panel-dialogue-comic/image-prompt.txt": "prompts/p25-three-panel-dialogue-comic/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "三格对话漫画",
+      "translation_source_sha256": {
+        "prompts/p25-three-panel-dialogue-comic/image-prompt.txt": "950e7dba00453ddcf76d5c0d9fd3dfa2a3c4e785c6014a6418f3d9ef0578a8e4"
+      }
     },
     {
       "id": "P26",
@@ -1037,7 +1271,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p26-ornate-award-certificate"
+      "readme_anchor": "p26-ornate-award-certificate",
+      "prompts_zh": {
+        "prompts/p26-ornate-award-certificate/image-prompt.txt": "prompts/p26-ornate-award-certificate/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "华丽获奖证书",
+      "translation_source_sha256": {
+        "prompts/p26-ornate-award-certificate/image-prompt.txt": "c0f3927ffee48537e5e50781d191fb55f536b8cf41defdc5a2b3d10ad83c6641"
+      }
     },
     {
       "id": "P27",
@@ -1083,7 +1324,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p27-cereal-box-nutrition-panel"
+      "readme_anchor": "p27-cereal-box-nutrition-panel",
+      "prompts_zh": {
+        "prompts/p27-cereal-box-nutrition-panel/image-prompt.txt": "prompts/p27-cereal-box-nutrition-panel/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "麦片盒营养成分表",
+      "translation_source_sha256": {
+        "prompts/p27-cereal-box-nutrition-panel/image-prompt.txt": "41121c8de35e9c7db7b43c04390363ff1beb77f82e6a5903e8c900faa60dd227"
+      }
     },
     {
       "id": "P28",
@@ -1123,7 +1371,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p28-fashion-movements-across-four-decades"
+      "readme_anchor": "p28-fashion-movements-across-four-decades",
+      "prompts_zh": {
+        "prompts/p28-fashion-movements-across-four-decades/image-prompt.txt": "prompts/p28-fashion-movements-across-four-decades/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "四个年代的时尚潮流",
+      "translation_source_sha256": {
+        "prompts/p28-fashion-movements-across-four-decades/image-prompt.txt": "8285d1eeac71375d808500f72746eabc30fecc222e022367364e7fdd6e8f380a"
+      }
     },
     {
       "id": "P29",
@@ -1165,7 +1420,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p29-caramel-suit-studio-portrait",
       "original_prompt": "docs/source-prompts/p29-caramel-suit-studio-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p29-caramel-suit-studio-portrait/image-prompt.txt": "prompts/p29-caramel-suit-studio-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "焦糖色西装影棚人像",
+      "translation_source_sha256": {
+        "prompts/p29-caramel-suit-studio-portrait/image-prompt.txt": "0da8cc92703f6e2df7c9fbf2c65f892610ad6afd85fe2f72b3920bf08d84a886"
+      }
     },
     {
       "id": "P30",
@@ -1206,7 +1468,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p30-spanish-infographic-translation"
+      "readme_anchor": "p30-spanish-infographic-translation",
+      "prompts_zh": {
+        "prompts/p30-spanish-infographic-translation/image-prompt.txt": "prompts/p30-spanish-infographic-translation/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "信息图翻译为西班牙语",
+      "translation_source_sha256": {
+        "prompts/p30-spanish-infographic-translation/image-prompt.txt": "f7f150ae574b682483d79a1e6e1edbbc0f884e91e9c1d874f91d0d3e123071fd"
+      }
     },
     {
       "id": "P31",
@@ -1249,7 +1518,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p31-virtual-outfit-replacement",
       "original_prompt": "docs/source-prompts/p31-virtual-outfit-replacement.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p31-virtual-outfit-replacement/image-prompt.txt": "prompts/p31-virtual-outfit-replacement/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "虚拟换装",
+      "translation_source_sha256": {
+        "prompts/p31-virtual-outfit-replacement/image-prompt.txt": "4bdb550890bd66377f7a1c6de384274ecaa2006c1ad98e67dbe6e2457148506b"
+      }
     },
     {
       "id": "P32",
@@ -1289,7 +1565,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p32-dog-compositing-into-a-street-scene"
+      "readme_anchor": "p32-dog-compositing-into-a-street-scene",
+      "prompts_zh": {
+        "prompts/p32-dog-compositing-into-a-street-scene/image-prompt.txt": "prompts/p32-dog-compositing-into-a-street-scene/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "将狗合成至街道场景",
+      "translation_source_sha256": {
+        "prompts/p32-dog-compositing-into-a-street-scene/image-prompt.txt": "aea161e56aee7b573dcf27eda2d6dee3f81994431ac820969b33d2e5c6fc104a"
+      }
     },
     {
       "id": "P33",
@@ -1329,7 +1612,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p33-expressive-meme-sticker-sheet"
+      "readme_anchor": "p33-expressive-meme-sticker-sheet",
+      "prompts_zh": {
+        "prompts/p33-expressive-meme-sticker-sheet/image-prompt.txt": "prompts/p33-expressive-meme-sticker-sheet/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "夸张表情包贴纸",
+      "translation_source_sha256": {
+        "prompts/p33-expressive-meme-sticker-sheet/image-prompt.txt": "6af2f35b4b75d17b69abb4fc415a50a8dd98ad3b53daca7efc3f7751c5b107ba"
+      }
     },
     {
       "id": "P34",
@@ -1369,7 +1659,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p34-woodland-clearing"
+      "readme_anchor": "p34-woodland-clearing",
+      "prompts_zh": {
+        "prompts/p34-woodland-clearing/image-prompt.txt": "prompts/p34-woodland-clearing/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "林间空地",
+      "translation_source_sha256": {
+        "prompts/p34-woodland-clearing/image-prompt.txt": "c50d148cf2a5aad90bb007013494508f35480bad8697f699d4557c131e289f10"
+      }
     },
     {
       "id": "P35",
@@ -1411,7 +1708,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p35-monochrome-cybernetic-horror-portrait",
       "original_prompt": "docs/source-prompts/p35-monochrome-cybernetic-horror-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p35-monochrome-cybernetic-horror-portrait/image-prompt.txt": "prompts/p35-monochrome-cybernetic-horror-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "黑白赛博机械恐怖人像",
+      "translation_source_sha256": {
+        "prompts/p35-monochrome-cybernetic-horror-portrait/image-prompt.txt": "ee49c6eb16a744da0bffc4e507770b8dd0d87b4d625dd3682e548d8f7c8dbcce"
+      }
     },
     {
       "id": "P36",
@@ -1453,7 +1757,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p36-dreamy-high-angle-qipao-portrait",
       "original_prompt": "docs/source-prompts/p36-dreamy-high-angle-qipao-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p36-dreamy-high-angle-qipao-portrait/image-prompt.txt": "prompts/p36-dreamy-high-angle-qipao-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "梦幻俯拍旗袍人像",
+      "translation_source_sha256": {
+        "prompts/p36-dreamy-high-angle-qipao-portrait/image-prompt.txt": "a3919b386ba88928a56ac05955253086fc28b777bb8bfe8707957ba48300b612"
+      }
     },
     {
       "id": "P37",
@@ -1495,7 +1806,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p37-realistic-iphone-cafe-portrait",
       "original_prompt": "docs/source-prompts/p37-realistic-iphone-cafe-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p37-realistic-iphone-cafe-portrait/image-prompt.txt": "prompts/p37-realistic-iphone-cafe-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "真实 iPhone 咖啡馆人像",
+      "translation_source_sha256": {
+        "prompts/p37-realistic-iphone-cafe-portrait/image-prompt.txt": "53e8b879951e651dd2ca425b496052248848397dd981615b154901c35ec994dd"
+      }
     },
     {
       "id": "P38",
@@ -1537,7 +1855,14 @@
       "updated": "2026-09-11",
       "readme_anchor": "p38-candid-mont-saint-michel-travel-portrait",
       "original_prompt": "docs/source-prompts/p38-candid-mont-saint-michel-travel-portrait.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p38-candid-mont-saint-michel-travel-portrait/image-prompt.txt": "prompts/p38-candid-mont-saint-michel-travel-portrait/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "圣米歇尔山旅行抓拍",
+      "translation_source_sha256": {
+        "prompts/p38-candid-mont-saint-michel-travel-portrait/image-prompt.txt": "9ec1b72b54fbf42208afae870b33e356b615e48a95f4560776314e42b540c91b"
+      }
     },
     {
       "id": "P39",
@@ -1577,7 +1902,14 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p39-neon-motorsport-poster"
+      "readme_anchor": "p39-neon-motorsport-poster",
+      "prompts_zh": {
+        "prompts/p39-neon-motorsport-poster/image-prompt.txt": "prompts/p39-neon-motorsport-poster/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "霓虹赛车海报",
+      "translation_source_sha256": {
+        "prompts/p39-neon-motorsport-poster/image-prompt.txt": "2870ac10fa9e8453497b215ac379c23066a4a4529a593d04e2efdbc21daf9917"
+      }
     },
     {
       "id": "P40",
@@ -1619,7 +1951,94 @@
       "updated": "2026-09-11",
       "readme_anchor": "p40-desert-motorcycle-editorial-poster",
       "original_prompt": "docs/source-prompts/p40-desert-motorcycle-editorial-poster.txt",
-      "adapted_by": "SeeAPI"
+      "adapted_by": "SeeAPI",
+      "prompts_zh": {
+        "prompts/p40-desert-motorcycle-editorial-poster/image-prompt.txt": "prompts/p40-desert-motorcycle-editorial-poster/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "沙漠摩托车杂志海报",
+      "translation_source_sha256": {
+        "prompts/p40-desert-motorcycle-editorial-poster/image-prompt.txt": "7c57503086206e4c11bd48710ac390a0fce0ea2e6877688e836ede6db2e154cb"
+      }
+    },
+    {
+      "id": "P41",
+      "title": "Minecraft Skin from a Reference",
+      "slug": "p41-minecraft-skin-from-reference",
+      "categories": [
+        "Characters & Stickers",
+        "Image Editing"
+      ],
+      "status": "image-included",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p41-minecraft-skin-from-reference.md",
+      "prompts": [
+        "prompts/p41-minecraft-skin-from-reference/image-prompt.txt"
+      ],
+      "preview": "assets/p41-minecraft-skin-from-reference/result.png",
+      "updated": "2026-09-14",
+      "readme_anchor": "p41-minecraft-skin-from-a-reference",
+      "prompts_zh": {
+        "prompts/p41-minecraft-skin-from-reference/image-prompt.txt": "prompts/p41-minecraft-skin-from-reference/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "参考图 → Minecraft 皮肤",
+      "translation_source_sha256": {
+        "prompts/p41-minecraft-skin-from-reference/image-prompt.txt": "824a398e3e60a7b37ad0fbcb22337b2db6e9d4929077ce5a936bec999911bbd1"
+      },
+      "media": [
+        {
+          "path": "assets/p41-minecraft-skin-from-reference/reference.png",
+          "role": "reference",
+          "sha256": "46d48610c32e0ec07ce884d2703534b306b892b5bfa411ebda85818fae2b76ff",
+          "provenance": "Maintainer-supplied image; generation model and settings not independently verified."
+        },
+        {
+          "path": "assets/p41-minecraft-skin-from-reference/result.png",
+          "role": "result",
+          "sha256": "edfb729431721f50ee9ea6c5377207c4a5fb76ee9490946ca93da3132769c71a",
+          "provenance": "Maintainer-supplied image; generation model and settings not independently verified."
+        }
+      ]
+    },
+    {
+      "id": "P42",
+      "title": "Bedroom Redesign from Your Photo",
+      "slug": "p42-bedroom-redesign",
+      "categories": [
+        "Interior Design",
+        "Image Editing"
+      ],
+      "status": "image-included",
+      "author": "SeeAPI",
+      "inspiration": null,
+      "case": "cases/p42-bedroom-redesign.md",
+      "prompts": [
+        "prompts/p42-bedroom-redesign/image-prompt.txt"
+      ],
+      "preview": "assets/p42-bedroom-redesign/result.png",
+      "updated": "2026-09-14",
+      "readme_anchor": "p42-bedroom-redesign-from-your-photo",
+      "prompts_zh": {
+        "prompts/p42-bedroom-redesign/image-prompt.txt": "prompts/p42-bedroom-redesign/image-prompt.zh-CN.txt"
+      },
+      "title_zh": "照片 → 卧室改造",
+      "translation_source_sha256": {
+        "prompts/p42-bedroom-redesign/image-prompt.txt": "39c05f17c85a8255897fe368975ac8606e1f79ec34596a8f965f6cd4c5d19330"
+      },
+      "media": [
+        {
+          "path": "assets/p42-bedroom-redesign/reference.png",
+          "role": "reference",
+          "sha256": "3df3c02724622831782208a52c990e094d9a81bb8729fb74d0d202412aa293b0",
+          "provenance": "Maintainer-supplied image; generation model and settings not independently verified."
+        },
+        {
+          "path": "assets/p42-bedroom-redesign/result.png",
+          "role": "result",
+          "sha256": "c35f0a42ba92ebc65710cd5f33e595ce17535870d87a8b874e96b2deda4e0255",
+          "provenance": "Maintainer-supplied image; generation model and settings not independently verified."
+        }
+      ]
     }
   ]
 }

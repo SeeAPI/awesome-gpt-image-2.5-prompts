@@ -1,0 +1,30 @@
+# P21. 复古玩具飞机包装
+
+[English](../p21-vintage-toy-airplane-packaging.md) | [简体中文](p21-vintage-toy-airplane-packaging.md)
+
+## 👀 预览
+
+[<img src="../../assets/p21-vintage-toy-airplane-packaging/source-example-01.webp" width="267" height="400" alt="复古玩具飞机包装——来源示例">](../../assets/p21-vintage-toy-airplane-packaging/source-example-01.webp)
+
+[<img src="../../assets/p21-vintage-toy-airplane-packaging/source-example-02.webp" width="267" height="400" alt="复古玩具飞机包装——来源示例">](../../assets/p21-vintage-toy-airplane-packaging/source-example-02.webp)
+
+## 👇 工作流
+
+`文字 → 图片`
+
+## 🔖 完整提示词
+
+```text
+制作一款收藏级复古螺旋桨玩具飞机，具有圆润机翼、前置旋转螺旋桨、略有掉漆的边缘和经典童年玩具比例，作为怀旧节日收藏品装入吸塑包装。
+
+概念：灵感来自孩子们寒假时玩的简单玩具飞机，唤起温暖、想象力和童年惊喜。
+
+风格：高级玩具摄影，真实塑料和涂漆金属纹理，影棚照明，浅景深，清晰标签印刷和高端零售展示。
+
+约束：
+仅原创设计。
+无商标。
+无水印。
+无标志。
+包装仅包含以下原样文字：“Christmas Memories Edition”。
+```

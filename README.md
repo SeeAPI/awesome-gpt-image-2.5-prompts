@@ -1,4 +1,6 @@
-# Awesome GPT Image 2.5 Prompts ✨
+# Awesome GPT Image 2.5 Prompts 🎨
+
+[English](README.md) | [简体中文](README_zh.md)
 
 **Creative image prompts and workflows, curated by SeeAPI.**
 
@@ -6,20 +8,23 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 40 standalone prompts · Updated September 11, 2026**
+**5 creative workflows · 42 standalone prompts · Updated September 14, 2026**
 
-## ✨ Featured Examples
+⭐ Star this collection to save it for your next creative project.
 
-| Pixel Art GIF | Clay Stop-Motion | Glass 360° Orbit |
-|---|---|---|
-| [<img src="assets/featured/pixel-art.gif" width="280" height="280" alt="Pixel art elephant GIF">](#c01-pixel-art-character-gif-by-seeapi) | [<img src="assets/featured/clay-stop-motion.gif" width="280" height="280" alt="Clay penguin stop-motion GIF">](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo) | [<img src="assets/featured/glass-orbit.gif" width="280" height="280" alt="Frosted glass mug video preview">](assets/06-360-orbit/frosted-glass-mug-orbit.mp4) |
-| Text → image → GIF | Text → image → GIF | Text → image → video |
-| [Prompt & steps](#c01-pixel-art-character-gif-by-seeapi) | [Prompt & steps](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo) | [Prompt & steps](#c06-frosted-glass-poster-to-360-orbit-by-seeapi) |
+## 🖼️ Featured Examples
+
+| Pixel Art GIF | Minecraft Skin | Bedroom Redesign |
+| --- | --- | --- |
+| Animated result | Before → After | Before → After |
+| [<img src="assets/featured/pixel-art.gif" width="130" height="130" alt="Pixel art elephant GIF">](#c01-pixel-art-character-gif-by-seeapi) | [<img src="assets/p41-minecraft-skin-from-reference/reference.png" width="130" height="130" alt="Minecraft Skin from a Reference — before">](assets/p41-minecraft-skin-from-reference/reference.png) [<img src="assets/p41-minecraft-skin-from-reference/result.png" width="130" height="130" alt="Minecraft Skin from a Reference — after">](assets/p41-minecraft-skin-from-reference/result.png) | [<img src="assets/p42-bedroom-redesign/reference.png" width="130" height="130" alt="Bedroom Redesign from Your Photo — before">](assets/p42-bedroom-redesign/reference.png) [<img src="assets/p42-bedroom-redesign/result.png" width="130" height="130" alt="Bedroom Redesign from Your Photo — after">](assets/p42-bedroom-redesign/result.png) |
+| Text → image → GIF | Image → image | Image → image |
+| [Prompt & steps](#c01-pixel-art-character-gif-by-seeapi) | [Full prompt](#p41-minecraft-skin-from-a-reference) | [Full prompt](#p42-bedroom-redesign-from-your-photo) |
 
 
 ## 📖 Contents
 
-- [✨ Featured Examples](#-featured-examples)
+- [🖼️ Featured Examples](#-featured-examples)
 - [🧭 Choose Your Model](#-choose-your-model)
 - [🧩 Browse by Category](#-browse-by-category)
 - [🗂 Prompt Directory](#-prompt-directory)
@@ -42,23 +47,80 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 ## 🧩 Browse by Category
 
-Choose a subject or technique. A case can appear in more than one category.
+<details>
+<summary>Characters & Stickers</summary>
 
-- **Characters & Stickers:** [Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Character Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Stickers · P01](#p01-personalized-sticker-pack), [Portrait Views · P06](#p06-portrait-reference-to-multi-view-sheet), [Expressive Meme Sticker Sheet · P33](#p33-expressive-meme-sticker-sheet), [Character Dance Pose Grid · P11](#p11-character-dance-pose-grid).
-- **GIF & Stop-Motion:** [Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Clay Stop-Motion · C02](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo).
-- **Story & Video:** [Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Distant Observer · C05](#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt), [360° Orbit · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi).
-- **Products & Materials:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Toy Packaging · P02](#p02-collectible-figure-packaging), [Campaign Visual · P04](#p04-product-photo-to-campaign-visual), [Glass Remix · P08](#p08-glass-material-remix), [Cereal Box Nutrition Panel · P27](#p27-cereal-box-nutrition-panel), [Wine Label with Tasting Notes · P22](#p22-wine-label-with-tasting-notes), [Vintage Toy Airplane Packaging · P21](#p21-vintage-toy-airplane-packaging), [Minimal Bakery Logo · P16](#p16-minimal-bakery-logo).
-- **Posters & Typography:** [Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Exact Copy Poster · P05](#p05-editorial-poster-with-exact-copy), [Desert Motorcycle Editorial Poster · P40](#p40-desert-motorcycle-editorial-poster), [Neon Motorsport Poster · P39](#p39-neon-motorsport-poster), [Fashion Movements Across Four Decades · P28](#p28-fashion-movements-across-four-decades), [Cereal Box Nutrition Panel · P27](#p27-cereal-box-nutrition-panel), [Ornate Award Certificate · P26](#p26-ornate-award-certificate), [Boarding Pass Layout · P24](#p24-boarding-pass-layout), [Wine Label with Tasting Notes · P22](#p22-wine-label-with-tasting-notes), [Streetwear Campaign with Exact Typography · P15](#p15-streetwear-campaign-with-exact-typography).
-- **Illustration & Miniatures:** [Paper Folk Story · P09](#p09-paper-folk-story), [Suitcase Village · P03](#p03-miniature-world-in-an-everyday-object), [Paper-Cut Forest · P07](#p07-paper-cut-storybook-scene), [Three-Panel Dialogue Comic · P25](#p25-three-panel-dialogue-comic), [Four-Panel Pet Comic · P18](#p18-four-panel-pet-comic).
+[Minecraft Skin · P41](#p41-minecraft-skin-from-a-reference), [Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Character Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Stickers · P01](#p01-personalized-sticker-pack), [Portrait Views · P06](#p06-portrait-reference-to-multi-view-sheet), [Expressive Meme Sticker Sheet · P33](#p33-expressive-meme-sticker-sheet), [Character Dance Pose Grid · P11](#p11-character-dance-pose-grid).
 
-- **Portraits & Photography:** [Candid Mont-Saint-Michel Travel Portrait · P38](#p38-candid-mont-saint-michel-travel-portrait), [Realistic iPhone Cafe Portrait · P37](#p37-realistic-iphone-cafe-portrait), [Dreamy High-Angle Qipao Portrait · P36](#p36-dreamy-high-angle-qipao-portrait), [Monochrome Cybernetic Horror Portrait · P35](#p35-monochrome-cybernetic-horror-portrait), [Woodland Clearing · P34](#p34-woodland-clearing), [Virtual Outfit Replacement · P31](#p31-virtual-outfit-replacement), [Caramel Suit Studio Portrait · P29](#p29-caramel-suit-studio-portrait), [1969 Outdoor Festival Crowd · P17](#p17-1969-outdoor-festival-crowd), [Candid Sailor Portrait · P13](#p13-candid-sailor-portrait), [Cinematic Subway Motion Portrait · P12](#p12-cinematic-subway-motion-portrait), [1980s Retro Film Portrait · P10](#p10-1980s-retro-film-portrait).
+</details>
 
-- **Diagrams & Interfaces:** [Spanish Infographic Translation · P30](#p30-spanish-infographic-translation), [National Park Trail Map · P23](#p23-national-park-trail-map), [Cellular Respiration Classroom Diagram · P20](#p20-cellular-respiration-classroom-diagram), [Farmers Market Mobile App Mockup · P19](#p19-farmers-market-mobile-app-mockup), [Automatic Coffee Machine Infographic · P14](#p14-automatic-coffee-machine-infographic).
+<details>
+<summary>GIF & Stop-Motion</summary>
 
-- **Image Editing:** [Dog Compositing into a Street Scene · P32](#p32-dog-compositing-into-a-street-scene), [Virtual Outfit Replacement · P31](#p31-virtual-outfit-replacement), [Spanish Infographic Translation · P30](#p30-spanish-infographic-translation).
+[Pixel GIF · C01](#c01-pixel-art-character-gif-by-seeapi), [Clay Stop-Motion · C02](#c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo).
+
+</details>
+
+<details>
+<summary>Story & Video</summary>
+
+[Storyboard · C04](#c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine), [Distant Observer · C05](#c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt), [360° Orbit · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi).
+
+</details>
+
+<details>
+<summary>Products & Materials</summary>
+
+[Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Toy Packaging · P02](#p02-collectible-figure-packaging), [Campaign Visual · P04](#p04-product-photo-to-campaign-visual), [Glass Remix · P08](#p08-glass-material-remix), [Cereal Box Nutrition Panel · P27](#p27-cereal-box-nutrition-panel), [Wine Label with Tasting Notes · P22](#p22-wine-label-with-tasting-notes), [Vintage Toy Airplane Packaging · P21](#p21-vintage-toy-airplane-packaging), [Minimal Bakery Logo · P16](#p16-minimal-bakery-logo).
+
+</details>
+
+<details>
+<summary>Posters & Typography</summary>
+
+[Glass Poster · C06](#c06-frosted-glass-poster-to-360-orbit-by-seeapi), [Exact Copy Poster · P05](#p05-editorial-poster-with-exact-copy), [Desert Motorcycle Editorial Poster · P40](#p40-desert-motorcycle-editorial-poster), [Neon Motorsport Poster · P39](#p39-neon-motorsport-poster), [Fashion Movements Across Four Decades · P28](#p28-fashion-movements-across-four-decades), [Cereal Box Nutrition Panel · P27](#p27-cereal-box-nutrition-panel), [Ornate Award Certificate · P26](#p26-ornate-award-certificate), [Boarding Pass Layout · P24](#p24-boarding-pass-layout), [Wine Label with Tasting Notes · P22](#p22-wine-label-with-tasting-notes), [Streetwear Campaign with Exact Typography · P15](#p15-streetwear-campaign-with-exact-typography).
+
+</details>
+
+<details>
+<summary>Illustration & Miniatures</summary>
+
+[Paper Folk Story · P09](#p09-paper-folk-story), [Suitcase Village · P03](#p03-miniature-world-in-an-everyday-object), [Paper-Cut Forest · P07](#p07-paper-cut-storybook-scene), [Three-Panel Dialogue Comic · P25](#p25-three-panel-dialogue-comic), [Four-Panel Pet Comic · P18](#p18-four-panel-pet-comic).
+
+</details>
+
+<details>
+<summary>Portraits & Photography</summary>
+
+[Candid Mont-Saint-Michel Travel Portrait · P38](#p38-candid-mont-saint-michel-travel-portrait), [Realistic iPhone Cafe Portrait · P37](#p37-realistic-iphone-cafe-portrait), [Dreamy High-Angle Qipao Portrait · P36](#p36-dreamy-high-angle-qipao-portrait), [Monochrome Cybernetic Horror Portrait · P35](#p35-monochrome-cybernetic-horror-portrait), [Woodland Clearing · P34](#p34-woodland-clearing), [Virtual Outfit Replacement · P31](#p31-virtual-outfit-replacement), [Caramel Suit Studio Portrait · P29](#p29-caramel-suit-studio-portrait), [1969 Outdoor Festival Crowd · P17](#p17-1969-outdoor-festival-crowd), [Candid Sailor Portrait · P13](#p13-candid-sailor-portrait), [Cinematic Subway Motion Portrait · P12](#p12-cinematic-subway-motion-portrait), [1980s Retro Film Portrait · P10](#p10-1980s-retro-film-portrait).
+
+</details>
+
+<details>
+<summary>Diagrams & Interfaces</summary>
+
+[Spanish Infographic Translation · P30](#p30-spanish-infographic-translation), [National Park Trail Map · P23](#p23-national-park-trail-map), [Cellular Respiration Classroom Diagram · P20](#p20-cellular-respiration-classroom-diagram), [Farmers Market Mobile App Mockup · P19](#p19-farmers-market-mobile-app-mockup), [Automatic Coffee Machine Infographic · P14](#p14-automatic-coffee-machine-infographic).
+
+</details>
+
+<details>
+<summary>Image Editing</summary>
+
+[Minecraft Skin · P41](#p41-minecraft-skin-from-a-reference), [Bedroom Redesign · P42](#p42-bedroom-redesign-from-your-photo), [Dog Compositing into a Street Scene · P32](#p32-dog-compositing-into-a-street-scene), [Virtual Outfit Replacement · P31](#p31-virtual-outfit-replacement), [Spanish Infographic Translation · P30](#p30-spanish-infographic-translation).
+
+</details>
+
+<details>
+<summary>Interior Design</summary>
+
+[Bedroom Redesign · P42](#p42-bedroom-redesign-from-your-photo).
+
+</details>
 
 ## 🗂 Prompt Directory
 
+- [P42: Bedroom Redesign from Your Photo (by SeeAPI)](#p42-bedroom-redesign-from-your-photo)
+- [P41: Minecraft Skin from a Reference (by SeeAPI)](#p41-minecraft-skin-from-a-reference)
 - [P40: Desert Motorcycle Editorial Poster](#p40-desert-motorcycle-editorial-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · Reference adaptation by SeeAPI
 - [P39: Neon Motorsport Poster](#p39-neon-motorsport-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
 - [P38: Candid Mont-Saint-Michel Travel Portrait](#p38-candid-mont-saint-michel-travel-portrait) (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683) · Reference adaptation by SeeAPI
@@ -101,7 +163,49 @@ Choose a subject or technique. A case can appear in more than one category.
 - [P01: Personalized Sticker Pack (by SeeAPI)](#p01-personalized-sticker-pack)
 
 
-### P40. Desert Motorcycle Editorial Poster
+<a id="p42-bedroom-redesign-from-your-photo"></a>
+
+### 📌 P42. Bedroom Redesign from Your Photo
+
+#### 👀 Preview
+
+| Before | After |
+|---|---|
+| [<img src="assets/p42-bedroom-redesign/reference.png" width="300" height="300" alt="Bedroom Redesign from Your Photo — before">](assets/p42-bedroom-redesign/reference.png) | [<img src="assets/p42-bedroom-redesign/result.png" width="300" height="300" alt="Bedroom Redesign from Your Photo — after">](assets/p42-bedroom-redesign/result.png) |
+
+#### 👇 Workflow
+
+`Bedroom photo → redesigned bedroom`
+
+#### 🔖 Full Prompt
+
+```text
+Redesign this ordinary bedroom into a more stylish, cohesive, and professionally decorated interior while preserving the original room structure, layout, window position, bed placement, and overall perspective. Transform it into a warm, modern, inviting bedroom with improved furniture styling, layered bedding, refined color coordination, tasteful wall art, soft textiles, subtle decor accents, and better visual balance. Add a more polished interior-design feel with realistic materials, clean organization, elegant lighting, and a cozy lived-in atmosphere. Keep the result realistic and believable, like a real home makeover photo, not CGI. Maintain natural proportions and realistic lighting, and make the room look significantly upgraded while still clearly based on the original image.
+```
+
+<a id="p41-minecraft-skin-from-a-reference"></a>
+
+### 📌 P41. Minecraft Skin from a Reference
+
+#### 👀 Preview
+
+| Before | After |
+|---|---|
+| [<img src="assets/p41-minecraft-skin-from-reference/reference.png" width="300" height="300" alt="Minecraft Skin from a Reference — before">](assets/p41-minecraft-skin-from-reference/reference.png) | [<img src="assets/p41-minecraft-skin-from-reference/result.png" width="300" height="300" alt="Minecraft Skin from a Reference — after">](assets/p41-minecraft-skin-from-reference/result.png) |
+
+#### 👇 Workflow
+
+`Person photo → Minecraft-style image`
+
+#### 🔖 Full Prompt
+
+```text
+Transform the person in the uploaded photo into a Minecraft-style character while preserving their recognizable hairstyle, clothing colors, accessories, and key visual features. Convert the entire body into a clean blocky voxel structure with square geometry, pixelated textures, and classic Minecraft proportions. Keep the original pose and general composition. Make the character look like an authentic custom Minecraft skin rather than a realistic 3D person. Use crisp pixel details, simple shading, and clean block-based forms.
+```
+
+<a id="p40-desert-motorcycle-editorial-poster"></a>
+
+### 📌 P40. Desert Motorcycle Editorial Poster
 
 #### 👀 Preview
 
@@ -123,7 +227,9 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 
 *Replace `[motorcycle outfit]`, `[poster title]` with your own content before generating.*
 
-### P39. Neon Motorsport Poster
+<a id="p39-neon-motorsport-poster"></a>
+
+### 📌 P39. Neon Motorsport Poster
 
 #### 👀 Preview
 
@@ -139,7 +245,9 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 1:1 square poster, an extreme close-up, high-contrast shot of a racing car front nose, aerodynamic wing and tire rim, cutting through darkness with bright red motion blur and glowing orange light. The words “GPT IMAGE 2.5” are projected directly onto the car body in brilliant neon orange, overlapping the front wing and tire rim. Intense red and black palette, cinematic low key, sharp reflections, dramatic low angle, shallow depth of field, high-speed motorsport aesthetic. No sidebar, no extra UI panels, no technical symbols, no barcode, no additional text except “GPT IMAGE 2.5”.
 ```
 
-### P38. Candid Mont-Saint-Michel Travel Portrait
+<a id="p38-candid-mont-saint-michel-travel-portrait"></a>
+
+### 📌 P38. Candid Mont-Saint-Michel Travel Portrait
 
 #### 👀 Preview
 
@@ -159,7 +267,9 @@ Create a photorealistic candid travel portrait of this person on a sandy shoreli
 Dress the person in a long oversized black coat over a light outfit, a soft cream-white scarf without logos, and an understated shoulder bag. Hands rest casually in the coat pockets. Show the person in the foreground and the abbey clearly in the background. Soft evening light, pale blue sky, realistic fabric and skin texture, subtle smartphone aesthetic, gentle color grading, natural proportions, vertical 3:4 composition. No invented brand emblems or text.
 ```
 
-### P37. Realistic iPhone Cafe Portrait
+<a id="p37-realistic-iphone-cafe-portrait"></a>
+
+### 📌 P37. Realistic iPhone Cafe Portrait
 
 #### 👀 Preview
 
@@ -179,7 +289,9 @@ Create a realistic iPhone-style candid photo of this person in [cafe setting], w
 
 *Replace `[cafe setting]`, `[outfit]`, `[simple action]` with your own content before generating.*
 
-### P36. Dreamy High-Angle Qipao Portrait
+<a id="p36-dreamy-high-angle-qipao-portrait"></a>
+
+### 📌 P36. Dreamy High-Angle Qipao Portrait
 
 #### 👀 Preview
 
@@ -199,7 +311,9 @@ Create a vertical 9:16 fashion portrait of this person wearing [qipao color and 
 
 *Replace `[qipao color and design]`, `[makeup style]` with your own content before generating.*
 
-### P35. Monochrome Cybernetic Horror Portrait
+<a id="p35-monochrome-cybernetic-horror-portrait"></a>
+
+### 📌 P35. Monochrome Cybernetic Horror Portrait
 
 #### 👀 Preview
 
@@ -217,7 +331,9 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Transform the portrait into a monochrome cybernetic horror photograph. Keep the person recognizable through their facial structure and expression; use cracked porcelain-white prosthetic surfaces and recessed metallic details around the eyes without replacing the head or changing facial proportions. Surround the head with black cables and industrial coil attachments, and use tattered dark fabric clothing. Dramatic low-key light, deep black background, high-contrast monochrome, tactile practical-effects detail, 85mm portrait lens, shallow depth of field. No extra person, enlarged eyes, unrelated face, or text.
 ```
 
-### P34. Woodland Clearing
+<a id="p34-woodland-clearing"></a>
+
+### 📌 P34. Woodland Clearing
 
 #### 👀 Preview
 
@@ -233,7 +349,9 @@ Transform the portrait into a monochrome cybernetic horror photograph. Keep the 
 Photo of a clearing in the woods with lots of green foliage, highly detailed
 ```
 
-### P33. Expressive Meme Sticker Sheet
+<a id="p33-expressive-meme-sticker-sheet"></a>
+
+### 📌 P33. Expressive Meme Sticker Sheet
 
 #### 👀 Preview
 
@@ -253,7 +371,9 @@ Create a Meme sticker pack based on the images attached, remixing with 😎😛�
 Create a single square(1:1) transparent sticker sheet with nine distinct stickers arranged in a 3×3 grid, each showing a different expression, pose, or reaction. Separate the stickers with wide, fully transparent gaps. No background, shadows, or overlapping elements.
 ```
 
-### P32. Dog Compositing into a Street Scene
+<a id="p32-dog-compositing-into-a-street-scene"></a>
+
+### 📌 P32. Dog Compositing into a Street Scene
 
 #### 👀 Preview
 
@@ -269,7 +389,9 @@ Create a single square(1:1) transparent sticker sheet with nine distinct sticker
 Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
 ```
 
-### P31. Virtual Outfit Replacement
+<a id="p31-virtual-outfit-replacement"></a>
+
+### 📌 P31. Virtual Outfit Replacement
 
 #### 👀 Preview
 
@@ -285,7 +407,9 @@ Place the dog from the second image into the setting of image 1, right next to t
 Use image 1 as the person reference and the remaining uploaded images as clothing references. Edit only the clothing worn by the person in image 1. Preserve their exact identity, face, age, skin tone, body proportions, gender presentation, expression, hairstyle, and pose. Fit the referenced garments naturally to their body and pose with realistic fabric behavior. Match the original lighting, shadows, and color temperature. Keep the background, camera angle, framing, and image quality unchanged. Do not add accessories, text, logos, or watermarks.
 ```
 
-### P30. Spanish Infographic Translation
+<a id="p30-spanish-infographic-translation"></a>
+
+### 📌 P30. Spanish Infographic Translation
 
 #### 👀 Preview
 
@@ -301,7 +425,9 @@ Use image 1 as the person reference and the remaining uploaded images as clothin
 Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
 ```
 
-### P29. Caramel Suit Studio Portrait
+<a id="p29-caramel-suit-studio-portrait"></a>
+
+### 📌 P29. Caramel Suit Studio Portrait
 
 #### 👀 Preview
 
@@ -321,7 +447,9 @@ Create a photorealistic full-body studio portrait. Dress the referenced person i
 Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture upright, feet comfortably spaced, gaze slightly away from the camera. Plain light-gray studio background and seamless floor, soft diffused light, realistic skin and fabric folds, crisp facial detail, subtle contact shadows. Full-body head-to-shoes framing, eye-level camera, editorial fashion photography, vertical 2:3 composition. No new accessories or text.
 ```
 
-### P28. Fashion Movements Across Four Decades
+<a id="p28-fashion-movements-across-four-decades"></a>
+
+### 📌 P28. Fashion Movements Across Four Decades
 
 #### 👀 Preview
 
@@ -337,7 +465,9 @@ Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture
 2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution = self.resolve_auto_fields(topic)              def resolve_auto_fields(self, topic):         # Module 2: Copy & Facts         self.title = generate_title(topic, max_words=5)         self.tagline = generate_tagline(topic, min_words=3, max_words=8)         self.labels = extract_key_points(topic, count=6-12, relationship="components") # principles/stages/types                  # Module 3: The Surreal Character Engine         self.mechanism = infer_verb(topic) # e.g., "filtering", "branching", "accumulating"         self.base_form = select_organism(self.mechanism) # human, animal, or object         # CRITICAL: Transformation must be structural, not just accessories         self.transformation = invent_structural_alteration(self.base_form, self.mechanism)         self.pose = select_pose(topic, attitude="intriguing_uncanny")                  # Module 5: Geometry & Palette         self.geometry = select_geometric_family(topic) # rays, arcs, ribbons, grids         self.palette = derive_accent_colors(topic, count=2-6, mood="flat_matte_weathered")      def verify_character_logic(self):         # The "Thumbnail & Concept" Check         assert is_structural(self.transformation), "Module 3: Must be anatomy/proportion, not accessories."         assert fits_sentence(self.transformation, self.mechanism), "Module 3: Logic check failed."         assert visible_at_thumbnail(self.transformation), "Module 3: Must read at small scale."         assert not is_generic_cute_scary(self.pose), "Module 3: Avoid default emotional tropes."      def render(self):         self.verify_character_logic()                  # Module 1 & 6: Style Kernel         canvas = Canvas(aspect="1:1", bg="warm_ivory", texture="subtle_analog_grain")                  # Hero: Grayscale, sculptural shading, stippling/halftone         hero = render_grayscale_sculptural(self.base_form, self.transformation, self.pose,                                             shading="fine_stippling", texture="tactile_print")                  # Module 4: Adaptive Layout         layout = adaptive_composition(             hero=hero,              title=self.title, # Oversized, black, condensed, uppercase             labels=self.labels, # Compact, high contrast             geometry=self.geometry, # Connects hero to info             palette=self.palette # Flat, matte accents         )                  return canvas.compose(layout, typography="extreme_contrast_hierarchy")  EditorialPoster($ TOPIC).render()
 ```
 
-### P27. Cereal Box Nutrition Panel
+<a id="p27-cereal-box-nutrition-panel"></a>
+
+### 📌 P27. Cereal Box Nutrition Panel
 
 #### 👀 Preview
 
@@ -353,7 +483,9 @@ Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture
 A cereal box back panel, a full nutrition table with every figure legible
 ```
 
-### P26. Ornate Award Certificate
+<a id="p26-ornate-award-certificate"></a>
+
+### 📌 P26. Ornate Award Certificate
 
 #### 👀 Preview
 
@@ -369,7 +501,9 @@ A cereal box back panel, a full nutrition table with every figure legible
 An award certificate, ornate border, name and date in calligraphic script
 ```
 
-### P25. Three-Panel Dialogue Comic
+<a id="p25-three-panel-dialogue-comic"></a>
+
+### 📌 P25. Three-Panel Dialogue Comic
 
 #### 👀 Preview
 
@@ -385,7 +519,9 @@ An award certificate, ornate border, name and date in calligraphic script
 A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 ```
 
-### P24. Boarding Pass Layout
+<a id="p24-boarding-pass-layout"></a>
+
+### 📌 P24. Boarding Pass Layout
 
 #### 👀 Preview
 
@@ -401,7 +537,9 @@ A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 ```
 
-### P23. National Park Trail Map
+<a id="p23-national-park-trail-map"></a>
+
+### 📌 P23. National Park Trail Map
 
 #### 👀 Preview
 
@@ -417,7 +555,9 @@ A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 A national park trail map poster, six routes labelled with names and distances
 ```
 
-### P22. Wine Label with Tasting Notes
+<a id="p22-wine-label-with-tasting-notes"></a>
+
+### 📌 P22. Wine Label with Tasting Notes
 
 #### 👀 Preview
 
@@ -433,7 +573,9 @@ A national park trail map poster, six routes labelled with names and distances
 A wine bottle label, estate name, vintage year, and four lines of tasting notes
 ```
 
-### P21. Vintage Toy Airplane Packaging
+<a id="p21-vintage-toy-airplane-packaging"></a>
+
+### 📌 P21. Vintage Toy Airplane Packaging
 
 #### 👀 Preview
 
@@ -467,7 +609,9 @@ No logos
 Include ONLY this packaging text (verbatim): "Christmas Memories Edition"
 ```
 
-### P20. Cellular Respiration Classroom Diagram
+<a id="p20-cellular-respiration-classroom-diagram"></a>
+
+### 📌 P20. Cellular Respiration Classroom Diagram
 
 #### 👀 Preview
 
@@ -487,7 +631,9 @@ Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs 
 Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
 ```
 
-### P19. Farmers Market Mobile App Mockup
+<a id="p19-farmers-market-mobile-app-mockup"></a>
+
+### 📌 P19. Farmers Market Mobile App Mockup
 
 #### 👀 Preview
 
@@ -509,7 +655,9 @@ It should look like a real, well-designed, beautiful app for a small local marke
 Place the UI mockup in an iPhone frame.
 ```
 
-### P18. Four-Panel Pet Comic
+<a id="p18-four-panel-pet-comic"></a>
+
+### 📌 P18. Four-Panel Pet Comic
 
 #### 👀 Preview
 
@@ -529,7 +677,9 @@ Panel 3: The house transformed. The pet sprawls across the couch like it owns th
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
-### P17. 1969 Outdoor Festival Crowd
+<a id="p17-1969-outdoor-festival-crowd"></a>
+
+### 📌 P17. 1969 Outdoor Festival Crowd
 
 #### 👀 Preview
 
@@ -548,7 +698,9 @@ Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
 ```
 
-### P16. Minimal Bakery Logo
+<a id="p16-minimal-bakery-logo"></a>
+
+### 📌 P16. Minimal Bakery Logo
 
 #### 👀 Preview
 
@@ -565,7 +717,9 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
 ```
 
-### P15. Streetwear Campaign with Exact Typography
+<a id="p15-streetwear-campaign-with-exact-typography"></a>
+
+### 📌 P15. Streetwear Campaign with Exact Typography
 
 #### 👀 Preview
 
@@ -585,7 +739,9 @@ Create a polished streetwear campaign for "[brand name]". Show the referenced pe
 
 *Replace `[brand name]`, `[setting]`, `[streetwear styling]`, `[tagline]` with your own content before generating.*
 
-### P14. Automatic Coffee Machine Infographic
+<a id="p14-automatic-coffee-machine-infographic"></a>
+
+### 📌 P14. Automatic Coffee Machine Infographic
 
 #### 👀 Preview
 
@@ -605,7 +761,9 @@ From bean basket, to grinding, to scale, water tank, boiler, etc.
 I'd like to understand technically and visually the flow.
 ```
 
-### P13. Candid Sailor Portrait
+<a id="p13-candid-sailor-portrait"></a>
+
+### 📌 P13. Candid Sailor Portrait
 
 #### 👀 Preview
 
@@ -625,7 +783,9 @@ Create a photorealistic candid photograph of this person on a small fishing boat
 
 *Replace `[practical sailing outfit]` with your own content before generating.*
 
-### P12. Cinematic Subway Motion Portrait
+<a id="p12-cinematic-subway-motion-portrait"></a>
+
+### 📌 P12. Cinematic Subway Motion Portrait
 
 #### 👀 Preview
 
@@ -645,7 +805,9 @@ Create a cinematic portrait of this person standing still on a subway platform a
 
 *Replace `[outfit]`, `[bouquet or prop]` with your own content before generating.*
 
-### P11. Character Dance Pose Grid
+<a id="p11-character-dance-pose-grid"></a>
+
+### 📌 P11. Character Dance Pose Grid
 
 #### 👀 Preview
 
@@ -696,7 +858,9 @@ Final output: one complete, clearly readable 4×4 sheet of sixteen original danc
 
 *Replace `@[Image 1]` with your uploaded character reference.*
 
-### P10. 1980s Retro Film Portrait
+<a id="p10-1980s-retro-film-portrait"></a>
+
+### 📌 P10. 1980s Retro Film Portrait
 
 #### 👀 Preview
 
@@ -724,7 +888,9 @@ Capture the image as if shot on a 35mm analog film camera, with realistic film g
 Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
 
-### P09. Paper Folk Story
+<a id="p09-paper-folk-story"></a>
+
+### 📌 P09. Paper Folk Story
 
 #### 👀 Preview
 
@@ -742,7 +908,9 @@ Paper cut-out animation of a [subject] [simple action], full-body character, lay
 
 *Replace `[subject]` with your person or character and `[simple action]` with the action you want to depict.*
 
-### P08. Glass Material Remix
+<a id="p08-glass-material-remix"></a>
+
+### 📌 P08. Glass Material Remix
 
 #### 👀 Preview
 
@@ -760,7 +928,9 @@ Transform the main object in the uploaded image into translucent glass while pre
 Place it on a pale stone surface against a warm gray studio background. Show believable glass thickness, subtle internal reflections, softened refraction through curved areas, and a grounded contact shadow. Use a large soft light from the left and a faint rim light from behind. Keep the full object visible. Do not add extra parts, labels, text, or unrelated props.
 ```
 
-### P07. Paper-Cut Storybook Scene
+<a id="p07-paper-cut-storybook-scene"></a>
+
+### 📌 P07. Paper-Cut Storybook Scene
 
 #### 👀 Preview
 
@@ -780,7 +950,9 @@ Use visible paper fibers, crisp cut edges, gently bent paper elements, and real 
 
 *Replace `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]` with your own content before generating.*
 
-### P06. Portrait Reference to Multi-View Sheet
+<a id="p06-portrait-reference-to-multi-view-sheet"></a>
+
+### 📌 P06. Portrait Reference to Multi-View Sheet
 
 #### 👀 Preview
 
@@ -804,7 +976,9 @@ Use a plain [background color] studio background, soft even lighting, and the sa
 
 *Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
 
-### P05. Editorial Poster with Exact Copy
+<a id="p05-editorial-poster-with-exact-copy"></a>
+
+### 📌 P05. Editorial Poster with Exact Copy
 
 #### 👀 Preview
 
@@ -829,7 +1003,9 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 
 *Replace `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]` with your own content before generating.*
 
-### P04. Product Photo to Campaign Visual
+<a id="p04-product-photo-to-campaign-visual"></a>
+
+### 📌 P04. Product Photo to Campaign Visual
 
 #### 👀 Preview
 
@@ -851,7 +1027,9 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 
 *Replace `[background color and material]`, `[platform material]` with your own content before generating.*
 
-### P03. Miniature World in an Everyday Object
+<a id="p03-miniature-world-in-an-everyday-object"></a>
+
+### 📌 P03. Miniature World in an Everyday Object
 
 #### 👀 Preview
 
@@ -871,7 +1049,9 @@ Show the whole container from a three-quarter overhead angle. Make the scale rel
 
 *Replace `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]` with your own content before generating.*
 
-### P02. Collectible Figure Packaging
+<a id="p02-collectible-figure-packaging"></a>
+
+### 📌 P02. Collectible Figure Packaging
 
 #### 👀 Preview
 
@@ -893,7 +1073,9 @@ Arrange exactly three accessories in separate compartments to the figure's right
 
 *Replace `[toy name]`, `[backing color]`, `[character description]`, `[outfit or surface details]`, `[accessory 1]`, `[accessory 2]`, `[accessory 3]` with your own content before generating.*
 
-### P01. Personalized Sticker Pack
+<a id="p01-personalized-sticker-pack"></a>
+
+### 📌 P01. Personalized Sticker Pack
 
 #### 👀 Preview
 

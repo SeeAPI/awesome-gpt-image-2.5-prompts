@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-09-14
+
+- Added supplied P41/P42 before/after images and exact prompts in both languages. Featured comparisons are side by side; categories are collapsed and expanded case headings use a consistent pin marker.
+- 补齐 P41/P42 用户提供的前后图片与准确提示词，同步中英文。精选并排展示前后效果，分类列表默认折叠，展开的案例标题统一使用图钉标记。
+
+- Added English/Chinese navigation and a complete Chinese README with matching cases and prompts.
+- Added P41 Minecraft skin preview and P42 bedroom redesign prompts; example images are awaiting maintainer input.
+- Kept Pixel Art GIF in Featured Examples and replaced the other two slots with P41/P42. Existing clay and orbit creative cases remain unchanged.
+- Added a Star reminder and synchronized the collection count and content update date.
+- Adapted ten portrait prompts to identity references; existing source previews have not been regenerated.
+- Added bilingual maintenance checks. Repository Topics are managed separately from Git content.
+
+- 新增中英文切换入口与完整中文 README，同步所有案例和提示词。
+- 新增 P41 Minecraft 皮肤预览、P42 卧室改造提示词；示例图等待维护者提供。
+- 精选保留像素 GIF，其余两项替换为 P41/P42；陶土与环绕创意案例原文不变。
+- 新增 Star 提醒，同步提示词数量和实际内容更新日期。
+- 十条人像提示词改为身份参考图流程；来源预览尚未重新生成。
+- 新增双语维护校验。仓库 Topics 独立于 Git 文件管理。
+
 ## 2026-09-11
 
 - Resolved the upstream P09 collision by retaining Paper Folk Story as P09 and assigning the unpublished import batch P10–P40. Preserved the five-workflow layout, revised C02 prompts, archived C03, and updated creative-case anchors.

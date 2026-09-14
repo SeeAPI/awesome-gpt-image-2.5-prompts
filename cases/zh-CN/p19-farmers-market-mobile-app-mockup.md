@@ -1,0 +1,23 @@
+# P19. 农夫市集手机应用效果图
+
+[English](../p19-farmers-market-mobile-app-mockup.md) | [简体中文](p19-farmers-market-mobile-app-mockup.md)
+
+## 👀 预览
+
+[<img src="../../assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp" width="267" height="400" alt="农夫市集手机应用效果图——来源示例">](../../assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp)
+
+[<img src="../../assets/p19-farmers-market-mobile-app-mockup/source-example-02.webp" width="267" height="400" alt="农夫市集手机应用效果图——来源示例">](../../assets/p19-farmers-market-mobile-app-mockup/source-example-02.webp)
+
+## 👇 工作流
+
+`文字 → 图片`
+
+## 🔖 完整提示词
+
+```text
+为本地农夫市集制作真实的手机应用 UI 效果图。
+展示今日市集，包括简单页眉、附小照片和类别的简短摊贩列表、小型“Today’s specials”区域，以及地点和营业时间等基本信息。
+设计实用、易用。白色背景，柔和自然的点缀色，清晰字体，装饰精简。
+整体应像一个真正为小型本地市集设计的精美应用。
+将 UI 效果图放在 iPhone 机框中。
+```
