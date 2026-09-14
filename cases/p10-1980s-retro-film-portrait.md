@@ -25,3 +25,5 @@ Capture the image as if shot on a 35mm analog film camera, with realistic film g
 
 Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)</sub>

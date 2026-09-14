@@ -15,3 +15,5 @@
 ```text
 Transform the person in the uploaded photo into a Minecraft-style character while preserving their recognizable hairstyle, clothing colors, accessories, and key visual features. Convert the entire body into a clean blocky voxel structure with square geometry, pixelated textures, and classic Minecraft proportions. Keep the original pose and general composition. Make the character look like an authentic custom Minecraft skin rather than a realistic 3D person. Use crisp pixel details, simple shading, and clean block-based forms.
 ```
+
+<sub>(by SeeAPI)</sub>

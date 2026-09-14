@@ -15,3 +15,5 @@
 ```text
 三格条漫，手写对话气泡，墨线与平涂色彩
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

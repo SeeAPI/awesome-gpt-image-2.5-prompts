@@ -49,4 +49,4 @@
 最终输出：一张完整、清晰的 4×4 参考图，包含为上传角色量身设计的十六个原创舞姿。
 ```
 
-*将 `@[Image 1]` 替换为上传的角色参考图。*
+<sub>(by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [来源平台： X](https://x.com/renoiseai/status/2097959984265130436)</sub>

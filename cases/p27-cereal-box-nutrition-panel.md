@@ -13,3 +13,5 @@
 ```text
 A cereal box back panel, a full nutrition table with every figure legible
 ```
+
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>

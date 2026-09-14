@@ -28,8 +28,15 @@
 
 ## 📖 目录
 
+**仓库信息**
+
 - [🖼️ 精选示例](#-featured-examples)
 - [🧭 选择模型](#-choose-your-model)
+- [📝 来源、使用与维护](#-sources-reuse--maintenance)
+- [🙏 致谢](#-acknowledgments)
+
+**提示词分类**
+
 - [📷 人像与摄影](#-portraits--photography)
 - [🧸 角色与趣味创作](#-characters--playful-creations)
 - [🛍️ 产品与品牌视觉](#-products--branding)
@@ -37,8 +44,6 @@
 - [🏡 家居与室内设计](#-home--interior-design)
 - [📊 信息图与实用设计](#-infographics--practical-design)
 - [🎬 GIF 与视频工作流](#-gif--video-workflows)
-- [📝 来源、使用与维护](#-sources-reuse--maintenance)
-- [🙏 致谢](#-acknowledgments)
 
 <a id="-choose-your-model"></a>
 
@@ -64,7 +69,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.1. 圣米歇尔山旅行抓拍 (作者：[@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [来源平台： X](https://x.com/saniaspeaks_/status/2097532595814940683) · 参考图改编：SeeAPI
+### 📌 1.1. 圣米歇尔山旅行抓拍
+
 #### 👀 预览
 
 [<img src="assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg" width="300" height="400" alt="圣米歇尔山旅行抓拍——来源示例">](assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg)
@@ -83,9 +89,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 人物身穿宽松黑色长外套，内搭浅色服装，围无标志的柔软奶白围巾，背低调肩包。双手随意插在大衣口袋里。人物位于前景，修道院在背景中清晰可见。柔和傍晚光线、浅蓝天空、真实衣料与皮肤纹理、轻微手机摄影美感、柔和调色、自然比例，3:4 竖幅构图。不虚构品牌徽标或添加文字。
 ```
 
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [来源平台： X](https://x.com/saniaspeaks_/status/2097532595814940683) · 参考图改编：SeeAPI</sub>
+
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.2. 真实 iPhone 咖啡馆人像 (作者：[@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [来源平台： X](https://x.com/blueemi99/status/2097602273085931662) · 参考图改编：SeeAPI
+### 📌 1.2. 真实 iPhone 咖啡馆人像
+
 #### 👀 预览
 
 [<img src="assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg" width="300" height="400" alt="真实 iPhone 咖啡馆人像——来源示例">](assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg)
@@ -102,11 +111,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人在 [cafe setting] 的真实 iPhone 风格抓拍照片，穿着 [outfit]，正在 [simple action]。自然现场光，真实皮肤纹理，随意的手机取景，可信的手部与家具接触，克制的景深和日常色彩。不使用美颜滤镜面容，不改变体型，不添加前景人物、文字或水印。
 ```
 
-*生成前，请替换 `[cafe setting]`, `[outfit]`, `[simple action]`为自定义内容后再生成。*
+<sub>(by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [来源平台： X](https://x.com/blueemi99/status/2097602273085931662) · 参考图改编：SeeAPI</sub>
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.3. 梦幻俯拍旗袍人像 (作者：[@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [来源平台： X](https://x.com/BubbleBrain/status/2097513469172129825) · 参考图改编：SeeAPI
+### 📌 1.3. 梦幻俯拍旗袍人像
+
 #### 👀 预览
 
 [<img src="assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg" width="225" height="400" alt="梦幻俯拍旗袍人像——来源示例">](assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg)
@@ -123,11 +133,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人穿着 [qipao color and design] 的 9:16 竖幅时装人像，服装自然适配其真实比例。使用俯拍高机位、柔和光晕、梦幻背景虚化、精致的 [makeup style] 和轻柔优雅的姿势。面部保持可辨识且足够清晰。不强行拉高或瘦身，不重塑眼睛，不改变性别呈现。不添加文字或水印。
 ```
 
-*生成前，请替换 `[qipao color and design]`, `[makeup style]`为自定义内容后再生成。*
+<sub>(by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [来源平台： X](https://x.com/BubbleBrain/status/2097513469172129825) · 参考图改编：SeeAPI</sub>
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.4. 黑白赛博机械恐怖人像 (作者：[@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [来源平台： X](https://x.com/meng_dagg695/status/2097558679956664521) · 参考图改编：SeeAPI
+### 📌 1.4. 黑白赛博机械恐怖人像
+
 #### 👀 预览
 
 [<img src="assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg" width="400" height="400" alt="黑白赛博机械恐怖人像——来源示例">](assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg)
@@ -144,9 +155,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将人像转化为黑白赛博机械恐怖摄影。通过面部结构和表情保持人物可辨识；在眼部周围使用开裂的瓷白色义体表面与内嵌金属细节，不替换头部或改变面部比例。头部周围布置黑色线缆和工业线圈附件，穿破旧深色布料服装。戏剧性低调照明，深黑背景，高对比黑白画面，具有触感的实体特效细节，85mm 人像镜头，浅景深。不添加其他人物，不放大眼睛，不换成无关面容，不添加文字。
 ```
 
+<sub>(by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [来源平台： X](https://x.com/meng_dagg695/status/2097558679956664521) · 参考图改编：SeeAPI</sub>
+
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.5. 焦糖色西装影棚人像 (作者：[@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [来源平台： X](https://x.com/abs_uiux/status/2098216202870964315) · 参考图改编：SeeAPI
+### 📌 1.5. 焦糖色西装影棚人像
+
 #### 👀 预览
 
 [<img src="assets/p29-caramel-suit-studio-portrait/source-example-01.jpg" width="267" height="400" alt="焦糖色西装影棚人像——来源示例">](assets/p29-caramel-suit-studio-portrait/source-example-01.jpg)
@@ -165,9 +179,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 双手自然插入裤袋，肩膀放松，站姿挺直，双脚舒适分开，视线略偏离镜头。纯浅灰影棚背景与无缝地面，柔和漫射光，真实皮肤与衣料褶皱，清晰面部细节和细微接触阴影。构图从头到鞋完整展示全身，平视机位，杂志时装摄影，2:3 竖幅。不添加新配饰或文字。
 ```
 
+<sub>(by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [来源平台： X](https://x.com/abs_uiux/status/2098216202870964315) · 参考图改编：SeeAPI</sub>
+
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.6. 1969 年户外音乐节人群 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 1.6. 1969 年户外音乐节人群
+
 #### 👀 预览
 
 [<img src="assets/p17-1969-outdoor-festival-crowd/source-example-01.webp" width="267" height="400" alt="1969 年户外音乐节人群——来源示例">](assets/p17-1969-outdoor-festival-crowd/source-example-01.webp)
@@ -185,9 +202,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 写实照片风格，服装、舞台布置和环境符合该年代。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.7. 渔船人物抓拍 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI
+### 📌 1.7. 渔船人物抓拍
+
 #### 👀 预览
 
 [<img src="assets/p13-candid-sailor-portrait/source-example-01.webp" width="267" height="400" alt="渔船人物抓拍——来源示例">](assets/p13-candid-sailor-portrait/source-example-01.webp)
@@ -204,11 +224,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人在小渔船上的写实抓拍照片，人物平静地整理渔网，一只狗坐在附近甲板上。人物穿着 [practical sailing outfit]。保留原有皮肤纹理与年龄，不额外添加皱纹或纹身。采用平视中景人像、50mm 镜头、柔和海岸日光、浅景深、35mm 胶片颗粒、自然色彩和磨损材质，营造未摆拍的日常氛围。不进行重度修图。
 ```
 
-*生成前，请替换 `[practical sailing outfit]`为自定义内容后再生成。*
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.8. 电影感地铁动感人像 (作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/) · 参考图改编：SeeAPI
+### 📌 1.8. 电影感地铁动感人像
+
 #### 👀 预览
 
 [<img src="assets/p12-cinematic-subway-motion-portrait/source-example-01.webp" width="224" height="400" alt="电影感地铁动感人像——来源示例">](assets/p12-cinematic-subway-motion-portrait/source-example-01.webp)
@@ -225,11 +246,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人静站在地铁站台上的电影感人像，一列银黄色列车在其身后驶过，形成水平方向运动模糊。面部清晰，表情平静。人物穿着 [outfit]，手持 [bouquet or prop]。保留原有发型，允许少量发丝在列车带动的气流中自然飘动。融合车站顶部冷光与温暖的皮肤高光，采用浅景深、真实皮肤纹理和细微胶片颗粒。
 ```
 
-*生成前，请替换 `[outfit]`, `[bouquet or prop]`为自定义内容后再生成。*
+<sub>(作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/) · 参考图改编：SeeAPI</sub>
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.9. 1980 年代复古胶片人像 (作者：[@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2097954772586557873)
+### 📌 1.9. 1980 年代复古胶片人像
+
 #### 👀 预览
 
 [<img src="assets/p10-1980s-retro-film-portrait/source-example-01.webp" width="320" height="400" alt="1980 年代复古胶片人像——来源示例">](assets/p10-1980s-retro-film-portrait/source-example-01.webp)
@@ -256,13 +278,16 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 照明具有电影感且可信，阴影柔和，高光真实，对比自然，曝光略带胶片的不完美。最终图像应像真正拍摄于 1980 年代，而非数字重制，具有经典、怀旧、时尚且自然洒脱的氛围。
 ```
 
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2097954772586557873)</sub>
+
 <a id="-characters--playful-creations"></a>
 
 ## 🧸 角色与趣味创作
 
 <a id="p41-minecraft-skin-from-a-reference"></a>
 
-### 📌 2.1. 参考图 → Minecraft 皮肤 (作者：SeeAPI)
+### 📌 2.1. 参考图 → Minecraft 皮肤
+
 #### 👀 预览
 
 | 原图 | 效果图 |
@@ -279,9 +304,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将上传照片中的人物转化为 Minecraft 风格角色，同时保留可辨识的发型、服装颜色、配饰和关键视觉特征。将整个身体转化为干净的方块体素结构，采用方形几何、像素化纹理和经典 Minecraft 比例。保留原有姿势和整体构图。让角色呈现真实的自定义 Minecraft 皮肤观感，而不是写实的三维人物。使用清晰像素细节、简单明暗和干净的方块造型。
 ```
 
+<sub>(作者：SeeAPI)</sub>
+
 <a id="p33-expressive-meme-sticker-sheet"></a>
 
-### 📌 2.2. 夸张表情包贴纸 (作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 2.2. 夸张表情包贴纸
+
 #### 👀 预览
 
 [<img src="assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg" width="400" height="300" alt="夸张表情包贴纸——来源示例">](assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg)
@@ -298,9 +326,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作一张正方形（1:1）透明贴纸图，九张不同贴纸排列为 3×3 网格，每张展示不同表情、姿势或反应。贴纸之间留宽阔、完全透明的间隔。无背景、阴影或重叠元素。
 ```
 
+<sub>(作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p18-four-panel-pet-comic"></a>
 
-### 📌 2.3. 四格宠物漫画 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 2.3. 四格宠物漫画
+
 #### 👀 预览
 
 [<img src="assets/p18-four-panel-pet-comic/source-example-01.webp" width="267" height="400" alt="四格宠物漫画——来源示例">](assets/p18-four-panel-pet-comic/source-example-01.webp)
@@ -319,9 +350,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 第 4 格：门打开。宠物端正地坐在入口处，警觉又镇定，仿佛什么都没发生。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p11-character-dance-pose-grid"></a>
 
-### 📌 2.4. 角色舞蹈姿势网格 (作者：[@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [来源平台： X](https://x.com/renoiseai/status/2097959984265130436)
+### 📌 2.4. 角色舞蹈姿势网格
+
 #### 👀 预览
 
 [<img src="assets/p11-character-dance-pose-grid/source-example-01.webp" width="400" height="400" alt="角色舞蹈姿势网格——来源示例">](assets/p11-character-dance-pose-grid/source-example-01.webp)
@@ -369,11 +403,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 最终输出：一张完整、清晰的 4×4 参考图，包含为上传角色量身设计的十六个原创舞姿。
 ```
 
-*将 `@[Image 1]` 替换为上传的角色参考图。*
+<sub>(by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [来源平台： X](https://x.com/renoiseai/status/2097959984265130436)</sub>
 
 <a id="p06-portrait-reference-to-multi-view-sheet"></a>
 
-### 📌 2.5. 人像参考 → 多视图设定图 (作者：SeeAPI)
+### 📌 2.5. 人像参考 → 多视图设定图
+
 #### 👀 预览
 
 [<img src="assets/p06-character-scenes/portrait-views-result.png" width="400" height="225" alt="包含三个全身视图与两个面部视图的人像设定图">](assets/p06-character-scenes/portrait-views-result.png)
@@ -394,11 +429,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 使用纯色 [background color] 影棚背景、柔和均匀的照明，以及与上传参考图一致的视觉风格。透视自然，比例不变形。用干净留白区分视图，不画边框。五个视图中的服装颜色、发型和身份保持一致。不出现文字、标签、网格线、额外视图、额外人物、虚构配饰、裁切的脚部或重复肢体；不得用四分之三视角代替所要求的正面、侧面和背面。
 ```
 
-*将 `[outfit and footwear description]` 替换为参考图未展示部分的服装与鞋履说明，将 `[background color]` 替换为背景颜色。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="p02-collectible-figure-packaging"></a>
 
-### 📌 2.6. 收藏玩偶包装 (作者：SeeAPI)
+### 📌 2.6. 收藏玩偶包装
+
 #### 👀 预览
 
 [<img src="assets/p02-collectible-figure-packaging/collectible-packaging-result.png" width="400" height="400" alt="粉色吸塑包装中的收藏角色">](assets/p02-collectible-figure-packaging/collectible-packaging-result.png)
@@ -417,11 +453,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 在玩偶右侧的独立隔间里恰好放置三件配件：[accessory 1]、[accessory 2] 和 [accessory 3]。完整展示玩偶。顶部用大而清晰的字呈现准确标题“[toy name]”。采用真实的模塑塑料、受控反射和柔和影棚阴影。不添加其他文字或无关品牌标志。竖幅构图。
 ```
 
-*生成前，请替换 `[toy name]`, `[backing color]`, `[character description]`, `[outfit or surface details]`, `[accessory 1]`, `[accessory 2]`, `[accessory 3]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="p01-personalized-sticker-pack"></a>
 
-### 📌 2.7. 个性化贴纸包 (作者：SeeAPI)
+### 📌 2.7. 个性化贴纸包
+
 #### 👀 预览
 
 [<img src="assets/p01-personalized-sticker-pack/character-stickers-result.png" width="400" height="400" alt="蓝色背景上的四张猫咪表情贴纸">](assets/p01-personalized-sticker-pack/character-stickers-result.png)
@@ -438,7 +475,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 保留主体的身份、身体结构、比例、颜色、服装（如有）以及独特特征。根据主体的身体结构调整每种表情和姿势，不改变物种或性别呈现。每个单元格都展示完整主体，使用粗白色贴纸描边，贴纸之间留出充足间隔。背景为纯色 [background color]，使轮廓便于分离。不添加说明文字、字母、装饰物，不让内容跨格重叠。
 ```
 
-*生成前，请替换 `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="-products--branding"></a>
 
@@ -446,7 +483,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p31-virtual-outfit-replacement"></a>
 
-### 📌 3.1. 虚拟换装 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · 参考图改编：SeeAPI
+### 📌 3.1. 虚拟换装
+
 #### 👀 预览
 
 [<img src="assets/p31-virtual-outfit-replacement/source-example-01.jpg" width="400" height="313" alt="虚拟换装——来源示例">](assets/p31-virtual-outfit-replacement/source-example-01.jpg)
@@ -461,9 +499,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 以图片 1 作为人物参考，其余上传图片作为服装参考。只编辑图片 1 中人物穿着的服装。保留其准确身份、面容、年龄、肤色、身体比例、性别呈现、表情、发型和姿势。将参考服装自然适配其体型和姿势，表现真实布料行为。匹配原始照明、阴影和色温。背景、相机角度、构图和画质保持不变。不添加配饰、文字、标志或水印。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · 参考图改编：SeeAPI</sub>
+
 <a id="p27-cereal-box-nutrition-panel"></a>
 
-### 📌 3.2. 麦片盒营养成分表 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 3.2. 麦片盒营养成分表
+
 #### 👀 预览
 
 [<img src="assets/p27-cereal-box-nutrition-panel/source-example-01.webp" width="400" height="226" alt="麦片盒营养成分表——来源示例">](assets/p27-cereal-box-nutrition-panel/source-example-01.webp)
@@ -478,9 +519,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 麦片盒背面，包含完整营养成分表，每个数值都清晰可读
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p22-wine-label-with-tasting-notes"></a>
 
-### 📌 3.3. 附品鉴笔记的葡萄酒标签 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 3.3. 附品鉴笔记的葡萄酒标签
+
 #### 👀 预览
 
 [<img src="assets/p22-wine-label-with-tasting-notes/source-example-01.webp" width="400" height="225" alt="附品鉴笔记的葡萄酒标签——来源示例">](assets/p22-wine-label-with-tasting-notes/source-example-01.webp)
@@ -495,9 +539,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 葡萄酒瓶标签，包含酒庄名称、年份和四行品鉴笔记
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p21-vintage-toy-airplane-packaging"></a>
 
-### 📌 3.4. 复古玩具飞机包装 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 3.4. 复古玩具飞机包装
+
 #### 👀 预览
 
 [<img src="assets/p21-vintage-toy-airplane-packaging/source-example-01.webp" width="267" height="400" alt="复古玩具飞机包装——来源示例">](assets/p21-vintage-toy-airplane-packaging/source-example-01.webp)
@@ -525,9 +572,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 包装仅包含以下原样文字：“Christmas Memories Edition”。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p16-minimal-bakery-logo"></a>
 
-### 📌 3.5. 极简面包店标志 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 3.5. 极简面包店标志
+
 #### 👀 预览
 
 #### 👇 工作流
@@ -543,9 +593,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 背景完全透明。交付单个居中标志，四周留充足空间，透明边缘干净，不出现实色底板、场景、棋盘格或水印。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p15-streetwear-campaign-with-exact-typography"></a>
 
-### 📌 3.6. 准确文字的街头服饰广告 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI
+### 📌 3.6. 准确文字的街头服饰广告
+
 #### 👀 预览
 
 [<img src="assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp" width="267" height="400" alt="准确文字的街头服饰广告——来源示例">](assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp)
@@ -562,11 +615,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 为“[brand name]”制作精致的街头服饰广告。参考人物穿着 [streetwear styling]，自然地在 [setting] 相聚。采用现代构图、有活力的色彩方向、自然姿势和高级时装摄影。准确且清晰地呈现一次“[tagline]”。不显示方括号。不添加其他人物、额外文字、水印或无关标志。
 ```
 
-*生成前，请替换 `[brand name]`, `[setting]`, `[streetwear styling]`, `[tagline]`为自定义内容后再生成。*
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
 
 <a id="p08-glass-material-remix"></a>
 
-### 📌 3.7. 玻璃材质重塑 (作者：SeeAPI)
+### 📌 3.7. 玻璃材质重塑
+
 #### 👀 预览
 
 [<img src="assets/p08-glass-material-remix/seeapi-glass-result.png" width="400" height="400" alt="保留原有颜色、转化为半透明玻璃的 SeeAPI 标志">](assets/p08-glass-material-remix/seeapi-glass-result.png)
@@ -583,9 +637,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将其放在浅色石材表面上，搭配暖灰色影棚背景。表现可信的玻璃厚度、细微内部反射、曲面区域柔化的折射，以及贴合台面的接触阴影。使用左侧大型柔光源，后方添加微弱轮廓光。完整展示物体。不添加额外部件、标签、文字或无关道具。
 ```
 
+<sub>(作者：SeeAPI)</sub>
+
 <a id="p04-product-photo-to-campaign-visual"></a>
 
-### 📌 3.8. 产品照片 → 广告视觉 (作者：SeeAPI)
+### 📌 3.8. 产品照片 → 广告视觉
+
 #### 👀 预览
 
 [<img src="assets/p04-product-campaign/product-campaign-result.png" width="400" height="400" alt="浅色石材展台上的产品广告图">](assets/p04-product-campaign/product-campaign-result.png)
@@ -604,7 +661,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 不添加文字、额外产品、装饰食材或新标签。不裁切产品的任何部分。横幅构图。
 ```
 
-*生成前，请替换 `[background color and material]`, `[platform material]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="-posters--artistic-styles"></a>
 
@@ -612,7 +669,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.1. 沙漠摩托车杂志海报 (作者：[Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [来源平台： GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · 参考图改编：SeeAPI
+### 📌 4.1. 沙漠摩托车杂志海报
+
 #### 👀 预览
 
 [<img src="assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp" width="400" height="400" alt="沙漠摩托车杂志海报——来源示例">](assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp)
@@ -631,11 +689,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 用超大号焦橙色工业无衬线字体呈现准确标题“[poster title]”，文字穿插于场景元素前后，但不遮挡面容。添加不含字母的抽象图形点缀。使用不对称布局，配色为焦橙、黑色、沙漠米色和电光蓝。标题是唯一文字：不添加说明文字、额外标签或水印。
 ```
 
-*生成前，请替换 `[motorcycle outfit]`, `[poster title]`为自定义内容后再生成。*
+<sub>(by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [来源平台： GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · 参考图改编：SeeAPI</sub>
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.2. 霓虹赛车海报 (作者：[Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [来源平台： GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
+### 📌 4.2. 霓虹赛车海报
+
 #### 👀 预览
 
 [<img src="assets/p39-neon-motorsport-poster/source-example-01.webp" width="400" height="400" alt="霓虹赛车海报——来源示例">](assets/p39-neon-motorsport-poster/source-example-01.webp)
@@ -650,9 +709,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 1:1 正方形海报，极近距离、高对比拍摄赛车前鼻、空气动力学翼片与轮辋，在鲜红运动模糊和明亮橙光中冲破黑暗。“GPT IMAGE 2.5”以明亮霓虹橙色直接投影在车身上，与前翼和轮辋重叠。强烈红黑配色、电影感低调照明、锐利反射、戏剧性低机位、浅景深和高速赛车美学。不出现侧栏、额外 UI 面板、技术符号、条形码，除“GPT IMAGE 2.5”外不出现其他文字。
 ```
 
+<sub>(by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [来源平台： GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)</sub>
+
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.3. 林间空地 (作者：[@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [来源平台： X](https://x.com/mark_k/status/2097411028510179759)
+### 📌 4.3. 林间空地
+
 #### 👀 预览
 
 [<img src="assets/p34-woodland-clearing/source-example-01.jpg" width="400" height="300" alt="林间空地——来源示例">](assets/p34-woodland-clearing/source-example-01.jpg)
@@ -667,9 +729,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 林间空地照片，有大量绿色枝叶，高度细致
 ```
 
+<sub>(by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [来源平台： X](https://x.com/mark_k/status/2097411028510179759)</sub>
+
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.4. 将狗合成至街道场景 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+### 📌 4.4. 将狗合成至街道场景
+
 #### 👀 预览
 
 [<img src="assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg" width="400" height="313" alt="将狗合成至街道场景——来源示例">](assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg)
@@ -684,9 +749,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将第二张图中的狗放入图片 1 的场景中，紧挨着那位女性，使用相同的照明风格、构图与背景。其他一切保持不变。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.5. 四个年代的时尚潮流 (作者：[@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [来源平台： X](https://x.com/Gdgtify/status/2098228786156196084)
+### 📌 4.5. 四个年代的时尚潮流
+
 #### 👀 预览
 
 [<img src="assets/p28-fashion-movements-across-four-decades/source-example-01.jpg" width="400" height="225" alt="四个年代的时尚潮流——来源示例">](assets/p28-fashion-movements-across-four-decades/source-example-01.jpg)
@@ -701,9 +769,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 2×2 网格，分别展示四个不同年代的时尚潮流，16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution = self.resolve_auto_fields(topic)              def resolve_auto_fields(self, topic):         # Module 2: Copy & Facts         self.title = generate_title(topic, max_words=5)         self.tagline = generate_tagline(topic, min_words=3, max_words=8)         self.labels = extract_key_points(topic, count=6-12, relationship="components") # principles/stages/types                  # Module 3: The Surreal Character Engine         self.mechanism = infer_verb(topic) # e.g., "filtering", "branching", "accumulating"         self.base_form = select_organism(self.mechanism) # human, animal, or object         # CRITICAL: Transformation must be structural, not just accessories         self.transformation = invent_structural_alteration(self.base_form, self.mechanism)         self.pose = select_pose(topic, attitude="intriguing_uncanny")                  # Module 5: Geometry & Palette         self.geometry = select_geometric_family(topic) # rays, arcs, ribbons, grids         self.palette = derive_accent_colors(topic, count=2-6, mood="flat_matte_weathered")      def verify_character_logic(self):         # The "Thumbnail & Concept" Check         assert is_structural(self.transformation), "Module 3: Must be anatomy/proportion, not accessories."         assert fits_sentence(self.transformation, self.mechanism), "Module 3: Logic check failed."         assert visible_at_thumbnail(self.transformation), "Module 3: Must read at small scale."         assert not is_generic_cute_scary(self.pose), "Module 3: Avoid default emotional tropes."      def render(self):         self.verify_character_logic()                  # Module 1 & 6: Style Kernel         canvas = Canvas(aspect="1:1", bg="warm_ivory", texture="subtle_analog_grain")                  # Hero: Grayscale, sculptural shading, stippling/halftone         hero = render_grayscale_sculptural(self.base_form, self.transformation, self.pose,                                             shading="fine_stippling", texture="tactile_print")                  # Module 4: Adaptive Layout         layout = adaptive_composition(             hero=hero,              title=self.title, # Oversized, black, condensed, uppercase             labels=self.labels, # Compact, high contrast             geometry=self.geometry, # Connects hero to info             palette=self.palette # Flat, matte accents         )                  return canvas.compose(layout, typography="extreme_contrast_hierarchy")  EditorialPoster($ TOPIC).render()
 ```
 
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [来源平台： X](https://x.com/Gdgtify/status/2098228786156196084)</sub>
+
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.6. 三格对话漫画 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 4.6. 三格对话漫画
+
 #### 👀 预览
 
 [<img src="assets/p25-three-panel-dialogue-comic/source-example-01.webp" width="400" height="226" alt="三格对话漫画——来源示例">](assets/p25-three-panel-dialogue-comic/source-example-01.webp)
@@ -718,9 +789,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 三格条漫，手写对话气泡，墨线与平涂色彩
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.7. 剪纸民间故事 (作者：@azed_ai) · [来源平台： X](https://x.com/azed_ai/status/2096191635348705726)
+### 📌 4.7. 剪纸民间故事
+
 #### 👀 预览
 
 [<img src="assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp" width="400" height="267" alt="来自 azed_ai 原帖的提灯剪纸角色">](https://x.com/azed_ai/status/2096191635348705726)
@@ -735,11 +809,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 剪纸动画风格的 [subject] 正在 [simple action]，全身角色，多层纸片形状，手工纸纹理，可见裁切边缘，层间柔和阴影，平涂的彩色纸张色调，略带不完美的手作细节，极简纸张拼贴场景，迷人的民间故事美学，轻柔的定格动画感，诗意的儿童绘本氛围，干净的白色背景
 ```
 
-*将 `[subject]` 替换为人物或角色，将 `[simple action]` 替换为希望表现的动作。*
+<sub>(作者：@azed_ai) · [来源平台： X](https://x.com/azed_ai/status/2096191635348705726) · [来源平台： X](https://x.com/azed_ai/status/2096191635348705726)</sub>
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.8. 剪纸绘本场景 (作者：SeeAPI)
+### 📌 4.8. 剪纸绘本场景
+
 #### 👀 预览
 
 [<img src="assets/p07-paper-cut-storybook/paper-cut-character-result.png" width="400" height="400" alt="温馨房间中的多层剪纸猫">](assets/p07-paper-cut-storybook/paper-cut-character-result.png)
@@ -756,11 +831,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 表现可见纸纤维、利落的裁切边缘、轻微弯折的纸片，以及层与层之间的真实阴影。配色限定为 [color palette]。像从正面观看的浅景深舞台布景一样构图，前景、中景和背景明确。不出现文字、亮面塑料或照片般写实的表面纹理。正方形构图。
 ```
 
-*生成前，请替换 `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.9. 准确文案的杂志风海报 (作者：SeeAPI)
+### 📌 4.9. 准确文案的杂志风海报
+
 #### 👀 预览
 
 [<img src="assets/p05-editorial-poster/summer-poster-result.png" width="225" height="400" alt="以冲浪板为主体的蓝色夏日海报">](assets/p05-editorial-poster/summer-poster-result.png)
@@ -782,11 +858,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 保留宽裕页边距，采用严格左对齐的文字网格，清晰区分标题、雕塑和辅助文案。每个词都完整可见。不添加其他文字、标志、边框或水印。
 ```
 
-*生成前，请替换 `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.10. 日常物品中的微缩世界 (作者：SeeAPI)
+### 📌 4.10. 日常物品中的微缩世界
+
 #### 👀 预览
 
 [<img src="assets/p03-miniature-world/miniature-world-result.png" width="400" height="400" alt="树皮容器内的微缩林间村庄">](assets/p03-miniature-world/miniature-world-result.png)
@@ -803,7 +880,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 从斜上方四分之三视角展示整个容器。通过真实接缝、边缘、五金配件，以及旁边实际尺寸的 [scale reference object]，明确微缩比例关系。采用 [lighting mood]、真实微缩材质和浅景深，同时保持场景清晰可读。不出现悬浮建筑或文字。横幅构图。
 ```
 
-*生成前，请替换 `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>
 
 <a id="-home--interior-design"></a>
 
@@ -811,7 +888,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
-### 📌 5.1. 照片 → 卧室改造 (作者：SeeAPI)
+### 📌 5.1. 照片 → 卧室改造
+
 #### 👀 预览
 
 | 原图 | 效果图 |
@@ -828,13 +906,16 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将这间普通卧室重新设计为更时尚、协调、具有专业装饰感的室内空间，同时保留原有房间结构、布局、窗户位置、床的位置和整体透视。通过改进家具风格、层次丰富的床品、精致配色、有品位的挂画、柔软织物、细腻装饰点缀以及更好的视觉平衡，将其转化为温暖、现代、令人向往的卧室。使用真实材质、整洁收纳、优雅照明和舒适的生活气息，营造更成熟的室内设计感。效果真实可信，像真实家居改造照片，而不是 CGI。保持自然比例和真实照明，让房间明显升级，同时仍能清楚看出它基于原图。
 ```
 
+<sub>(作者：SeeAPI)</sub>
+
 <a id="-infographics--practical-design"></a>
 
 ## 📊 信息图与实用设计
 
 <a id="p30-spanish-infographic-translation"></a>
 
-### 📌 6.1. 信息图翻译为西班牙语 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+### 📌 6.1. 信息图翻译为西班牙语
+
 #### 👀 预览
 
 [<img src="assets/p30-spanish-infographic-translation/source-example-01.jpg" width="400" height="313" alt="信息图翻译为西班牙语——来源示例">](assets/p30-spanish-infographic-translation/source-example-01.jpg)
@@ -849,9 +930,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将信息图中的文字翻译为西班牙语。不改变图像的任何其他部分。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+
 <a id="p26-ornate-award-certificate"></a>
 
-### 📌 6.2. 华丽获奖证书 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.2. 华丽获奖证书
+
 #### 👀 预览
 
 [<img src="assets/p26-ornate-award-certificate/source-example-01.webp" width="400" height="226" alt="华丽获奖证书——来源示例">](assets/p26-ornate-award-certificate/source-example-01.webp)
@@ -866,9 +950,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 获奖证书，华丽边框，以书法字体书写姓名和日期
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p24-boarding-pass-layout"></a>
 
-### 📌 6.3. 登机牌版式 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.3. 登机牌版式
+
 #### 👀 预览
 
 [<img src="assets/p24-boarding-pass-layout/source-example-01.webp" width="400" height="225" alt="登机牌版式——来源示例">](assets/p24-boarding-pass-layout/source-example-01.webp)
@@ -883,9 +970,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 登机牌效果图，乘客、登机口、座位和时间在干净的网格中清晰可读
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p23-national-park-trail-map"></a>
 
-### 📌 6.4. 国家公园步道地图 (收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.4. 国家公园步道地图
+
 #### 👀 预览
 
 [<img src="assets/p23-national-park-trail-map/source-example-01.webp" width="400" height="225" alt="国家公园步道地图——来源示例">](assets/p23-national-park-trail-map/source-example-01.webp)
@@ -900,9 +990,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 国家公园步道地图海报，六条路线标注名称与距离
 ```
 
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p20-cellular-respiration-classroom-diagram"></a>
 
-### 📌 6.5. 课堂细胞呼吸示意图 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.5. 课堂细胞呼吸示意图
+
 #### 👀 预览
 
 [<img src="assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp" width="400" height="267" alt="课堂细胞呼吸示意图——来源示例">](assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp)
@@ -921,9 +1014,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 避免过小文字、额外装饰或任何使图示难以理解的内容。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p19-farmers-market-mobile-app-mockup"></a>
 
-### 📌 6.6. 农夫市集手机应用效果图 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.6. 农夫市集手机应用效果图
+
 #### 👀 预览
 
 [<img src="assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp" width="267" height="400" alt="农夫市集手机应用效果图——来源示例">](assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp)
@@ -944,9 +1040,12 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将 UI 效果图放在 iPhone 机框中。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p14-automatic-coffee-machine-infographic"></a>
 
-### 📌 6.7. 全自动咖啡机信息图 (作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.7. 全自动咖啡机信息图
+
 #### 👀 预览
 
 [<img src="assets/p14-automatic-coffee-machine-infographic/source-example-01.webp" width="267" height="400" alt="全自动咖啡机信息图——来源示例">](assets/p14-automatic-coffee-machine-infographic/source-example-01.webp)
@@ -965,6 +1064,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 希望从技术和视觉层面理解整个流程。
 ```
 
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="-5-creative-cases"></a>
 
 <a id="-gif--video-workflows"></a>
@@ -973,7 +1074,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="c01-pixel-art-character-gif-by-seeapi"></a>
 
-### 📌 7.1. 像素角色 GIF (作者：SeeAPI)
+### 📌 7.1. 像素角色 GIF
 
 #### 👀 预览
 
@@ -995,7 +1096,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 只制作一张二维像素角色精灵图：正方形 4×4 网格，16 个等大单元格，每格一个全身角色，每帧呈现 64×64 风格像素。如有上传角色则使用该角色，否则根据用户附加的角色创意设计。全程保持物种、身体结构、比例、服装、颜色和标志性道具一致。用户文字定义角色，不改变精灵图格式。展示 16 个不同且递进的姿势：1–4 准备／预备；5–8 迈步、伸手或相应动作；9–12 富有表现力的标志性动作；13–16 恢复并趋近第 1 帧。选择符合身体结构、轮廓明显变化的动作，不重复待机姿势，不制作四视图转身。保持大小、机位、朝向和单元格对齐一致，避免裁切。清晰 16 位像素风，深色描边，每种颜色使用 2–3 个平涂色阶，纯白背景。不使用抗锯齿、渐变、地面阴影、文字、网格线、额外肢体或虚构道具。第 16 帧自然衔接第 1 帧。角色创意：[a gray elephant is rolling on the ground]
 ```
 
-*生成前，请替换 `[a gray elephant is rolling on the ground]`为自定义内容后再生成。*
 
 **步骤 2 — 精灵图 → GIF**
 
@@ -1007,9 +1107,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 保留像素画风和白色背景。使用共享调色板，不抖色、不平滑、不虚构中间姿势。调整帧时长，使动作清楚，最后一帧自然回到第一帧。导出无限循环 GIF。逐帧检查裁切与对齐，检查循环衔接，提供 GIF 和可复现的 Python 脚本。报告使用的帧顺序、尺寸和时长，并指出需要修改精灵图才能弥补的动作缺口。
 ```
 
+<sub>(作者：SeeAPI)</sub>
+
 <a id="c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo"></a>
 
-### 📌 7.2. 陶土定格动画：钓起一颗星星 (作者：SeeAPI；灵感来源：[Charlie Guo](https://x.com/charlierguo/status/2097399137142772071))
+### 📌 7.2. 陶土定格动画：钓起一颗星星
 
 #### 👀 预览
 
@@ -1037,7 +1139,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作一张手工陶土定格动画起始图：[character description] 位于 [setting]，准备进行 [simple action]。姿势符合身体结构，只使用 [required props]。安排角色和道具，使目标动作能在固定机位的单镜头中清楚发生。陶土材质富有触感，带细微指纹和略不规则的雕塑形状，微缩布景照明柔和，构图清晰整洁。所有主体和道具完整位于画面内，并留出运动空间。不出现文字、蒙太奇、帧表或多个画格。
 ```
 
-*将 `[character description]`（角色说明）、`[setting]`（场景）、`[simple action]`（动作）和 `[required props]`（所需道具）替换为自定义内容。步骤 1A 与 1B 任选其一。*
 
 **步骤 2 — 陶土风格图 → 帧表**
 
@@ -1049,7 +1150,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 每格保留同一固定机位、一致主体大小、固定布景位置、背景、照明与场景几何。运动元素位于每格内部，并留少量安全边距。保持物理接触和对道具的连续握持。保留陶土触感、手作表面瑕疵和轻微阶跃式定格感。第 16 帧应自然衔接第 1 帧。不出现相机运动、运动模糊、重复待机帧或变化的场景。
 ```
 
-*将 `[simple action]` 替换为希望制作成动画的动作。*
 
 **步骤 3 — 帧表 → GIF**
 
@@ -1063,9 +1163,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 检查角色、钓竿、鱼线、星星、冰洞和首尾衔接。如实报告可见漂移或缺失动作；若源帧需修正，说明应重新生成哪些内容，不将 GIF 描述为完美无缝。
 ```
 
+<sub>(作者：SeeAPI；灵感来源：[Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)) · [来源平台： X](https://x.com/charlierguo/status/2097399137142772071)</sub>
+
 <a id="c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine"></a>
 
-### 📌 7.3. 角色设定 → 分镜 → 短片 (作者：SeeAPI；灵感来源：[el.cine](https://x.com/EHuanglu/status/2097519538632024103))
+### 📌 7.3. 角色设定 → 分镜 → 短片
 
 #### 👀 预览
 
@@ -1140,9 +1242,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 输入受限时：分别生成四段 3 秒片段，每段只使用对应的 C04-K 图片作为首帧，并使用上述对应镜头段落，加上连续性与负面约束。每段裁为 3 秒，以直接切镜连接。如果生成器要求更长的最短时长，先生成该时长，再选取连贯的 3 秒；12 秒是剪辑目标，不代表某个具体模型支持的设置。
 ```
 
+<sub>(作者：SeeAPI；灵感来源：[el.cine](https://x.com/EHuanglu/status/2097519538632024103)) · [来源平台： X](https://x.com/EHuanglu/status/2097519538632024103)</sub>
+
 <a id="c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt"></a>
 
-### 📌 7.4. 远景旁观：雨中的机器人 (作者：SeeAPI；灵感来源：[Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744))
+### 📌 7.4. 远景旁观：雨中的机器人
 
 #### 👀 预览
 
@@ -1208,9 +1312,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 负面提示词：主体变大、自动变焦、面部特写、横穿街道移动、相机环绕、切镜、与镜头对视、向观众挥手、额外机器人或人物、额外雨伞、第二个花盆、雨伞变大小、伞杆脱落、换手握持、额外手指、悬浮脚、变成阳光、干燥路面、雨消失、额外文字、水印、时间戳、监控界面。
 ```
 
+<sub>(作者：SeeAPI；灵感来源：[Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)) · [来源平台： X](https://x.com/pabloprompt/status/2097382752622436744)</sub>
+
 <a id="c06-frosted-glass-poster-to-360-orbit-by-seeapi"></a>
 
-### 📌 7.5. 磨砂玻璃海报 → 360° 环绕视频 (作者：SeeAPI)
+### 📌 7.5. 磨砂玻璃海报 → 360° 环绕视频
 
 #### 👀 预览
 
@@ -1281,6 +1387,8 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 主要可见运动来自相机绕主体行进。在新显露的角度结束，同一主体和环境保持完整。运动平滑且有电影感，空间纵深清晰，主体动画克制，无切镜。
 ```
 
+<sub>(作者：SeeAPI)</sub>
+
 <a id="-sources-reuse--maintenance"></a>
 
 ## 📝 来源、使用与维护
@@ -1298,3 +1406,5 @@ SeeAPI 维护本仓库，并将持续补充提示词、实测示例与制作说�
 ## 🙏 致谢
 
 - [YouMind — Awesome Seedance 2.0 Prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): 为本仓库的内容组织和精选示例提供灵感。
+
+- [ZeroLu — Awesome Nano Banana Pro](https://github.com/ZeroLu/awesome-nanobanana-pro): 为本仓库按类别组织和展示案例的方式提供参考。

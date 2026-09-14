@@ -16,4 +16,4 @@ Create a miniature [world or scene theme] built inside an open [everyday contain
 Show the whole container from a three-quarter overhead angle. Make the scale relationship unmistakable through realistic seams, edges, fittings, and a life-size [scale reference object] beside it. Use [lighting mood], realistic miniature materials, and shallow depth of field that keeps the scene readable. No floating structures or text. Landscape composition.
 ```
 
-*Replace `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>

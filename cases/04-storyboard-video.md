@@ -1,4 +1,4 @@
-# C04. Character to Storyboard to Film (by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103))
+# C04. Character to Storyboard to Film
 
 ## 👀 Preview
 
@@ -72,3 +72,5 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
+
+<sub>(by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)) · [Source: X](https://x.com/EHuanglu/status/2097519538632024103)</sub>

@@ -16,4 +16,4 @@ Use the uploaded person references to define the featured friends, one distinct 
 Create a polished streetwear campaign for "[brand name]". Show the referenced people hanging out naturally in [setting], wearing [streetwear styling]. Contemporary composition, energetic color direction, natural poses, and premium fashion photography. Render "[tagline]" exactly once and clearly in the layout. Do not render bracket characters. No additional people, extra text, watermarks, or unrelated logos.
 ```
 
-*Replace `[brand name]`, `[setting]`, `[streetwear styling]`, `[tagline]` with your own content before generating.*
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>

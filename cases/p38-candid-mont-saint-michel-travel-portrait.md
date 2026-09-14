@@ -17,3 +17,5 @@ Create a photorealistic candid travel portrait of this person on a sandy shoreli
 
 Dress the person in a long oversized black coat over a light outfit, a soft cream-white scarf without logos, and an understated shoulder bag. Hands rest casually in the coat pockets. Show the person in the foreground and the abbey clearly in the background. Soft evening light, pale blue sky, realistic fabric and skin texture, subtle smartphone aesthetic, gentle color grading, natural proportions, vertical 3:4 composition. No invented brand emblems or text.
 ```
+
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683) · Reference adaptation by SeeAPI</sub>

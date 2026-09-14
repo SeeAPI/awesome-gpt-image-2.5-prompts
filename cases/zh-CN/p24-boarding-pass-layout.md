@@ -15,3 +15,5 @@
 ```text
 登机牌效果图，乘客、登机口、座位和时间在干净的网格中清晰可读
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

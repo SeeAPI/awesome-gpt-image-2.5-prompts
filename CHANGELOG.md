@@ -2,6 +2,9 @@
 
 ## 2026-09-14
 
+- Split Contents into repository information and prompt categories; moved credits below full prompts in small text and removed placeholder notes.
+- Contents 区分仓库信息和提示词分类；来源移至完整提示词下方小字，移除占位符说明。
+
 - Numbered visible cases by category (1.1, 1.2, …) while retaining internal IDs and legacy anchors.
 - 案例展示编号改为分类内连续编号（1.1、1.2……），保留内部 ID 与旧锚点。
 

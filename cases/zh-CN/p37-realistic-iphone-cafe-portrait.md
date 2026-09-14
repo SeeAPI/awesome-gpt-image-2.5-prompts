@@ -18,4 +18,4 @@
 制作此人在 [cafe setting] 的真实 iPhone 风格抓拍照片，穿着 [outfit]，正在 [simple action]。自然现场光，真实皮肤纹理，随意的手机取景，可信的手部与家具接触，克制的景深和日常色彩。不使用美颜滤镜面容，不改变体型，不添加前景人物、文字或水印。
 ```
 
-*生成前，请替换 `[cafe setting]`, `[outfit]`, `[simple action]`为自定义内容后再生成。*
+<sub>(by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [来源平台： X](https://x.com/blueemi99/status/2097602273085931662) · 参考图改编：SeeAPI</sub>

@@ -16,4 +16,4 @@ Create a storybook scene made entirely from layered cut paper, set in [environme
 Use visible paper fibers, crisp cut edges, gently bent paper elements, and real shadows between the layers. Limit the palette to [color palette]. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic surface textures. Square composition.
 ```
 
-*Replace `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>

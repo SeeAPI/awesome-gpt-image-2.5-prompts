@@ -15,3 +15,5 @@
 ```text
 国家公园步道地图海报，六条路线标注名称与距离
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

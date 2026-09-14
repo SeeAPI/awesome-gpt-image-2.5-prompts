@@ -18,4 +18,4 @@
 从斜上方四分之三视角展示整个容器。通过真实接缝、边缘、五金配件，以及旁边实际尺寸的 [scale reference object]，明确微缩比例关系。采用 [lighting mood]、真实微缩材质和浅景深，同时保持场景清晰可读。不出现悬浮建筑或文字。横幅构图。
 ```
 
-*生成前，请替换 `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>

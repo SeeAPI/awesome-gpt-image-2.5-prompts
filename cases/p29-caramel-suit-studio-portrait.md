@@ -17,3 +17,5 @@ Create a photorealistic full-body studio portrait. Dress the referenced person i
 
 Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture upright, feet comfortably spaced, gaze slightly away from the camera. Plain light-gray studio background and seamless floor, soft diffused light, realistic skin and fabric folds, crisp facial detail, subtle contact shadows. Full-body head-to-shoes framing, eye-level camera, editorial fashion photography, vertical 2:3 composition. No new accessories or text.
 ```
+
+<sub>(by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315) · Reference adaptation by SeeAPI</sub>

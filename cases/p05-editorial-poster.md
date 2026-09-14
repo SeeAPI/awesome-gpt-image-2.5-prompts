@@ -21,4 +21,4 @@ Bottom, small: "[date or supporting line]"
 Use generous margins, a strict left-aligned text grid, and strong separation between the title, sculpture, and supporting copy. Keep every word fully visible. No extra lettering, logos, frames, or watermarks.
 ```
 
-*Replace `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>

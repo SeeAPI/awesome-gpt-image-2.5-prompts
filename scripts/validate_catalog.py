@@ -114,9 +114,9 @@ def main():
             if not source_key[1] or source_key in source_keys:
                 errors.append(f'{key}: missing or duplicate source item key')
             source_keys.add(source_key)
-            line = section.splitlines()[0] if section else ''
+            line = next(iter(re.findall(r'<sub>(.*?)</sub>', section, re.S)), '')
             if f"[Source: {source['platform']}]({url})" not in line:
-                errors.append(f'{key}: missing platform-labelled source in case heading')
+                errors.append(f'{key}: missing platform-labelled source below full prompt')
         for media in entry.get('media', []):
             asset = ROOT / media['path']
             if not asset.is_file():

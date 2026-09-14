@@ -18,4 +18,4 @@ Replace the surrounding scene with a [background color and material] studio back
 Do not add text, extra products, decorative ingredients, or a new label. Do not crop any part of the product. Landscape composition.
 ```
 
-*Replace `[background color and material]`, `[platform material]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>

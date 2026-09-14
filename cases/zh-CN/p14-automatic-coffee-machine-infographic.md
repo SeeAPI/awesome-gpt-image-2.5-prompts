@@ -19,3 +19,5 @@
 从豆仓到研磨、称重、水箱、锅炉等环节。
 希望从技术和视觉层面理解整个流程。
 ```
+
+<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

@@ -15,3 +15,5 @@
 ```text
 获奖证书，华丽边框，以书法字体书写姓名和日期
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

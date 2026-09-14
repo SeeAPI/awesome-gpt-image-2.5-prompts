@@ -22,3 +22,9 @@ Use one Contents list and seven category sections. Each case appears once under 
 
 - Display README cases with category-local numbers (1.1, 1.2, …, 7.5) from catalog.display_number. Keep P/C IDs and slugs internal and preserve legacy anchors. Renumber display values when category order changes, in both languages.
 - README 案例采用分类内连续编号（1.1、1.2……7.5），对应 catalog.display_number。P/C 编号与 slug 保留在内部，旧锚点保持有效。调整分类顺序时同步两种语言的展示编号。
+
+## Contents and source placement / 目录与来源位置
+
+Group Contents into Repository Guide and Prompt Categories. Show author/source credits only in a `<sub>` footer after the final full-prompt block of each case, with platform and source link preserved. Remove standalone italic placeholder-replacement notes; keep actual placeholders in prompts unchanged. This supersedes earlier source-in-title rules.
+
+Contents 分为仓库信息与提示词分类。每条案例的作者和来源统一置于最后一段完整提示词后的 `<sub>` 小字中，保留平台与来源链接。去掉独立的斜体占位符替换说明，不改提示词内部占位符。本规则优先于之前的标题署名要求。

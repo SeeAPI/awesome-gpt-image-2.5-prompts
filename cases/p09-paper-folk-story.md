@@ -14,4 +14,4 @@
 Paper cut-out animation of a [subject] [simple action], full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, minimal paper-collage scenery, charming folk story aesthetic, gentle stop-motion feel, poetic children’s book atmosphere, clean white background
 ```
 
-*Replace `[subject]` with your person or character and `[simple action]` with the action you want to depict.*
+<sub>(by @azed_ai) · [Source: X](https://x.com/azed_ai/status/2096191635348705726) · [Source: X](https://x.com/azed_ai/status/2096191635348705726)</sub>

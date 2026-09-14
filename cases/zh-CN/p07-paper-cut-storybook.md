@@ -18,4 +18,4 @@
 表现可见纸纤维、利落的裁切边缘、轻微弯折的纸片，以及层与层之间的真实阴影。配色限定为 [color palette]。像从正面观看的浅景深舞台布景一样构图，前景、中景和背景明确。不出现文字、亮面塑料或照片般写实的表面纹理。正方形构图。
 ```
 
-*生成前，请替换 `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>

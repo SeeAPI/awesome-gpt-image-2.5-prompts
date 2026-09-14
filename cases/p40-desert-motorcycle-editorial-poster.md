@@ -18,4 +18,4 @@ Create a square 1:1 editorial fashion poster of this person in [motorcycle outfi
 Place the exact title "[poster title]" in oversized burnt-orange industrial sans-serif lettering, weaving behind and in front of scene elements without covering the face. Add abstract graphic accents without lettering. Use an asymmetric layout with burnt orange, black, desert beige, and electric blue. The title is the only text: no captions, extra labels, or watermarks.
 ```
 
-*Replace `[motorcycle outfit]`, `[poster title]` with your own content before generating.*
+<sub>(by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · Reference adaptation by SeeAPI</sub>

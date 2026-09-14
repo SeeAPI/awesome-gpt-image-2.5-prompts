@@ -16,4 +16,4 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a vertical 9:16 fashion portrait of this person wearing [qipao color and design], fitted naturally to their actual proportions. High-angle camera looking down, soft light bloom, dreamy background blur, refined [makeup style], and gentle elegant posing. Keep the face recognizable and sufficiently sharp. Do not impose a taller or slimmer body, reshape the eyes, or change gender presentation. No text or watermark.
 ```
 
-*Replace `[qipao color and design]`, `[makeup style]` with your own content before generating.*
+<sub>(by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825) · Reference adaptation by SeeAPI</sub>

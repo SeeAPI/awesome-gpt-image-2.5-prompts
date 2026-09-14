@@ -15,3 +15,5 @@
 ```text
 麦片盒背面，包含完整营养成分表，每个数值都清晰可读
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

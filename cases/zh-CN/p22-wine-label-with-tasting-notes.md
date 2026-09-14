@@ -15,3 +15,5 @@
 ```text
 葡萄酒瓶标签，包含酒庄名称、年份和四行品鉴笔记
 ```
+
+<sub>(收录自 [SeeAPI](https://www.aiimage.net/prompts/)) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>

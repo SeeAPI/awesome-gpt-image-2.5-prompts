@@ -24,8 +24,15 @@ This collection will grow with regular additions of prompt examples, generated i
 
 ## 📖 Contents
 
+**Repository Guide**
+
 - [🖼️ Featured Examples](#-featured-examples)
 - [🧭 Choose Your Model](#-choose-your-model)
+- [📝 Sources, Reuse & Maintenance](#-sources-reuse--maintenance)
+- [🙏 Acknowledgments](#-acknowledgments)
+
+**Prompt Categories**
+
 - [📷 Portraits & Photography](#-portraits--photography)
 - [🧸 Characters & Playful Creations](#-characters--playful-creations)
 - [🛍️ Products & Branding](#-products--branding)
@@ -33,8 +40,6 @@ This collection will grow with regular additions of prompt examples, generated i
 - [🏡 Home & Interior Design](#-home--interior-design)
 - [📊 Infographics & Practical Design](#-infographics--practical-design)
 - [🎬 GIF & Video Workflows](#-gif--video-workflows)
-- [📝 Sources, Reuse & Maintenance](#-sources-reuse--maintenance)
-- [🙏 Acknowledgments](#-acknowledgments)
 
 ## 🧭 Choose Your Model
 
@@ -58,7 +63,8 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.1. Candid Mont-Saint-Michel Travel Portrait (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683) · Reference adaptation by SeeAPI
+### 📌 1.1. Candid Mont-Saint-Michel Travel Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg" width="300" height="400" alt="Candid Mont-Saint-Michel Travel Portrait — source example">](assets/p38-candid-mont-saint-michel-travel-portrait/source-example-01.jpg)
@@ -77,9 +83,12 @@ Create a photorealistic candid travel portrait of this person on a sandy shoreli
 Dress the person in a long oversized black coat over a light outfit, a soft cream-white scarf without logos, and an understated shoulder bag. Hands rest casually in the coat pockets. Show the person in the foreground and the abbey clearly in the background. Soft evening light, pale blue sky, realistic fabric and skin texture, subtle smartphone aesthetic, gentle color grading, natural proportions, vertical 3:4 composition. No invented brand emblems or text.
 ```
 
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683) · Reference adaptation by SeeAPI</sub>
+
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.2. Realistic iPhone Cafe Portrait (by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source: X](https://x.com/blueemi99/status/2097602273085931662) · Reference adaptation by SeeAPI
+### 📌 1.2. Realistic iPhone Cafe Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg" width="300" height="400" alt="Realistic iPhone Cafe Portrait — source example">](assets/p37-realistic-iphone-cafe-portrait/source-example-01.jpg)
@@ -96,11 +105,12 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a realistic iPhone-style candid photo of this person in [cafe setting], wearing [outfit] and [simple action]. Natural available light, realistic skin texture, casual smartphone framing, believable hands and contact with furniture, restrained depth of field, and everyday colors. No beauty-filter face, changed body shape, added foreground people, text, or watermark.
 ```
 
-*Replace `[cafe setting]`, `[outfit]`, `[simple action]` with your own content before generating.*
+<sub>(by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source: X](https://x.com/blueemi99/status/2097602273085931662) · Reference adaptation by SeeAPI</sub>
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.3. Dreamy High-Angle Qipao Portrait (by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825) · Reference adaptation by SeeAPI
+### 📌 1.3. Dreamy High-Angle Qipao Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg" width="225" height="400" alt="Dreamy High-Angle Qipao Portrait — source example">](assets/p36-dreamy-high-angle-qipao-portrait/source-example-01.jpg)
@@ -117,11 +127,12 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a vertical 9:16 fashion portrait of this person wearing [qipao color and design], fitted naturally to their actual proportions. High-angle camera looking down, soft light bloom, dreamy background blur, refined [makeup style], and gentle elegant posing. Keep the face recognizable and sufficiently sharp. Do not impose a taller or slimmer body, reshape the eyes, or change gender presentation. No text or watermark.
 ```
 
-*Replace `[qipao color and design]`, `[makeup style]` with your own content before generating.*
+<sub>(by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825) · Reference adaptation by SeeAPI</sub>
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.4. Monochrome Cybernetic Horror Portrait (by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521) · Reference adaptation by SeeAPI
+### 📌 1.4. Monochrome Cybernetic Horror Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg" width="400" height="400" alt="Monochrome Cybernetic Horror Portrait — source example">](assets/p35-monochrome-cybernetic-horror-portrait/source-example-01.jpg)
@@ -138,9 +149,12 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Transform the portrait into a monochrome cybernetic horror photograph. Keep the person recognizable through their facial structure and expression; use cracked porcelain-white prosthetic surfaces and recessed metallic details around the eyes without replacing the head or changing facial proportions. Surround the head with black cables and industrial coil attachments, and use tattered dark fabric clothing. Dramatic low-key light, deep black background, high-contrast monochrome, tactile practical-effects detail, 85mm portrait lens, shallow depth of field. No extra person, enlarged eyes, unrelated face, or text.
 ```
 
+<sub>(by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521) · Reference adaptation by SeeAPI</sub>
+
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.5. Caramel Suit Studio Portrait (by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315) · Reference adaptation by SeeAPI
+### 📌 1.5. Caramel Suit Studio Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p29-caramel-suit-studio-portrait/source-example-01.jpg" width="267" height="400" alt="Caramel Suit Studio Portrait — source example">](assets/p29-caramel-suit-studio-portrait/source-example-01.jpg)
@@ -159,9 +173,12 @@ Create a photorealistic full-body studio portrait. Dress the referenced person i
 Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture upright, feet comfortably spaced, gaze slightly away from the camera. Plain light-gray studio background and seamless floor, soft diffused light, realistic skin and fabric folds, crisp facial detail, subtle contact shadows. Full-body head-to-shoes framing, eye-level camera, editorial fashion photography, vertical 2:3 composition. No new accessories or text.
 ```
 
+<sub>(by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315) · Reference adaptation by SeeAPI</sub>
+
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.6. 1969 Outdoor Festival Crowd (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 1.6. 1969 Outdoor Festival Crowd
+
 #### 👀 Preview
 
 [<img src="assets/p17-1969-outdoor-festival-crowd/source-example-01.webp" width="267" height="400" alt="1969 Outdoor Festival Crowd — source example">](assets/p17-1969-outdoor-festival-crowd/source-example-01.webp)
@@ -179,9 +196,12 @@ Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.7. Candid Sailor Portrait (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI
+### 📌 1.7. Candid Sailor Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p13-candid-sailor-portrait/source-example-01.webp" width="267" height="400" alt="Candid Sailor Portrait — source example">](assets/p13-candid-sailor-portrait/source-example-01.webp)
@@ -198,11 +218,12 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a photorealistic candid photograph of this person on a small fishing boat, calmly adjusting a net while a dog sits nearby on the deck. Dress them in [practical sailing outfit]. Preserve existing skin texture and age rather than adding wrinkles or tattoos. Eye-level medium portrait, 50mm lens, soft coastal daylight, shallow depth of field, 35mm film grain, natural colors, worn materials, and an unposed everyday mood. No heavy retouching.
 ```
 
-*Replace `[practical sailing outfit]` with your own content before generating.*
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.8. Cinematic Subway Motion Portrait (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI
+### 📌 1.8. Cinematic Subway Motion Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p12-cinematic-subway-motion-portrait/source-example-01.webp" width="224" height="400" alt="Cinematic Subway Motion Portrait — source example">](assets/p12-cinematic-subway-motion-portrait/source-example-01.webp)
@@ -219,11 +240,12 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a cinematic portrait of this person standing still on a subway platform as a silver and yellow train rushes behind them in horizontal motion blur. Keep the face sharp with a calm expression. Dress the person in [outfit] and have them hold [bouquet or prop]. Preserve their hair while allowing a few strands to move naturally in the passing air. Blend cool overhead station light with warm skin highlights, shallow depth of field, realistic skin texture, and subtle film grain.
 ```
 
-*Replace `[outfit]`, `[bouquet or prop]` with your own content before generating.*
+<sub>(Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.9. 1980s Retro Film Portrait (by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)
+### 📌 1.9. 1980s Retro Film Portrait
+
 #### 👀 Preview
 
 [<img src="assets/p10-1980s-retro-film-portrait/source-example-01.webp" width="320" height="400" alt="1980s Retro Film Portrait — source example">](assets/p10-1980s-retro-film-portrait/source-example-01.webp)
@@ -250,11 +272,14 @@ Capture the image as if shot on a 35mm analog film camera, with realistic film g
 Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.
 ```
 
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p41-minecraft-skin-from-a-reference"></a>
 
-### 📌 2.1. Minecraft Skin from a Reference (by SeeAPI)
+### 📌 2.1. Minecraft Skin from a Reference
+
 #### 👀 Preview
 
 | Before | After |
@@ -271,9 +296,12 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 Transform the person in the uploaded photo into a Minecraft-style character while preserving their recognizable hairstyle, clothing colors, accessories, and key visual features. Convert the entire body into a clean blocky voxel structure with square geometry, pixelated textures, and classic Minecraft proportions. Keep the original pose and general composition. Make the character look like an authentic custom Minecraft skin rather than a realistic 3D person. Use crisp pixel details, simple shading, and clean block-based forms.
 ```
 
+<sub>(by SeeAPI)</sub>
+
 <a id="p33-expressive-meme-sticker-sheet"></a>
 
-### 📌 2.2. Expressive Meme Sticker Sheet (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 2.2. Expressive Meme Sticker Sheet
+
 #### 👀 Preview
 
 [<img src="assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg" width="400" height="300" alt="Expressive Meme Sticker Sheet — source example">](assets/p33-expressive-meme-sticker-sheet/source-example-01.jpg)
@@ -292,9 +320,12 @@ Create a Meme sticker pack based on the images attached, remixing with 😎😛�
 Create a single square(1:1) transparent sticker sheet with nine distinct stickers arranged in a 3×3 grid, each showing a different expression, pose, or reaction. Separate the stickers with wide, fully transparent gaps. No background, shadows, or overlapping elements.
 ```
 
+<sub>(Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p18-four-panel-pet-comic"></a>
 
-### 📌 2.3. Four-Panel Pet Comic (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 2.3. Four-Panel Pet Comic
+
 #### 👀 Preview
 
 [<img src="assets/p18-four-panel-pet-comic/source-example-01.webp" width="267" height="400" alt="Four-Panel Pet Comic — source example">](assets/p18-four-panel-pet-comic/source-example-01.webp)
@@ -313,9 +344,12 @@ Panel 3: The house transformed. The pet sprawls across the couch like it owns th
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p11-character-dance-pose-grid"></a>
 
-### 📌 2.4. Character Dance Pose Grid (by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source: X](https://x.com/renoiseai/status/2097959984265130436)
+### 📌 2.4. Character Dance Pose Grid
+
 #### 👀 Preview
 
 [<img src="assets/p11-character-dance-pose-grid/source-example-01.webp" width="400" height="400" alt="Character Dance Pose Grid — source example">](assets/p11-character-dance-pose-grid/source-example-01.webp)
@@ -363,11 +397,12 @@ Only include the panel numbers 1–16. No title, captions, labels, speech bubble
 Final output: one complete, clearly readable 4×4 sheet of sixteen original dance poses tailored to the uploaded character.
 ```
 
-*Replace `@[Image 1]` with your uploaded character reference.*
+<sub>(by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source: X](https://x.com/renoiseai/status/2097959984265130436)</sub>
 
 <a id="p06-portrait-reference-to-multi-view-sheet"></a>
 
-### 📌 2.5. Portrait Reference to Multi-View Sheet (by SeeAPI)
+### 📌 2.5. Portrait Reference to Multi-View Sheet
+
 #### 👀 Preview
 
 [<img src="assets/p06-character-scenes/portrait-views-result.png" width="400" height="225" alt="Portrait reference sheet with three full-body views and two face views">](assets/p06-character-scenes/portrait-views-result.png)
@@ -388,11 +423,12 @@ The RIGHT ONE-THIRD contains two equally sized face close-ups stacked vertically
 Use a plain [background color] studio background, soft even lighting, and the same visual style as the uploaded reference. Keep camera perspective natural and proportions undistorted. Separate views with clean whitespace rather than drawn borders. Preserve outfit colors, hairstyle, and identity across all five views. No text, labels, grid lines, extra views, extra people, invented accessories, cropped feet, duplicated limbs, or three-quarter poses replacing the required front, side, and back views.
 ```
 
-*Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
+<sub>(by SeeAPI)</sub>
 
 <a id="p02-collectible-figure-packaging"></a>
 
-### 📌 2.6. Collectible Figure Packaging (by SeeAPI)
+### 📌 2.6. Collectible Figure Packaging
+
 #### 👀 Preview
 
 [<img src="assets/p02-collectible-figure-packaging/collectible-packaging-result.png" width="400" height="400" alt="Collectible character in pink blister packaging">](assets/p02-collectible-figure-packaging/collectible-packaging-result.png)
@@ -411,11 +447,12 @@ Use the uploaded person or character as the identity reference if provided; othe
 Arrange exactly three accessories in separate compartments to the figure's right: [accessory 1], [accessory 2], and [accessory 3]. Keep the figure fully visible. Place the exact title "[toy name]" at the top in large, readable lettering. Use realistic molded plastic, controlled reflections, and soft studio shadows. No additional text or unrelated brand logos. Portrait composition.
 ```
 
-*Replace `[toy name]`, `[backing color]`, `[character description]`, `[outfit or surface details]`, `[accessory 1]`, `[accessory 2]`, `[accessory 3]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 <a id="p01-personalized-sticker-pack"></a>
 
-### 📌 2.7. Personalized Sticker Pack (by SeeAPI)
+### 📌 2.7. Personalized Sticker Pack
+
 #### 👀 Preview
 
 [<img src="assets/p01-personalized-sticker-pack/character-stickers-result.png" width="400" height="400" alt="Four expressive cat character stickers on a blue background">](assets/p01-personalized-sticker-pack/character-stickers-result.png)
@@ -432,13 +469,14 @@ Using the uploaded person or character as the identity reference, create a clean
 Preserve the subject's identity, anatomy, proportions, colors, clothing if present, and distinctive features. Adapt each expression and pose to the subject's anatomy without changing its species or gender presentation. Show the complete subject in each cell, with a thick white sticker outline and ample separation between stickers. Use a flat [background color] background so the silhouettes are easy to isolate. No captions, letters, decorative objects, or overlap between cells.
 ```
 
-*Replace `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 ## 🛍️ Products & Branding
 
 <a id="p31-virtual-outfit-replacement"></a>
 
-### 📌 3.1. Virtual Outfit Replacement (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · Reference adaptation by SeeAPI
+### 📌 3.1. Virtual Outfit Replacement
+
 #### 👀 Preview
 
 [<img src="assets/p31-virtual-outfit-replacement/source-example-01.jpg" width="400" height="313" alt="Virtual Outfit Replacement — source example">](assets/p31-virtual-outfit-replacement/source-example-01.jpg)
@@ -453,9 +491,12 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 Use image 1 as the person reference and the remaining uploaded images as clothing references. Edit only the clothing worn by the person in image 1. Preserve their exact identity, face, age, skin tone, body proportions, gender presentation, expression, hairstyle, and pose. Fit the referenced garments naturally to their body and pose with realistic fabric behavior. Match the original lighting, shadows, and color temperature. Keep the background, camera angle, framing, and image quality unchanged. Do not add accessories, text, logos, or watermarks.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · Reference adaptation by SeeAPI</sub>
+
 <a id="p27-cereal-box-nutrition-panel"></a>
 
-### 📌 3.2. Cereal Box Nutrition Panel (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 3.2. Cereal Box Nutrition Panel
+
 #### 👀 Preview
 
 [<img src="assets/p27-cereal-box-nutrition-panel/source-example-01.webp" width="400" height="226" alt="Cereal Box Nutrition Panel — source example">](assets/p27-cereal-box-nutrition-panel/source-example-01.webp)
@@ -470,9 +511,12 @@ Use image 1 as the person reference and the remaining uploaded images as clothin
 A cereal box back panel, a full nutrition table with every figure legible
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p22-wine-label-with-tasting-notes"></a>
 
-### 📌 3.3. Wine Label with Tasting Notes (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 3.3. Wine Label with Tasting Notes
+
 #### 👀 Preview
 
 [<img src="assets/p22-wine-label-with-tasting-notes/source-example-01.webp" width="400" height="225" alt="Wine Label with Tasting Notes — source example">](assets/p22-wine-label-with-tasting-notes/source-example-01.webp)
@@ -487,9 +531,12 @@ A cereal box back panel, a full nutrition table with every figure legible
 A wine bottle label, estate name, vintage year, and four lines of tasting notes
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p21-vintage-toy-airplane-packaging"></a>
 
-### 📌 3.4. Vintage Toy Airplane Packaging (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 3.4. Vintage Toy Airplane Packaging
+
 #### 👀 Preview
 
 [<img src="assets/p21-vintage-toy-airplane-packaging/source-example-01.webp" width="267" height="400" alt="Vintage Toy Airplane Packaging — source example">](assets/p21-vintage-toy-airplane-packaging/source-example-01.webp)
@@ -522,9 +569,12 @@ No logos
 Include ONLY this packaging text (verbatim): "Christmas Memories Edition"
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p16-minimal-bakery-logo"></a>
 
-### 📌 3.5. Minimal Bakery Logo (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 3.5. Minimal Bakery Logo
+
 #### 👀 Preview
 
 #### 👇 Workflow
@@ -540,9 +590,12 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p15-streetwear-campaign-with-exact-typography"></a>
 
-### 📌 3.6. Streetwear Campaign with Exact Typography (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI
+### 📌 3.6. Streetwear Campaign with Exact Typography
+
 #### 👀 Preview
 
 [<img src="assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp" width="267" height="400" alt="Streetwear Campaign with Exact Typography — source example">](assets/p15-streetwear-campaign-with-exact-typography/source-example-01.webp)
@@ -559,11 +612,12 @@ Use the uploaded person references to define the featured friends, one distinct 
 Create a polished streetwear campaign for "[brand name]". Show the referenced people hanging out naturally in [setting], wearing [streetwear styling]. Contemporary composition, energetic color direction, natural poses, and premium fashion photography. Render "[tagline]" exactly once and clearly in the layout. Do not render bracket characters. No additional people, extra text, watermarks, or unrelated logos.
 ```
 
-*Replace `[brand name]`, `[setting]`, `[streetwear styling]`, `[tagline]` with your own content before generating.*
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p08-glass-material-remix"></a>
 
-### 📌 3.7. Glass Material Remix (by SeeAPI)
+### 📌 3.7. Glass Material Remix
+
 #### 👀 Preview
 
 [<img src="assets/p08-glass-material-remix/seeapi-glass-result.png" width="400" height="400" alt="SeeAPI logo transformed into translucent glass while preserving its colors">](assets/p08-glass-material-remix/seeapi-glass-result.png)
@@ -580,9 +634,12 @@ Transform the main object in the uploaded image into translucent glass while pre
 Place it on a pale stone surface against a warm gray studio background. Show believable glass thickness, subtle internal reflections, softened refraction through curved areas, and a grounded contact shadow. Use a large soft light from the left and a faint rim light from behind. Keep the full object visible. Do not add extra parts, labels, text, or unrelated props.
 ```
 
+<sub>(by SeeAPI)</sub>
+
 <a id="p04-product-photo-to-campaign-visual"></a>
 
-### 📌 3.8. Product Photo to Campaign Visual (by SeeAPI)
+### 📌 3.8. Product Photo to Campaign Visual
+
 #### 👀 Preview
 
 [<img src="assets/p04-product-campaign/product-campaign-result.png" width="400" height="400" alt="Product campaign visual on a pale stone platform">](assets/p04-product-campaign/product-campaign-result.png)
@@ -601,13 +658,14 @@ Replace the surrounding scene with a [background color and material] studio back
 Do not add text, extra products, decorative ingredients, or a new label. Do not crop any part of the product. Landscape composition.
 ```
 
-*Replace `[background color and material]`, `[platform material]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 ## 🎨 Posters & Artistic Styles
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.1. Desert Motorcycle Editorial Poster (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · Reference adaptation by SeeAPI
+### 📌 4.1. Desert Motorcycle Editorial Poster
+
 #### 👀 Preview
 
 [<img src="assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp" width="400" height="400" alt="Desert Motorcycle Editorial Poster — source example">](assets/p40-desert-motorcycle-editorial-poster/source-example-01.webp)
@@ -626,11 +684,12 @@ Create a square 1:1 editorial fashion poster of this person in [motorcycle outfi
 Place the exact title "[poster title]" in oversized burnt-orange industrial sans-serif lettering, weaving behind and in front of scene elements without covering the face. Add abstract graphic accents without lettering. Use an asymmetric layout with burnt orange, black, desert beige, and electric blue. The title is the only text: no captions, extra labels, or watermarks.
 ```
 
-*Replace `[motorcycle outfit]`, `[poster title]` with your own content before generating.*
+<sub>(by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · Reference adaptation by SeeAPI</sub>
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.2. Neon Motorsport Poster (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
+### 📌 4.2. Neon Motorsport Poster
+
 #### 👀 Preview
 
 [<img src="assets/p39-neon-motorsport-poster/source-example-01.webp" width="400" height="400" alt="Neon Motorsport Poster — source example">](assets/p39-neon-motorsport-poster/source-example-01.webp)
@@ -645,9 +704,12 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 1:1 square poster, an extreme close-up, high-contrast shot of a racing car front nose, aerodynamic wing and tire rim, cutting through darkness with bright red motion blur and glowing orange light. The words “GPT IMAGE 2.5” are projected directly onto the car body in brilliant neon orange, overlapping the front wing and tire rim. Intense red and black palette, cinematic low key, sharp reflections, dramatic low angle, shallow depth of field, high-speed motorsport aesthetic. No sidebar, no extra UI panels, no technical symbols, no barcode, no additional text except “GPT IMAGE 2.5”.
 ```
 
+<sub>(by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)</sub>
+
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.3. Woodland Clearing (by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source: X](https://x.com/mark_k/status/2097411028510179759)
+### 📌 4.3. Woodland Clearing
+
 #### 👀 Preview
 
 [<img src="assets/p34-woodland-clearing/source-example-01.jpg" width="400" height="300" alt="Woodland Clearing — source example">](assets/p34-woodland-clearing/source-example-01.jpg)
@@ -662,9 +724,12 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 Photo of a clearing in the woods with lots of green foliage, highly detailed
 ```
 
+<sub>(by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source: X](https://x.com/mark_k/status/2097411028510179759)</sub>
+
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.4. Dog Compositing into a Street Scene (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+### 📌 4.4. Dog Compositing into a Street Scene
+
 #### 👀 Preview
 
 [<img src="assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg" width="400" height="313" alt="Dog Compositing into a Street Scene — source example">](assets/p32-dog-compositing-into-a-street-scene/source-example-01.jpg)
@@ -679,9 +744,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.5. Fashion Movements Across Four Decades (by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [Source: X](https://x.com/Gdgtify/status/2098228786156196084)
+### 📌 4.5. Fashion Movements Across Four Decades
+
 #### 👀 Preview
 
 [<img src="assets/p28-fashion-movements-across-four-decades/source-example-01.jpg" width="400" height="225" alt="Fashion Movements Across Four Decades — source example">](assets/p28-fashion-movements-across-four-decades/source-example-01.jpg)
@@ -696,9 +764,12 @@ Place the dog from the second image into the setting of image 1, right next to t
 2x2 grird, do this for 4 fashion movement of various decades, 16:9 class EditorialPoster:     def __init__(self, topic):         self.topic = topic         self.resolution = self.resolve_auto_fields(topic)              def resolve_auto_fields(self, topic):         # Module 2: Copy & Facts         self.title = generate_title(topic, max_words=5)         self.tagline = generate_tagline(topic, min_words=3, max_words=8)         self.labels = extract_key_points(topic, count=6-12, relationship="components") # principles/stages/types                  # Module 3: The Surreal Character Engine         self.mechanism = infer_verb(topic) # e.g., "filtering", "branching", "accumulating"         self.base_form = select_organism(self.mechanism) # human, animal, or object         # CRITICAL: Transformation must be structural, not just accessories         self.transformation = invent_structural_alteration(self.base_form, self.mechanism)         self.pose = select_pose(topic, attitude="intriguing_uncanny")                  # Module 5: Geometry & Palette         self.geometry = select_geometric_family(topic) # rays, arcs, ribbons, grids         self.palette = derive_accent_colors(topic, count=2-6, mood="flat_matte_weathered")      def verify_character_logic(self):         # The "Thumbnail & Concept" Check         assert is_structural(self.transformation), "Module 3: Must be anatomy/proportion, not accessories."         assert fits_sentence(self.transformation, self.mechanism), "Module 3: Logic check failed."         assert visible_at_thumbnail(self.transformation), "Module 3: Must read at small scale."         assert not is_generic_cute_scary(self.pose), "Module 3: Avoid default emotional tropes."      def render(self):         self.verify_character_logic()                  # Module 1 & 6: Style Kernel         canvas = Canvas(aspect="1:1", bg="warm_ivory", texture="subtle_analog_grain")                  # Hero: Grayscale, sculptural shading, stippling/halftone         hero = render_grayscale_sculptural(self.base_form, self.transformation, self.pose,                                             shading="fine_stippling", texture="tactile_print")                  # Module 4: Adaptive Layout         layout = adaptive_composition(             hero=hero,              title=self.title, # Oversized, black, condensed, uppercase             labels=self.labels, # Compact, high contrast             geometry=self.geometry, # Connects hero to info             palette=self.palette # Flat, matte accents         )                  return canvas.compose(layout, typography="extreme_contrast_hierarchy")  EditorialPoster($ TOPIC).render()
 ```
 
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [Source: X](https://x.com/Gdgtify/status/2098228786156196084)</sub>
+
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.6. Three-Panel Dialogue Comic (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 4.6. Three-Panel Dialogue Comic
+
 #### 👀 Preview
 
 [<img src="assets/p25-three-panel-dialogue-comic/source-example-01.webp" width="400" height="226" alt="Three-Panel Dialogue Comic — source example">](assets/p25-three-panel-dialogue-comic/source-example-01.webp)
@@ -713,9 +784,12 @@ Place the dog from the second image into the setting of image 1, right next to t
 A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.7. Paper Folk Story (by @azed_ai) · [Source: X](https://x.com/azed_ai/status/2096191635348705726)
+### 📌 4.7. Paper Folk Story
+
 #### 👀 Preview
 
 [<img src="assets/p09-paper-folk-story/azed-ai-paper-folk-story.webp" width="400" height="267" alt="Paper-cut character carrying a lantern, from azed_ai’s original post">](https://x.com/azed_ai/status/2096191635348705726)
@@ -730,11 +804,12 @@ A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 Paper cut-out animation of a [subject] [simple action], full-body character, layered paper shapes, handmade paper texture, visible cut edges, soft shadows between layers, flat colorful paper tones, slightly imperfect handcrafted details, minimal paper-collage scenery, charming folk story aesthetic, gentle stop-motion feel, poetic children’s book atmosphere, clean white background
 ```
 
-*Replace `[subject]` with your person or character and `[simple action]` with the action you want to depict.*
+<sub>(by @azed_ai) · [Source: X](https://x.com/azed_ai/status/2096191635348705726) · [Source: X](https://x.com/azed_ai/status/2096191635348705726)</sub>
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.8. Paper-Cut Storybook Scene (by SeeAPI)
+### 📌 4.8. Paper-Cut Storybook Scene
+
 #### 👀 Preview
 
 [<img src="assets/p07-paper-cut-storybook/paper-cut-character-result.png" width="400" height="400" alt="Layered cut-paper cat in a cozy room">](assets/p07-paper-cut-storybook/paper-cut-character-result.png)
@@ -751,11 +826,12 @@ Create a storybook scene made entirely from layered cut paper, set in [environme
 Use visible paper fibers, crisp cut edges, gently bent paper elements, and real shadows between the layers. Limit the palette to [color palette]. Compose the scene like a shallow theatrical set viewed from the front, with a clear foreground, middle ground, and background. No text, glossy plastic, or photorealistic surface textures. Square composition.
 ```
 
-*Replace `[environment]`, `[character description]`, `[anatomy-appropriate action]`, `[focal object]`, `[color palette]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.9. Editorial Poster with Exact Copy (by SeeAPI)
+### 📌 4.9. Editorial Poster with Exact Copy
+
 #### 👀 Preview
 
 [<img src="assets/p05-editorial-poster/summer-poster-result.png" width="225" height="400" alt="Blue summer poster featuring a surfboard">](assets/p05-editorial-poster/summer-poster-result.png)
@@ -777,11 +853,12 @@ Bottom, small: "[date or supporting line]"
 Use generous margins, a strict left-aligned text grid, and strong separation between the title, sculpture, and supporting copy. Keep every word fully visible. No extra lettering, logos, frames, or watermarks.
 ```
 
-*Replace `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.10. Miniature World in an Everyday Object (by SeeAPI)
+### 📌 4.10. Miniature World in an Everyday Object
+
 #### 👀 Preview
 
 [<img src="assets/p03-miniature-world/miniature-world-result.png" width="400" height="400" alt="Miniature woodland village inside a bark-covered container">](assets/p03-miniature-world/miniature-world-result.png)
@@ -798,13 +875,14 @@ Create a miniature [world or scene theme] built inside an open [everyday contain
 Show the whole container from a three-quarter overhead angle. Make the scale relationship unmistakable through realistic seams, edges, fittings, and a life-size [scale reference object] beside it. Use [lighting mood], realistic miniature materials, and shallow depth of field that keeps the scene readable. No floating structures or text. Landscape composition.
 ```
 
-*Replace `[world or scene theme]`, `[everyday container]`, `[supporting surface]`, `[main structures]`, `[landscape details]`, `[focal feature]`, `[scale reference object]`, `[lighting mood]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>
 
 ## 🏡 Home & Interior Design
 
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
-### 📌 5.1. Bedroom Redesign from Your Photo (by SeeAPI)
+### 📌 5.1. Bedroom Redesign from Your Photo
+
 #### 👀 Preview
 
 | Before | After |
@@ -821,11 +899,14 @@ Show the whole container from a three-quarter overhead angle. Make the scale rel
 Redesign this ordinary bedroom into a more stylish, cohesive, and professionally decorated interior while preserving the original room structure, layout, window position, bed placement, and overall perspective. Transform it into a warm, modern, inviting bedroom with improved furniture styling, layered bedding, refined color coordination, tasteful wall art, soft textiles, subtle decor accents, and better visual balance. Add a more polished interior-design feel with realistic materials, clean organization, elegant lighting, and a cozy lived-in atmosphere. Keep the result realistic and believable, like a real home makeover photo, not CGI. Maintain natural proportions and realistic lighting, and make the room look significantly upgraded while still clearly based on the original image.
 ```
 
+<sub>(by SeeAPI)</sub>
+
 ## 📊 Infographics & Practical Design
 
 <a id="p30-spanish-infographic-translation"></a>
 
-### 📌 6.1. Spanish Infographic Translation (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+### 📌 6.1. Spanish Infographic Translation
+
 #### 👀 Preview
 
 [<img src="assets/p30-spanish-infographic-translation/source-example-01.jpg" width="400" height="313" alt="Spanish Infographic Translation — source example">](assets/p30-spanish-infographic-translation/source-example-01.jpg)
@@ -840,9 +921,12 @@ Redesign this ordinary bedroom into a more stylish, cohesive, and professionally
 Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+
 <a id="p26-ornate-award-certificate"></a>
 
-### 📌 6.2. Ornate Award Certificate (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.2. Ornate Award Certificate
+
 #### 👀 Preview
 
 [<img src="assets/p26-ornate-award-certificate/source-example-01.webp" width="400" height="226" alt="Ornate Award Certificate — source example">](assets/p26-ornate-award-certificate/source-example-01.webp)
@@ -857,9 +941,12 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 An award certificate, ornate border, name and date in calligraphic script
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p24-boarding-pass-layout"></a>
 
-### 📌 6.3. Boarding Pass Layout (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.3. Boarding Pass Layout
+
 #### 👀 Preview
 
 [<img src="assets/p24-boarding-pass-layout/source-example-01.webp" width="400" height="225" alt="Boarding Pass Layout — source example">](assets/p24-boarding-pass-layout/source-example-01.webp)
@@ -874,9 +961,12 @@ An award certificate, ornate border, name and date in calligraphic script
 A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p23-national-park-trail-map"></a>
 
-### 📌 6.4. National Park Trail Map (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+### 📌 6.4. National Park Trail Map
+
 #### 👀 Preview
 
 [<img src="assets/p23-national-park-trail-map/source-example-01.webp" width="400" height="225" alt="National Park Trail Map — source example">](assets/p23-national-park-trail-map/source-example-01.webp)
@@ -891,9 +981,12 @@ A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 A national park trail map poster, six routes labelled with names and distances
 ```
 
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+
 <a id="p20-cellular-respiration-classroom-diagram"></a>
 
-### 📌 6.5. Cellular Respiration Classroom Diagram (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.5. Cellular Respiration Classroom Diagram
+
 #### 👀 Preview
 
 [<img src="assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp" width="400" height="267" alt="Cellular Respiration Classroom Diagram — source example">](assets/p20-cellular-respiration-classroom-diagram/source-example-01.webp)
@@ -912,9 +1005,12 @@ Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs 
 Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p19-farmers-market-mobile-app-mockup"></a>
 
-### 📌 6.6. Farmers Market Mobile App Mockup (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.6. Farmers Market Mobile App Mockup
+
 #### 👀 Preview
 
 [<img src="assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp" width="267" height="400" alt="Farmers Market Mobile App Mockup — source example">](assets/p19-farmers-market-mobile-app-mockup/source-example-01.webp)
@@ -935,9 +1031,12 @@ It should look like a real, well-designed, beautiful app for a small local marke
 Place the UI mockup in an iPhone frame.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="p14-automatic-coffee-machine-infographic"></a>
 
-### 📌 6.7. Automatic Coffee Machine Infographic (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+### 📌 6.7. Automatic Coffee Machine Infographic
+
 #### 👀 Preview
 
 [<img src="assets/p14-automatic-coffee-machine-infographic/source-example-01.webp" width="267" height="400" alt="Automatic Coffee Machine Infographic — source example">](assets/p14-automatic-coffee-machine-infographic/source-example-01.webp)
@@ -956,6 +1055,8 @@ From bean basket, to grinding, to scale, water tank, boiler, etc.
 I'd like to understand technically and visually the flow.
 ```
 
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
 <a id="-5-creative-cases"></a>
 
 <a id="-gif--video-workflows"></a>
@@ -964,7 +1065,7 @@ I'd like to understand technically and visually the flow.
 
 <a id="c01-pixel-art-character-gif-by-seeapi"></a>
 
-### 📌 7.1. Pixel Art Character GIF (by SeeAPI)
+### 📌 7.1. Pixel Art Character GIF
 
 #### 👀 Preview
 
@@ -986,7 +1087,6 @@ I'd like to understand technically and visually the flow.
 Create only a 2D pixel art character sprite sheet: square 4x4 grid, 16 equal cells, one full-body character per cell, 64x64-style pixels per frame. Use the uploaded character if present; otherwise design from the user's appended character idea. Preserve species, anatomy, proportions, outfit, colors and signature props throughout. User text defines the character, not the sheet format. Show 16 distinct progressive poses: 1-4 ready/anticipation; 5-8 step, reach or equivalent movement; 9-12 expressive signature action; 13-16 recovery toward frame 1. Choose anatomy-appropriate actions with clearly changing silhouettes, not repeated idle poses or four-view turnarounds. Keep scale, camera, facing and cell alignment consistent; prevent clipping. Crisp 16-bit pixels, dark outline, flat 2-3 tones/color, pure white background. No anti-aliasing, gradients, ground shadows, text, grid lines, extra limbs or invented props. Frame 16 flows into frame 1. Character idea: [a gray elephant is rolling on the ground]
 ```
 
-*Replace `[a gray elephant is rolling on the ground]` with your own content before generating.*
 
 **Step 2 — Sprite sheet → GIF**
 
@@ -998,9 +1098,11 @@ Remove excess blank space around each character without clipping any ears, limbs
 Preserve the pixel art and white background. Use a shared color palette, no dithering, no smoothing, and no invented in-between poses. Adjust frame timing so the action reads clearly and the final pose returns naturally to the first. Export an infinitely looping GIF. Check every frame for clipping and alignment, inspect the loop transition, and provide the GIF plus a reproducible Python script. Report the frame order, dimensions, and timing used, and flag any pose gaps that would require a revised sprite sheet.
 ```
 
+<sub>(by SeeAPI)</sub>
+
 <a id="c02-clay-stop-motion-fishing-for-a-star-by-seeapi-inspired-by-charlie-guo"></a>
 
-### 📌 7.2. Clay Stop-Motion: Fishing for a Star (by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071))
+### 📌 7.2. Clay Stop-Motion: Fishing for a Star
 
 #### 👀 Preview
 
@@ -1028,7 +1130,6 @@ Edit the uploaded image into a handcrafted clay stop-motion still. Preserve the 
 Create one handcrafted clay stop-motion starting image of [character description] in [setting], preparing to [simple action]. Use anatomy-appropriate poses and only [required props]. Place the character and props so the intended action can occur clearly in one locked-camera shot. Tactile modeling clay, subtle fingerprints, slightly imperfect sculpted shapes, soft miniature-set lighting, and a clean readable composition. Keep all subjects and props fully inside the frame with space for movement. No text, montage, contact sheet, or multiple frames.
 ```
 
-*Replace `[character description]`, `[setting]`, `[simple action]`, and `[required props]` with your own content. Choose either Step 1A or Step 1B.*
 
 **Step 2 — Clay-style image → contact sheet**
 
@@ -1040,7 +1141,6 @@ Animate this action: [simple action]. Frames 1–4 establish the starting pose a
 Preserve one locked camera, consistent subject scale, fixed set placement, background, lighting, and scene geometry across every cell. Keep moving elements inside each cell with a small safety margin. Maintain physical contact and continuous grips on props. Retain tactile clay, handmade surface imperfections, and a gently stepped stop-motion feel. Frame 16 should flow naturally into frame 1. No camera movement, motion blur, duplicated idle frames, or changing scenery.
 ```
 
-*Replace `[simple action]` with the movement you want to animate.*
 
 **Step 3 — Contact sheet → GIF**
 
@@ -1054,9 +1154,11 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
 
+<sub>(by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)) · [Source: X](https://x.com/charlierguo/status/2097399137142772071)</sub>
+
 <a id="c04-character-to-storyboard-to-film-by-seeapi-inspired-by-elcine"></a>
 
-### 📌 7.3. Character to Storyboard to Film (by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103))
+### 📌 7.3. Character to Storyboard to Film
 
 #### 👀 Preview
 
@@ -1131,9 +1233,11 @@ Negative prompt: visible storyboard grid, collage animation, extra bird, detache
 Limited-input fallback: generate four separate 3-second clips using only the matching C04-K image as that clip's first frame and the corresponding shot paragraph above plus the continuity and negative instructions. Trim to three seconds per clip and join with straight cuts. If the generator requires a longer minimum duration, generate that duration and select a coherent three-second segment; the 12-second timing is an editing target, not a claim about a particular model's supported settings.
 ```
 
+<sub>(by SeeAPI; inspired by [el.cine](https://x.com/EHuanglu/status/2097519538632024103)) · [Source: X](https://x.com/EHuanglu/status/2097519538632024103)</sub>
+
 <a id="c05-distant-observer-a-robot-in-the-rain-by-seeapi-inspired-by-pablo-prompt"></a>
 
-### 📌 7.4. Distant Observer: A Robot in the Rain (by SeeAPI; inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744))
+### 📌 7.4. Distant Observer: A Robot in the Rain
 
 #### 👀 Preview
 
@@ -1199,9 +1303,11 @@ Photoreal practical-effects character with believable joint motion, damp metal, 
 Negative prompt: growing subject, automatic zoom, face close-up, moving across the street, camera orbit, film cuts, eye contact with camera, waving at viewer, extra robot or person, extra umbrella, second flowerpot, umbrella changing size, detached shaft, grip swap, additional fingers, floating feet, sunlight transition, dry pavement, disappearing rain, added text, watermark, timestamp, CCTV interface.
 ```
 
+<sub>(by SeeAPI; inspired by [Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)) · [Source: X](https://x.com/pabloprompt/status/2097382752622436744)</sub>
+
 <a id="c06-frosted-glass-poster-to-360-orbit-by-seeapi"></a>
 
-### 📌 7.5. Frosted Glass Poster to 360° Orbit (by SeeAPI)
+### 📌 7.5. Frosted Glass Poster to 360° Orbit
 
 #### 👀 Preview
 
@@ -1272,6 +1378,8 @@ Preserve contact with the floor, seat, railing, or other supporting surfaces. Ke
 The dominant visible motion is the camera traveling around the subject. Finish on the newly revealed angle with the same subject and environment intact. Smooth cinematic motion, clear spatial depth, restrained subject animation, and no cuts.
 ```
 
+<sub>(by SeeAPI)</sub>
+
 ## 📝 Sources, Reuse & Maintenance
 
 Original prompts are marked **by SeeAPI**. Inspired cases also identify the original author and link to the source post. Prompt authorship, inspiration, and example-image provenance are recorded separately.
@@ -1285,3 +1393,5 @@ Maintainer resources: [Repository Structure](docs/repository-structure.md) · [C
 ## 🙏 Acknowledgments
 
 - [YouMind — Awesome Seedance 2.0 Prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): inspiration for the collection’s organization and featured examples.
+
+- [ZeroLu — Awesome Nano Banana Pro](https://github.com/ZeroLu/awesome-nanobanana-pro): inspiration for the category-based organization of this collection.

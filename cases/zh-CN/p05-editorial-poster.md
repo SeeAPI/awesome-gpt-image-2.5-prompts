@@ -23,4 +23,4 @@
 保留宽裕页边距，采用严格左对齐的文字网格，清晰区分标题、雕塑和辅助文案。每个词都完整可见。不添加其他文字、标志、边框或水印。
 ```
 
-*生成前，请替换 `[paper color and texture]`, `[central object]`, `[object color]`, `[main title]`, `[subtitle]`, `[date or supporting line]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>

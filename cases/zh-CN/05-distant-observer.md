@@ -1,4 +1,4 @@
-# C05. 远景旁观：雨中的机器人 (作者：SeeAPI；灵感来源：[Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744))
+# C05. 远景旁观：雨中的机器人
 
 [English](../05-distant-observer.md) | [简体中文](05-distant-observer.md)
 
@@ -65,3 +65,5 @@
 
 负面提示词：主体变大、自动变焦、面部特写、横穿街道移动、相机环绕、切镜、与镜头对视、向观众挥手、额外机器人或人物、额外雨伞、第二个花盆、雨伞变大小、伞杆脱落、换手握持、额外手指、悬浮脚、变成阳光、干燥路面、雨消失、额外文字、水印、时间戳、监控界面。
 ```
+
+<sub>(作者：SeeAPI；灵感来源：[Pablo Prompt](https://x.com/pabloprompt/status/2097382752622436744)) · [来源平台： X](https://x.com/pabloprompt/status/2097382752622436744)</sub>

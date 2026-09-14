@@ -16,4 +16,4 @@ Using the uploaded person or character as the identity reference, create a clean
 Preserve the subject's identity, anatomy, proportions, colors, clothing if present, and distinctive features. Adapt each expression and pose to the subject's anatomy without changing its species or gender presentation. Show the complete subject in each cell, with a thick white sticker outline and ample separation between stickers. Use a flat [background color] background so the silhouettes are easy to isolate. No captions, letters, decorative objects, or overlap between cells.
 ```
 
-*Replace `[expression 1]`, `[expression 2]`, `[expression 3]`, `[expression 4]`, `[background color]` with your own content before generating.*
+<sub>(by SeeAPI)</sub>

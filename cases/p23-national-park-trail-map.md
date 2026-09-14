@@ -13,3 +13,5 @@
 ```text
 A national park trail map poster, six routes labelled with names and distances
 ```
+
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>

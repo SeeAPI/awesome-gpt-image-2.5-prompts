@@ -13,3 +13,5 @@
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
 ```
+
+<sub>(by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source: X](https://x.com/mark_k/status/2097411028510179759)</sub>

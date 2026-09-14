@@ -20,4 +20,4 @@
 不添加文字、额外产品、装饰食材或新标签。不裁切产品的任何部分。横幅构图。
 ```
 
-*生成前，请替换 `[background color and material]`, `[platform material]`为自定义内容后再生成。*
+<sub>(作者：SeeAPI)</sub>

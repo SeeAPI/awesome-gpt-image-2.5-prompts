@@ -17,3 +17,5 @@ Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs 
 
 Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
 ```
+
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

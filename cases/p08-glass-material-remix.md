@@ -15,3 +15,5 @@ Transform the main object in the uploaded image into translucent glass while pre
 
 Place it on a pale stone surface against a warm gray studio background. Show believable glass thickness, subtle internal reflections, softened refraction through curved areas, and a grounded contact shadow. Use a large soft light from the left and a faint rim light from behind. Keep the full object visible. Do not add extra parts, labels, text, or unrelated props.
 ```
+
+<sub>(by SeeAPI)</sub>

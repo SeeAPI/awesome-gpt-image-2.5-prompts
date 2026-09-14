@@ -38,3 +38,7 @@ Update reviewed UI translations in `docs/i18n/zh-CN.json`, then run `python3 scr
 The current layout uses seven category sections under one Contents list. Assign one primary category per case, keep P IDs stable, and place the five C cases together in the last category. Put source-platform and author credits after the expanded case title. There is no separate full prompt directory or creative summary table.
 
 当前采用一个目录、七个分类正文。每条案例只有一个主分类，P 编号保持稳定，五个 C 案例全部位于最后分类。来源平台和作者跟在案例标题后，不再单独展示全量提示词目录或创意案例总表。
+
+Current source placement: author/platform/source links go in a small `<sub>` footer below the final prompt, not in the heading. Omit separate placeholder-replacement notes. Contents separates repository information from prompt categories.
+
+最新来源位置：作者、平台与来源链接放在最后一段提示词下方的 `<sub>` 小字中，不放在标题里。不另加占位符替换说明。Contents 区分仓库信息与提示词分类。

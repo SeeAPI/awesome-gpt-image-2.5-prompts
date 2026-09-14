@@ -13,3 +13,5 @@
 ```text
 A boarding pass mockup, passenger, gate, seat and time legible in a clean grid
 ```
+
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>

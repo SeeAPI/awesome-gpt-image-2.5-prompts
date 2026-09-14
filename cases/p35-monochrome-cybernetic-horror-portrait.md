@@ -15,3 +15,5 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 
 Transform the portrait into a monochrome cybernetic horror photograph. Keep the person recognizable through their facial structure and expression; use cracked porcelain-white prosthetic surfaces and recessed metallic details around the eyes without replacing the head or changing facial proportions. Surround the head with black cables and industrial coil attachments, and use tattered dark fabric clothing. Dramatic low-key light, deep black background, high-contrast monochrome, tactile practical-effects detail, 85mm portrait lens, shallow depth of field. No extra person, enlarged eyes, unrelated face, or text.
 ```
+
+<sub>(by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521) · Reference adaptation by SeeAPI</sub>

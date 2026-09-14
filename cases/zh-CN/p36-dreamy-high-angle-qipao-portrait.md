@@ -18,4 +18,4 @@
 制作此人穿着 [qipao color and design] 的 9:16 竖幅时装人像，服装自然适配其真实比例。使用俯拍高机位、柔和光晕、梦幻背景虚化、精致的 [makeup style] 和轻柔优雅的姿势。面部保持可辨识且足够清晰。不强行拉高或瘦身，不重塑眼睛，不改变性别呈现。不添加文字或水印。
 ```
 
-*生成前，请替换 `[qipao color and design]`, `[makeup style]`为自定义内容后再生成。*
+<sub>(by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [来源平台： X](https://x.com/BubbleBrain/status/2097513469172129825) · 参考图改编：SeeAPI</sub>

@@ -1,4 +1,4 @@
-# C02. Clay Stop-Motion: Fishing for a Star (by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071))
+# C02. Clay Stop-Motion: Fishing for a Star
 
 ## 👀 Preview
 
@@ -26,7 +26,6 @@ Edit the uploaded image into a handcrafted clay stop-motion still. Preserve the 
 Create one handcrafted clay stop-motion starting image of [character description] in [setting], preparing to [simple action]. Use anatomy-appropriate poses and only [required props]. Place the character and props so the intended action can occur clearly in one locked-camera shot. Tactile modeling clay, subtle fingerprints, slightly imperfect sculpted shapes, soft miniature-set lighting, and a clean readable composition. Keep all subjects and props fully inside the frame with space for movement. No text, montage, contact sheet, or multiple frames.
 ```
 
-*Replace `[character description]`, `[setting]`, `[simple action]`, and `[required props]` with your own content. Choose either Step 1A or Step 1B.*
 
 **Step 2 — Clay-style image → contact sheet**
 
@@ -38,7 +37,6 @@ Animate this action: [simple action]. Frames 1–4 establish the starting pose a
 Preserve one locked camera, consistent subject scale, fixed set placement, background, lighting, and scene geometry across every cell. Keep moving elements inside each cell with a small safety margin. Maintain physical contact and continuous grips on props. Retain tactile clay, handmade surface imperfections, and a gently stepped stop-motion feel. Frame 16 should flow naturally into frame 1. No camera movement, motion blur, duplicated idle frames, or changing scenery.
 ```
 
-*Replace `[simple action]` with the movement you want to animate.*
 
 **Step 3 — Contact sheet → GIF**
 
@@ -51,3 +49,5 @@ Use a shared 256-color palette with no dithering. Start with 140 ms per frame, h
 
 Inspect the character, rod, line, star, ice hole, and first-to-last transition. Report visible drift or missing motion honestly; if source frames need correction, explain what should be regenerated rather than describing the GIF as perfectly seamless.
 ```
+
+<sub>(by SeeAPI; inspired by [Charlie Guo](https://x.com/charlierguo/status/2097399137142772071)) · [Source: X](https://x.com/charlierguo/status/2097399137142772071)</sub>

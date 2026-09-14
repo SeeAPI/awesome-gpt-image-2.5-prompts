@@ -13,3 +13,5 @@
 ```text
 A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 ```
+
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>

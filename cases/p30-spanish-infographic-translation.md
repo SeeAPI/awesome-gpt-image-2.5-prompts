@@ -13,3 +13,5 @@
 ```text
 Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
 ```
+
+<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>

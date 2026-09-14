@@ -13,3 +13,5 @@
 ```text
 A wine bottle label, estate name, vintage year, and four lines of tasting notes
 ```
+
+<sub>(Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>

@@ -20,4 +20,4 @@ The RIGHT ONE-THIRD contains two equally sized face close-ups stacked vertically
 Use a plain [background color] studio background, soft even lighting, and the same visual style as the uploaded reference. Keep camera perspective natural and proportions undistorted. Separate views with clean whitespace rather than drawn borders. Preserve outfit colors, hairstyle, and identity across all five views. No text, labels, grid lines, extra views, extra people, invented accessories, cropped feet, duplicated limbs, or three-quarter poses replacing the required front, side, and back views.
 ```
 
-*Replace `[outfit and footwear description]` with the clothing to use for any details not visible in the reference, and `[background color]` with your preferred background color.*
+<sub>(by SeeAPI)</sub>

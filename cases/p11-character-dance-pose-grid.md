@@ -47,4 +47,4 @@ Only include the panel numbers 1–16. No title, captions, labels, speech bubble
 Final output: one complete, clearly readable 4×4 sheet of sixteen original dance poses tailored to the uploaded character.
 ```
 
-*Replace `@[Image 1]` with your uploaded character reference.*
+<sub>(by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source: X](https://x.com/renoiseai/status/2097959984265130436)</sub>
