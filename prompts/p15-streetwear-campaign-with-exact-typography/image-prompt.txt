@@ -1,6 +1,3 @@
-Give me a cool in culture ad / fashion shot for a brand called Thread.
-It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
-Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
-Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
-Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
-No extra text, no watermarks, no unrelated logos.
+Use the uploaded person references to define the featured friends, one distinct person per reference. Preserve each person’s recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions; never merge or swap identities. If only one portrait is uploaded, feature that person alone.
+
+Create a polished streetwear campaign for "[brand name]". Show the referenced people hanging out naturally in [setting], wearing [streetwear styling]. Contemporary composition, energetic color direction, natural poses, and premium fashion photography. Render "[tagline]" exactly once and clearly in the layout. Do not render bracket characters. No additional people, extra text, watermarks, or unrelated logos.

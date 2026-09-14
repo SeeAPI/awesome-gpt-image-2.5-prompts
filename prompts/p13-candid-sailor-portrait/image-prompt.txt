@@ -1,5 +1,3 @@
-Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
-He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
-He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
-Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
-The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a photorealistic candid photograph of this person on a small fishing boat, calmly adjusting a net while a dog sits nearby on the deck. Dress them in [practical sailing outfit]. Preserve existing skin texture and age rather than adding wrinkles or tattoos. Eye-level medium portrait, 50mm lens, soft coastal daylight, shallow depth of field, 35mm film grain, natural colors, worn materials, and an unposed everyday mood. No heavy retouching.

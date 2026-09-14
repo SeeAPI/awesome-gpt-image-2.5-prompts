@@ -59,18 +59,18 @@ Choose a subject or technique. A case can appear in more than one category.
 
 ## 🗂 Prompt Directory
 
-- [P40: Desert Motorcycle Editorial Poster](#p40-desert-motorcycle-editorial-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)
+- [P40: Desert Motorcycle Editorial Poster](#p40-desert-motorcycle-editorial-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json) · Reference adaptation by SeeAPI
 - [P39: Neon Motorsport Poster](#p39-neon-motorsport-poster) (by [Comfy-Org](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)) · [Source: GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_t2i.json)
-- [P38: Candid Mont-Saint-Michel Travel Portrait](#p38-candid-mont-saint-michel-travel-portrait) (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683)
-- [P37: Realistic iPhone Cafe Portrait](#p37-realistic-iphone-cafe-portrait) (by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source: X](https://x.com/blueemi99/status/2097602273085931662)
-- [P36: Dreamy High-Angle Qipao Portrait](#p36-dreamy-high-angle-qipao-portrait) (by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825)
-- [P35: Monochrome Cybernetic Horror Portrait](#p35-monochrome-cybernetic-horror-portrait) (by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521)
+- [P38: Candid Mont-Saint-Michel Travel Portrait](#p38-candid-mont-saint-michel-travel-portrait) (by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2097532595814940683)) · [Source: X](https://x.com/saniaspeaks_/status/2097532595814940683) · Reference adaptation by SeeAPI
+- [P37: Realistic iPhone Cafe Portrait](#p37-realistic-iphone-cafe-portrait) (by [@blueemi99](https://x.com/blueemi99/status/2097602273085931662)) · [Source: X](https://x.com/blueemi99/status/2097602273085931662) · Reference adaptation by SeeAPI
+- [P36: Dreamy High-Angle Qipao Portrait](#p36-dreamy-high-angle-qipao-portrait) (by [@BubbleBrain](https://x.com/BubbleBrain/status/2097513469172129825)) · [Source: X](https://x.com/BubbleBrain/status/2097513469172129825) · Reference adaptation by SeeAPI
+- [P35: Monochrome Cybernetic Horror Portrait](#p35-monochrome-cybernetic-horror-portrait) (by [@meng_dagg695](https://x.com/meng_dagg695/status/2097558679956664521)) · [Source: X](https://x.com/meng_dagg695/status/2097558679956664521) · Reference adaptation by SeeAPI
 - [P34: Woodland Clearing](#p34-woodland-clearing) (by [@mark_k](https://x.com/mark_k/status/2097411028510179759)) · [Source: X](https://x.com/mark_k/status/2097411028510179759)
 - [P33: Expressive Meme Sticker Sheet](#p33-expressive-meme-sticker-sheet) (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
 - [P32: Dog Compositing into a Street Scene](#p32-dog-compositing-into-a-street-scene) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
-- [P31: Virtual Outfit Replacement](#p31-virtual-outfit-replacement) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
+- [P31: Virtual Outfit Replacement](#p31-virtual-outfit-replacement) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · Reference adaptation by SeeAPI
 - [P30: Spanish Infographic Translation](#p30-spanish-infographic-translation) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)
-- [P29: Caramel Suit Studio Portrait](#p29-caramel-suit-studio-portrait) (by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315)
+- [P29: Caramel Suit Studio Portrait](#p29-caramel-suit-studio-portrait) (by [@abs_uiux](https://x.com/abs_uiux/status/2098216202870964315)) · [Source: X](https://x.com/abs_uiux/status/2098216202870964315) · Reference adaptation by SeeAPI
 - [P28: Fashion Movements Across Four Decades](#p28-fashion-movements-across-four-decades) (by [@Gdgtify](https://x.com/Gdgtify/status/2098228786156196084)) · [Source: X](https://x.com/Gdgtify/status/2098228786156196084)
 - [P27: Cereal Box Nutrition Panel](#p27-cereal-box-nutrition-panel) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
 - [P26: Ornate Award Certificate](#p26-ornate-award-certificate) (Collected from [SeeAPI](https://www.aiimage.net/prompts/)) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
@@ -84,10 +84,10 @@ Choose a subject or technique. A case can appear in more than one category.
 - [P18: Four-Panel Pet Comic](#p18-four-panel-pet-comic) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 - [P17: 1969 Outdoor Festival Crowd](#p17-1969-outdoor-festival-crowd) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
 - [P16: Minimal Bakery Logo](#p16-minimal-bakery-logo) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P15: Streetwear Campaign with Exact Typography](#p15-streetwear-campaign-with-exact-typography) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
+- [P15: Streetwear Campaign with Exact Typography](#p15-streetwear-campaign-with-exact-typography) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI
 - [P14: Automatic Coffee Machine Infographic](#p14-automatic-coffee-machine-infographic) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P13: Candid Sailor Portrait](#p13-candid-sailor-portrait) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)
-- [P12: Cinematic Subway Motion Portrait](#p12-cinematic-subway-motion-portrait) (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)
+- [P13: Candid Sailor Portrait](#p13-candid-sailor-portrait) (Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI
+- [P12: Cinematic Subway Motion Portrait](#p12-cinematic-subway-motion-portrait) (Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI
 - [P11: Character Dance Pose Grid](#p11-character-dance-pose-grid) (by [@renoiseai](https://x.com/renoiseai/status/2097959984265130436)) · [Source: X](https://x.com/renoiseai/status/2097959984265130436)
 - [P10: 1980s Retro Film Portrait](#p10-1980s-retro-film-portrait) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)
 - [P09: Paper Folk Story (by @azed_ai)](#p09-paper-folk-story) · [Source: X](https://x.com/azed_ai/status/2096191635348705726)
@@ -109,13 +109,19 @@ Choose a subject or technique. A case can appear in more than one category.
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → editorial poster`
 
 #### 🔖 Full Prompt
 
 ```text
-1:1 square editorial fashion poster, futuristic desert motorcycle rally scene. A rugged male biker with long dark hair and weathered leather jacket stands beside a giant black armored motorcycle in the center, surrounded by enormous rusty mechanical towers, glowing energy gates and drifting sandstorms. He has a confident expression, arms crossed, leaning slightly against the bike. Large oversized display typography spelling the exact text “GPT IMAGE 2.5” in bold industrial sans-serif font, burnt orange, letters weaving through the upper half of the frame, some behind the biker, some in front, overlapping motorcycle parts and desert towers, the only text in the scene. Small scattered graphic elements: circular speed badge upper right, rubber-stamp style icon lower left, thin wavy line doodles, tiny star icons, small crescent near bottom, vertical stack of colourful abstract symbols on right edge, small sun-shaped emblem bottom right. Short justified caption-style text block lower right, subtitle line above it in thin tracked-out caps. Asymmetric grid layout, burnt orange, black, desert beige and electric blue palette, hyperrealistic 3D render, cinematic depth of field, intricate details, soft grainy film texture, premium print quality.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a square 1:1 editorial fashion poster of this person in [motorcycle outfit], standing with arms crossed beside a large black armored motorcycle in a futuristic desert rally scene. Keep a natural, anatomy-appropriate relaxed stance. Rusty mechanical towers, glowing energy gates, drifting sand, cinematic depth, realistic materials, and fine film grain.
+
+Place the exact title "[poster title]" in oversized burnt-orange industrial sans-serif lettering, weaving behind and in front of scene elements without covering the face. Add abstract graphic accents without lettering. Use an asymmetric layout with burnt orange, black, desert beige, and electric blue. The title is the only text: no captions, extra labels, or watermarks.
 ```
+
+*Replace `[motorcycle outfit]`, `[poster title]` with your own content before generating.*
 
 ### P39. Neon Motorsport Poster
 
@@ -141,18 +147,16 @@ Choose a subject or technique. A case can appear in more than one category.
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
 
-She is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.
+Create a photorealistic candid travel portrait of this person on a sandy shoreline beside moss-covered rocks, with Mont-Saint-Michel’s historic abbey, stone walls, and tidal flats behind them. Keep the referenced hairstyle and facial features, with a natural warm smile toward the camera.
 
-The composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.
-
-Ultra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.
+Dress the person in a long oversized black coat over a light outfit, a soft cream-white scarf without logos, and an understated shoulder bag. Hands rest casually in the coat pockets. Show the person in the foreground and the abbey clearly in the background. Soft evening light, pale blue sky, realistic fabric and skin texture, subtle smartphone aesthetic, gentle color grading, natural proportions, vertical 3:4 composition. No invented brand emblems or text.
 ```
 
 ### P37. Realistic iPhone Cafe Portrait
@@ -163,13 +167,17 @@ Ultra-realistic photography, authentic candid travel photo, natural skin texture
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-make me a realistic iphone photo of a woman in a cafe
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a realistic iPhone-style candid photo of this person in [cafe setting], wearing [outfit] and [simple action]. Natural available light, realistic skin texture, casual smartphone framing, believable hands and contact with furniture, restrained depth of field, and everyday colors. No beauty-filter face, changed body shape, added foreground people, text, or watermark.
 ```
+
+*Replace `[cafe setting]`, `[outfit]`, `[simple action]` with your own content before generating.*
 
 ### P36. Dreamy High-Angle Qipao Portrait
 
@@ -179,13 +187,17 @@ make me a realistic iphone photo of a woman in a cafe
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a vertical 9:16 fashion portrait of this person wearing [qipao color and design], fitted naturally to their actual proportions. High-angle camera looking down, soft light bloom, dreamy background blur, refined [makeup style], and gentle elegant posing. Keep the face recognizable and sufficiently sharp. Do not impose a taller or slimmer body, reshape the eyes, or change gender presentation. No text or watermark.
 ```
+
+*Replace `[qipao color and design]`, `[makeup style]` with your own content before generating.*
 
 ### P35. Monochrome Cybernetic Horror Portrait
 
@@ -195,12 +207,14 @@ make me a realistic iphone photo of a woman in a cafe
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Transform the portrait into a monochrome cybernetic horror photograph. Keep the person recognizable through their facial structure and expression; use cracked porcelain-white prosthetic surfaces and recessed metallic details around the eyes without replacing the head or changing facial proportions. Surround the head with black cables and industrial coil attachments, and use tattered dark fabric clothing. Dramatic low-key light, deep black background, high-contrast monochrome, tactile practical-effects detail, 85mm portrait lens, shallow depth of field. No extra person, enlarged eyes, unrelated face, or text.
 ```
 
 ### P34. Woodland Clearing
@@ -263,12 +277,12 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 #### 👇 Workflow
 
-`Person and clothing references → outfit replacement`
+`Person reference + clothing references → outfit replacement`
 
 #### 🔖 Full Prompt
 
 ```text
-Edit the image to dress the woman using the provided clothing images. Do not change her face, facial features, skin tone, body shape, pose, or identity in any way. Preserve her exact likeness, expression, hairstyle, and proportions. Replace only the clothing, fitting the garments naturally to her existing pose and body geometry with realistic fabric behavior. Match lighting, shadows, and color temperature to the original photo so the outfit integrates photorealistically, without looking pasted on. Do not change the background, camera angle, framing, or image quality, and do not add accessories, text, logos, or watermarks.
+Use image 1 as the person reference and the remaining uploaded images as clothing references. Edit only the clothing worn by the person in image 1. Preserve their exact identity, face, age, skin tone, body proportions, gender presentation, expression, hairstyle, and pose. Fit the referenced garments naturally to their body and pose with realistic fabric behavior. Match the original lighting, shadows, and color temperature. Keep the background, camera angle, framing, and image quality unchanged. Do not add accessories, text, logos, or watermarks.
 ```
 
 ### P30. Spanish Infographic Translation
@@ -295,22 +309,16 @@ Translate the text in the infographic to Spanish. Do not change any other aspect
 
 #### 👇 Workflow
 
-`Composition reference → studio portrait`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-Use the uploaded image as the composition, outfit, pose, and lighting reference. Create a photorealistic full-body studio portrait of an adult man in his mid-to-late 20s, standing confidently in a minimalist studio.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
 
-Give him a clean short low-cut haircut with a neat taper fade and sharp natural hairline, a smooth clean-shaven face, natural masculine facial proportions, and a calm, confident expression while looking slightly away from the camera.
+Create a photorealistic full-body studio portrait. Dress the referenced person in a warm caramel-brown tailored single-breasted blazer and matching straight-cut trousers, a plain white crew-neck T-shirt, and polished dark brown leather lace-up shoes. Fit the outfit to their existing body proportions. Preserve their hair and facial hair rather than imposing a new haircut or clean-shaven face.
 
-Dress him in a refined warm caramel-brown tailored suit consisting of a fitted single-breasted blazer and matching straight-cut trousers. Under the blazer, he wears a simple plain white crew-neck T-shirt, creating a clean smart-casual look. Add polished dark brown leather lace-up shoes with subtle black soles. No chain, necklace, earrings, or unnecessary accessories.
-
-Recreate the relaxed pose with both hands casually inside the trouser pockets, shoulders relaxed, body standing upright, and feet naturally spaced apart. Ensure the clothing fits realistically with natural fabric folds and accurate adult body proportions.
-
-Use a minimal light-gray studio background with a seamless gray floor. Lighting should be soft, diffused, and professional, producing natural skin tones, gentle shadows beneath the subject, subtle highlights on the suit fabric, and crisp facial detail.
-
-Full-body framing from head to shoes, centered composition, eye-level camera angle, editorial menswear photography, realistic skin texture, sharp focus, premium fashion campaign aesthetic, clean minimal styling, photorealistic, high detail, 4K quality, vertical 2:3 composition.
+Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture upright, feet comfortably spaced, gaze slightly away from the camera. Plain light-gray studio background and seamless floor, soft diffused light, realistic skin and fabric folds, crisp facial detail, subtle contact shadows. Full-body head-to-shoes framing, eye-level camera, editorial fashion photography, vertical 2:3 composition. No new accessories or text.
 ```
 
 ### P28. Fashion Movements Across Four Decades
@@ -565,18 +573,17 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 #### 👇 Workflow
 
-`Text → image`
+`Person references → streetwear campaign image`
 
 #### 🔖 Full Prompt
 
 ```text
-Give me a cool in culture ad / fashion shot for a brand called Thread.
-It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."
-Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.
-Use clean composition, strong color direction, natural poses, and premium fashion photography cues.
-Render the tagline exactly once, clearly and legibly, integrated into the ad layout.
-No extra text, no watermarks, no unrelated logos.
+Use the uploaded person references to define the featured friends, one distinct person per reference. Preserve each person’s recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions; never merge or swap identities. If only one portrait is uploaded, feature that person alone.
+
+Create a polished streetwear campaign for "[brand name]". Show the referenced people hanging out naturally in [setting], wearing [streetwear styling]. Contemporary composition, energetic color direction, natural poses, and premium fashion photography. Render "[tagline]" exactly once and clearly in the layout. Do not render bracket characters. No additional people, extra text, watermarks, or unrelated logos.
 ```
+
+*Replace `[brand name]`, `[setting]`, `[streetwear styling]`, `[tagline]` with your own content before generating.*
 
 ### P14. Automatic Coffee Machine Infographic
 
@@ -606,17 +613,17 @@ I'd like to understand technically and visually the flow.
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.
-He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.
-He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.
-Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.
-The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a photorealistic candid photograph of this person on a small fishing boat, calmly adjusting a net while a dog sits nearby on the deck. Dress them in [practical sailing outfit]. Preserve existing skin texture and age rather than adding wrinkles or tattoos. Eye-level medium portrait, 50mm lens, soft coastal daylight, shallow depth of field, 35mm film grain, natural colors, worn materials, and an unposed everyday mood. No heavy retouching.
 ```
+
+*Replace `[practical sailing outfit]` with your own content before generating.*
 
 ### P12. Cinematic Subway Motion Portrait
 
@@ -626,13 +633,17 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 #### 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 #### 🔖 Full Prompt
 
 ```text
-cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. She is wearing a cream-colored, off-the-shoulder ribbed knit sweater that emphasizes the soft texture of the wool. In her hands, she clutches a vibrant bouquet of orange and deep red gerbera daisies, which serve as the primary color accent against her neutral clothing. The background is a dynamic, horizontal motion blur of a silver and yellow subway train, creating a high-contrast sense of speed against her stillness. The lighting is a blend of cool, overhead station light and warm highlights on her skin, captured with a shallow depth of field and a subtle cinematic film grain.
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a cinematic portrait of this person standing still on a subway platform as a silver and yellow train rushes behind them in horizontal motion blur. Keep the face sharp with a calm expression. Dress the person in [outfit] and have them hold [bouquet or prop]. Preserve their hair while allowing a few strands to move naturally in the passing air. Blend cool overhead station light with warm skin highlights, shallow depth of field, realistic skin texture, and subtle film grain.
 ```
+
+*Replace `[outfit]`, `[bouquet or prop]` with your own content before generating.*
 
 ### P11. Character Dance Pose Grid
 

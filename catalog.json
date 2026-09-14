@@ -401,7 +401,7 @@
         "url": "https://www.aiimage.net/prompts/",
         "publisher": "SeeAPI",
         "author_status": "unconfirmed",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "dec8a2337c2513cc",
         "platform": "SeeAPI"
       },
@@ -425,7 +425,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p12-cinematic-subway-motion-portrait"
+      "readme_anchor": "p12-cinematic-subway-motion-portrait",
+      "original_prompt": "docs/source-prompts/p12-cinematic-subway-motion-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P13",
@@ -441,7 +443,7 @@
         "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "d42ef74f9dc17e52",
         "platform": "Reddit"
       },
@@ -465,7 +467,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p13-candid-sailor-portrait"
+      "readme_anchor": "p13-candid-sailor-portrait",
+      "original_prompt": "docs/source-prompts/p13-candid-sailor-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P14",
@@ -528,7 +532,7 @@
         "url": "https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/",
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "5525bfd9b51f5146",
         "platform": "Reddit"
       },
@@ -552,7 +556,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p15-streetwear-campaign-with-exact-typography"
+      "readme_anchor": "p15-streetwear-campaign-with-exact-typography",
+      "original_prompt": "docs/source-prompts/p15-streetwear-campaign-with-exact-typography.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P16",
@@ -1133,7 +1139,7 @@
         "url": "https://x.com/abs_uiux/status/2098216202870964315",
         "publisher": "@abs_uiux",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "6e328d5dc40df2dc",
         "platform": "X"
       },
@@ -1157,7 +1163,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p29-caramel-suit-studio-portrait"
+      "readme_anchor": "p29-caramel-suit-studio-portrait",
+      "original_prompt": "docs/source-prompts/p29-caramel-suit-studio-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P30",
@@ -1215,7 +1223,7 @@
         "url": "https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/",
         "publisher": "u/Fun_Walk_4965",
         "author_status": "unconfirmed",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "9097f25e2f9e7d66",
         "platform": "Reddit"
       },
@@ -1239,7 +1247,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p31-virtual-outfit-replacement"
+      "readme_anchor": "p31-virtual-outfit-replacement",
+      "original_prompt": "docs/source-prompts/p31-virtual-outfit-replacement.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P32",
@@ -1375,7 +1385,7 @@
         "url": "https://x.com/meng_dagg695/status/2097558679956664521",
         "publisher": "Shahid Wani",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "dea9c7d645d97b4e",
         "platform": "X"
       },
@@ -1399,7 +1409,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p35-monochrome-cybernetic-horror-portrait"
+      "readme_anchor": "p35-monochrome-cybernetic-horror-portrait",
+      "original_prompt": "docs/source-prompts/p35-monochrome-cybernetic-horror-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P36",
@@ -1415,7 +1427,7 @@
         "url": "https://x.com/BubbleBrain/status/2097513469172129825",
         "publisher": "BubbleBrain",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "4c27f27a68fc7823",
         "platform": "X"
       },
@@ -1439,7 +1451,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p36-dreamy-high-angle-qipao-portrait"
+      "readme_anchor": "p36-dreamy-high-angle-qipao-portrait",
+      "original_prompt": "docs/source-prompts/p36-dreamy-high-angle-qipao-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P37",
@@ -1455,7 +1469,7 @@
         "url": "https://x.com/blueemi99/status/2097602273085931662",
         "publisher": "bluedev",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "6c26289cbeba9221",
         "platform": "X"
       },
@@ -1479,7 +1493,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p37-realistic-iphone-cafe-portrait"
+      "readme_anchor": "p37-realistic-iphone-cafe-portrait",
+      "original_prompt": "docs/source-prompts/p37-realistic-iphone-cafe-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P38",
@@ -1495,7 +1511,7 @@
         "url": "https://x.com/saniaspeaks_/status/2097532595814940683",
         "publisher": "𝗦𝗮𝗻𝗶𝗮",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "7cbade6d89574572",
         "platform": "X"
       },
@@ -1519,7 +1535,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p38-candid-mont-saint-michel-travel-portrait"
+      "readme_anchor": "p38-candid-mont-saint-michel-travel-portrait",
+      "original_prompt": "docs/source-prompts/p38-candid-mont-saint-michel-travel-portrait.txt",
+      "adapted_by": "SeeAPI"
     },
     {
       "id": "P39",
@@ -1575,7 +1593,7 @@
         "url": "https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_sunburst_t2i.json",
         "publisher": "Comfy-Org",
         "author_status": "credited-by-source",
-        "relationship": "collected",
+        "relationship": "adapted",
         "item_key": "f981000ad13b62dd",
         "platform": "GitHub"
       },
@@ -1599,7 +1617,9 @@
         }
       ],
       "updated": "2026-09-11",
-      "readme_anchor": "p40-desert-motorcycle-editorial-poster"
+      "readme_anchor": "p40-desert-motorcycle-editorial-poster",
+      "original_prompt": "docs/source-prompts/p40-desert-motorcycle-editorial-poster.txt",
+      "adapted_by": "SeeAPI"
     }
   ]
 }

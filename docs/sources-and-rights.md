@@ -50,3 +50,7 @@ SeeAPI maintains source links, credits, and reuse notes. When a source or permis
 [← Back to the collection](../README.md)
 
 C03 is archived and excluded from the five active creative workflows. C02’s existing penguin GIF and sheet were made with the earlier direct-sheet prompt; the revised clay-image → sheet workflow has not been regenerated. Its original generation prompt is retained in the prompt folder for provenance.
+
+## Portrait Reference Adaptations
+
+P12, P13, P15, P29, P31, P35–P38, and P40 now use identity-reference prompts adapted by SeeAPI. Original source credits remain in the directory; unchanged source prompt text is archived in `docs/source-prompts/`. Existing source images illustrate the original posts and were not regenerated or verified against these revised prompts. Generation models and exact identity-reference inputs remain unverified where not supplied. P10 and P06 already support identity references. Historical crowd scenes and non-portrait illustrations retain their original workflow.

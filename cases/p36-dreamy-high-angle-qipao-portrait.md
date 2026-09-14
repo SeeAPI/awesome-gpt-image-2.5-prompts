@@ -6,10 +6,14 @@
 
 ## 👇 Workflow
 
-`Text → image`
+`Portrait reference → styled portrait`
 
 ## 🔖 Full Prompt
 
 ```text
-9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+Use the uploaded portrait as the identity reference for the main person. Preserve their recognizable face, age, skin tone, gender presentation, hairstyle, and body proportions. Do not replace their identity with a generic model or impose a different ethnicity, gender, or body type.
+
+Create a vertical 9:16 fashion portrait of this person wearing [qipao color and design], fitted naturally to their actual proportions. High-angle camera looking down, soft light bloom, dreamy background blur, refined [makeup style], and gentle elegant posing. Keep the face recognizable and sufficiently sharp. Do not impose a taller or slimmer body, reshape the eyes, or change gender presentation. No text or watermark.
 ```
+
+*Replace `[qipao color and design]`, `[makeup style]` with your own content before generating.*
