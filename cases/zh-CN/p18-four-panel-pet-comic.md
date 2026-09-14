@@ -20,4 +20,4 @@
 第 4 格：门打开。宠物端正地坐在入口处，警觉又镇定，仿佛什么都没发生。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

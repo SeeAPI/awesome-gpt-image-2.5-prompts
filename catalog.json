@@ -256,7 +256,7 @@
       "translation_source_sha256": {
         "prompts/p03-miniature-world/image-prompt.txt": "33be04a47310b190396d6924ca8dbc0dc54529999d4763bc80008d31da8fa685"
       },
-      "display_number": "4.10"
+      "display_number": "4.12"
     },
     {
       "id": "P04",
@@ -308,7 +308,7 @@
       "translation_source_sha256": {
         "prompts/p05-editorial-poster/image-prompt.txt": "23b27fec500e2a0658da6e3ed0c61bd773ef22943834571d02e6cc2fc0e58400"
       },
-      "display_number": "4.9"
+      "display_number": "4.11"
     },
     {
       "id": "P06",
@@ -360,7 +360,7 @@
       "translation_source_sha256": {
         "prompts/p07-paper-cut-storybook/image-prompt.txt": "222cfddcaee7d930f4ec6e6ff1dd083692aca81ebd6f5ec82c9dafb2a9c39fcd"
       },
-      "display_number": "4.8"
+      "display_number": "4.10"
     },
     {
       "id": "P08",
@@ -416,7 +416,7 @@
       "translation_source_sha256": {
         "prompts/p09-paper-folk-story/image-prompt.txt": "375807e7fdef66a54bd2180598e89bead50a464d95e4302468e1c09a1680885a"
       },
-      "display_number": "4.7"
+      "display_number": "4.9"
     },
     {
       "id": "P10",
@@ -485,7 +485,7 @@
       "translation_source_sha256": {
         "prompts/p10-1980s-retro-film-portrait/image-prompt.txt": "de0536e38dd9c57d678b76d53dfa8ee36d678e87245d5cca8fdbcaf4e442ce63"
       },
-      "display_number": "1.9"
+      "display_number": "1.12"
     },
     {
       "id": "P11",
@@ -583,7 +583,7 @@
       "translation_source_sha256": {
         "prompts/p12-cinematic-subway-motion-portrait/image-prompt.txt": "eb9084b386c2e61b579d3465b342fb53a367e5b3ee9ea5a61789501f6b35f23a"
       },
-      "display_number": "1.8"
+      "display_number": "1.11"
     },
     {
       "id": "P13",
@@ -633,7 +633,7 @@
       "translation_source_sha256": {
         "prompts/p13-candid-sailor-portrait/image-prompt.txt": "1cc933dca0dc22f82213e93412cbbb27290def7d8ba4683a972fecdc8912196a"
       },
-      "display_number": "1.7"
+      "display_number": "1.10"
     },
     {
       "id": "P14",
@@ -833,7 +833,7 @@
       "translation_source_sha256": {
         "prompts/p17-1969-outdoor-festival-crowd/image-prompt.txt": "30e05ffdbbd9d638e2118d1b100e6bdd5c854a7aa6f049a231e5258da23c21d9"
       },
-      "display_number": "1.6"
+      "display_number": "1.9"
     },
     {
       "id": "P18",
@@ -1251,7 +1251,7 @@
       "translation_source_sha256": {
         "prompts/p25-three-panel-dialogue-comic/image-prompt.txt": "950e7dba00453ddcf76d5c0d9fd3dfa2a3c4e785c6014a6418f3d9ef0578a8e4"
       },
-      "display_number": "4.6"
+      "display_number": "4.8"
     },
     {
       "id": "P26",
@@ -1405,7 +1405,7 @@
       "translation_source_sha256": {
         "prompts/p28-fashion-movements-across-four-decades/image-prompt.txt": "8285d1eeac71375d808500f72746eabc30fecc222e022367364e7fdd6e8f380a"
       },
-      "display_number": "4.5"
+      "display_number": "4.7"
     },
     {
       "id": "P29",
@@ -1455,7 +1455,7 @@
       "translation_source_sha256": {
         "prompts/p29-caramel-suit-studio-portrait/image-prompt.txt": "0da8cc92703f6e2df7c9fbf2c65f892610ad6afd85fe2f72b3920bf08d84a886"
       },
-      "display_number": "1.5"
+      "display_number": "1.8"
     },
     {
       "id": "P30",
@@ -1601,7 +1601,7 @@
       "translation_source_sha256": {
         "prompts/p32-dog-compositing-into-a-street-scene/image-prompt.txt": "aea161e56aee7b573dcf27eda2d6dee3f81994431ac820969b33d2e5c6fc104a"
       },
-      "display_number": "4.4"
+      "display_number": "4.6"
     },
     {
       "id": "P33",
@@ -1697,7 +1697,7 @@
       "translation_source_sha256": {
         "prompts/p34-woodland-clearing/image-prompt.txt": "c50d148cf2a5aad90bb007013494508f35480bad8697f699d4557c131e289f10"
       },
-      "display_number": "4.3"
+      "display_number": "4.5"
     },
     {
       "id": "P35",
@@ -1747,7 +1747,7 @@
       "translation_source_sha256": {
         "prompts/p35-monochrome-cybernetic-horror-portrait/image-prompt.txt": "ee49c6eb16a744da0bffc4e507770b8dd0d87b4d625dd3682e548d8f7c8dbcce"
       },
-      "display_number": "1.4"
+      "display_number": "1.7"
     },
     {
       "id": "P36",
@@ -1797,7 +1797,7 @@
       "translation_source_sha256": {
         "prompts/p36-dreamy-high-angle-qipao-portrait/image-prompt.txt": "a3919b386ba88928a56ac05955253086fc28b777bb8bfe8707957ba48300b612"
       },
-      "display_number": "1.3"
+      "display_number": "1.6"
     },
     {
       "id": "P37",
@@ -1847,7 +1847,7 @@
       "translation_source_sha256": {
         "prompts/p37-realistic-iphone-cafe-portrait/image-prompt.txt": "53e8b879951e651dd2ca425b496052248848397dd981615b154901c35ec994dd"
       },
-      "display_number": "1.2"
+      "display_number": "1.5"
     },
     {
       "id": "P38",
@@ -1897,7 +1897,7 @@
       "translation_source_sha256": {
         "prompts/p38-candid-mont-saint-michel-travel-portrait/image-prompt.txt": "9ec1b72b54fbf42208afae870b33e356b615e48a95f4560776314e42b540c91b"
       },
-      "display_number": "1.1"
+      "display_number": "1.4"
     },
     {
       "id": "P39",
@@ -1945,7 +1945,7 @@
       "translation_source_sha256": {
         "prompts/p39-neon-motorsport-poster/image-prompt.txt": "2870ac10fa9e8453497b215ac379c23066a4a4529a593d04e2efdbc21daf9917"
       },
-      "display_number": "4.2"
+      "display_number": "4.4"
     },
     {
       "id": "P40",
@@ -1995,7 +1995,7 @@
       "translation_source_sha256": {
         "prompts/p40-desert-motorcycle-editorial-poster/image-prompt.txt": "7c57503086206e4c11bd48710ac390a0fce0ea2e6877688e836ede6db2e154cb"
       },
-      "display_number": "4.1"
+      "display_number": "4.3"
     },
     {
       "id": "P41",
@@ -2076,6 +2076,263 @@
         }
       ],
       "display_number": "5.1"
+    },
+    {
+      "id": "P43",
+      "title": "Foodie Cities in Sculptural Typography",
+      "title_zh": "美食城市雕塑字形",
+      "slug": "p43-foodie-cities-in-sculptural-typography",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Gdgtify",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Gdgtify/status/2099299591485354266",
+        "publisher": "Gadgetify (@Gdgtify)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "a02b61e024a2262c",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p43-foodie-cities-in-sculptural-typography.md",
+      "prompts": [
+        "prompts/p43-foodie-cities-in-sculptural-typography/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p43-foodie-cities-in-sculptural-typography/image-prompt.txt": "prompts/p43-foodie-cities-in-sculptural-typography/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p43-foodie-cities-in-sculptural-typography/image-prompt.txt": "aa058c8b4c1975cc8db60d8a6160f516195044f1752279d8e9b9f057d7a9c46d"
+      },
+      "preview": "assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg",
+          "sha256": "6b8727b4324dfdbefb79ce8fd3ebe03d9430feaacfbb948a808664079aab64a5",
+          "width": 400,
+          "height": 225,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-14",
+      "readme_anchor": "p43-foodie-cities-in-sculptural-typography",
+      "display_number": "4.2"
+    },
+    {
+      "id": "P44",
+      "title": "Halftone Travel Collage Poster",
+      "title_zh": "半色调旅行拼贴海报",
+      "slug": "p44-halftone-travel-collage-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@ShamiWeb3",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ShamiWeb3/status/2099316312426381491",
+        "publisher": "Shami (@ShamiWeb3)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2ba253324e19d183",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Sunburst",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p44-halftone-travel-collage-poster.md",
+      "prompts": [
+        "prompts/p44-halftone-travel-collage-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p44-halftone-travel-collage-poster/image-prompt.txt": "prompts/p44-halftone-travel-collage-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p44-halftone-travel-collage-poster/image-prompt.txt": "3a4a4d3f8d68d81f644500a582a7dda21bf229e6864e7bead8301c28e15e63cf"
+      },
+      "preview": "assets/p44-halftone-travel-collage-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p44-halftone-travel-collage-poster/source-example-01.jpg",
+          "sha256": "792398ddeb48504a3fbbefc6dd889b5c1511cfbcd6b7fa641f0e78e8d75df3b3",
+          "width": 319,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p44-halftone-travel-collage-poster/source-example-02.jpg",
+          "sha256": "303964bca9b63bc4f2d7278e84e5fbe22415e43b82dbde5c7ee6f02f99af1085",
+          "width": 319,
+          "height": 400,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p44-halftone-travel-collage-poster/source-example-03.jpg",
+          "sha256": "bf42a79f0e579033aa3ba05c32819204855dddfd24c55caf84f3bc9996bfa73e",
+          "width": 319,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-14",
+      "readme_anchor": "p44-halftone-travel-collage-poster",
+      "display_number": "4.1"
+    },
+    {
+      "id": "P45",
+      "title": "Natural 4K Photo Restoration",
+      "title_zh": "自然质感 4K 照片修复",
+      "slug": "p45-natural-4k-photo-restoration",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@ViralOps_",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ViralOps_/status/2098774775934198214",
+        "publisher": "ViralOps (@ViralOps_)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2bff9d7c29d9f2eb",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p45-natural-4k-photo-restoration.md",
+      "prompts": [
+        "prompts/p45-natural-4k-photo-restoration/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p45-natural-4k-photo-restoration/image-prompt.txt": "prompts/p45-natural-4k-photo-restoration/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p45-natural-4k-photo-restoration/image-prompt.txt": "9f2fd887653aaa91fc5ef7d5f88a3c71258724847803f38d2c0b6ab48416392a"
+      },
+      "preview": "assets/p45-natural-4k-photo-restoration/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p45-natural-4k-photo-restoration/source-example-01.jpg",
+          "sha256": "ba474d35fe04daf26af15f36412ecf851dfff8008d1d007850569ba8c6bd1e6c",
+          "width": 400,
+          "height": 200,
+          "role": "source-output-comparison"
+        }
+      ],
+      "updated": "2026-09-14",
+      "readme_anchor": "p45-natural-4k-photo-restoration",
+      "display_number": "1.3"
+    },
+    {
+      "id": "P46",
+      "title": "Atmospheric Dressing-Room Fashion Portrait",
+      "title_zh": "更衣室氛围时尚人像",
+      "slug": "p46-atmospheric-dressing-room-fashion-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@johnAGI168",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/johnAGI168/status/2099160929418031152",
+        "publisher": "John (@johnAGI168)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "bfbed8738f1ac9fc",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p46-atmospheric-dressing-room-fashion-portrait.md",
+      "prompts": [
+        "prompts/p46-atmospheric-dressing-room-fashion-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p46-atmospheric-dressing-room-fashion-portrait/image-prompt.txt": "prompts/p46-atmospheric-dressing-room-fashion-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p46-atmospheric-dressing-room-fashion-portrait/image-prompt.txt": "6088d4827834dfafefa276dec2a42803b9a3236bca8a536b6d212c27e206596f"
+      },
+      "preview": "assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg",
+          "sha256": "aa599f233e5a7939df02933e95e3f7bb2e74215b77520b19959f924959c627f0",
+          "width": 300,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-14",
+      "readme_anchor": "p46-atmospheric-dressing-room-fashion-portrait",
+      "display_number": "1.2"
+    },
+    {
+      "id": "P47",
+      "title": "Y2K Queen of the Women's Kingdom",
+      "title_zh": "千禧年女儿国国王",
+      "slug": "p47-y2k-queen-of-the-women-s-kingdom",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@DeepBlueX0",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/DeepBlueX0/status/2099303054797606998",
+        "publisher": "DeepBlue (@DeepBlueX0)",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "8dcfb30d772c6388",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p47-y2k-queen-of-the-women-s-kingdom/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p47-y2k-queen-of-the-women-s-kingdom.md",
+      "prompts": [
+        "prompts/p47-y2k-queen-of-the-women-s-kingdom/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p47-y2k-queen-of-the-women-s-kingdom/image-prompt.txt": "prompts/p47-y2k-queen-of-the-women-s-kingdom/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p47-y2k-queen-of-the-women-s-kingdom/image-prompt.txt": "bfb4a860ed2ad333d5f8aa8af27fb41bb1d289f4468eb7fb192b5a113bc66189"
+      },
+      "preview": "assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg",
+          "sha256": "79e79bc733fdbba080f65b336b7b359fc607b38df2e40d1fe1f5d0bc79829ff6",
+          "width": 225,
+          "height": 400,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-14",
+      "readme_anchor": "p47-y2k-queen-of-the-women-s-kingdom",
+      "display_number": "1.1"
     }
   ]
 }

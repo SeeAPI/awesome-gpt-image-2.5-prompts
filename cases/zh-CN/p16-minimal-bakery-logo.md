@@ -17,4 +17,4 @@
 背景完全透明。交付单个居中标志，四周留充足空间，透明边缘干净，不出现实色底板、场景、棋盘格或水印。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

@@ -17,4 +17,4 @@ Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

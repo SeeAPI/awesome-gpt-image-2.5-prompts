@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 42 条独立提示词 · 更新于 2026 年 9 月 14 日**
+**5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 14 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -67,9 +67,97 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 📷 人像与摄影
 
+<a id="p47-y2k-queen-of-the-women-s-kingdom"></a>
+
+### 📌 1.1. 千禧年女儿国国王
+
+#### 👀 预览
+
+[<img src="assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg" width="225" height="400" alt="千禧年女儿国国王——来源示例">](assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 千禧年风格人像`
+
+来源短模板。中文提示词文件保留原始中文；英文提示词由 SeeAPI 翻译。
+
+#### 🔖 完整提示词
+
+**来源短模板**
+
+```text
+千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [来源平台： X](https://x.com/DeepBlueX0/status/2099303054797606998) · 英文由 SeeAPI 翻译 · 来源示例；模型声明未经独立验证。</sub>
+
+<a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
+
+### 📌 1.2. 更衣室氛围时尚人像
+
+#### 👀 预览
+
+[<img src="assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg" width="300" height="400" alt="更衣室氛围时尚人像——来源示例">](assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 时尚人像`
+
+原提示词不要求参考图。
+
+#### 🔖 完整提示词
+
+```text
+一张抓拍感、富有氛围的背面时尚人像：一位成年东亚女性停在半开的更衣室门口，画幅比例为 3:4 竖版。画面像朋友随手拍下的私密生活日记照片：略有不完美、柔和朦胧、低调时尚，带有含蓄情绪，但不显得摆拍或经过商业化精修。
+
+女性位于画面中线偏左，背对镜头。相机从她身后近距离拍摄，机位约在腰部高度，取景从头顶到大腿中部。门框的一条边进入前景，将构图部分围合起来，营造观察转瞬即逝的私人时刻的感觉。画面略微不对称，右侧保留大量浅色负空间。
+
+她的身体朝向衣柜内部，双肩放松。左手轻轻搭在移门边缘，手指自然弯曲。重心落在一条腿上，让体态形成柔和、不刻意的曲线。她从左肩上方回头，只有部分脸庞从散落发丝间显露。神情安静、略显疏离，目光柔和地直视镜头，嘴唇自然闭合。
+
+她有精致的鹅蛋脸、柔和收窄的下颌线、深色杏眼、自然平直的眉毛、纤细的鼻子和柔和的玫瑰粉色嘴唇。妆容简淡而有生活感：轻薄自然的底妆、柔和的棕色眼线、根根分明的睫毛、淡淡的面颊色彩和轻透的缎光唇色。
+
+深浓咖啡棕色的长发以松散、不规则的波浪自然垂落背部。发量自然，略显凌乱，包含压扁的部分、相互叠压的发束、细小飞发和独立发丝。几缕柔软发丝掠过脸颊，部分遮住一只眼睛。头发应显得柔软可触、随意打理，而不是发廊造型般完美。
+
+她穿着一条精致的黑色真丝雪纺短裙，设计属于晚间时装而非内衣。裙子采用细肩带、柔和定型的合身上身、低露背设计及两条纤细的横向丝带，轻盈裙摆从腰间以松散的半透明层次垂落。不透明的黑色真丝内衬在外层雪纺之下提供完整遮盖，只有飘动的裙边和侧面层次透光。面料呈柔和哑光，带有细密织纹、自然褶皱、轻微动态和精细的手工缝线。
+
+更衣室简洁，背景柔和虚化：带白色饰边的浅粉蓝色移门、细窄的拉丝金色把手、暖灰米色衣柜内部、几根纤细的横向挂杆，以及一个简洁白色抽屉柜的边缘。环境保持安静整洁，让深色人物和浅色建筑形状构成画面主体。
+
+室外的冷色窗光与衣柜内部昏暗的暖色环境光混合。微弱的便携相机直闪轻轻提亮她的面部、肩部、手部及黑色雪纺边缘，同时让背景略微欠曝。混合光线形成奶油般柔和的肤色、浅淡的薰衣草灰阴影、柔化的黑色、高光中隐约的粉色暖意，以及向四角逐渐减弱的光线。
+
+使用小型高端便携相机与等效 35mm 镜头拍摄，近距离手持视角，取景略微倾斜，浅景深，柔和的焦点衰减，轻微高光晕散，克制的直闪特征，少数发丝带有轻微运动模糊，并呈现细腻可见的颗粒。照片随性却观察细致，像从私人社交媒体动态中保存下来的安静夜间时尚随拍。
+
+超写实摄影。真实的人体皮肤，具有可见毛孔、细软绒毛、自然色调变化、指关节与肩部的轻微泛红、细微皮肤挤压和真实的小瑕疵。头发逐根呈现，具有真实重力、不规则分束、飞发和柔和反光。真丝雪纺呈现真实织纹、层叠透明度、不透明内衬、自然重量、柔软折痕、尚在延续的动态和精细的边缘缝线。低对比度模拟胶片色彩、柔和的传感器颗粒、轻微闪光晕散、淡淡的镜头暗角，以及柔和粉蓝、暖灰、奶油象牙白和深柔黑。私密、轻松、梦幻、得体、自然不完美，并具有可信的摄影质感。
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [来源平台： X](https://x.com/johnAGI168/status/2099160929418031152) · 来源示例；模型声明未经独立验证。</sub>
+
+<a id="p45-natural-4k-photo-restoration"></a>
+
+### 📌 1.3. 自然质感 4K 照片修复
+
+#### 👀 预览
+
+[<img src="assets/p45-natural-4k-photo-restoration/source-example-01.jpg" width="400" height="200" alt="自然质感 4K 照片修复——来源示例">](assets/p45-natural-4k-photo-restoration/source-example-01.jpg)
+
+#### 👇 工作流
+
+`照片参考图 → 修复照片`
+
+上传原始照片。预览是来源提供的对比拼图，并非独立输入图。提示词要求的 4K 分辨率和修复保真度尚未经独立验证。
+
+#### 🔖 完整提示词
+
+**来源短模板**
+
+```text
+将这张图片放大至 4K。保留每一处细节。使其呈现自然、未经修饰的原始质感。去除编辑痕迹和伪影。
+```
+
+<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [来源平台： X](https://x.com/ViralOps_/status/2098774775934198214) · 来源示例；模型声明未经独立验证。</sub>
+
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.1. 圣米歇尔山旅行抓拍
+### 📌 1.4. 圣米歇尔山旅行抓拍
 
 #### 👀 预览
 
@@ -93,7 +181,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.2. 真实 iPhone 咖啡馆人像
+### 📌 1.5. 真实 iPhone 咖啡馆人像
 
 #### 👀 预览
 
@@ -115,7 +203,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.3. 梦幻俯拍旗袍人像
+### 📌 1.6. 梦幻俯拍旗袍人像
 
 #### 👀 预览
 
@@ -137,7 +225,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.4. 黑白赛博机械恐怖人像
+### 📌 1.7. 黑白赛博机械恐怖人像
 
 #### 👀 预览
 
@@ -159,7 +247,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.5. 焦糖色西装影棚人像
+### 📌 1.8. 焦糖色西装影棚人像
 
 #### 👀 预览
 
@@ -183,7 +271,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.6. 1969 年户外音乐节人群
+### 📌 1.9. 1969 年户外音乐节人群
 
 #### 👀 预览
 
@@ -202,11 +290,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 写实照片风格，服装、舞台布置和环境符合该年代。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.7. 渔船人物抓拍
+### 📌 1.10. 渔船人物抓拍
 
 #### 👀 预览
 
@@ -224,11 +312,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人在小渔船上的写实抓拍照片，人物平静地整理渔网，一只狗坐在附近甲板上。人物穿着 [practical sailing outfit]。保留原有皮肤纹理与年龄，不额外添加皱纹或纹身。采用平视中景人像、50mm 镜头、柔和海岸日光、浅景深、35mm 胶片颗粒、自然色彩和磨损材质，营造未摆拍的日常氛围。不进行重度修图。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.8. 电影感地铁动感人像
+### 📌 1.11. 电影感地铁动感人像
 
 #### 👀 预览
 
@@ -246,11 +334,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作此人静站在地铁站台上的电影感人像，一列银黄色列车在其身后驶过，形成水平方向运动模糊。面部清晰，表情平静。人物穿着 [outfit]，手持 [bouquet or prop]。保留原有发型，允许少量发丝在列车带动的气流中自然飘动。融合车站顶部冷光与温暖的皮肤高光，采用浅景深、真实皮肤纹理和细微胶片颗粒。
 ```
 
-<sub>(作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/) · 参考图改编：SeeAPI</sub>
+<sub>[来源平台： SeeAPI](https://www.aiimage.net/prompts/) · 参考图改编：SeeAPI</sub>
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.9. 1980 年代复古胶片人像
+### 📌 1.12. 1980 年代复古胶片人像
 
 #### 👀 预览
 
@@ -326,7 +414,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 制作一张正方形（1:1）透明贴纸图，九张不同贴纸排列为 3×3 网格，每张展示不同表情、姿势或反应。贴纸之间留宽阔、完全透明的间隔。无背景、阴影或重叠元素。
 ```
 
-<sub>(作者待确认) · [来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
+<sub>[来源平台： SeeAPI](https://www.aiimage.net/prompts/)</sub>
 
 <a id="p18-four-panel-pet-comic"></a>
 
@@ -350,7 +438,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 第 4 格：门打开。宠物端正地坐在入口处，警觉又镇定，仿佛什么都没发生。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p11-character-dance-pose-grid"></a>
 
@@ -499,7 +587,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 以图片 1 作为人物参考，其余上传图片作为服装参考。只编辑图片 1 中人物穿着的服装。保留其准确身份、面容、年龄、肤色、身体比例、性别呈现、表情、发型和姿势。将参考服装自然适配其体型和姿势，表现真实布料行为。匹配原始照明、阴影和色温。背景、相机角度、构图和画质保持不变。不添加配饰、文字、标志或水印。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · 参考图改编：SeeAPI</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · 参考图改编：SeeAPI</sub>
 
 <a id="p27-cereal-box-nutrition-panel"></a>
 
@@ -572,7 +660,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 包装仅包含以下原样文字：“Christmas Memories Edition”。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p16-minimal-bakery-logo"></a>
 
@@ -593,7 +681,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 背景完全透明。交付单个居中标志，四周留充足空间，透明边缘干净，不出现实色底板、场景、棋盘格或水印。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p15-streetwear-campaign-with-exact-typography"></a>
 
@@ -615,7 +703,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 为“[brand name]”制作精致的街头服饰广告。参考人物穿着 [streetwear styling]，自然地在 [setting] 相聚。采用现代构图、有活力的色彩方向、自然姿势和高级时装摄影。准确且清晰地呈现一次“[tagline]”。不显示方括号。不添加其他人物、额外文字、水印或无关标志。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
 
 <a id="p08-glass-material-remix"></a>
 
@@ -667,9 +755,80 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 🎨 海报与艺术风格
 
+<a id="p44-halftone-travel-collage-poster"></a>
+
+### 📌 4.1. 半色调旅行拼贴海报
+
+#### 👀 预览
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-01.jpg" width="319" height="400" alt="半色调旅行拼贴海报——来源示例">](assets/p44-halftone-travel-collage-poster/source-example-01.jpg)
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-02.jpg" width="319" height="400" alt="半色调旅行拼贴海报——来源示例">](assets/p44-halftone-travel-collage-poster/source-example-02.jpg)
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-03.jpg" width="319" height="400" alt="半色调旅行拼贴海报——来源示例">](assets/p44-halftone-travel-collage-poster/source-example-03.jpg)
+
+#### 👇 工作流
+
+`人像参考图 → 半色调拼贴海报`
+
+每张海报上传一张人像或场景参考图。未收录独立的原始输入文件。原提示词要求 3:4，而来源预览使用了不同画幅比例。
+
+#### 🔖 完整提示词
+
+```text
+将这张人像照片转换为一张高品质的半色调旅行拼贴海报。每张上传照片输出一张海报——绝不将多张照片合并到同一画面中。
+画幅
+
+3:4 竖版画布。划分为两个大致等高的区域——上方是真实照片，下方是印刷拼贴——中间用一条干净、锐利的水平线分隔。不要为强行符合比例而拉伸、扭曲或移动人物。
+上半部分——真实照片
+
+忠实保留原照片：相同的身份、面容、表情、姿势、双手、服装、随身物品、背景结构、自然光影和原有色彩情绪。只添加轻微的高级调色与极淡的胶片颗粒。不要重绘或重新演绎人物。
+下半部分——印刷重构
+
+使用统一的暖灰色旧纸背景。将同一个人物重构为印刷拼贴：撕裂的照片切片 + 等宽 ASCII 字符区域 + 复印半色调网点。
+
+保持面容、双手、发型、服装和一件标志性物品可辨识——即使画面被拆解，人物身份仍须保留。
+带撕边的照片碎片承载面部与关键结构线；织物、阴影和背景向外消散成 ASCII 字符、黑色半色调网点及破碎的印刷颗粒。
+纹理：粗糙的白色纸纤维边缘、轻微印刷套色偏移、旧纸污渍、少量裁切标记，以及一条克制的红色校准条。
+颜色：暖灰纸色 + 黑色油墨 + 照片自身柔和的原有色彩 + 唯一的红色点缀。不要完全去色。
+人物约占画面宽度的 60–88%——始终保留 22–38% 的纸面为空白、不作处理，使其呈现档案印刷品的感觉，而非塞满内容的终端屏幕。
+根据照片主题添加一个清晰可读的等宽字体标题，再加入原样文字 "REC. STUDY 01" 和一句简短的观察性说明。少量散落的 ASCII 字符可以沿人物边缘形成纹理，但仅作纹理使用——绝不用来伪造身体细节或编造参数。
+
+氛围
+
+早期数字系统、模拟复印、地下独立杂志与现代旅行编辑视觉相结合。人物应像正从画面中浮现——半是照片、半是字符、半是印刷——克制、富有档案感，略带实验气质。
+避免
+
+纯黑终端背景、密集代码墙、赛博朋克霓虹、完全遮蔽的面孔、毫无意义的随机符号、编造的技术读数、乱码假文字、作者署名、品牌标志、二维码、水印。
+```
+
+<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [来源平台： X](https://x.com/ShamiWeb3/status/2099316312426381491) · 来源示例；模型声明未经独立验证。</sub>
+
+<a id="p43-foodie-cities-in-sculptural-typography"></a>
+
+### 📌 4.2. 美食城市雕塑字形
+
+#### 👀 预览
+
+[<img src="assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg" width="400" height="225" alt="美食城市雕塑字形——来源示例">](assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg)
+
+#### 👇 工作流
+
+`地点或文化参数 → 雕塑字形图片`
+
+使用前填写 [PLACE_OR_CULTURE]。来源预览组合了四座城市，但原提示词未包含这一分组指令。SQL 风格文本是视觉提示词，并非可执行的数据库代码；中英文均保留其标识符和字符串字面量。
+
+#### 🔖 完整提示词
+
+```text
+WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])          AS display_name,         infer_signature_foods([PLACE_OR_CULTURE])        AS foods,         infer_signature_materials([PLACE_OR_CULTURE])    AS materials,         infer_landmarks([PLACE_OR_CULTURE])              AS landmarks,         infer_objects([PLACE_OR_CULTURE])                AS objects,         infer_palette([PLACE_OR_CULTURE])                AS palette,         infer_three_values([PLACE_OR_CULTURE])           AS values,         infer_keyword_stack([PLACE_OR_CULTURE], 4)       AS keywords ),  glyph_assignment AS (     SELECT        glyph,         argmax(             source_item,             shape_match(glyph, source_item)             * cultural_relevance(source_item)             * visual_uniqueness(source_item)         ) AS source_material     FROM letters(display_name)     CROSS JOIN cultural_pool(foods, materials, objects) )  SELECT render FROM editorial_travel_stilllife_archive WHERE hero_typography = build_3d_word(     display_name,     material_per_glyph = glyph_assignment.source_material ) AND foreground = infer_culinary_stilllife([PLACE_OR_CULTURE]) AND background = infer_soft_focus_architecture([PLACE_OR_CULTURE]) AND base = 'premium sculptural plinth' AND base_caption = join(values, ' • ') AND side_stack = keywords AND lighting = 'warm sunlit premium editorial' AND styling = 'travel magazine × culinary still life × crafted typography' ORDER BY    cultural_specificity DESC,     glyph_legibility DESC,     material_variety DESC,     tactile_realism DESC,     composition_balance DESC LIMIT 1;
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [来源平台： X](https://x.com/Gdgtify/status/2099299591485354266) · 来源示例；模型声明未经独立验证。</sub>
+
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.1. 沙漠摩托车杂志海报
+### 📌 4.3. 沙漠摩托车杂志海报
 
 #### 👀 预览
 
@@ -693,7 +852,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.2. 霓虹赛车海报
+### 📌 4.4. 霓虹赛车海报
 
 #### 👀 预览
 
@@ -713,7 +872,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.3. 林间空地
+### 📌 4.5. 林间空地
 
 #### 👀 预览
 
@@ -733,7 +892,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.4. 将狗合成至街道场景
+### 📌 4.6. 将狗合成至街道场景
 
 #### 👀 预览
 
@@ -749,11 +908,11 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将第二张图中的狗放入图片 1 的场景中，紧挨着那位女性，使用相同的照明风格、构图与背景。其他一切保持不变。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
 
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.5. 四个年代的时尚潮流
+### 📌 4.7. 四个年代的时尚潮流
 
 #### 👀 预览
 
@@ -773,7 +932,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.6. 三格对话漫画
+### 📌 4.8. 三格对话漫画
 
 #### 👀 预览
 
@@ -793,7 +952,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.7. 剪纸民间故事
+### 📌 4.9. 剪纸民间故事
 
 #### 👀 预览
 
@@ -813,7 +972,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.8. 剪纸绘本场景
+### 📌 4.10. 剪纸绘本场景
 
 #### 👀 预览
 
@@ -835,7 +994,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.9. 准确文案的杂志风海报
+### 📌 4.11. 准确文案的杂志风海报
 
 #### 👀 预览
 
@@ -862,7 +1021,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.10. 日常物品中的微缩世界
+### 📌 4.12. 日常物品中的微缩世界
 
 #### 👀 预览
 
@@ -930,7 +1089,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将信息图中的文字翻译为西班牙语。不改变图像的任何其他部分。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
 
 <a id="p26-ornate-award-certificate"></a>
 
@@ -1014,7 +1173,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 避免过小文字、额外装饰或任何使图示难以理解的内容。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p19-farmers-market-mobile-app-mockup"></a>
 
@@ -1040,7 +1199,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 将 UI 效果图放在 iPhone 机框中。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p14-automatic-coffee-machine-infographic"></a>
 
@@ -1064,7 +1223,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 希望从技术和视觉层面理解整个流程。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="-5-creative-cases"></a>
 

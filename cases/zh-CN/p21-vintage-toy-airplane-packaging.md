@@ -29,4 +29,4 @@
 包装仅包含以下原样文字：“Christmas Memories Edition”。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

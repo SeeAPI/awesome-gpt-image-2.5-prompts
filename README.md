@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 42 standalone prompts · Updated September 14, 2026**
+**5 creative workflows · 47 standalone prompts · Updated September 14, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -61,9 +61,97 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 ## 📷 Portraits & Photography
 
+<a id="p47-y2k-queen-of-the-women-s-kingdom"></a>
+
+### 📌 1.1. Y2K Queen of the Women's Kingdom
+
+#### 👀 Preview
+
+[<img src="assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg" width="225" height="400" alt="Y2K Queen of the Women's Kingdom — source example">](assets/p47-y2k-queen-of-the-women-s-kingdom/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → Y2K portrait`
+
+Short source template. The original Chinese wording is preserved in the Chinese prompt file; the English prompt is a translation by SeeAPI.
+
+#### 🔖 Full Prompt
+
+**Short source template**
+
+```text
+Y2K non-mainstream style × early digital aesthetic × contrasting cuteness × Queen of the Women's Kingdom
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [Source: X](https://x.com/DeepBlueX0/status/2099303054797606998) · English translation by SeeAPI · Source example; model claim not independently verified.</sub>
+
+<a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
+
+### 📌 1.2. Atmospheric Dressing-Room Fashion Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg" width="300" height="400" alt="Atmospheric Dressing-Room Fashion Portrait — source example">](assets/p46-atmospheric-dressing-room-fashion-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → fashion portrait`
+
+No reference image is required by the source prompt.
+
+#### 🔖 Full Prompt
+
+```text
+A candid, atmospheric back-view fashion portrait of an adult East Asian woman pausing inside a partially opened dressing-room doorway, composed in a 3:4 vertical aspect ratio. The image feels like an intimate personal-diary photograph taken spontaneously by a friend: slightly imperfect, softly hazy, understated, fashionable, and emotionally suggestive without looking staged or commercially polished.
+
+The woman stands left of center with her back facing the camera. The camera is positioned close behind her at approximately waist height, framing her from the top of her head to the middle of her thighs. One edge of the doorway enters the foreground and partially encloses the composition, creating the feeling of observing a fleeting private moment. The frame is subtly asymmetrical with generous pale negative space on the right.
+
+Her body faces into the wardrobe while her shoulders remain relaxed. Her left hand rests loosely on the edge of the sliding door, with naturally curved fingers. Her weight settles onto one leg, creating a gentle, unforced curve through her posture. She turns her head back over her left shoulder, revealing only part of her face through loose strands of hair. Her expression is quiet and slightly distant, with soft direct eye contact and relaxed closed lips.
+
+She has a delicate oval face, softly tapered jawline, dark almond-shaped eyes, naturally straight eyebrows, a slender nose, and muted rose-pink lips. Her makeup is minimal and lived-in: lightweight natural foundation, soft brown eyeliner, separated lashes, faint cheek color, and a sheer satin lip tint.
+
+Her long dark espresso-brown hair falls freely down her back in loose, irregular waves. The volume is natural and slightly tousled, with flattened areas, overlapping sections, fine flyaways, and individual strands. Several soft strands drift across her cheek and partially cover one eye. The hair appears touchable and casually styled rather than salon-perfect.
+
+She wears a refined black silk-chiffon mini dress designed as evening fashion rather than lingerie. The dress has narrow shoulder straps, a softly structured fitted bodice, a low open back with two delicate horizontal silk straps, and a lightweight skirt falling from the waist in loose translucent layers. An opaque black silk lining provides complete coverage beneath the outer chiffon, while only the floating skirt edges and side layers transmit light. The fabric has a soft matte finish, fine weave, natural wrinkles, gentle movement, and delicate handmade seams.
+
+The dressing room is sparse and softly blurred: a pale powder-blue sliding door with white molding and a narrow brushed-gold handle, a warm gray-beige wardrobe interior, several slim horizontal rails, and the edge of a simple white drawer unit. The environment remains quiet and uncluttered, allowing the dark figure and pale architectural shapes to define the frame.
+
+Cool window light from outside the room mixes with dim warm ambient light from within the wardrobe. A weak direct compact-camera flash gently lifts her face, shoulder, hand, and the edges of the black chiffon while leaving the background slightly underexposed. The mixed lighting creates creamy skin, pale lavender-gray shadows, softened blacks, faint pink warmth in the highlights, and subtle falloff toward the corners.
+
+Captured with a small premium compact camera and a 35mm-equivalent lens, close handheld perspective, slightly off-level framing, shallow depth of field, gentle focus falloff, mild highlight halation, restrained direct-flash character, subtle motion softness in a few hair strands, and fine visible grain. The photograph feels casual yet carefully observed, like a quiet late-evening fashion snapshot saved from a private social-media story.
+
+Hyperrealistic photography. Authentic human skin with visible pores, fine peach fuzz, natural tonal variation, slight redness around the knuckles and shoulder, subtle skin compression, and small realistic imperfections. Hair rendered strand by strand with genuine gravity, irregular separation, flyaways, and soft reflected light. Silk chiffon rendered with real weave, layered transparency, opaque lining, natural weight, soft creases, unfinished movement, and delicate edge stitching. Low-contrast analog color, gentle sensor grain, soft flash bloom, slight lens vignette, muted powder blue, warm gray, creamy ivory, and deep soft black. Intimate, effortless, dreamy, tasteful, naturally imperfect, and convincingly photographic.
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [Source: X](https://x.com/johnAGI168/status/2099160929418031152) · Source example; model claim not independently verified.</sub>
+
+<a id="p45-natural-4k-photo-restoration"></a>
+
+### 📌 1.3. Natural 4K Photo Restoration
+
+#### 👀 Preview
+
+[<img src="assets/p45-natural-4k-photo-restoration/source-example-01.jpg" width="400" height="200" alt="Natural 4K Photo Restoration — source example">](assets/p45-natural-4k-photo-restoration/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → restored photo`
+
+Upload the original photo. The preview is a source-supplied comparison montage, not a standalone input. The requested 4K resolution and restoration fidelity have not been independently verified.
+
+#### 🔖 Full Prompt
+
+**Short source template**
+
+```text
+upscale this image to 4K. preserve every detail. make it look natural and raw. remove editing marks and artifacts.
+```
+
+<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [Source: X](https://x.com/ViralOps_/status/2098774775934198214) · Source example; model claim not independently verified.</sub>
+
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.1. Candid Mont-Saint-Michel Travel Portrait
+### 📌 1.4. Candid Mont-Saint-Michel Travel Portrait
 
 #### 👀 Preview
 
@@ -87,7 +175,7 @@ Dress the person in a long oversized black coat over a light outfit, a soft crea
 
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.2. Realistic iPhone Cafe Portrait
+### 📌 1.5. Realistic iPhone Cafe Portrait
 
 #### 👀 Preview
 
@@ -109,7 +197,7 @@ Create a realistic iPhone-style candid photo of this person in [cafe setting], w
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.3. Dreamy High-Angle Qipao Portrait
+### 📌 1.6. Dreamy High-Angle Qipao Portrait
 
 #### 👀 Preview
 
@@ -131,7 +219,7 @@ Create a vertical 9:16 fashion portrait of this person wearing [qipao color and 
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.4. Monochrome Cybernetic Horror Portrait
+### 📌 1.7. Monochrome Cybernetic Horror Portrait
 
 #### 👀 Preview
 
@@ -153,7 +241,7 @@ Transform the portrait into a monochrome cybernetic horror photograph. Keep the 
 
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.5. Caramel Suit Studio Portrait
+### 📌 1.8. Caramel Suit Studio Portrait
 
 #### 👀 Preview
 
@@ -177,7 +265,7 @@ Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture
 
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.6. 1969 Outdoor Festival Crowd
+### 📌 1.9. 1969 Outdoor Festival Crowd
 
 #### 👀 Preview
 
@@ -196,11 +284,11 @@ Create a realistic outdoor crowd scene in Bethel, New York on August 16, 1969.
 Photorealistic, period-accurate clothing, staging, and environment.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.7. Candid Sailor Portrait
+### 📌 1.10. Candid Sailor Portrait
 
 #### 👀 Preview
 
@@ -218,11 +306,11 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a photorealistic candid photograph of this person on a small fishing boat, calmly adjusting a net while a dog sits nearby on the deck. Dress them in [practical sailing outfit]. Preserve existing skin texture and age rather than adding wrinkles or tattoos. Eye-level medium portrait, 50mm lens, soft coastal daylight, shallow depth of field, 35mm film grain, natural colors, worn materials, and an unposed everyday mood. No heavy retouching.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.8. Cinematic Subway Motion Portrait
+### 📌 1.11. Cinematic Subway Motion Portrait
 
 #### 👀 Preview
 
@@ -240,11 +328,11 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a cinematic portrait of this person standing still on a subway platform as a silver and yellow train rushes behind them in horizontal motion blur. Keep the face sharp with a calm expression. Dress the person in [outfit] and have them hold [bouquet or prop]. Preserve their hair while allowing a few strands to move naturally in the passing air. Blend cool overhead station light with warm skin highlights, shallow depth of field, realistic skin texture, and subtle film grain.
 ```
 
-<sub>(Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.9. 1980s Retro Film Portrait
+### 📌 1.12. 1980s Retro Film Portrait
 
 #### 👀 Preview
 
@@ -320,7 +408,7 @@ Create a Meme sticker pack based on the images attached, remixing with 😎😛�
 Create a single square(1:1) transparent sticker sheet with nine distinct stickers arranged in a 3×3 grid, each showing a different expression, pose, or reaction. Separate the stickers with wide, fully transparent gaps. No background, shadows, or overlapping elements.
 ```
 
-<sub>(Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
+<sub>[Source: SeeAPI](https://www.aiimage.net/prompts/)</sub>
 
 <a id="p18-four-panel-pet-comic"></a>
 
@@ -344,7 +432,7 @@ Panel 3: The house transformed. The pet sprawls across the couch like it owns th
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p11-character-dance-pose-grid"></a>
 
@@ -491,7 +579,7 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 Use image 1 as the person reference and the remaining uploaded images as clothing references. Edit only the clothing worn by the person in image 1. Preserve their exact identity, face, age, skin tone, body proportions, gender presentation, expression, hairstyle, and pose. Fit the referenced garments naturally to their body and pose with realistic fabric behavior. Match the original lighting, shadows, and color temperature. Keep the background, camera angle, framing, and image quality unchanged. Do not add accessories, text, logos, or watermarks.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p27-cereal-box-nutrition-panel"></a>
 
@@ -569,7 +657,7 @@ No logos
 Include ONLY this packaging text (verbatim): "Christmas Memories Edition"
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p16-minimal-bakery-logo"></a>
 
@@ -590,7 +678,7 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p15-streetwear-campaign-with-exact-typography"></a>
 
@@ -612,7 +700,7 @@ Use the uploaded person references to define the featured friends, one distinct 
 Create a polished streetwear campaign for "[brand name]". Show the referenced people hanging out naturally in [setting], wearing [streetwear styling]. Contemporary composition, energetic color direction, natural poses, and premium fashion photography. Render "[tagline]" exactly once and clearly in the layout. Do not render bracket characters. No additional people, extra text, watermarks, or unrelated logos.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
 
 <a id="p08-glass-material-remix"></a>
 
@@ -662,9 +750,80 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 
 ## 🎨 Posters & Artistic Styles
 
+<a id="p44-halftone-travel-collage-poster"></a>
+
+### 📌 4.1. Halftone Travel Collage Poster
+
+#### 👀 Preview
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-01.jpg" width="319" height="400" alt="Halftone Travel Collage Poster — source example">](assets/p44-halftone-travel-collage-poster/source-example-01.jpg)
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-02.jpg" width="319" height="400" alt="Halftone Travel Collage Poster — source example">](assets/p44-halftone-travel-collage-poster/source-example-02.jpg)
+
+[<img src="assets/p44-halftone-travel-collage-poster/source-example-03.jpg" width="319" height="400" alt="Halftone Travel Collage Poster — source example">](assets/p44-halftone-travel-collage-poster/source-example-03.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → halftone collage poster`
+
+Upload one portrait or scene reference per poster. Original input files are not included. The source prompt requests 3:4; the supplied previews have a different aspect ratio.
+
+#### 🔖 Full Prompt
+
+```text
+Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+TOP HALF — THE REAL SHOT
+
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, clothing, personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+Keep face, hands, hairstyle, clothing, and one signature item recognizable — identity must survive the breakdown.
+Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+Color: warm gray paper + black ink + the photo’s own muted original colors + the single red accent. Never fully desaturate.
+Figure fills roughly 60–88% of the frame width — always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+Add one readable fixed-width title pulled from the photo’s theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure’s edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it’s surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+AVOID
+
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
+```
+
+<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [Source: X](https://x.com/ShamiWeb3/status/2099316312426381491) · Source example; model claim not independently verified.</sub>
+
+<a id="p43-foodie-cities-in-sculptural-typography"></a>
+
+### 📌 4.2. Foodie Cities in Sculptural Typography
+
+#### 👀 Preview
+
+[<img src="assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg" width="400" height="225" alt="Foodie Cities in Sculptural Typography — source example">](assets/p43-foodie-cities-in-sculptural-typography/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Place or culture parameter → sculptural typography image`
+
+Set [PLACE_OR_CULTURE] before use. The source preview combines four cities; that grouping instruction is not included. The SQL-style text is a visual prompt, not executable database code; its identifiers and string literals are preserved in both languages.
+
+#### 🔖 Full Prompt
+
+```text
+WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])          AS display_name,         infer_signature_foods([PLACE_OR_CULTURE])        AS foods,         infer_signature_materials([PLACE_OR_CULTURE])    AS materials,         infer_landmarks([PLACE_OR_CULTURE])              AS landmarks,         infer_objects([PLACE_OR_CULTURE])                AS objects,         infer_palette([PLACE_OR_CULTURE])                AS palette,         infer_three_values([PLACE_OR_CULTURE])           AS values,         infer_keyword_stack([PLACE_OR_CULTURE], 4)       AS keywords ),  glyph_assignment AS (     SELECT        glyph,         argmax(             source_item,             shape_match(glyph, source_item)             * cultural_relevance(source_item)             * visual_uniqueness(source_item)         ) AS source_material     FROM letters(display_name)     CROSS JOIN cultural_pool(foods, materials, objects) )  SELECT render FROM editorial_travel_stilllife_archive WHERE hero_typography = build_3d_word(     display_name,     material_per_glyph = glyph_assignment.source_material ) AND foreground = infer_culinary_stilllife([PLACE_OR_CULTURE]) AND background = infer_soft_focus_architecture([PLACE_OR_CULTURE]) AND base = 'premium sculptural plinth' AND base_caption = join(values, ' • ') AND side_stack = keywords AND lighting = 'warm sunlit premium editorial' AND styling = 'travel magazine × culinary still life × crafted typography' ORDER BY    cultural_specificity DESC,     glyph_legibility DESC,     material_variety DESC,     tactile_realism DESC,     composition_balance DESC LIMIT 1;
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [Source: X](https://x.com/Gdgtify/status/2099299591485354266) · Source example; model claim not independently verified.</sub>
+
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.1. Desert Motorcycle Editorial Poster
+### 📌 4.3. Desert Motorcycle Editorial Poster
 
 #### 👀 Preview
 
@@ -688,7 +847,7 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.2. Neon Motorsport Poster
+### 📌 4.4. Neon Motorsport Poster
 
 #### 👀 Preview
 
@@ -708,7 +867,7 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.3. Woodland Clearing
+### 📌 4.5. Woodland Clearing
 
 #### 👀 Preview
 
@@ -728,7 +887,7 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.4. Dog Compositing into a Street Scene
+### 📌 4.6. Dog Compositing into a Street Scene
 
 #### 👀 Preview
 
@@ -744,11 +903,11 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
 
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.5. Fashion Movements Across Four Decades
+### 📌 4.7. Fashion Movements Across Four Decades
 
 #### 👀 Preview
 
@@ -768,7 +927,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.6. Three-Panel Dialogue Comic
+### 📌 4.8. Three-Panel Dialogue Comic
 
 #### 👀 Preview
 
@@ -788,7 +947,7 @@ A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.7. Paper Folk Story
+### 📌 4.9. Paper Folk Story
 
 #### 👀 Preview
 
@@ -808,7 +967,7 @@ Paper cut-out animation of a [subject] [simple action], full-body character, lay
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.8. Paper-Cut Storybook Scene
+### 📌 4.10. Paper-Cut Storybook Scene
 
 #### 👀 Preview
 
@@ -830,7 +989,7 @@ Use visible paper fibers, crisp cut edges, gently bent paper elements, and real 
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.9. Editorial Poster with Exact Copy
+### 📌 4.11. Editorial Poster with Exact Copy
 
 #### 👀 Preview
 
@@ -857,7 +1016,7 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.10. Miniature World in an Everyday Object
+### 📌 4.12. Miniature World in an Everyday Object
 
 #### 👀 Preview
 
@@ -921,7 +1080,7 @@ Redesign this ordinary bedroom into a more stylish, cohesive, and professionally
 Translate the text in the infographic to Spanish. Do not change any other aspect of the image.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
 
 <a id="p26-ornate-award-certificate"></a>
 
@@ -1005,7 +1164,7 @@ Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs 
 Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p19-farmers-market-mobile-app-mockup"></a>
 
@@ -1031,7 +1190,7 @@ It should look like a real, well-designed, beautiful app for a small local marke
 Place the UI mockup in an iPhone frame.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="p14-automatic-coffee-machine-infographic"></a>
 
@@ -1055,7 +1214,7 @@ From bean basket, to grinding, to scale, water tank, boiler, etc.
 I'd like to understand technically and visually the flow.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
 
 <a id="-5-creative-cases"></a>
 

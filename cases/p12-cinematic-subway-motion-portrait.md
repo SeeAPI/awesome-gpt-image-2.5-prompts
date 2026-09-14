@@ -16,4 +16,4 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a cinematic portrait of this person standing still on a subway platform as a silver and yellow train rushes behind them in horizontal motion blur. Keep the face sharp with a calm expression. Dress the person in [outfit] and have them hold [bouquet or prop]. Preserve their hair while allowing a few strands to move naturally in the passing air. Blend cool overhead station light with warm skin highlights, shallow depth of field, realistic skin texture, and subtle film grain.
 ```
 
-<sub>(Author unconfirmed) · [Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: SeeAPI](https://www.aiimage.net/prompts/) · Reference adaptation by SeeAPI</sub>

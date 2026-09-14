@@ -16,4 +16,4 @@
 将信息图中的文字翻译为西班牙语。不改变图像的任何其他部分。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcj1ud/gpt_image_25_prompt_guide_2026_23_9_official_edit/)</sub>

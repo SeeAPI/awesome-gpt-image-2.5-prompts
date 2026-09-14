@@ -1,38 +1,29 @@
 # {ID}. {English Title}
 
-**by {Prompt author}** · [Source]({Public original post or collection-page URL})
-
-{Link a credited author as a clickable @handle. Use SeeAPI only for prompts developed by SeeAPI. For collected prompts, preserve source attribution; if authorship is unresolved, write **Author unconfirmed** and identify the collection-page publisher separately. For adaptations, name the adapter and add “inspired by” with the original author/post. Omit the Source link for originals without an external source; never invent a URL.}
-
-{State source-image provenance, model evidence, and any unresolved original-source or reuse question briefly.}
-
 ## 👀 Preview
 
-{Embed actual result and required reference images using an img tag with proportional width/height bounded by 400 × 400 pixels, without upscaling. Link the image to its original file (or original video for a video preview). Keep original media unchanged; state when an example or video is pending. Keep essential provenance or limitations to a short note.}
+{Embed each actual image with an img tag bounded by 400 × 400, preserving aspect ratio. Link to the original file. Distinguish reference, output, and comparison roles.}
 
 ## 👇 Workflow
 
-`{Text → image → video, or Reference image → edited image. Include intermediate stages and upload roles where needed.}`
+`{Input → output}`
+
+{Concise required-input or reproduction notes. Do not invent missing references or imply independent generation tests.}
 
 ## 🔖 Full Prompt
 
-**Step 1 — {Match the first Workflow stage}**
-
-{One short upload instruction, if needed.}
-
 ```text
-{Complete prompt, identical to its canonical .txt file. For P entries, prefer reusable person/character wording without fixed species or gender; use [placeholders] for customizable subjects, scenes, and copy. Preserve explicitly supplied prompts verbatim.}
+{Complete prompt matching the canonical English .txt file. Preserve source evidence, literal output text, code, model IDs, and [placeholder] keys.}
 ```
 
-{Repeat in workflow order for additional prompts. Label alternatives and negative prompts clearly. Publish this content inline in README with an H3 case title and H4 Preview / Workflow / Full Prompt headings; link the directory entry to that title’s page anchor.}
+{Repeat additional steps and full prompt blocks in workflow order. Do not add standalone italic placeholder-replacement notes.}
 
-For prompts containing bracketed placeholders, put an italic note directly below the prompt block listing the actual fields to replace. Omit the note when no placeholders exist.
-
-Source credits belong in the Prompt Directory entry as Source: X / Reddit / TikTok / GitHub / the actual platform. Case bodies contain only Preview, Workflow, and Full Prompt; omit repeated source paragraphs, review commentary, and footer navigation. Preserve prompt text and italic placeholder guidance.
-
+<sub>{Author credit} · {Platform-labelled public source link} · {Translation/adaptation credit when applicable}</sub>
 
 ## Bilingual maintenance / 双语维护
 
-Publish an English case and a matching Simplified Chinese case. Add the complete Chinese prompt beside its English source (`*.zh-CN.txt`), preserving placeholders and literal output text. Register `title_zh`, `prompts_zh`, and reviewed `translation_source_sha256` values in the catalog. Update `docs/i18n/zh-CN.json`, then regenerate the Chinese pages.
+Register title_zh, prompts_zh and reviewed translation_source_sha256 in catalog.json. Store each complete reviewed Chinese prompt as a sibling *.zh-CN.txt; preserve code, literal output text and placeholder keys. Keep a Chinese source original when the English canonical prompt is a translation, and label the translation.
 
-每个英文案例均需对应的中文案例与完整中文提示词。保留占位符与原样输出文字，同步目录、预览、工作流和全部提示词步骤。运行双语生成和校验脚本；生成的中文页面不要手工修改。
+Update docs/i18n/zh-CN.json, then run scripts/build_chinese_readme.py. Do not edit generated cases/zh-CN pages directly. In both READMEs, place each case once in its primary category using catalog.display_number and an explicit legacy anchor. Keep the Preview / Workflow / Full Prompt structure, 📌 before P-series display numbers, and source credits only in the final sub footer. Follow AGENTS.md for category order and Contents layout.
+
+先审核中英文提示词，再更新源文件哈希并生成中文页面；不得只更新哈希绕过翻译审核。按主分类展开一次，展示编号分类内连续，内部 ID 与英文 slug 不变，来源位于最后的 sub 小字中。

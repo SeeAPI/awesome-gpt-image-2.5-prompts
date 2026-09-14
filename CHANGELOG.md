@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-14 — Feishu candidate update
+
+- Added P43–P47: five new source prompts and seven original source images, with complete English/Simplified Chinese pages and reviewed prompt translations. Preserved the Chinese-original Y2K template and SQL-style code.
+- Updated category-local display numbers while preserving every existing ID and anchor; source/platform credits remain in final sub footers.
+- Documented missing references, the city-grid input gap, collage aspect-ratio differences, and unverified 4K restoration claims.
+- Updated the import SOP and case template to the current bilingual, category-first layout. Made the Chinese generation check report its actual case count.
+
+
 ## 2026-09-14
 
 - Split Contents into repository information and prompt categories; moved credits below full prompts in small text and removed placeholder notes.

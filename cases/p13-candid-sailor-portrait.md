@@ -16,4 +16,4 @@ Use the uploaded portrait as the identity reference for the main person. Preserv
 Create a photorealistic candid photograph of this person on a small fishing boat, calmly adjusting a net while a dog sits nearby on the deck. Dress them in [practical sailing outfit]. Preserve existing skin texture and age rather than adding wrinkles or tattoos. Eye-level medium portrait, 50mm lens, soft coastal daylight, shallow depth of field, 35mm film grain, natural colors, worn materials, and an unposed everyday mood. No heavy retouching.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · Reference adaptation by SeeAPI</sub>

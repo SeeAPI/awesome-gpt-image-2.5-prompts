@@ -73,7 +73,8 @@ def main():
             path.write_text(content)
     if stale:
         raise SystemExit('Stale bilingual content: ' + ', '.join(stale))
-    print('Chinese README and 47 case pages are in sync.' if args.check else 'Rendered Chinese README and case pages.')
+    count = len(json.loads((ROOT / 'catalog.json').read_text())['entries'])
+    print(f'Chinese README and {count} case pages are in sync.' if args.check else 'Rendered Chinese README and case pages.')
 
 
 if __name__ == '__main__':

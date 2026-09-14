@@ -18,4 +18,4 @@ Panel 3: The house transformed. The pet sprawls across the couch like it owns th
 Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
 ```
 
-<sub>(Author unconfirmed) · [Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+<sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>

@@ -18,4 +18,4 @@
 为“[brand name]”制作精致的街头服饰广告。参考人物穿着 [streetwear styling]，自然地在 [setting] 相聚。采用现代构图、有活力的色彩方向、自然姿势和高级时装摄影。准确且清晰地呈现一次“[tagline]”。不显示方括号。不添加其他人物、额外文字、水印或无关标志。
 ```
 
-<sub>(作者待确认) · [来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
+<sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/) · 参考图改编：SeeAPI</sub>
