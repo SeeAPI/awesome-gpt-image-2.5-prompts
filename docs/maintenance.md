@@ -42,3 +42,7 @@ The current layout uses seven category sections under one Contents list. Assign 
 Current source placement: author/platform/source links go in a small `<sub>` footer below the final prompt, not in the heading. Omit separate placeholder-replacement notes. Contents separates repository information from prompt categories.
 
 最新来源位置：作者、平台与来源链接放在最后一段提示词下方的 `<sub>` 小字中，不放在标题里。不另加占位符替换说明。Contents 区分仓库信息与提示词分类。
+
+## Maintainer Resources / 维护资料
+
+[Repository Structure / 仓库结构](repository-structure.md) · [Case Template / 案例模板](../templates/case.md) · [Changelog / 更新记录](../CHANGELOG.md)

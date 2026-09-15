@@ -266,5 +266,9 @@
   "Source example; model claim not independently verified.": "来源示例；模型声明未经独立验证。",
   "Short source template": "来源短模板",
   "5 creative workflows · 47 standalone prompts · Updated September 14, 2026": "5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 14 日",
-  "5 creative workflows · 47 standalone prompts · Updated September 15, 2026": "5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 15 日"
+  "5 creative workflows · 47 standalone prompts · Updated September 15, 2026": "5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 15 日",
+  "This collection includes original prompts by SeeAPI, collected prompts, and adaptations. Each case credits its author and source below the full prompt, with translation or adaptation credits where applicable.": "本仓库包含 SeeAPI 原创、外部收录及改编提示词。每条案例在完整提示词下方标明作者和来源，并按实际情况注明翻译或改编署名。",
+  " for case-specific reuse terms and example-image provenance.": "。",
+  "Maintained by SeeAPI, with ongoing updates to prompts and examples in English and Simplified Chinese. **External submissions are not open at this stage.**": "由 SeeAPI 持续维护，同步更新中英文提示词与示例。**现阶段暂不开放外部投稿。**",
+  "See [Sources & Rights": "各案例的使用条款与示例图片来源，详见 [来源与权利说明"
 }

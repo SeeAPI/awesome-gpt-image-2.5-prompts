@@ -1527,13 +1527,11 @@ The dominant visible motion is the camera traveling around the subject. Finish o
 
 ## 📝 Sources, Reuse & Maintenance
 
-Original prompts are marked **by SeeAPI**. Inspired cases also identify the original author and link to the source post. Prompt authorship, inspiration, and example-image provenance are recorded separately.
+This collection includes original prompts by SeeAPI, collected prompts, and adaptations. Each case credits its author and source below the full prompt, with translation or adaptation credits where applicable.
 
-Reuse terms are documented in [Sources & Rights](docs/sources-and-rights.md). The repository currently has no blanket license covering all prompts and media; C06 carries its own attribution permission. Credit does not transfer ownership of a linked source.
+See [Sources & Rights](docs/sources-and-rights.md) for case-specific reuse terms and example-image provenance.
 
-SeeAPI maintains this collection and will add prompts, tested examples, and production notes over time. **External submissions are not open at this stage.**
-
-Maintainer resources: [Repository Structure](docs/repository-structure.md) · [Case Template](templates/case.md) · [Update Checklist](docs/maintenance.md) · [Changelog](CHANGELOG.md).
+Maintained by SeeAPI, with ongoing updates to prompts and examples in English and Simplified Chinese. **External submissions are not open at this stage.**
 
 ## 🙏 Acknowledgments
 

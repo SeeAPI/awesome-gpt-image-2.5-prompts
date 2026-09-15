@@ -1538,13 +1538,11 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 ## 📝 来源、使用与维护
 
-原创提示词标注为 **作者：SeeAPI**。有灵感来源的案例还会注明原作者并链接原帖。提示词作者、灵感来源和示例图片来源分别记录。
+本仓库包含 SeeAPI 原创、外部收录及改编提示词。每条案例在完整提示词下方标明作者和来源，并按实际情况注明翻译或改编署名。
 
-使用条款见 [来源与权利说明](docs/sources-and-rights.md)。本仓库目前没有覆盖所有提示词和素材的统一许可；C06 有单独的署名使用许可。署名不代表来源作品的所有权转移。
+各案例的使用条款与示例图片来源，详见 [来源与权利说明](docs/sources-and-rights.md)。
 
-SeeAPI 维护本仓库，并将持续补充提示词、实测示例与制作说明。**现阶段暂不开放外部投稿。**
-
-维护资料： [仓库结构](docs/repository-structure.md) · [案例模板](templates/case.md) · [更新清单](docs/maintenance.md) · [更新记录](CHANGELOG.md).
+由 SeeAPI 持续维护，同步更新中英文提示词与示例。**现阶段暂不开放外部投稿。**
 
 <a id="-acknowledgments"></a>
 
