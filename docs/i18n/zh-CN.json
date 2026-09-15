@@ -270,5 +270,21 @@
   "This collection includes original prompts by SeeAPI, collected prompts, and adaptations. Each case credits its author and source below the full prompt, with translation or adaptation credits where applicable.": "本仓库包含 SeeAPI 原创、外部收录及改编提示词。每条案例在完整提示词下方标明作者和来源，并按实际情况注明翻译或改编署名。",
   " for case-specific reuse terms and example-image provenance.": "。",
   "Maintained by SeeAPI, with ongoing updates to prompts and examples in English and Simplified Chinese. **External submissions are not open at this stage.**": "由 SeeAPI 持续维护，同步更新中英文提示词与示例。**现阶段暂不开放外部投稿。**",
-  "See [Sources & Rights": "各案例的使用条款与示例图片来源，详见 [来源与权利说明"
+  "See [Sources & Rights": "各案例的使用条款与示例图片来源，详见 [来源与权利说明",
+  "Misty Autumn Lakeside at Sunrise": "晨曦薄雾中的秋日湖畔",
+  "Text → landscape image": "文字 → 风景图",
+  "Soft Hijab Beauty Portrait": "柔光头巾美妆人像",
+  "Text → beauty portrait": "文字 → 美妆人像",
+  "Minimal Watercolor Paper Cover": "极简水彩纸面封面",
+  "Reference image → watercolor paper-cover illustration": "参考图 → 水彩纸面封面插画",
+  "Rebel Streetwear Editorial Poster": "叛逆街头时尚编辑海报",
+  "Text → editorial fashion poster": "文字 → 时尚编辑海报",
+  "iPhone Photos Day-in-the-Life Camera Roll": "iPhone 照片 App 一日相册",
+  "Subject reference → iPhone Photos camera-roll image": "主体参考图 → iPhone 照片 App 相册图",
+  "Adaptive Vintage City Travel Poster": "自适应复古城市旅行海报",
+  "City name + style references → vintage travel poster": "城市名 + 风格参考图 → 复古旅行海报",
+  "Cinematic Modern Mafia Boss Portrait": "电影感现代黑帮首领肖像",
+  "Face reference → cinematic portrait": "人脸参考图 → 电影感肖像",
+  "Inspired by": "灵感来自",
+  "5 creative workflows · 54 standalone prompts · Updated September 15, 2026": "5 个创意工作流 · 54 条独立提示词 · 更新于 2026 年 9 月 15 日"
 }

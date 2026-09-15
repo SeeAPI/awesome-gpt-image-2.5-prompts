@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 15 日**
+**5 个创意工作流 · 54 条独立提示词 · 更新于 2026 年 9 月 15 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -67,9 +67,55 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 📷 人像与摄影
 
+<a id="p54-cinematic-modern-mafia-boss-portrait"></a>
+
+### 📌 1.1. 电影感现代黑帮首领肖像
+
+#### 👀 预览
+
+[<img src="assets/p54-cinematic-modern-mafia-boss-portrait/source-example-01.jpg" width="400" height="400" alt="电影感现代黑帮首领肖像——来源示例">](assets/p54-cinematic-modern-mafia-boss-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人脸参考图 → 电影感肖像`
+
+#### 🔖 完整提示词
+
+```text
+创建一张我的超写实电影感肖像（使用上传的人脸），将我塑造成一位现代黑帮首领。我坐在一辆豪华黑色汽车里，身穿黑色西装，戴着有色飞行员太阳镜，抽着一根粗雪茄。神情冷峻无畏。背景：阴郁天空 + 虚化城市/街道，营造黑色电影氛围。冷色调，高对比度。面部与烟雾细节锐利。风格：8K、电影海报品质、浅景深、1:1。
+```
+
+<sub>(by [@john_my07](https://x.com/john_my07/status/2099745210196738366)) · [来源平台： X](https://x.com/john_my07/status/2099745210196738366)</sub>
+
+<a id="p49-soft-hijab-beauty-portrait"></a>
+
+### 📌 1.2. 柔光头巾美妆人像
+
+#### 👀 预览
+
+[<img src="assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg" width="225" height="400" alt="柔光头巾美妆人像——来源示例">](assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 美妆人像`
+
+#### 🔖 完整提示词
+
+```text
+一位年轻东亚女性的面部特写肖像。她拥有白皙、光滑的瓷感肌肤，肤色柔和均匀。她的眼睛大而呈杏仁形，为浅灰蓝色；睫毛纤长、深色且根根分明，搭配细致眼线。眉毛纤细而修整整齐。妆容自然水润，双颊带有柔和粉色腮红，略显丰润的玫瑰粉色双唇带有光泽。她直视镜头，神情平静、温柔，略显含蓄。
+
+她佩戴一条轻薄半透明的头巾，采用柔和的米色、灰褐色与香槟色调，并带有金色和棕色的精致佩斯利与花卉图案。面料宽松地垂坠并分层包裹头部与肩部，完全遮住头发。头巾左侧靠近太阳穴的位置有一枚小巧的金色球形别针或胸针。面料质地柔软、略微透光，具有自然温和的褶皱与纹理。
+
+背景为室内空间，浅色墙面上方左侧可见一个木质搁板，放有几只瓶子（其中一只有橙色瓶盖）。柔和的室内自然光为面部带来温暖、修饰性良好的光泽，不产生生硬阴影。
+
+照片级写实、高细节美妆肖像、浅景深、背景柔焦、优雅而端庄的造型。
+```
+
+<sub>(by [@woleswoosh](https://x.com/woleswoosh/status/2099774470374502450)) · [来源平台： X](https://x.com/woleswoosh/status/2099774470374502450)</sub>
+
 <a id="p47-y2k-queen-of-the-women-s-kingdom"></a>
 
-### 📌 1.1. 千禧年女儿国国王
+### 📌 1.3. 千禧年女儿国国王
 
 #### 👀 预览
 
@@ -89,7 +135,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
 
-### 📌 1.2. 更衣室氛围时尚人像
+### 📌 1.4. 更衣室氛围时尚人像
 
 #### 👀 预览
 
@@ -127,7 +173,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p45-natural-4k-photo-restoration"></a>
 
-### 📌 1.3. 自然质感 4K 照片修复
+### 📌 1.5. 自然质感 4K 照片修复
 
 #### 👀 预览
 
@@ -147,7 +193,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.4. 圣米歇尔山旅行抓拍
+### 📌 1.6. 圣米歇尔山旅行抓拍
 
 #### 👀 预览
 
@@ -171,7 +217,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.5. 真实 iPhone 咖啡馆人像
+### 📌 1.7. 真实 iPhone 咖啡馆人像
 
 #### 👀 预览
 
@@ -193,7 +239,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.6. 梦幻俯拍旗袍人像
+### 📌 1.8. 梦幻俯拍旗袍人像
 
 #### 👀 预览
 
@@ -215,7 +261,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.7. 黑白赛博机械恐怖人像
+### 📌 1.9. 黑白赛博机械恐怖人像
 
 #### 👀 预览
 
@@ -237,7 +283,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.8. 焦糖色西装影棚人像
+### 📌 1.10. 焦糖色西装影棚人像
 
 #### 👀 预览
 
@@ -261,7 +307,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.9. 1969 年户外音乐节人群
+### 📌 1.11. 1969 年户外音乐节人群
 
 #### 👀 预览
 
@@ -284,7 +330,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.10. 渔船人物抓拍
+### 📌 1.12. 渔船人物抓拍
 
 #### 👀 预览
 
@@ -306,7 +352,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.11. 电影感地铁动感人像
+### 📌 1.13. 电影感地铁动感人像
 
 #### 👀 预览
 
@@ -328,7 +374,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.12. 1980 年代复古胶片人像
+### 📌 1.14. 1980 年代复古胶片人像
 
 #### 👀 预览
 
@@ -362,9 +408,116 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 🧸 角色与趣味创作
 
+<a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
+
+### 📌 2.1. iPhone 照片 App 一日相册
+
+#### 👀 预览
+
+[<img src="assets/p52-iphone-photos-day-in-the-life-camera-roll/source-example-01.jpg" width="185" height="400" alt="iPhone 照片 App 一日相册——来源示例">](assets/p52-iphone-photos-day-in-the-life-camera-roll/source-example-01.jpg)
+
+#### 👇 工作流
+
+`主体参考图 → iPhone 照片 App 相册图`
+
+#### 🔖 完整提示词
+
+```text
+仅将上传的图片用作主体参考。
+
+创建一张竖版图片，使其看起来完全像 iPhone“照片”App 的屏幕截图，展示由上传参考图中的同一主体出演的一整天随手相册照片。
+
+主体一致性
+首先识别上传图片中的主要主体。它可以是人物、动漫角色、宠物、动物、毛绒玩具、手办、吉祥物、物体或其他角色。
+
+在每张照片中始终保持主体可辨识的外观、颜色、比例、面部特征、发型、服装、配饰、标记、材质和标志性细节。
+
+如果参考图包含同一主体的多个视角，应理解为同一个主体的不同视图，而不是多个角色。
+
+不要重新设计或替换主体。
+
+一日生活相册
+根据该主体的外观、个性、风格与视觉世界，设想真实可信的一整天。
+
+生成从清晨到夜晚的许多不同随手照片，仿佛有人在一天中自然地持续拍摄该主体。
+
+自动选择适合上传主体的日常情境，例如：
+醒来、休息、进食、坐在窗边、出行、户外散步、逛咖啡馆或商店、玩耍、工作、居家放松、与日常物品互动、日落时刻、夜间外出以及入睡。
+
+活动和环境应自然适配主体。当主体是动物、玩具、物体或非人类角色时，不要强行安排看起来不自然的人类活动。
+
+每个缩略图都应呈现不同的时刻、构图、距离、姿势、拍摄角度、光线条件或地点。
+
+混合使用：
+特写、
+中景、
+远景、
+俯拍照片、
+背影视角、
+细节照片、
+略带模糊的运动照片、
+不完美的手持快照、
+主体被局部裁切的照片、
+与主体一天生活相关的环境照片。
+
+整体应像自然随性、私人的生活记录，而不是专业摄影棚拍摄。
+
+IPHONE“照片”APP 布局
+最终图片本身必须像一张真实的全屏 iPhone“照片”App 截图。
+
+使用高挑的智能手机屏幕截图比例，约为 9:19.5。
+
+采用四列等宽缩略图创建密集相册网格，紧密贴近标准 iPhone“照片”App 的网格布局。
+
+屏幕中应显示约 24–32 张独立照片缩略图。
+
+缩略图之间只留极细的白色间隙。
+
+相册网格应占据屏幕纵向的大部分空间。
+
+包含真实可信的 iPhone“照片”界面元素：
+• 白色 iOS 界面背景
+• 顶部 iPhone 风格状态栏
+• 左上角显示时间
+• 右上角显示蜂窝网络/Wi-Fi/电池图标
+• 顶部附近带有简洁导航控件
+• 四列照片网格
+• 底部“照片”App 导航栏
+• “照片”标签以蓝色选中
+• 其他导航图标显示为灰色
+• 最底部带黑色主屏幕指示条
+
+界面必须像真实的“照片”App 截图，而不是装饰边框、情绪板、联系表、剪贴簿、海报或普通拼贴画。
+
+照片风格
+让每个缩略图都像真实随手拍摄的 iPhone 相册照片。
+
+使用自然日常光线、不完美构图、真实的曝光变化、偶尔的运动模糊、轻微对焦瑕疵、随性的画面安排和可信环境细节。
+
+让同一主体在整幅相册中始终可辨识，同时允许姿势、表情、拍摄距离和光线产生自然变化。
+
+如果上传参考图是插画、动画、风格化作品或 3D 图像，除非明确要求写实摄影，否则保留其原始视觉身份与风格。
+
+重要要求
+最终只输出一张图片。
+完整输出是一张 iPhone“照片”App 截图，其中包含许多不同照片。
+严格使用四列缩略图。
+不要制作缺少 iPhone 界面的独立拼贴画。
+不要创建多个独立输出。
+不要重复使用完全相同的照片。
+不要引入无关角色或主体。
+不要改变主要主体的设计。
+照片缩略图内部不要出现说明、日期、标签、贴纸、水印或装饰性文字。
+只允许出现正常且极简的 iOS 界面元素。
+
+9:16
+```
+
+<sub>(by [@Mayz1169](https://x.com/Mayz1169/status/2099479873027031442)) · [来源平台： X](https://x.com/Mayz1169/status/2099479395283214473) · 灵感来自 [@ikaretamenonui](https://x.com/ikaretamenonui/status/2099139951820742839)</sub>
+
 <a id="p41-minecraft-skin-from-a-reference"></a>
 
-### 📌 2.1. 参考图 → Minecraft 皮肤
+### 📌 2.2. 参考图 → Minecraft 皮肤
 
 #### 👀 预览
 
@@ -386,7 +539,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p33-expressive-meme-sticker-sheet"></a>
 
-### 📌 2.2. 夸张表情包贴纸
+### 📌 2.3. 夸张表情包贴纸
 
 #### 👀 预览
 
@@ -408,7 +561,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p18-four-panel-pet-comic"></a>
 
-### 📌 2.3. 四格宠物漫画
+### 📌 2.4. 四格宠物漫画
 
 #### 👀 预览
 
@@ -432,7 +585,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p11-character-dance-pose-grid"></a>
 
-### 📌 2.4. 角色舞蹈姿势网格
+### 📌 2.5. 角色舞蹈姿势网格
 
 #### 👀 预览
 
@@ -485,7 +638,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p06-portrait-reference-to-multi-view-sheet"></a>
 
-### 📌 2.5. 人像参考 → 多视图设定图
+### 📌 2.6. 人像参考 → 多视图设定图
 
 #### 👀 预览
 
@@ -511,7 +664,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p02-collectible-figure-packaging"></a>
 
-### 📌 2.6. 收藏玩偶包装
+### 📌 2.7. 收藏玩偶包装
 
 #### 👀 预览
 
@@ -535,7 +688,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p01-personalized-sticker-pack"></a>
 
-### 📌 2.7. 个性化贴纸包
+### 📌 2.8. 个性化贴纸包
 
 #### 👀 预览
 
@@ -745,9 +898,375 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 🎨 海报与艺术风格
 
+<a id="p53-adaptive-vintage-city-travel-poster"></a>
+
+### 📌 4.1. 自适应复古城市旅行海报
+
+#### 👀 预览
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-01.jpg" width="283" height="400" alt="自适应复古城市旅行海报——来源示例">](assets/p53-adaptive-vintage-city-travel-poster/source-example-01.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-02.jpg" width="283" height="400" alt="自适应复古城市旅行海报——来源示例">](assets/p53-adaptive-vintage-city-travel-poster/source-example-02.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-03.jpg" width="283" height="400" alt="自适应复古城市旅行海报——来源示例">](assets/p53-adaptive-vintage-city-travel-poster/source-example-03.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-04.jpg" width="302" height="400" alt="自适应复古城市旅行海报——来源示例">](assets/p53-adaptive-vintage-city-travel-poster/source-example-04.jpg)
+
+#### 👇 工作流
+
+`城市名 + 风格参考图 → 复古旅行海报`
+
+#### 🔖 完整提示词
+
+```text
+{
+  "input": {
+    "city_name": "{{USER_INPUT_CITY}}"
+  },
+
+  "reference_style": {
+    "use_uploaded_reference_images": true,
+    "reference_images_define": [
+      "整体构图",
+      "手工剪刻丝网印刷美学",
+      "大胆的黑色图形剪影",
+      "有限色板",
+      "复古旅行海报气质",
+      "粗粝油墨纹理",
+      "略不完美的手工边缘",
+      "超大城市字体",
+      "分层地标布局",
+      "底部交通元素",
+      "奶油色/米白色纸张背景",
+      "极简编辑构图"
+    ],
+    "do_not_copy": [
+      "具体地标",
+      "具体城市名",
+      "具体交通工具",
+      "具体配色组合",
+      "完全相同的字体布局",
+      "完全相同的地标位置"
+    ]
+  },
+
+  "generation": {
+    "type": "vintage_city_travel_poster",
+    "aspect_ratio": "3:4",
+    "resolution": "high",
+    "orientation": "portrait",
+
+    "city_adaptation": {
+      "primary_rule": "所有内容都必须围绕用户输入的 city_name 重新设计。",
+      "identify_city": true,
+      "research_visual_identity": true,
+
+      "landmarks": {
+        "count": "4-7",
+        "selection": "自动选择指定城市中最具辨识度且视觉特征鲜明的地标。",
+        "prioritize": [
+          "主要地标",
+          "历史建筑",
+          "现代建筑标志",
+          "宗教或文化地标",
+          "桥梁或纪念碑",
+          "可辨识的天际线元素"
+        ],
+        "rendering": "将每个地标转化为简洁大胆的黑色丝网印刷剪影，同时保留其可辨识的建筑特征。"
+      },
+
+      "transportation": {
+        "automatically_select": true,
+        "instruction": "选择一种与指定城市高度相关的交通工具，例如出租车、有轨电车、公交车、地铁列车、嘟嘟车、缆车、人力车、经典汽车、渡轮或其他标志性本地交通工具。",
+        "placement": "沿底部边缘放置一个大型前景元素",
+        "style": "简化的复古丝网印刷插画"
+      },
+
+      "colors": {
+        "automatically_adapt": true,
+        "instruction": "根据城市的视觉形象、本地交通、旗帜、建筑或文化色彩，选择克制的 2–4 色配色。",
+        "black": "占主导地位的图形油墨色",
+        "background": "暖调做旧奶油色纸张",
+        "accent_colors": "符合城市特色、色调柔和，绝不过度饱和"
+      },
+
+      "typography": {
+        "text": "{{USER_INPUT_CITY}}",
+        "case": "uppercase",
+        "style": "大型、粗体、不规则的窄体展示字",
+        "placement": "醒目地融入地标之间或地标后方",
+        "texture": "粗糙印刷油墨",
+        "alignment": "略不完美且富有有机感",
+        "rule": "城市名称必须拼写完全正确且清晰可读。"
+      },
+
+      "secondary_text": {
+        "enabled": false,
+        "instruction": "不要添加随意的标语、日期、旅游宣传语、说明或额外可读文字。"
+      },
+
+      "local_details": {
+        "automatically_adapt": true,
+        "instruction": "加入能立即强化指定城市身份的细微视觉细节，同时避免使构图过于拥挤。"
+      }
+    },
+
+    "composition": {
+      "layout": "编辑设计风格的复古旅行海报",
+      "landmarks": "围绕字体进行动态排列",
+      "typography": "大型中央视觉锚点",
+      "foreground": "一种标志性的城市交通工具",
+      "depth": "带少量重叠的平面图形分层",
+      "negative_space": "充足的奶油色负空间",
+      "balance": "不对称但视觉均衡",
+      "cropping": "允许选定地标或交通工具自然延伸至画面边缘"
+    },
+
+    "art_direction": {
+      "medium": "手工丝网印刷/油毡版画风格的旅行海报",
+      "visual_language": [
+        "大胆剪影",
+        "平面色块",
+        "粗糙油墨边缘",
+        "可见印刷颗粒",
+        "细微油墨做旧",
+        "轻微套色偏差",
+        "手工瑕疵",
+        "图形化编辑设计",
+        "世纪中期旅行海报影响"
+      ],
+      "linework": "强劲、厚重、简化",
+      "texture": "真实纸张颗粒与不均匀油墨覆盖",
+      "finish": "呈现实体印刷作品质感，而不是数字化完美的矢量图"
+    },
+
+    "background": {
+      "color": "暖象牙色/做旧奶油色",
+      "texture": "细微天然纸张纤维",
+      "pattern": "none",
+      "gradient": false
+    },
+
+    "quality": {
+      "photorealism": false,
+      "vector_perfection": false,
+      "digital_gloss": false,
+      "clean_modern_ui": false,
+      "high_detail": true,
+      "print_ready_appearance": true
+    }
+  },
+
+  "constraints": {
+    "user_controls_only": [
+      "city_name"
+    ],
+    "model_controls": [
+      "地标选择",
+      "地标布局",
+      "交通工具",
+      "配色",
+      "本地视觉细节",
+      "字体构图",
+      "图形层级"
+    ],
+    "must_have": [
+      "正确的城市名称",
+      "该城市可辨识的地标",
+      "具有城市特色的交通或出行元素",
+      "暖奶油色纸张背景",
+      "大胆的黑色丝网印刷形体",
+      "大型城市字体",
+      "复古手工印刷纹理",
+      "统一的旅行海报构图"
+    ],
+    "avoid": [
+      "来自其他城市的地标",
+      "泛化建筑",
+      "泛化旅游图像",
+      "照片级写实渲染",
+      "3D 渲染",
+      "光滑渐变",
+      "霓虹色",
+      "现代企业海报设计",
+      "随机文字",
+      "拼错的城市名",
+      "额外标语",
+      "水印",
+      "标志",
+      "AI 瑕疵",
+      "过于干净的矢量边缘"
+    ]
+  },
+
+  "output_instruction": "创建一张代表 {{USER_INPUT_CITY}} 的完整复古丝网印刷旅行海报。保留所提供参考图的艺术语言与视觉克制感，但彻底重新设计地标、交通工具、强调色和本地细节，使其真实属于指定城市。"
+}
+```
+
+<sub>(by [@Maercihh](https://x.com/Maercihh/status/2099757585264251102)) · [来源平台： X](https://x.com/Maercihh/status/2099757585264251102)</sub>
+
+<a id="p51-rebel-streetwear-editorial-poster"></a>
+
+### 📌 4.2. 叛逆街头时尚编辑海报
+
+#### 👀 预览
+
+[<img src="assets/p51-rebel-streetwear-editorial-poster/source-example-01.jpg" width="267" height="400" alt="叛逆街头时尚编辑海报——来源示例">](assets/p51-rebel-streetwear-editorial-poster/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 时尚编辑海报`
+
+#### 🔖 完整提示词
+
+```text
+创作一张超写实、高端编辑风格的时尚海报，主体是一位留着凌乱深棕色长发的年轻女性。她戴着窄框黑色太阳镜，身穿褪色蓝色牛仔夹克、白色修身短款上衣和宽松蓝色牛仔裤。
+
+采用戏剧性的低机位视角捕捉她向前倾身、单手伸向镜头的瞬间。她的手靠近镜头，形成强烈透视与轻微运动模糊。她仰起头，神情自信而叛逆，头发随风自然飘动。
+
+背景为复古混合媒介拼贴：带纹理的奶油色纸张底面，大面积做旧红色与橙色几何圆形和矩形，手绘黑白飞鸟、纤细植物枝条，以及克制的粗粝痕迹。
+
+字体与平面设计：在左下区域加入原样的大号粗体白字“FEEL”，其下方加入原样的大号黑字“IT”。加入原样的小型编辑文字：“CHASE WHAT SETS YOUR SOUL ON FIRE”、“LIVE IN THE MOMENT. BE YOU. NO FILTER”和“KEEP GOING, KEEP GROWING.”。右侧加入竖排日文文字，以及纤细装饰线、抽象符号、条码图形、手写笔刷字和极简编辑细节。
+
+配色：暖奶油色、做旧红色、橙色、黑色、白色与柔和牛仔蓝。加入复古纸张颗粒、丝网印刷纹理、褪色油墨、细微划痕和真实拼贴瑕疵。
+
+构图：竖版时尚杂志封面，戏剧性低机位拍摄，主体位置富有动势，图形元素层层叠加，专业艺术指导，真实皮肤纹理，电影感照明，高级街头服饰编辑美学。
+
+宽高比：2:3 竖版，超高细节，4K 照片级写实。
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2099734295539790133)) · [来源平台： X](https://x.com/harboriis/status/2099734295539790133)</sub>
+
+<a id="p50-minimal-watercolor-paper-cover"></a>
+
+### 📌 4.3. 极简水彩纸面封面
+
+#### 👀 预览
+
+[<img src="assets/p50-minimal-watercolor-paper-cover/source-example-01.jpg" width="400" height="400" alt="极简水彩纸面封面——来源示例">](assets/p50-minimal-watercolor-paper-cover/source-example-01.jpg)
+
+#### 👇 工作流
+
+`参考图 → 水彩纸面封面插画`
+
+#### 🔖 完整提示词
+
+```text
+## 指令
+生成一幅单张水彩纸面封面插画。仅将所附参考图用于提取主体、轮廓、姿势、物体、颜色与画布比例。不要在画面中放置、拼贴、叠加、分割或附带原始照片。整幅画布都必须是插画。
+
+## 画幅
+准确匹配所附参考图的宽高比与方向。
+参考图为横向时，插画也为横向。
+参考图为竖向时，插画也为竖向。
+参考图为正方形时，插画也为正方形。
+一幅满版的手工纸张插画。
+不采用上下分割。
+不插入照片。
+不采用双联画。
+不添加黑边、白边或其他补边。
+
+## 宽高比适配
+输出画布必须继承参考图的尺寸关系。
+重新构图，使提取出的元素有意识地占据同一比例的画布。
+不要通过拉伸、压扁或填充画面来伪造其他格式。
+不要把原照片中的空白边缘原样保留为无效空间。
+把参考图的完整比例当作编辑页面使用：根据其特定宽度与高度来安排主体、少量辅助形状和纸张底色。
+
+## 主体提取
+研究所附参考图。
+只保留：
+- 最具辨识度的主体
+- 必要的轮廓与比例
+- 关键姿势或动作
+- 重要物体
+- 人物与物体之间的核心叙事关系
+
+进行高度简化。
+去除不必要的细节。
+仅保留能够让人立即识别的视觉信息。
+
+绝不把照片纹理、毛孔、镜头虚化或相机颗粒复制进插画。
+绝不将照片重绘成一幅上色照片。
+绝不让原始照片出现在画面中。
+
+## 媒介
+纸张上的极简手绘水彩。
+
+使用：
+- 细腻、略带不完美的手绘线条
+- 透明水彩晕染
+- 少量大胆、轮廓清晰的平涂色块
+- 粗糙纸张纹理
+- 可见的手工笔触
+- 略不规则、富有有机感的边缘
+- 轻微积色、水痕绽放与颜料颗粒
+- 能体现真实手工感的细小瑕疵
+
+主要插画主体应小巧且构图精心，约占画布的 20–35%。
+在插画周围保留大量负空间，并依据参考图比例进行分配。
+
+## 纸张底色
+背景应主要呈现为：
+- 粗糙白纸
+- 暖调米白纸
+- 淡色天然纸张
+- 极简编辑类书籍封面纸
+
+仅用少量线条或小型水彩色块暗示周围环境。
+不要让完整场景铺满页面。
+不要绘制照片式背景。
+
+## 色彩
+直接从所附参考图中提取主色。
+将色板压缩为不超过 4 种主要颜色。
+色彩保持克制、高雅、和谐。
+使用大胆但可控的平涂水彩色块。
+避免过多色彩变化。
+保留细腻纸纹与手工笔触质感。
+插画应像是对参考图的简化水彩诠释，而不是复制品。
+
+## 字体
+在自然适合时，可以加入少量简单文字。
+可选元素包括：短标题、关键词、物体名称、地点、年份、数字或短语。
+文字应极少、低调，并具有编辑设计感。
+将文字放置在由参考图比例形成的负空间中。
+若文字与主体并不自然契合，不要强行加入。
+无标志。无水印。无描述图片内容的说明文字。
+
+## 视觉语言
+安静。诗意。精致。极简。纯真。松弛。艺术化。富有思考。高辨识度。高级。
+艺术书封面。独立出版。当代编辑设计。富有思考的绘本。
+
+## 负面提示词
+画面中不得出现原始照片，不采用分割布局，不采用上方照片/下方绘画，不采用拼贴，不采用照片蒙太奇，不附带参考图，不使用照片级写实，不呈现相机观感，不使用镜头虚化，不采用电影感肖像，不进行美颜修饰，不添加额外人物，不追求强身份写实，不使用拥挤构图，不采用满版绘制场景，不强制 3:4，不强制正方形，不加上下黑边，不加黑条，不拉伸或压扁图画，不照搬照片中的无效边缘，不堆砌过多细节，主要颜色不超过四种，不使用喧闹字体，不添加标志，不添加水印，不添加 HUD。
+```
+
+<sub>(by [@impaulxyz](https://x.com/impaulxyz/status/2099770445595545766)) · [来源平台： X](https://x.com/impaulxyz/status/2099770443808821443) · 灵感来自 [@icreatelife](https://x.com/icreatelife/status/2099343607492702258)</sub>
+
+<a id="p48-misty-autumn-lakeside-at-sunrise"></a>
+
+### 📌 4.4. 晨曦薄雾中的秋日湖畔
+
+#### 👀 预览
+
+[<img src="assets/p48-misty-autumn-lakeside-at-sunrise/source-example-01.jpg" width="400" height="224" alt="晨曦薄雾中的秋日湖畔——来源示例">](assets/p48-misty-autumn-lakeside-at-sunrise/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 风景图`
+
+#### 🔖 完整提示词
+
+```text
+一幅宁静的粉彩色调风景：日出时分，静谧湖畔上方浮着柔和薄雾。前景是一片鲜艳草甸，雏菊、羽扇豆等野花一路延伸至一簇秋叶斑斓的白桦树。薄雾笼罩的湖面彼岸，温馨的木屋坐落在更多彩色树木之间，沐浴于朝阳温柔而温暖的光芒中。整体风格梦幻细腻，唤起平和而怀旧的情绪。
+```
+
+<sub>(by [@churvikv](https://x.com/churvikv/status/2099793774700376379)) · [来源平台： X](https://x.com/churvikv/status/2099793774700376379)</sub>
+
 <a id="p44-halftone-travel-collage-poster"></a>
 
-### 📌 4.1. 半色调旅行拼贴海报
+### 📌 4.5. 半色调旅行拼贴海报
 
 #### 👀 预览
 
@@ -794,7 +1313,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <a id="p43-foodie-cities-in-sculptural-typography"></a>
 
-### 📌 4.2. 美食城市雕塑字形
+### 📌 4.6. 美食城市雕塑字形
 
 #### 👀 预览
 
@@ -814,7 +1333,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.3. 沙漠摩托车杂志海报
+### 📌 4.7. 沙漠摩托车杂志海报
 
 #### 👀 预览
 
@@ -838,7 +1357,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.4. 霓虹赛车海报
+### 📌 4.8. 霓虹赛车海报
 
 #### 👀 预览
 
@@ -858,7 +1377,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.5. 林间空地
+### 📌 4.9. 林间空地
 
 #### 👀 预览
 
@@ -878,7 +1397,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.6. 将狗合成至街道场景
+### 📌 4.10. 将狗合成至街道场景
 
 #### 👀 预览
 
@@ -898,7 +1417,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.7. 四个年代的时尚潮流
+### 📌 4.11. 四个年代的时尚潮流
 
 #### 👀 预览
 
@@ -918,7 +1437,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.8. 三格对话漫画
+### 📌 4.12. 三格对话漫画
 
 #### 👀 预览
 
@@ -938,7 +1457,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.9. 剪纸民间故事
+### 📌 4.13. 剪纸民间故事
 
 #### 👀 预览
 
@@ -958,7 +1477,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.10. 剪纸绘本场景
+### 📌 4.14. 剪纸绘本场景
 
 #### 👀 预览
 
@@ -980,7 +1499,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.11. 准确文案的杂志风海报
+### 📌 4.15. 准确文案的杂志风海报
 
 #### 👀 预览
 
@@ -1007,7 +1526,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.12. 日常物品中的微缩世界
+### 📌 4.16. 日常物品中的微缩世界
 
 #### 👀 预览
 

@@ -30,6 +30,19 @@ def markdown_anchors(body):
     return anchors
 
 
+def readme_case_section(body, anchor):
+    """Return one README case without treating prompt headings as case boundaries."""
+    marker = f'<a id="{anchor}"></a>'
+    start = body.find(marker)
+    if start < 0:
+        return ''
+    # Prompt 正文可能包含 Markdown 标题；案例边界以仓库维护的显式锚点为准。
+    remainder = body[start + len(marker):]
+    next_anchor = re.search(r'^<a id="[^"]+"></a>$', remainder, re.M)
+    end = start + len(marker) + next_anchor.start() if next_anchor else len(body)
+    return body[start:end]
+
+
 def main():
     entries = json.loads((ROOT / 'catalog.json').read_text())['entries']
     errors = []
@@ -65,9 +78,7 @@ def main():
         body = path.read_text()
         chinese_case = ROOT / 'cases/zh-CN' / path.name
         chinese_body = chinese_case.read_text() if chinese_case.is_file() else ''
-        zh_match = re.search(
-            rf"^### (?:📌 )?{re.escape(entry.get('display_number', key))}\. .*?(?=^### |^## |\Z)", chinese_homepage, re.M | re.S)
-        chinese_section = zh_match.group() if zh_match else ''
+        chinese_section = readme_case_section(chinese_homepage, entry['readme_anchor'])
         if not chinese_body.startswith(f'# {key}. {entry.get("title_zh", "")}') or not chinese_section:
             errors.append(f'{key}: missing Chinese title, case or inline section')
         for heading in ['👀 预览', '👇 工作流', '🔖 完整提示词']:
@@ -77,9 +88,7 @@ def main():
         chinese_images = re.findall(r'<img\s+src="([^"]+)"', chinese_body)
         if [x.removeprefix('../') for x in english_images] != [x.removeprefix('../../') for x in chinese_images]:
             errors.append(f'{key}: Chinese preview images differ from English')
-        section_match = re.search(
-            rf"^### (?:📌 )?{re.escape(entry.get('display_number', key))}\. .*?(?=^### |^## |\Z)", homepage, re.M | re.S)
-        section = section_match.group() if section_match else ''
+        section = readme_case_section(homepage, entry['readme_anchor'])
         if not section:
             errors.append(f'{key}: missing inline homepage section')
         if not body.startswith(f"# {key}. {entry['title']}"):

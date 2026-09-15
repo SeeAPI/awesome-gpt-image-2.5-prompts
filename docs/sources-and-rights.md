@@ -45,6 +45,16 @@ P43–P47 add five collected prompts and seven unchanged source images from the 
 
 P43–P47 收录五条提示词及七张未改动的 X 原帖示例图。来源中的模型标签未经独立核验。P43 的 SQL 风格提示词作为文本保留，中英文均保留代码字面量。P44 要求的 3:4 比例与示例图不同，原始输入未提供。P45 的来源拼图不能独立证明 4K 输出或修复保真度。P47 保留中文原始模板，并明确标注英文由 SeeAPI 翻译。P45 和 P47 是已发布的简短模板，完整生成输入尚未确认。
 
+## September 15, 2026 Additions / 2026 年 9 月 15 日新增
+
+P48–P54 add seven collected prompts and ten unchanged source images from the linked X posts. All model labels remain source claims; the repository did not regenerate these examples. P50 and P52 preserve prompt-thread links and the inspiration credits stated by their publishers. P51 includes only the female example that matches its prompt; the mismatched male variant is not published.
+
+P50's original input reference was not exposed, and its source example depicts Kobe Bryant with Los Angeles Lakers names or marks. Those names, likenesses, and marks belong to their respective rights holders; this repository grants no reuse rights and users should substitute subjects and text they are authorized to use. P52's clean subject reference is not included, P53's required style-reference set is unavailable, and P54's uploaded identity reference is unavailable. Their included images are source examples of the posted outputs, not complete reproducibility packages.
+
+P48–P54 收录七条提示词及十张未改动的 X 原帖示例图。所有模型标签仍仅为来源声明；本仓库未重新生成这些示例。P50 与 P52 保留提示词所在回复链接，以及发布者明确注明的灵感来源。P51 只收录与提示词一致的女性示例，不发布与提示词不一致的男性变体。
+
+P50 的原始输入参考图未公开，其来源示例包含 Kobe Bryant 肖像及 Los Angeles Lakers 名称或标识。相关姓名、肖像与标识权利归各自权利人所有；本仓库不授予其复用权，使用者应替换为自己有权使用的主体与文字。P52 未收录干净的主体参考图，P53 缺少提示词要求的风格参考图组，P54 缺少上传的人物身份参考图。所收录图片仅是原帖输出示例，并非完整可复现素材包。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

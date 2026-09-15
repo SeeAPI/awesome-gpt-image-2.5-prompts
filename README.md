@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 47 standalone prompts · Updated September 15, 2026**
+**5 creative workflows · 54 standalone prompts · Updated September 15, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -61,9 +61,55 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 ## 📷 Portraits & Photography
 
+<a id="p54-cinematic-modern-mafia-boss-portrait"></a>
+
+### 📌 1.1. Cinematic Modern Mafia Boss Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p54-cinematic-modern-mafia-boss-portrait/source-example-01.jpg" width="400" height="400" alt="Cinematic Modern Mafia Boss Portrait — source example">](assets/p54-cinematic-modern-mafia-boss-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Face reference → cinematic portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
+```
+
+<sub>(by [@john_my07](https://x.com/john_my07/status/2099745210196738366)) · [Source: X](https://x.com/john_my07/status/2099745210196738366)</sub>
+
+<a id="p49-soft-hijab-beauty-portrait"></a>
+
+### 📌 1.2. Soft Hijab Beauty Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg" width="225" height="400" alt="Soft Hijab Beauty Portrait — source example">](assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → beauty portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A close-up portrait of a young East Asian woman with fair, smooth porcelain skin and a soft, even complexion. She has large, almond-shaped light gray-blue eyes with long, dark, defined eyelashes and subtle eyeliner. Her eyebrows are slender and neatly shaped. She wears natural, dewy makeup with a soft pink blush on the cheeks and glossy, slightly plump rose-pink lips. She looks directly at the camera with a calm, gentle, slightly reserved expression.
+
+She is wearing a sheer, lightweight hijab in muted beige, taupe, and champagne tones with an intricate paisley and floral pattern in gold and brown. The fabric is draped loosely and layered around her head and shoulders, covering all of her hair. A small gold spherical pin or brooch is visible on the left side of the hijab near her temple. The fabric has a soft, slightly translucent quality with gentle folds and texture.
+
+The background is an indoor setting with a light-colored wall and a wooden shelf visible in the upper left, holding a few bottles (one with an orange cap). Soft, natural indoor lighting creates a warm, flattering glow on her face with no harsh shadows.
+
+Photorealistic, high-detail beauty portrait, shallow depth of field, soft focus on the background, elegant and modest styling.
+```
+
+<sub>(by [@woleswoosh](https://x.com/woleswoosh/status/2099774470374502450)) · [Source: X](https://x.com/woleswoosh/status/2099774470374502450)</sub>
+
 <a id="p47-y2k-queen-of-the-women-s-kingdom"></a>
 
-### 📌 1.1. Y2K Queen of the Women's Kingdom
+### 📌 1.3. Y2K Queen of the Women's Kingdom
 
 #### 👀 Preview
 
@@ -83,7 +129,7 @@ Y2K non-mainstream style × early digital aesthetic × contrasting cuteness × Q
 
 <a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
 
-### 📌 1.2. Atmospheric Dressing-Room Fashion Portrait
+### 📌 1.4. Atmospheric Dressing-Room Fashion Portrait
 
 #### 👀 Preview
 
@@ -121,7 +167,7 @@ Hyperrealistic photography. Authentic human skin with visible pores, fine peach 
 
 <a id="p45-natural-4k-photo-restoration"></a>
 
-### 📌 1.3. Natural 4K Photo Restoration
+### 📌 1.5. Natural 4K Photo Restoration
 
 #### 👀 Preview
 
@@ -141,7 +187,7 @@ upscale this image to 4K. preserve every detail. make it look natural and raw. r
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
-### 📌 1.4. Candid Mont-Saint-Michel Travel Portrait
+### 📌 1.6. Candid Mont-Saint-Michel Travel Portrait
 
 #### 👀 Preview
 
@@ -165,7 +211,7 @@ Dress the person in a long oversized black coat over a light outfit, a soft crea
 
 <a id="p37-realistic-iphone-cafe-portrait"></a>
 
-### 📌 1.5. Realistic iPhone Cafe Portrait
+### 📌 1.7. Realistic iPhone Cafe Portrait
 
 #### 👀 Preview
 
@@ -187,7 +233,7 @@ Create a realistic iPhone-style candid photo of this person in [cafe setting], w
 
 <a id="p36-dreamy-high-angle-qipao-portrait"></a>
 
-### 📌 1.6. Dreamy High-Angle Qipao Portrait
+### 📌 1.8. Dreamy High-Angle Qipao Portrait
 
 #### 👀 Preview
 
@@ -209,7 +255,7 @@ Create a vertical 9:16 fashion portrait of this person wearing [qipao color and 
 
 <a id="p35-monochrome-cybernetic-horror-portrait"></a>
 
-### 📌 1.7. Monochrome Cybernetic Horror Portrait
+### 📌 1.9. Monochrome Cybernetic Horror Portrait
 
 #### 👀 Preview
 
@@ -231,7 +277,7 @@ Transform the portrait into a monochrome cybernetic horror photograph. Keep the 
 
 <a id="p29-caramel-suit-studio-portrait"></a>
 
-### 📌 1.8. Caramel Suit Studio Portrait
+### 📌 1.10. Caramel Suit Studio Portrait
 
 #### 👀 Preview
 
@@ -255,7 +301,7 @@ Both hands rest naturally inside the trouser pockets, shoulders relaxed, posture
 
 <a id="p17-1969-outdoor-festival-crowd"></a>
 
-### 📌 1.9. 1969 Outdoor Festival Crowd
+### 📌 1.11. 1969 Outdoor Festival Crowd
 
 #### 👀 Preview
 
@@ -278,7 +324,7 @@ Photorealistic, period-accurate clothing, staging, and environment.
 
 <a id="p13-candid-sailor-portrait"></a>
 
-### 📌 1.10. Candid Sailor Portrait
+### 📌 1.12. Candid Sailor Portrait
 
 #### 👀 Preview
 
@@ -300,7 +346,7 @@ Create a photorealistic candid photograph of this person on a small fishing boat
 
 <a id="p12-cinematic-subway-motion-portrait"></a>
 
-### 📌 1.11. Cinematic Subway Motion Portrait
+### 📌 1.13. Cinematic Subway Motion Portrait
 
 #### 👀 Preview
 
@@ -322,7 +368,7 @@ Create a cinematic portrait of this person standing still on a subway platform a
 
 <a id="p10-1980s-retro-film-portrait"></a>
 
-### 📌 1.12. 1980s Retro Film Portrait
+### 📌 1.14. 1980s Retro Film Portrait
 
 #### 👀 Preview
 
@@ -354,9 +400,116 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 ## 🧸 Characters & Playful Creations
 
+<a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
+
+### 📌 2.1. iPhone Photos Day-in-the-Life Camera Roll
+
+#### 👀 Preview
+
+[<img src="assets/p52-iphone-photos-day-in-the-life-camera-roll/source-example-01.jpg" width="185" height="400" alt="iPhone Photos Day-in-the-Life Camera Roll — source example">](assets/p52-iphone-photos-day-in-the-life-camera-roll/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Subject reference → iPhone Photos camera-roll image`
+
+#### 🔖 Full Prompt
+
+```text
+Use the uploaded image as the ONLY subject reference.
+
+Create ONE vertical image that looks exactly like a screenshot of the iPhone Photos app, showing one full day of casual camera-roll photos featuring the exact subject from the uploaded reference.
+
+SUBJECT CONSISTENCY
+First identify the main subject in the uploaded image. It may be a person, anime character, pet, animal, plush toy, figurine, mascot, object, or other character.
+
+Preserve the subject’s recognizable appearance, colors, proportions, facial features, hairstyle, clothing, accessories, markings, materials, and signature details consistently across every photo.
+
+If the reference contains multiple views of the same subject, understand that they are different views of ONE subject, not multiple characters.
+
+Do not redesign or replace the subject.
+
+DAY-IN-THE-LIFE CAMERA ROLL
+Imagine a believable full day for this exact subject based on its appearance, personality, style, and visual world.
+
+Generate many different casual photos from morning to night, as if someone naturally photographed the subject throughout the day.
+
+Automatically choose everyday situations that fit the uploaded subject, such as:
+waking up, resting, eating, sitting by a window, traveling, walking outside, visiting cafés or shops, playing, working, relaxing at home, interacting with everyday objects, sunset moments, nighttime outings, and going to sleep.
+
+The activities and environments should adapt naturally to the subject. Do not force human activities onto animals, toys, objects, or non-human characters when they would look unnatural.
+
+Every thumbnail should show a different moment, composition, distance, pose, camera angle, lighting condition, or location.
+
+Mix:
+close-ups,
+medium shots,
+wide shots,
+overhead photos,
+back views,
+detail shots,
+slightly blurry movement shots,
+imperfect handheld snapshots,
+photos where the subject is partially cropped,
+environmental photos related to the subject’s day.
+
+The result should feel spontaneous and personal rather than like a professional photoshoot.
+
+IPHONE PHOTOS APP LAYOUT
+The FINAL IMAGE itself must look like a real full-screen iPhone Photos app screenshot.
+
+Use a tall smartphone screenshot aspect ratio, approximately 9:19.5.
+
+Create a dense camera-roll gallery using FOUR equal thumbnail columns, closely matching the standard iPhone Photos grid.
+
+Include approximately 24–32 individual photo thumbnails visible on screen.
+
+Use very thin white gaps between thumbnails.
+
+The gallery should fill most of the screen vertically.
+
+Include authentic iPhone Photos interface elements:
+• white iOS interface background
+• iPhone-style status bar at the top
+• time on the upper left
+• cellular/Wi-Fi/battery icons on the upper right
+• simple navigation controls near the top
+• four-column photo gallery
+• bottom Photos app navigation bar
+• Photos tab selected in blue
+• other navigation icons shown in gray
+• black home indicator at the very bottom
+
+The UI must look like an actual screenshot of the Photos app, NOT a decorative frame, moodboard, contact sheet, scrapbook, poster, or generic collage.
+
+PHOTO STYLE
+Make each thumbnail feel like a genuine casual iPhone camera-roll photo.
+
+Use natural everyday lighting, imperfect framing, realistic exposure variation, occasional motion blur, slight focus imperfections, spontaneous compositions, and believable environmental details.
+
+Keep the same subject recognizable throughout the entire gallery while allowing natural changes in pose, expression, camera distance, and lighting.
+
+If the uploaded reference is illustrated, animated, stylized, or 3D, preserve its original visual identity and style unless realistic photography is explicitly requested.
+
+IMPORTANT
+ONE final image only.
+The entire output is ONE iPhone Photos app screenshot containing many different photos.
+Exactly FOUR thumbnail columns.
+Do not create a standalone collage without the iPhone interface.
+Do not create multiple separate outputs.
+Do not duplicate the exact same photo repeatedly.
+Do not introduce unrelated characters or subjects.
+Do not change the main subject’s design.
+No captions, dates, labels, stickers, watermarks, or decorative text inside the photo thumbnails.
+Only normal minimal iOS interface elements may appear.
+
+9:16
+```
+
+<sub>(by [@Mayz1169](https://x.com/Mayz1169/status/2099479873027031442)) · [Source: X](https://x.com/Mayz1169/status/2099479395283214473) · Inspired by [@ikaretamenonui](https://x.com/ikaretamenonui/status/2099139951820742839)</sub>
+
 <a id="p41-minecraft-skin-from-a-reference"></a>
 
-### 📌 2.1. Minecraft Skin from a Reference
+### 📌 2.2. Minecraft Skin from a Reference
 
 #### 👀 Preview
 
@@ -378,7 +531,7 @@ Transform the person in the uploaded photo into a Minecraft-style character whil
 
 <a id="p33-expressive-meme-sticker-sheet"></a>
 
-### 📌 2.2. Expressive Meme Sticker Sheet
+### 📌 2.3. Expressive Meme Sticker Sheet
 
 #### 👀 Preview
 
@@ -402,7 +555,7 @@ Create a single square(1:1) transparent sticker sheet with nine distinct sticker
 
 <a id="p18-four-panel-pet-comic"></a>
 
-### 📌 2.3. Four-Panel Pet Comic
+### 📌 2.4. Four-Panel Pet Comic
 
 #### 👀 Preview
 
@@ -426,7 +579,7 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 
 <a id="p11-character-dance-pose-grid"></a>
 
-### 📌 2.4. Character Dance Pose Grid
+### 📌 2.5. Character Dance Pose Grid
 
 #### 👀 Preview
 
@@ -479,7 +632,7 @@ Final output: one complete, clearly readable 4×4 sheet of sixteen original danc
 
 <a id="p06-portrait-reference-to-multi-view-sheet"></a>
 
-### 📌 2.5. Portrait Reference to Multi-View Sheet
+### 📌 2.6. Portrait Reference to Multi-View Sheet
 
 #### 👀 Preview
 
@@ -505,7 +658,7 @@ Use a plain [background color] studio background, soft even lighting, and the sa
 
 <a id="p02-collectible-figure-packaging"></a>
 
-### 📌 2.6. Collectible Figure Packaging
+### 📌 2.7. Collectible Figure Packaging
 
 #### 👀 Preview
 
@@ -529,7 +682,7 @@ Arrange exactly three accessories in separate compartments to the figure's right
 
 <a id="p01-personalized-sticker-pack"></a>
 
-### 📌 2.7. Personalized Sticker Pack
+### 📌 2.8. Personalized Sticker Pack
 
 #### 👀 Preview
 
@@ -740,9 +893,375 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 
 ## 🎨 Posters & Artistic Styles
 
+<a id="p53-adaptive-vintage-city-travel-poster"></a>
+
+### 📌 4.1. Adaptive Vintage City Travel Poster
+
+#### 👀 Preview
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-01.jpg" width="283" height="400" alt="Adaptive Vintage City Travel Poster — source example">](assets/p53-adaptive-vintage-city-travel-poster/source-example-01.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-02.jpg" width="283" height="400" alt="Adaptive Vintage City Travel Poster — source example">](assets/p53-adaptive-vintage-city-travel-poster/source-example-02.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-03.jpg" width="283" height="400" alt="Adaptive Vintage City Travel Poster — source example">](assets/p53-adaptive-vintage-city-travel-poster/source-example-03.jpg)
+
+[<img src="assets/p53-adaptive-vintage-city-travel-poster/source-example-04.jpg" width="302" height="400" alt="Adaptive Vintage City Travel Poster — source example">](assets/p53-adaptive-vintage-city-travel-poster/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`City name + style references → vintage travel poster`
+
+#### 🔖 Full Prompt
+
+```text
+{
+  "input": {
+    "city_name": "{{USER_INPUT_CITY}}"
+  },
+
+  "reference_style": {
+    "use_uploaded_reference_images": true,
+    "reference_images_define": [
+      "overall composition",
+      "hand-cut screenprint aesthetic",
+      "bold black graphic silhouettes",
+      "limited color palette",
+      "vintage travel poster character",
+      "rough ink texture",
+      "slightly imperfect handmade edges",
+      "large oversized city typography",
+      "layered landmark arrangement",
+      "bottom transportation element",
+      "cream/off-white paper background",
+      "minimal editorial composition"
+    ],
+    "do_not_copy": [
+      "specific landmarks",
+      "specific city name",
+      "specific vehicle",
+      "specific color combinations",
+      "exact typography arrangement",
+      "exact landmark placement"
+    ]
+  },
+
+  "generation": {
+    "type": "vintage_city_travel_poster",
+    "aspect_ratio": "3:4",
+    "resolution": "high",
+    "orientation": "portrait",
+
+    "city_adaptation": {
+      "primary_rule": "Everything must be redesigned around the user's city_name.",
+      "identify_city": true,
+      "research_visual_identity": true,
+
+      "landmarks": {
+        "count": "4-7",
+        "selection": "Automatically select the most recognizable and visually distinctive landmarks of the specified city.",
+        "prioritize": [
+          "major landmark",
+          "historic architecture",
+          "modern architectural icon",
+          "religious or cultural landmark",
+          "bridge or monument",
+          "recognizable skyline element"
+        ],
+        "rendering": "Convert each landmark into simplified bold black screenprint silhouettes while preserving its recognizable architectural identity."
+      },
+
+      "transportation": {
+        "automatically_select": true,
+        "instruction": "Choose a transportation vehicle strongly associated with the specified city, such as a taxi, tram, bus, metro train, tuk-tuk, cable car, rickshaw, classic car, ferry, or other iconic local transport.",
+        "placement": "large foreground element along the bottom edge",
+        "style": "simplified vintage screenprint illustration"
+      },
+
+      "colors": {
+        "automatically_adapt": true,
+        "instruction": "Select a restrained 2-4 color palette inspired by the city's visual identity, local transportation, flag, architecture, or cultural colors.",
+        "black": "dominant graphic ink color",
+        "background": "warm aged cream paper",
+        "accent_colors": "city-specific and muted, never overly saturated"
+      },
+
+      "typography": {
+        "text": "{{USER_INPUT_CITY}}",
+        "case": "uppercase",
+        "style": "large bold irregular condensed display lettering",
+        "placement": "integrated prominently between or behind the landmarks",
+        "texture": "rough printed ink",
+        "alignment": "slightly imperfect and organic",
+        "rule": "The city name must be perfectly spelled and clearly readable."
+      },
+
+      "secondary_text": {
+        "enabled": false,
+        "instruction": "Do not add arbitrary slogans, dates, tourist phrases, descriptions, or extra readable text."
+      },
+
+      "local_details": {
+        "automatically_adapt": true,
+        "instruction": "Add subtle visual details that immediately reinforce the identity of the specified city without overcrowding the composition."
+      }
+    },
+
+    "composition": {
+      "layout": "editorial vintage travel poster",
+      "landmarks": "arranged dynamically around the typography",
+      "typography": "large central visual anchor",
+      "foreground": "one iconic city transportation element",
+      "depth": "flat graphic layering with minimal overlap",
+      "negative_space": "generous cream-colored negative space",
+      "balance": "asymmetrical but visually balanced",
+      "cropping": "allow selected landmarks or transportation to naturally extend toward the edges"
+    },
+
+    "art_direction": {
+      "medium": "hand-pulled screenprint / linocut-inspired travel poster",
+      "visual_language": [
+        "bold silhouettes",
+        "flat shapes",
+        "rough ink edges",
+        "visible print grain",
+        "subtle ink distress",
+        "slight registration imperfections",
+        "handmade imperfections",
+        "graphic editorial design",
+        "mid-century travel poster influence"
+      ],
+      "linework": "strong, chunky and simplified",
+      "texture": "authentic paper grain and uneven ink coverage",
+      "finish": "physical printed artwork rather than digitally perfect vector art"
+    },
+
+    "background": {
+      "color": "warm ivory / aged cream",
+      "texture": "subtle natural paper fibers",
+      "pattern": "none",
+      "gradient": false
+    },
+
+    "quality": {
+      "photorealism": false,
+      "vector_perfection": false,
+      "digital_gloss": false,
+      "clean_modern_ui": false,
+      "high_detail": true,
+      "print_ready_appearance": true
+    }
+  },
+
+  "constraints": {
+    "user_controls_only": [
+      "city_name"
+    ],
+    "model_controls": [
+      "landmark selection",
+      "landmark arrangement",
+      "transportation",
+      "color palette",
+      "local visual details",
+      "typographic composition",
+      "graphic hierarchy"
+    ],
+    "must_have": [
+      "correct city name",
+      "recognizable landmarks from that city",
+      "city-specific transportation or mobility element",
+      "warm cream paper background",
+      "bold black screenprint forms",
+      "large city typography",
+      "vintage handmade print texture",
+      "cohesive travel-poster composition"
+    ],
+    "avoid": [
+      "landmarks from other cities",
+      "generic buildings",
+      "generic tourist imagery",
+      "photorealistic rendering",
+      "3D rendering",
+      "glossy gradients",
+      "neon colors",
+      "modern corporate poster design",
+      "random text",
+      "misspelled city name",
+      "extra slogans",
+      "watermarks",
+      "logos",
+      "AI artifacts",
+      "overly clean vector edges"
+    ]
+  },
+
+  "output_instruction": "Create a single finished vintage screenprint travel poster representing {{USER_INPUT_CITY}}. Preserve the artistic language and visual restraint of the supplied references, but completely redesign the landmarks, transportation, color accents and local details so they authentically belong to the specified city."
+}
+```
+
+<sub>(by [@Maercihh](https://x.com/Maercihh/status/2099757585264251102)) · [Source: X](https://x.com/Maercihh/status/2099757585264251102)</sub>
+
+<a id="p51-rebel-streetwear-editorial-poster"></a>
+
+### 📌 4.2. Rebel Streetwear Editorial Poster
+
+#### 👀 Preview
+
+[<img src="assets/p51-rebel-streetwear-editorial-poster/source-example-01.jpg" width="267" height="400" alt="Rebel Streetwear Editorial Poster — source example">](assets/p51-rebel-streetwear-editorial-poster/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → editorial fashion poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create an ultra-realistic, high-end editorial fashion poster featuring a young woman with long, messy dark brown hair, wearing narrow black sunglasses, a faded blue denim jacket, a white fitted crop top, and relaxed blue jeans.
+
+She is captured from a dramatic low-angle perspective, leaning forward and reaching one hand toward the camera. Her hand is close to the lens, creating a strong perspective and slight motion blur. Her head is tilted upward, with a confident, rebellious expression. Her hair flows naturally in the wind.
+
+The background is a vintage mixed-media collage with a textured cream paper base, large distressed red and orange geometric circles and rectangles, hand-drawn black-and-white birds in flight, fine botanical branches, and subtle grunge marks.
+
+Typography and graphic design: oversized bold white text reading “FEEL” across the lower-left section, with large black text reading “IT” underneath. Add small editorial text such as “CHASE WHAT SETS YOUR SOUL ON FIRE,” “LIVE IN THE MOMENT. BE YOU. NO FILTER,” and “KEEP GOING, KEEP GROWING.” Include vertical Japanese typography on the right, thin decorative lines, abstract symbols, barcode graphics, handwritten brush lettering, and minimalist editorial details.
+
+Color palette: warm cream, distressed red, orange, black, white, and muted denim blue. Add vintage paper grain, screen-print texture, faded ink, subtle scratches, and authentic collage imperfections.
+
+Composition: vertical fashion magazine cover, dramatic low-angle shot, dynamic subject placement, layered graphic elements, professional art direction, realistic skin texture, cinematic lighting, premium streetwear editorial aesthetic.
+
+Aspect ratio: 2:3 vertical, ultra-detailed, 4K photorealistic.
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2099734295539790133)) · [Source: X](https://x.com/harboriis/status/2099734295539790133)</sub>
+
+<a id="p50-minimal-watercolor-paper-cover"></a>
+
+### 📌 4.3. Minimal Watercolor Paper Cover
+
+#### 👀 Preview
+
+[<img src="assets/p50-minimal-watercolor-paper-cover/source-example-01.jpg" width="400" height="400" alt="Minimal Watercolor Paper Cover — source example">](assets/p50-minimal-watercolor-paper-cover/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Reference image → watercolor paper-cover illustration`
+
+#### 🔖 Full Prompt
+
+```text
+## DIRECTIVE
+Generate a single watercolor paper-cover illustration. Use the attached reference image only as a source to extract subject, silhouette, pose, objects, colors, and canvas proportion. Do not place, collage, overlay, split, or attach the original photograph anywhere in the frame. The entire canvas is the illustration.
+
+## FORMAT
+Match the exact aspect ratio and orientation of the attached reference image.
+If the reference is horizontal, the illustration is horizontal.
+If the reference is vertical, the illustration is vertical.
+If the reference is square, the illustration is square.
+One full-bleed handmade paper illustration.
+No top/bottom split.
+No photographic insert.
+No diptych.
+No letterboxing or added bars.
+
+## ASPECT RATIO ADAPTATION
+The output canvas must inherit the size relationship of the reference image.
+Recompose the extracted elements to occupy that same proportion with intention.
+Do not stretch, squash, or pad the drawing to fake another format.
+Do not keep the original photograph's empty margins as dead space.
+Use the full reference proportion as an editorial page: subject, a few supporting shapes, and paper ground arranged for that specific width and height.
+
+## SUBJECT EXTRACTION
+Study the attached reference image.
+Preserve only:
+- the most recognizable subject
+- essential silhouette and proportions
+- key pose or gesture
+- important objects
+- the core narrative relationship between people and objects
+
+Highly simplify.
+Remove unnecessary details.
+Retain only the visual information needed for immediate recognition.
+
+Never copy photographic texture, pores, lens blur, or camera grain into the illustration.
+Never redraw the photograph as a painted photo.
+Never keep the original photo visible.
+
+## MEDIUM
+Minimalist hand-drawn watercolor on paper.
+
+Use:
+- delicate, slightly imperfect hand-drawn lines
+- transparent watercolor washes
+- a small number of bold, clearly defined flat color shapes
+- rough paper texture
+- visible handmade brush marks
+- slightly irregular, organic edges
+- subtle pooling, bloom, and pigment granulation
+- slight imperfections that make it feel genuinely handmade
+
+The main illustrated subject should be small and carefully composed, occupying approximately 20–35% of the canvas.
+Leave a large amount of negative space around the illustration, distributed according to the reference proportion.
+
+## PAPER GROUND
+The background should primarily resemble:
+- rough white paper
+- warm off-white paper
+- pale natural paper
+- minimal editorial book-cover stock
+
+Use only a few lines or small watercolor shapes to suggest the surrounding environment.
+Do not fill the page with a full scene.
+Do not paint a photographic background.
+
+## COLOR PALETTE
+Extract the dominant colors directly from the attached reference image.
+Compress the palette into no more than 4 main colors.
+Keep the colors restrained, sophisticated, and harmonious.
+Use bold but controlled flat watercolor blocks.
+Avoid excessive color variation.
+Preserve subtle paper grain and handmade brush texture.
+The illustration should feel like a simplified watercolor interpretation of the reference, not a copy of it.
+
+## TYPOGRAPHY
+A small amount of simple typography may be included when it naturally fits.
+Possible elements: a short title, keyword, object name, location, year, number, or short phrase.
+Text should be minimal, understated, and editorial.
+Place type in the negative space created by the reference proportion.
+Do not force text into the composition if it does not naturally fit the subject.
+No logos. No watermarks. No captions describing the image.
+
+## VISUAL LANGUAGE
+Quiet. Poetic. Refined. Minimal. Innocent. Relaxed. Artistic. Thoughtful. High-recognition. Premium.
+Art-book cover. Independent publishing. Contemporary editorial design. Thoughtful picture book.
+
+## NEGATIVE PROMPT
+No original photograph in the frame, no split layout, no top photo / bottom drawing, no collage, no photomontage, no attached reference image, no photorealism, no camera look, no lens blur, no cinematic portrait, no beauty retouch, no extra people, no identity-heavy realism, no crowded composition, no full-bleed painted scene, no forced 3:4, no forced square, no letterboxing, no black bars, no stretched or squashed drawing, no unused margins copied from the photograph, no excessive detail, no more than four main colors, no loud typography, no logos, no watermarks, no HUD.
+```
+
+<sub>(by [@impaulxyz](https://x.com/impaulxyz/status/2099770445595545766)) · [Source: X](https://x.com/impaulxyz/status/2099770443808821443) · Inspired by [@icreatelife](https://x.com/icreatelife/status/2099343607492702258)</sub>
+
+<a id="p48-misty-autumn-lakeside-at-sunrise"></a>
+
+### 📌 4.4. Misty Autumn Lakeside at Sunrise
+
+#### 👀 Preview
+
+[<img src="assets/p48-misty-autumn-lakeside-at-sunrise/source-example-01.jpg" width="400" height="224" alt="Misty Autumn Lakeside at Sunrise — source example">](assets/p48-misty-autumn-lakeside-at-sunrise/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → landscape image`
+
+#### 🔖 Full Prompt
+
+```text
+A tranquil, pastel-toned landscape featuring a serene lakeside at sunrise, with soft mist hovering over the water. In the foreground, a vibrant meadow filled with wildflowers such as daisies and lupines leads to a cluster of birch trees with autumn-colored leaves. Across the misty lake, cozy wooden cottages nestle among more colorful trees, all bathed in the gentle, warm glow of the rising sun. The overall style is dreamy and delicate, evoking a peaceful, nostalgic mood.
+```
+
+<sub>(by [@churvikv](https://x.com/churvikv/status/2099793774700376379)) · [Source: X](https://x.com/churvikv/status/2099793774700376379)</sub>
+
 <a id="p44-halftone-travel-collage-poster"></a>
 
-### 📌 4.1. Halftone Travel Collage Poster
+### 📌 4.5. Halftone Travel Collage Poster
 
 #### 👀 Preview
 
@@ -789,7 +1308,7 @@ Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hid
 
 <a id="p43-foodie-cities-in-sculptural-typography"></a>
 
-### 📌 4.2. Foodie Cities in Sculptural Typography
+### 📌 4.6. Foodie Cities in Sculptural Typography
 
 #### 👀 Preview
 
@@ -809,7 +1328,7 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 
-### 📌 4.3. Desert Motorcycle Editorial Poster
+### 📌 4.7. Desert Motorcycle Editorial Poster
 
 #### 👀 Preview
 
@@ -833,7 +1352,7 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 
 <a id="p39-neon-motorsport-poster"></a>
 
-### 📌 4.4. Neon Motorsport Poster
+### 📌 4.8. Neon Motorsport Poster
 
 #### 👀 Preview
 
@@ -853,7 +1372,7 @@ Place the exact title "[poster title]" in oversized burnt-orange industrial sans
 
 <a id="p34-woodland-clearing"></a>
 
-### 📌 4.5. Woodland Clearing
+### 📌 4.9. Woodland Clearing
 
 #### 👀 Preview
 
@@ -873,7 +1392,7 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 <a id="p32-dog-compositing-into-a-street-scene"></a>
 
-### 📌 4.6. Dog Compositing into a Street Scene
+### 📌 4.10. Dog Compositing into a Street Scene
 
 #### 👀 Preview
 
@@ -893,7 +1412,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="p28-fashion-movements-across-four-decades"></a>
 
-### 📌 4.7. Fashion Movements Across Four Decades
+### 📌 4.11. Fashion Movements Across Four Decades
 
 #### 👀 Preview
 
@@ -913,7 +1432,7 @@ Place the dog from the second image into the setting of image 1, right next to t
 
 <a id="p25-three-panel-dialogue-comic"></a>
 
-### 📌 4.8. Three-Panel Dialogue Comic
+### 📌 4.12. Three-Panel Dialogue Comic
 
 #### 👀 Preview
 
@@ -933,7 +1452,7 @@ A three-panel comic strip with hand-lettered speech balloons, ink and flat color
 
 <a id="p09-paper-folk-story"></a>
 
-### 📌 4.9. Paper Folk Story
+### 📌 4.13. Paper Folk Story
 
 #### 👀 Preview
 
@@ -953,7 +1472,7 @@ Paper cut-out animation of a [subject] [simple action], full-body character, lay
 
 <a id="p07-paper-cut-storybook-scene"></a>
 
-### 📌 4.10. Paper-Cut Storybook Scene
+### 📌 4.14. Paper-Cut Storybook Scene
 
 #### 👀 Preview
 
@@ -975,7 +1494,7 @@ Use visible paper fibers, crisp cut edges, gently bent paper elements, and real 
 
 <a id="p05-editorial-poster-with-exact-copy"></a>
 
-### 📌 4.11. Editorial Poster with Exact Copy
+### 📌 4.15. Editorial Poster with Exact Copy
 
 #### 👀 Preview
 
@@ -1002,7 +1521,7 @@ Use generous margins, a strict left-aligned text grid, and strong separation bet
 
 <a id="p03-miniature-world-in-an-everyday-object"></a>
 
-### 📌 4.12. Miniature World in an Everyday Object
+### 📌 4.16. Miniature World in an Everyday Object
 
 #### 👀 Preview
 

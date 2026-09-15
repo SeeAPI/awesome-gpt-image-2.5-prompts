@@ -1,0 +1,23 @@
+# P49. Soft Hijab Beauty Portrait
+
+## 👀 Preview
+
+[<img src="../assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg" width="225" height="400" alt="Soft Hijab Beauty Portrait — source example">](../assets/p49-soft-hijab-beauty-portrait/source-example-01.jpg)
+
+## 👇 Workflow
+
+`Text → beauty portrait`
+
+## 🔖 Full Prompt
+
+```text
+A close-up portrait of a young East Asian woman with fair, smooth porcelain skin and a soft, even complexion. She has large, almond-shaped light gray-blue eyes with long, dark, defined eyelashes and subtle eyeliner. Her eyebrows are slender and neatly shaped. She wears natural, dewy makeup with a soft pink blush on the cheeks and glossy, slightly plump rose-pink lips. She looks directly at the camera with a calm, gentle, slightly reserved expression.
+
+She is wearing a sheer, lightweight hijab in muted beige, taupe, and champagne tones with an intricate paisley and floral pattern in gold and brown. The fabric is draped loosely and layered around her head and shoulders, covering all of her hair. A small gold spherical pin or brooch is visible on the left side of the hijab near her temple. The fabric has a soft, slightly translucent quality with gentle folds and texture.
+
+The background is an indoor setting with a light-colored wall and a wooden shelf visible in the upper left, holding a few bottles (one with an orange cap). Soft, natural indoor lighting creates a warm, flattering glow on her face with no harsh shadows.
+
+Photorealistic, high-detail beauty portrait, shallow depth of field, soft focus on the background, elegant and modest styling.
+```
+
+<sub>(by [@woleswoosh](https://x.com/woleswoosh/status/2099774470374502450)) · [Source: X](https://x.com/woleswoosh/status/2099774470374502450)</sub>

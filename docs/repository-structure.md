@@ -44,7 +44,7 @@ scripts/
 
 Creative workflows have stable IDs **C01–C10**; C01, C02, C04, C05, and C06 are active; C03 remains archived with its original files. Their slugs retain the existing `01-pixel-art-gif` format to preserve image and script paths. Standalone prompts use **P01, P02, …** with slugs such as `p01-personalized-sticker-pack`.
 
-Use the exact same slug for the case filename, prompt folder, and media folder. Use lowercase English words separated by hyphens. Never renumber a published case when adding a new one. If an unpublished draft collides with an upstream ID, allocate it a new ID and update its slug, files, catalog, cross-references, and internal handoff mapping together. The current standalone range is P01–P40. Keep the title in English; category membership can change without changing the ID.
+Use the exact same slug for the case filename, prompt folder, and media folder. Use lowercase English words separated by hyphens. Never renumber a published case when adding a new one. If an unpublished draft collides with an upstream ID, allocate it a new ID and update its slug, files, catalog, cross-references, and internal handoff mapping together. The current standalone range is P01–P54. Keep the title in English; category membership can change without changing the ID.
 
 Name files by their role: `character-prompt.txt`, `scene-prompt.txt`, `video-prompt.txt`, `negative-prompt.txt`, `mira-reference.png`, `greenhouse-opening.png`, `shot-01.png`, or `result.gif`. For corrections, retain a named draft and its correction prompt. Add a media directory when media exists; P01–P08 do not need empty asset folders.
 
