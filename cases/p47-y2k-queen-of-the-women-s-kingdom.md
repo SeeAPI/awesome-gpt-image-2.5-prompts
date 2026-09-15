@@ -8,14 +8,10 @@
 
 `Text → Y2K portrait`
 
-Short source template. The original Chinese wording is preserved in the Chinese prompt file; the English prompt is a translation by SeeAPI.
-
 ## 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 Y2K non-mainstream style × early digital aesthetic × contrasting cuteness × Queen of the Women's Kingdom
 ```
 
-<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [Source: X](https://x.com/DeepBlueX0/status/2099303054797606998) · English translation by SeeAPI · Source example; model claim not independently verified.</sub>
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [Source: X](https://x.com/DeepBlueX0/status/2099303054797606998) · English translation by SeeAPI</sub>

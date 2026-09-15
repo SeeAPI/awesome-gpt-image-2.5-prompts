@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-15
+
+- Aligned P43–P47 with the concise three-part case layout in both languages; preserved full prompts, source credits and provenance records.
+- 同步精简 P43–P47 中英文案例展示，保留完整提示词、来源署名及素材说明。
+
 ## 2026-09-14 — Feishu candidate update
 
 - Added P43–P47: five new source prompts and seven original source images, with complete English/Simplified Chinese pages and reviewed prompt translations. Preserved the Chinese-original Y2K template and SQL-style code.

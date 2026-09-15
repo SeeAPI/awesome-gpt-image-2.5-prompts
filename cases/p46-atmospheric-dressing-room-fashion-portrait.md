@@ -8,8 +8,6 @@
 
 `Text → fashion portrait`
 
-No reference image is required by the source prompt.
-
 ## 🔖 Full Prompt
 
 ```text
@@ -34,4 +32,4 @@ Captured with a small premium compact camera and a 35mm-equivalent lens, close h
 Hyperrealistic photography. Authentic human skin with visible pores, fine peach fuzz, natural tonal variation, slight redness around the knuckles and shoulder, subtle skin compression, and small realistic imperfections. Hair rendered strand by strand with genuine gravity, irregular separation, flyaways, and soft reflected light. Silk chiffon rendered with real weave, layered transparency, opaque lining, natural weight, soft creases, unfinished movement, and delicate edge stitching. Low-contrast analog color, gentle sensor grain, soft flash bloom, slight lens vignette, muted powder blue, warm gray, creamy ivory, and deep soft black. Intimate, effortless, dreamy, tasteful, naturally imperfect, and convincingly photographic.
 ```
 
-<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [Source: X](https://x.com/johnAGI168/status/2099160929418031152) · Source example; model claim not independently verified.</sub>
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [Source: X](https://x.com/johnAGI168/status/2099160929418031152)</sub>

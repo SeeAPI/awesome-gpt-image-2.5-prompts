@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 14 日**
+**5 个创意工作流 · 47 条独立提示词 · 更新于 2026 年 9 月 15 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -79,17 +79,13 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 `文字 → 千禧年风格人像`
 
-来源短模板。中文提示词文件保留原始中文；英文提示词由 SeeAPI 翻译。
-
 #### 🔖 完整提示词
-
-**来源短模板**
 
 ```text
 千禧年非主流 × 早期数码感 × 反差萌 × 女儿国国王
 ```
 
-<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [来源平台： X](https://x.com/DeepBlueX0/status/2099303054797606998) · 英文由 SeeAPI 翻译 · 来源示例；模型声明未经独立验证。</sub>
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [来源平台： X](https://x.com/DeepBlueX0/status/2099303054797606998) · 英文由 SeeAPI 翻译</sub>
 
 <a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
 
@@ -102,8 +98,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 #### 👇 工作流
 
 `文字 → 时尚人像`
-
-原提示词不要求参考图。
 
 #### 🔖 完整提示词
 
@@ -129,7 +123,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 超写实摄影。真实的人体皮肤，具有可见毛孔、细软绒毛、自然色调变化、指关节与肩部的轻微泛红、细微皮肤挤压和真实的小瑕疵。头发逐根呈现，具有真实重力、不规则分束、飞发和柔和反光。真丝雪纺呈现真实织纹、层叠透明度、不透明内衬、自然重量、柔软折痕、尚在延续的动态和精细的边缘缝线。低对比度模拟胶片色彩、柔和的传感器颗粒、轻微闪光晕散、淡淡的镜头暗角，以及柔和粉蓝、暖灰、奶油象牙白和深柔黑。私密、轻松、梦幻、得体、自然不完美，并具有可信的摄影质感。
 ```
 
-<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [来源平台： X](https://x.com/johnAGI168/status/2099160929418031152) · 来源示例；模型声明未经独立验证。</sub>
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [来源平台： X](https://x.com/johnAGI168/status/2099160929418031152)</sub>
 
 <a id="p45-natural-4k-photo-restoration"></a>
 
@@ -143,17 +137,13 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 `照片参考图 → 修复照片`
 
-上传原始照片。预览是来源提供的对比拼图，并非独立输入图。提示词要求的 4K 分辨率和修复保真度尚未经独立验证。
-
 #### 🔖 完整提示词
-
-**来源短模板**
 
 ```text
 将这张图片放大至 4K。保留每一处细节。使其呈现自然、未经修饰的原始质感。去除编辑痕迹和伪影。
 ```
 
-<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [来源平台： X](https://x.com/ViralOps_/status/2098774775934198214) · 来源示例；模型声明未经独立验证。</sub>
+<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [来源平台： X](https://x.com/ViralOps_/status/2098774775934198214)</sub>
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
@@ -771,8 +761,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 `人像参考图 → 半色调拼贴海报`
 
-每张海报上传一张人像或场景参考图。未收录独立的原始输入文件。原提示词要求 3:4，而来源预览使用了不同画幅比例。
-
 #### 🔖 完整提示词
 
 ```text
@@ -802,7 +790,7 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 纯黑终端背景、密集代码墙、赛博朋克霓虹、完全遮蔽的面孔、毫无意义的随机符号、编造的技术读数、乱码假文字、作者署名、品牌标志、二维码、水印。
 ```
 
-<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [来源平台： X](https://x.com/ShamiWeb3/status/2099316312426381491) · 来源示例；模型声明未经独立验证。</sub>
+<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [来源平台： X](https://x.com/ShamiWeb3/status/2099316312426381491)</sub>
 
 <a id="p43-foodie-cities-in-sculptural-typography"></a>
 
@@ -816,15 +804,13 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 `地点或文化参数 → 雕塑字形图片`
 
-使用前填写 [PLACE_OR_CULTURE]。来源预览组合了四座城市，但原提示词未包含这一分组指令。SQL 风格文本是视觉提示词，并非可执行的数据库代码；中英文均保留其标识符和字符串字面量。
-
 #### 🔖 完整提示词
 
 ```text
 WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])          AS display_name,         infer_signature_foods([PLACE_OR_CULTURE])        AS foods,         infer_signature_materials([PLACE_OR_CULTURE])    AS materials,         infer_landmarks([PLACE_OR_CULTURE])              AS landmarks,         infer_objects([PLACE_OR_CULTURE])                AS objects,         infer_palette([PLACE_OR_CULTURE])                AS palette,         infer_three_values([PLACE_OR_CULTURE])           AS values,         infer_keyword_stack([PLACE_OR_CULTURE], 4)       AS keywords ),  glyph_assignment AS (     SELECT        glyph,         argmax(             source_item,             shape_match(glyph, source_item)             * cultural_relevance(source_item)             * visual_uniqueness(source_item)         ) AS source_material     FROM letters(display_name)     CROSS JOIN cultural_pool(foods, materials, objects) )  SELECT render FROM editorial_travel_stilllife_archive WHERE hero_typography = build_3d_word(     display_name,     material_per_glyph = glyph_assignment.source_material ) AND foreground = infer_culinary_stilllife([PLACE_OR_CULTURE]) AND background = infer_soft_focus_architecture([PLACE_OR_CULTURE]) AND base = 'premium sculptural plinth' AND base_caption = join(values, ' • ') AND side_stack = keywords AND lighting = 'warm sunlit premium editorial' AND styling = 'travel magazine × culinary still life × crafted typography' ORDER BY    cultural_specificity DESC,     glyph_legibility DESC,     material_variety DESC,     tactile_realism DESC,     composition_balance DESC LIMIT 1;
 ```
 
-<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [来源平台： X](https://x.com/Gdgtify/status/2099299591485354266) · 来源示例；模型声明未经独立验证。</sub>
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [来源平台： X](https://x.com/Gdgtify/status/2099299591485354266)</sub>
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 

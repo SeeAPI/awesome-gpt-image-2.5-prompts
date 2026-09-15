@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 47 standalone prompts · Updated September 14, 2026**
+**5 creative workflows · 47 standalone prompts · Updated September 15, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -73,17 +73,13 @@ OpenAI's GPT Image 2.5 family includes **GPT Image 2.5 Sunburst** and **GPT Imag
 
 `Text → Y2K portrait`
 
-Short source template. The original Chinese wording is preserved in the Chinese prompt file; the English prompt is a translation by SeeAPI.
-
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 Y2K non-mainstream style × early digital aesthetic × contrasting cuteness × Queen of the Women's Kingdom
 ```
 
-<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [Source: X](https://x.com/DeepBlueX0/status/2099303054797606998) · English translation by SeeAPI · Source example; model claim not independently verified.</sub>
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099303054797606998)) · [Source: X](https://x.com/DeepBlueX0/status/2099303054797606998) · English translation by SeeAPI</sub>
 
 <a id="p46-atmospheric-dressing-room-fashion-portrait"></a>
 
@@ -96,8 +92,6 @@ Y2K non-mainstream style × early digital aesthetic × contrasting cuteness × Q
 #### 👇 Workflow
 
 `Text → fashion portrait`
-
-No reference image is required by the source prompt.
 
 #### 🔖 Full Prompt
 
@@ -123,7 +117,7 @@ Captured with a small premium compact camera and a 35mm-equivalent lens, close h
 Hyperrealistic photography. Authentic human skin with visible pores, fine peach fuzz, natural tonal variation, slight redness around the knuckles and shoulder, subtle skin compression, and small realistic imperfections. Hair rendered strand by strand with genuine gravity, irregular separation, flyaways, and soft reflected light. Silk chiffon rendered with real weave, layered transparency, opaque lining, natural weight, soft creases, unfinished movement, and delicate edge stitching. Low-contrast analog color, gentle sensor grain, soft flash bloom, slight lens vignette, muted powder blue, warm gray, creamy ivory, and deep soft black. Intimate, effortless, dreamy, tasteful, naturally imperfect, and convincingly photographic.
 ```
 
-<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [Source: X](https://x.com/johnAGI168/status/2099160929418031152) · Source example; model claim not independently verified.</sub>
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2099160929418031152)) · [Source: X](https://x.com/johnAGI168/status/2099160929418031152)</sub>
 
 <a id="p45-natural-4k-photo-restoration"></a>
 
@@ -137,17 +131,13 @@ Hyperrealistic photography. Authentic human skin with visible pores, fine peach 
 
 `Photo reference → restored photo`
 
-Upload the original photo. The preview is a source-supplied comparison montage, not a standalone input. The requested 4K resolution and restoration fidelity have not been independently verified.
-
 #### 🔖 Full Prompt
-
-**Short source template**
 
 ```text
 upscale this image to 4K. preserve every detail. make it look natural and raw. remove editing marks and artifacts.
 ```
 
-<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [Source: X](https://x.com/ViralOps_/status/2098774775934198214) · Source example; model claim not independently verified.</sub>
+<sub>(by [@ViralOps_](https://x.com/ViralOps_/status/2098774775934198214)) · [Source: X](https://x.com/ViralOps_/status/2098774775934198214)</sub>
 
 <a id="p38-candid-mont-saint-michel-travel-portrait"></a>
 
@@ -766,8 +756,6 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 
 `Portrait reference → halftone collage poster`
 
-Upload one portrait or scene reference per poster. Original input files are not included. The source prompt requests 3:4; the supplied previews have a different aspect ratio.
-
 #### 🔖 Full Prompt
 
 ```text
@@ -797,7 +785,7 @@ AVOID
 Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
 ```
 
-<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [Source: X](https://x.com/ShamiWeb3/status/2099316312426381491) · Source example; model claim not independently verified.</sub>
+<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [Source: X](https://x.com/ShamiWeb3/status/2099316312426381491)</sub>
 
 <a id="p43-foodie-cities-in-sculptural-typography"></a>
 
@@ -811,15 +799,13 @@ Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hid
 
 `Place or culture parameter → sculptural typography image`
 
-Set [PLACE_OR_CULTURE] before use. The source preview combines four cities; that grouping instruction is not included. The SQL-style text is a visual prompt, not executable database code; its identifiers and string literals are preserved in both languages.
-
 #### 🔖 Full Prompt
 
 ```text
 WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])          AS display_name,         infer_signature_foods([PLACE_OR_CULTURE])        AS foods,         infer_signature_materials([PLACE_OR_CULTURE])    AS materials,         infer_landmarks([PLACE_OR_CULTURE])              AS landmarks,         infer_objects([PLACE_OR_CULTURE])                AS objects,         infer_palette([PLACE_OR_CULTURE])                AS palette,         infer_three_values([PLACE_OR_CULTURE])           AS values,         infer_keyword_stack([PLACE_OR_CULTURE], 4)       AS keywords ),  glyph_assignment AS (     SELECT        glyph,         argmax(             source_item,             shape_match(glyph, source_item)             * cultural_relevance(source_item)             * visual_uniqueness(source_item)         ) AS source_material     FROM letters(display_name)     CROSS JOIN cultural_pool(foods, materials, objects) )  SELECT render FROM editorial_travel_stilllife_archive WHERE hero_typography = build_3d_word(     display_name,     material_per_glyph = glyph_assignment.source_material ) AND foreground = infer_culinary_stilllife([PLACE_OR_CULTURE]) AND background = infer_soft_focus_architecture([PLACE_OR_CULTURE]) AND base = 'premium sculptural plinth' AND base_caption = join(values, ' • ') AND side_stack = keywords AND lighting = 'warm sunlit premium editorial' AND styling = 'travel magazine × culinary still life × crafted typography' ORDER BY    cultural_specificity DESC,     glyph_legibility DESC,     material_variety DESC,     tactile_realism DESC,     composition_balance DESC LIMIT 1;
 ```
 
-<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [Source: X](https://x.com/Gdgtify/status/2099299591485354266) · Source example; model claim not independently verified.</sub>
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2099299591485354266)) · [Source: X](https://x.com/Gdgtify/status/2099299591485354266)</sub>
 
 <a id="p40-desert-motorcycle-editorial-poster"></a>
 

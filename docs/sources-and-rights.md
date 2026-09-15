@@ -70,3 +70,7 @@ P12, P13, P15, P29, P31, P35–P38, and P40 now use identity-reference prompts a
 The Chinese README, case pages, and `*.zh-CN.txt` files are SeeAPI translations of the corresponding English content. Original authorship and source credits remain unchanged. Literal output text, code, and placeholder keys are preserved. Translations are not new generation runs and do not establish new usage rights. P41 and P42 use maintainer-supplied prompts and before/after images. The four PNG files are preserved byte-for-byte; the model and generation settings were not independently verified.
 
 中文 README、案例页及 `*.zh-CN.txt` 为 SeeAPI 对相应英文内容的翻译，不改变原作者与来源署名。要求输出的原样文字、代码和占位符保留。翻译不代表新的生成实测，也不产生新的使用许可。P41 和 P42 使用维护者提供的提示词与前后效果图。四张 PNG 原始文件完整保留，模型与生成参数未经独立验证。
+
+P43 requires a `[PLACE_OR_CULTURE]` value; the four-city grouping shown in its preview is not specified by the source prompt.
+
+P43 需要填写 `[PLACE_OR_CULTURE]`；示例图中的四城分组并未在来源提示词中明确指定。

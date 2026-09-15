@@ -12,8 +12,6 @@
 
 `Portrait reference → halftone collage poster`
 
-Upload one portrait or scene reference per poster. Original input files are not included. The source prompt requests 3:4; the supplied previews have a different aspect ratio.
-
 ## 🔖 Full Prompt
 
 ```text
@@ -43,4 +41,4 @@ AVOID
 Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
 ```
 
-<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [Source: X](https://x.com/ShamiWeb3/status/2099316312426381491) · Source example; model claim not independently verified.</sub>
+<sub>(by [@ShamiWeb3](https://x.com/ShamiWeb3/status/2099316312426381491)) · [Source: X](https://x.com/ShamiWeb3/status/2099316312426381491)</sub>
