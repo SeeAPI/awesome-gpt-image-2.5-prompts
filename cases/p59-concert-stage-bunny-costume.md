@@ -1,0 +1,25 @@
+# P59. Concert Stage Bunny Costume
+
+## 👀 Preview
+
+[<img src="../assets/p59-concert-stage-bunny-costume/source-example-01.jpg" width="225" height="400" alt="Concert Stage Bunny Costume — source example">](../assets/p59-concert-stage-bunny-costume/source-example-01.jpg)
+
+## 👇 Workflow
+
+`Text → cinematic concert-stage portrait`
+
+## 🔖 Full Prompt
+
+```text
+A cinematic anamorphic still photograph captured live on stage — a dynamic medium hero composition of an East Asian performer in an elaborate theatrical stage costume dancing in the center of an energetic live venue, the camera positioned at eye level in a centered vertical framing capturing her radiant smile and charismatic stage presence in an M4 concert performance register.
+
+The performer has warm chestnut-brown hair styled with soft side-swept bangs framing her luminous face and cascading down her back. Her fair skin radiates a healthy stage glow with fine, natural pore texture, subtle subsurface scattering, and a light performance sheen along her collarbones and shoulders under the spotlights. She wears an ornate tall rabbit-ear theatrical headpiece crafted from textured turquoise-and-emerald jacquard fabric, paired with a matching aqua satin collar and crystal-brooch bow tie. Her costume is a dazzling couture stage performance leotard corset featuring a rich mottled watercolor pattern of teal, seafoam, and emerald with shimmering metallic sequins, accented by elaborate silver crystal beading and rhinestone piping sculpting the sweetheart neckline and corset lines, finished with delicate mint satin side-ribbon bows at the hip line. She wears sheer diamond-pattern stage performance tights across her legs. Captured mid-dance with arms lightly extended in graceful motion, her dark almond eyes sparkle with joyful energy, looking straight into the camera with a bright, captivating smile.
+
+The environment is an electrifying live concert venue and nightclub stage filled with theatrical atmosphere — overhead lighting trusses, honeycomb LED light banks, and horizontal neon laser beams slicing through dense purple and magenta stage haze in the background. Faint colorful neon venue signage and stage structures glow softly in the deep background, dissolved into creamy atmospheric blur, creating rich depth and spatial immersion around the central stage.
+
+The lighting is driven by authentic concert gaffer physics — bright, clean white-and-cyan follow-spots from the front sculpt her face, glittering costume crystals, and turquoise fabric with brilliant specular highlights and sparkle, while vibrant magenta, neon purple, and ultraviolet stage washes from behind cast a vivid, luminous rim light across her shoulders and hair. Volumetric atmospheric haze suspended throughout the air catches the stage laser beams as visible shafts of colored light, seamlessly integrating the performer into the pulsating live stage ambience.
+
+Captured with a wide-latitude digital cinema look on a fast 50mm anamorphic prime lens at T2.0 with light diffusion filtration softening the vibrant neon highlights, in an M4 concert performance register. Authentic stage concert color grade with deep violet shadows, saturated neon rim lights, and natural skin tones preserved cleanly under the frontal follow-spot. Mild kinetic operator energy and subtle natural motion blur on the dancing fingertips, paired with fine theatrical 35mm film grain across the entire frame. Real photographic frame captured on a real cinema camera, real anamorphic lens, real sequined brocade fabric, real rhinestone beading, real human performer, real stage trusses and concert haze — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2100090276576407848)) · [Source: X](https://x.com/johnAGI168/status/2100090276576407848)</sub>

@@ -55,6 +55,16 @@ P48–P54 收录七条提示词及十张未改动的 X 原帖示例图。所有�
 
 P50 的原始输入参考图未公开，其来源示例包含 Kobe Bryant 肖像及 Los Angeles Lakers 名称或标识。相关姓名、肖像与标识权利归各自权利人所有；本仓库不授予其复用权，使用者应替换为自己有权使用的主体与文字。P52 未收录干净的主体参考图，P53 缺少提示词要求的风格参考图组，P54 缺少上传的人物身份参考图。所收录图片仅是原帖输出示例，并非完整可复现素材包。
 
+## September 17, 2026 Additions / 2026 年 9 月 17 日新增
+
+P55–P63 add nine collected prompts and fourteen unchanged source images from the linked X posts. The model labels are claims by the source publishers; SeeAPI has not independently verified the generation model, settings, or exact inputs, and has not regenerated these examples. P56, P58, P60, P61, P62, and P63 preserve their original Chinese prompts with SeeAPI English translations. The source posts do not establish public reuse rights for their text or images.
+
+P55 is a parameterized chocolate-bar template. The source does not give the values used for each example; its Japan image was omitted because its Hokkaido label appears with Mount Fuji, a misleading geographic pairing. The included France and Italy images are source examples, not exact reproduction evidence for a filled template. P57 leaves `[XXX]` unfilled, and the subject or reference inputs behind the three source grids were not supplied. P58's two source images are comparison composites that show the expression and cat references alongside a result; separate clean reference files were not supplied. P56's short Chinese template likewise does not specify the exact film scene or inputs. P60–P63 have no independently verified generation records or exact settings. These limitations do not change the original source credits.
+
+P55–P63 收录九条提示词和十四张未改动的 X 原帖图片。模型标签仅为来源发布者的声明；SeeAPI 未独立核验生成模型、参数或准确输入，也未重新生成这些示例。P56、P58、P60、P61、P62、P63 保留中文原始提示词，并由 SeeAPI 提供英文翻译。原帖未确立这些文字和图片的公开复用许可。
+
+P55 是带参数的巧克力模板。来源未提供各张示例的具体填充值；日本示例将北海道标签与富士山并置，容易造成地理误导，因此未收录。已收录的法国、意大利图片是来源示例，不能证明填写模板后可精确复现。P57 的 `[XXX]` 尚未填写，三张九宫格背后的主体或参考输入未提供。P58 的两张原帖图片是将表情与猫咪参考图、结果放在一起的对比拼图，未提供独立的干净参考图。P56 的中文简短模板也未指定准确的电影场景或输入。P60–P63 缺少独立核验的生成记录或准确参数。这些限制不改变原始来源署名。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

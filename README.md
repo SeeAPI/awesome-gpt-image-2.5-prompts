@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 54 standalone prompts · Updated September 15, 2026**
+**5 creative workflows · 63 standalone prompts · Updated September 17, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -398,6 +398,139 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 <sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [Source: X](https://x.com/Goodmanprotocol/status/2097954772586557873)</sub>
 
+<a id="p57-candid-camera-roll-grid"></a>
+
+### 📌 1.15. Candid Camera Roll Grid
+
+#### 👀 Preview
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-01.jpg" width="225" height="400" alt="Candid Camera Roll Grid — source example">](assets/p57-candid-camera-roll-grid/source-example-01.jpg)
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-02.jpg" width="225" height="400" alt="Candid Camera Roll Grid — source example">](assets/p57-candid-camera-roll-grid/source-example-02.jpg)
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-03.jpg" width="225" height="400" alt="Candid Camera Roll Grid — source example">](assets/p57-candid-camera-roll-grid/source-example-03.jpg)
+
+#### 👇 Workflow
+
+`Theme → 3×3 candid camera-roll grid`
+
+#### 🔖 Full Prompt
+
+```text
+Generate a set of amateur, failed candid photos around the theme of [XXX], shot on a phone, with a private camera-roll feel, arranged in a 3×3 grid, 9:16.
+```
+
+<sub>(by [@MrLarus](https://x.com/MrLarus/status/2099871480112652453)) · [Source: X](https://x.com/MrLarus/status/2099871480112652453)</sub>
+
+<a id="p59-concert-stage-bunny-costume"></a>
+
+### 📌 1.16. Concert Stage Bunny Costume
+
+#### 👀 Preview
+
+[<img src="assets/p59-concert-stage-bunny-costume/source-example-01.jpg" width="225" height="400" alt="Concert Stage Bunny Costume — source example">](assets/p59-concert-stage-bunny-costume/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → cinematic concert-stage portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A cinematic anamorphic still photograph captured live on stage — a dynamic medium hero composition of an East Asian performer in an elaborate theatrical stage costume dancing in the center of an energetic live venue, the camera positioned at eye level in a centered vertical framing capturing her radiant smile and charismatic stage presence in an M4 concert performance register.
+
+The performer has warm chestnut-brown hair styled with soft side-swept bangs framing her luminous face and cascading down her back. Her fair skin radiates a healthy stage glow with fine, natural pore texture, subtle subsurface scattering, and a light performance sheen along her collarbones and shoulders under the spotlights. She wears an ornate tall rabbit-ear theatrical headpiece crafted from textured turquoise-and-emerald jacquard fabric, paired with a matching aqua satin collar and crystal-brooch bow tie. Her costume is a dazzling couture stage performance leotard corset featuring a rich mottled watercolor pattern of teal, seafoam, and emerald with shimmering metallic sequins, accented by elaborate silver crystal beading and rhinestone piping sculpting the sweetheart neckline and corset lines, finished with delicate mint satin side-ribbon bows at the hip line. She wears sheer diamond-pattern stage performance tights across her legs. Captured mid-dance with arms lightly extended in graceful motion, her dark almond eyes sparkle with joyful energy, looking straight into the camera with a bright, captivating smile.
+
+The environment is an electrifying live concert venue and nightclub stage filled with theatrical atmosphere — overhead lighting trusses, honeycomb LED light banks, and horizontal neon laser beams slicing through dense purple and magenta stage haze in the background. Faint colorful neon venue signage and stage structures glow softly in the deep background, dissolved into creamy atmospheric blur, creating rich depth and spatial immersion around the central stage.
+
+The lighting is driven by authentic concert gaffer physics — bright, clean white-and-cyan follow-spots from the front sculpt her face, glittering costume crystals, and turquoise fabric with brilliant specular highlights and sparkle, while vibrant magenta, neon purple, and ultraviolet stage washes from behind cast a vivid, luminous rim light across her shoulders and hair. Volumetric atmospheric haze suspended throughout the air catches the stage laser beams as visible shafts of colored light, seamlessly integrating the performer into the pulsating live stage ambience.
+
+Captured with a wide-latitude digital cinema look on a fast 50mm anamorphic prime lens at T2.0 with light diffusion filtration softening the vibrant neon highlights, in an M4 concert performance register. Authentic stage concert color grade with deep violet shadows, saturated neon rim lights, and natural skin tones preserved cleanly under the frontal follow-spot. Mild kinetic operator energy and subtle natural motion blur on the dancing fingertips, paired with fine theatrical 35mm film grain across the entire frame. Real photographic frame captured on a real cinema camera, real anamorphic lens, real sequined brocade fabric, real rhinestone beading, real human performer, real stage trusses and concert haze — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2100090276576407848)) · [Source: X](https://x.com/johnAGI168/status/2100090276576407848)</sub>
+
+<a id="p60-intimate-hallway-pov-portrait"></a>
+
+### 📌 1.17. Intimate Hallway POV Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg" width="225" height="400" alt="Intimate Hallway POV Portrait — source example">](assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → intimate hallway POV portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Style direction: An intimate moment of getting ready before going out
+Scene direction: Entryway / beside a full-length mirror
+Outfit direction: Misty-pink fitted short-sleeve lounge dress or date dress
+Mood tags: Gentle, mature, approachable, attentive, sweet
+Body direction: Naturally curvy, full figure
+Emphasis on body contours: Strong
+Camera direction: The woman stands very close to the camera, leaning toward it, raising both hands toward the lens as though straightening her boyfriend's collar or smoothing his clothes; afterward she lifts her eyes to look into the camera
+Aspect ratio: 9:16
+Interaction focus: The camera occupies the boyfriend's position, creating a clear romantic POV; the close distance also naturally shows the contours of her shoulders, neck, bust, and waist.
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100152524884058399)) · [Source: X](https://x.com/liyue_ai/status/2100152524884058399) · English translation by SeeAPI</sub>
+
+<a id="p61-mirror-sculpture-street-portrait"></a>
+
+### 📌 1.18. Mirror Sculpture Street Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg" width="225" height="400" alt="Mirror Sculpture Street Portrait — source example">](assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → daylight street portrait by a mirror sculpture`
+
+#### 🔖 Full Prompt
+
+```text
+Photography style: Bright daytime CCD lifestyle photo with crisp highlights
+Portrait direction: Urban art and fashion lifestyle photograph
+Setting: Modern public art plaza / large mirrored stainless-steel sculpture / pale gray pavement / minimalist open space
+Outfit: Lime-green fitted cropped polo shirt + cream-white low-rise fitted short skirt
+Mood tags: Cool, playful, fashionable, bright, design-conscious
+Facial features: Refined, fresh and understated
+Body: Light and slender
+Emphasis on body contours: Strong
+Framing: From the upper body to the thighs
+Pose: Stand beside the mirrored sculpture, lightly touching the metal surface with one hand; turn slightly toward your own reflection
+Lighting: Bright natural light on a clear day + clean, neutral fill reflected from the mirrored metal
+Filter: Bright, crisp green-and-white CCD colors + clear highlights + stable black levels + subtle grain + very slight sharpening
+Aspect ratio: 9:16
+Additional requirements: The mirrored sculpture must remain a geometric background, without complex distorted human reflections; keep the subject's bust and waist contours clear. The overall image should feel like a casual city snapshot rather than an art-studio shoot.
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100123514745536819)) · [Source: X](https://x.com/liyue_ai/status/2100123514745536819) · English translation by SeeAPI</sub>
+
+<a id="p63-golden-hour-beach-selfie"></a>
+
+### 📌 1.19. Golden Hour Beach Selfie
+
+#### 👀 Preview
+
+[<img src="assets/p63-golden-hour-beach-selfie/source-example-01.jpg" width="225" height="400" alt="Golden Hour Beach Selfie — source example">](assets/p63-golden-hour-beach-selfie/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → golden-hour beach selfie`
+
+#### 🔖 Full Prompt
+
+```text
+A beautiful East Asian woman with long black hair takes a selfie by the sea, wearing a black high-cut one-piece swimsuit and a gold coin-pendant necklace. Golden hour at sunset, waves striking the rocks, warm side lighting, realistic photographic texture, delicate skin detail, body turned slightly toward the camera.
+```
+
+<sub>(by [@shitunote](https://x.com/shitunote/status/2099846900031852562)) · [Source: X](https://x.com/shitunote/status/2099846900031852562) · English translation by SeeAPI</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -702,6 +835,50 @@ Preserve the subject's identity, anatomy, proportions, colors, clothing if prese
 
 <sub>(by SeeAPI)</sub>
 
+<a id="p56-raiden-shogun-in-a-film-scene"></a>
+
+### 📌 2.9. Raiden Shogun in a Film Scene
+
+#### 👀 Preview
+
+[<img src="assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg" width="225" height="400" alt="Raiden Shogun in a Film Scene — source example">](assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg)
+
+[<img src="assets/p56-raiden-shogun-in-a-film-scene/source-example-02.jpg" width="225" height="400" alt="Raiden Shogun in a Film Scene — source example">](assets/p56-raiden-shogun-in-a-film-scene/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Film scene + Raiden Shogun → awkward vertical snapshot`
+
+#### 🔖 Full Prompt
+
+```text
+Iconic scene from a classic film × Raiden Shogun integrated into the story as a third party × absurd yet plausible feeling × failed photo × vertical 9:16.
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100156601600782528)) · [Source: X](https://x.com/DeepBlueX0/status/2100156601600782528) · English translation by SeeAPI</sub>
+
+<a id="p58-cat-expression-transfer"></a>
+
+### 📌 2.10. Cat Expression Transfer
+
+#### 👀 Preview
+
+[<img src="assets/p58-cat-expression-transfer/source-example-01.jpg" width="400" height="400" alt="Cat Expression Transfer — source comparison composite">](assets/p58-cat-expression-transfer/source-example-01.jpg)
+
+[<img src="assets/p58-cat-expression-transfer/source-example-02.jpg" width="334" height="400" alt="Cat Expression Transfer — source comparison composite">](assets/p58-cat-expression-transfer/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Expression reference + cat reference → cat with transferred expression`
+
+#### 🔖 Full Prompt
+
+```text
+Make the cat in image two have the same expression as in image one.
+```
+
+<sub>(by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874)) · [Source: X](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · English translation by SeeAPI</sub>
+
 ## 🛍️ Products & Branding
 
 <a id="p31-virtual-outfit-replacement"></a>
@@ -890,6 +1067,58 @@ Do not add text, extra products, decorative ingredients, or a new label. Do not 
 ```
 
 <sub>(by SeeAPI)</sub>
+
+<a id="p55-miniature-country-chocolate-bar"></a>
+
+### 📌 3.9. Miniature Country Chocolate Bar
+
+#### 👀 Preview
+
+[<img src="assets/p55-miniature-country-chocolate-bar/source-example-01.jpg" width="320" height="400" alt="Miniature Country Chocolate Bar — France source example">](assets/p55-miniature-country-chocolate-bar/source-example-01.jpg)
+
+[<img src="assets/p55-miniature-country-chocolate-bar/source-example-02.jpg" width="320" height="400" alt="Miniature Country Chocolate Bar — Italy source example">](assets/p55-miniature-country-chocolate-bar/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Country details → miniature chocolate-bar product image`
+
+#### 🔖 Full Prompt
+
+```text
+Create a breathtaking, photorealistic luxury food-art image of [COUNTRY] transformed into a giant premium chocolate bar.
+
+The chocolate bar lies diagonally on an elegant dark stone surface, photographed from a slightly elevated cinematic angle. Its wrapper is inspired by the visual identity, colors, patterns, and cultural aesthetic of [COUNTRY], while remaining sophisticated and premium.
+
+The chocolate bar is dramatically broken open in the center.
+
+From inside the broken chocolate, an incredibly detailed miniature 3D version of [COUNTRY] emerges as if the entire country is sculpted inside the chocolate.
+
+Include:
+
+[FAMOUS LANDMARK] as the central focal point
+
+[FAMOUS NATURAL LANDSCAPE] surrounding it
+
+tiny recognizable local architecture
+
+miniature streets and transportation
+
+[FAMOUS LOCAL FOOD] as tiny decorative elements
+
+native flowers, trees, mountains or coastline
+
+subtle cultural details unique to the country
+
+Make the chocolate itself extremely realistic: glossy cocoa surface, crisp snapped edges, creamy layered interior, tiny chocolate crumbs, delicate melting chocolate, realistic highlights and shadows.
+
+Create a magical transition where chocolate pieces gradually become mountains, buildings and landscape, making it look as though the entire country has been hidden inside the chocolate bar.
+
+Premium commercial food photography, cinematic lighting, ultra-detailed miniature world, realistic materials, macro photography, shallow depth of field, atmospheric perspective, sophisticated composition, rich textures, 8K photorealism, visually irresistible, surreal but believable.
+
+Composition: vertical 4:5, centered hero object, dramatic perspective, clean luxurious background, strong visual contrast, no people, no subtitles, no watermark, no unnecessary text.
+```
+
+<sub>(by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2100164588721651910)) · [Source: X](https://x.com/Naiknelofar788/status/2100164588721651910)</sub>
 
 ## 🎨 Posters & Artistic Styles
 
@@ -1540,6 +1769,35 @@ Show the whole container from a three-quarter overhead angle. Make the scale rel
 ```
 
 <sub>(by SeeAPI)</sub>
+
+<a id="p62-minimal-chinese-roof-poster"></a>
+
+### 📌 4.17. Minimal Chinese Roof Poster
+
+#### 👀 Preview
+
+[<img src="assets/p62-minimal-chinese-roof-poster/source-example-01.jpg" width="225" height="400" alt="Minimal Chinese Roof Poster — source example">](assets/p62-minimal-chinese-roof-poster/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → minimalist Chinese-style poster with title space`
+
+#### 🔖 Full Prompt
+
+```text
+Theme: Minimalist cover poster with an Eastern Zen sensibility
+Style branch: New Chinese style with a feminine aesthetic
+Main subject: A woman in historical dress stands beneath a pale roof ridge, looking up at a small sparrow perched on the corner of the eaves
+Mood: Lively, quiet, with an Eastern sense of playfulness
+Setting and motifs: Crescent-white wall, touches of crabapple red on the eaves, pine-needle green plants, sparrow, woman
+Composition and space: Vertical 9:16 composition; the eaves enter diagonally from above, the figure sits off to one side near the bottom, and a broad expanse of pale wall at the top forms a title area
+Color control: Crescent white for the background and wall, crabapple red for the eaves and small accents, pine-needle green for a few plants; keep the sparrow naturally light brown. Avoid making the whole image predominantly red or green
+Lighting and texture: Bright natural light, clean image, crisp edges, lightly graphic new Chinese-style poster feel
+Aspect ratio: 9:16
+Additional requirements: Keep the composition playful yet minimal. The sparrow should be just a lively accent; do not make the background complex. Place suitable artistic text in the negative space.
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100097638326780122)) · [Source: X](https://x.com/liyue_ai/status/2100097638326780122) · English translation by SeeAPI</sub>
 
 ## 🏡 Home & Interior Design
 

@@ -1,0 +1,51 @@
+# P55. 微缩国家巧克力
+
+[English](../p55-miniature-country-chocolate-bar.md) | [简体中文](p55-miniature-country-chocolate-bar.md)
+
+## 👀 预览
+
+[<img src="../../assets/p55-miniature-country-chocolate-bar/source-example-01.jpg" width="320" height="400" alt="微缩国家巧克力 — 法国来源示例">](../../assets/p55-miniature-country-chocolate-bar/source-example-01.jpg)
+
+[<img src="../../assets/p55-miniature-country-chocolate-bar/source-example-02.jpg" width="320" height="400" alt="微缩国家巧克力 — 意大利来源示例">](../../assets/p55-miniature-country-chocolate-bar/source-example-02.jpg)
+
+## 👇 工作流
+
+`国家与地标信息 → 微缩巧克力产品图`
+
+## 🔖 完整提示词
+
+```text
+创作一张令人惊叹、照片级真实的奢华食品艺术图像，将 [COUNTRY] 化作一块巨大的高级巧克力。
+
+巧克力斜放在优雅的深色石材表面，从略微俯视的电影感角度拍摄。包装纸借鉴 [COUNTRY] 的视觉形象、色彩、纹样与文化美学，同时保持精致、高级的气质。
+
+巧克力从中央戏剧性地裂开。
+
+裂开的巧克力内部浮现一个极其精细的 [COUNTRY] 3D 微缩景观，仿佛整个国家都被雕刻在巧克力之中。
+
+包含：
+
+以 [FAMOUS LANDMARK] 为中心视觉焦点
+
+周围环绕 [FAMOUS NATURAL LANDSCAPE]
+
+微小而可辨认的当地建筑
+
+微缩街道与交通工具
+
+将 [FAMOUS LOCAL FOOD] 作为微小装饰元素
+
+当地的花卉、树木、山峦或海岸线
+
+该国独有的细微文化元素
+
+巧克力本身必须极为真实：有光泽的可可表面、清脆的断口、柔滑的分层内馅、细小的巧克力碎屑、轻微融化的巧克力，以及真实的高光与阴影。
+
+营造一种奇妙的过渡：巧克力碎块逐渐变成山脉、建筑与景观，看起来仿佛整个国家一直藏在巧克力之中。
+
+高级商业食品摄影、电影感灯光、极度精细的微缩世界、真实材质、微距摄影、浅景深、空气透视、精致构图、丰富纹理、8K 照片级真实感；视觉上令人无法抗拒，超现实却可信。
+
+构图：4:5 竖版、主体居中、戏剧性透视、干净奢华的背景、强烈视觉对比；无人、无字幕、无水印、无多余文字。
+```
+
+<sub>(by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2100164588721651910)) · [来源平台： X](https://x.com/Naiknelofar788/status/2100164588721651910)</sub>

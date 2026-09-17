@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 54 条独立提示词 · 更新于 2026 年 9 月 15 日**
+**5 个创意工作流 · 63 条独立提示词 · 更新于 2026 年 9 月 17 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -404,6 +404,139 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2097954772586557873)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2097954772586557873)</sub>
 
+<a id="p57-candid-camera-roll-grid"></a>
+
+### 📌 1.15. 随手拍相册九宫格
+
+#### 👀 预览
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-01.jpg" width="225" height="400" alt="随手拍相册九宫格——来源示例">](assets/p57-candid-camera-roll-grid/source-example-01.jpg)
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-02.jpg" width="225" height="400" alt="随手拍相册九宫格——来源示例">](assets/p57-candid-camera-roll-grid/source-example-02.jpg)
+
+[<img src="assets/p57-candid-camera-roll-grid/source-example-03.jpg" width="225" height="400" alt="随手拍相册九宫格——来源示例">](assets/p57-candid-camera-roll-grid/source-example-03.jpg)
+
+#### 👇 工作流
+
+`主题 → 3×3 随手拍相册九宫格`
+
+#### 🔖 完整提示词
+
+```text
+围绕 [XXX] 主题，生成一组手机拍摄的业余、失败感抓拍照片，呈现私人相册气质，排成 3×3 九宫格，9:16。
+```
+
+<sub>(by [@MrLarus](https://x.com/MrLarus/status/2099871480112652453)) · [来源平台： X](https://x.com/MrLarus/status/2099871480112652453)</sub>
+
+<a id="p59-concert-stage-bunny-costume"></a>
+
+### 📌 1.16. 兔耳舞台服演唱会抓拍
+
+#### 👀 预览
+
+[<img src="assets/p59-concert-stage-bunny-costume/source-example-01.jpg" width="225" height="400" alt="兔耳舞台服演唱会抓拍——来源示例">](assets/p59-concert-stage-bunny-costume/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 电影感演唱会舞台人像`
+
+#### 🔖 完整提示词
+
+```text
+一张在舞台现场拍摄的电影感变形宽银幕静态照片：一位东亚表演者身穿精致的戏剧舞台服，在充满活力的现场场馆中央起舞。以动态中景主角构图呈现，摄影机位于视线高度，采用居中的竖版画幅，捕捉她灿烂的笑容与富有感染力的舞台魅力，呈现 M4 演唱会表演质感。
+
+表演者有温暖的栗棕色长发，柔和的侧分刘海勾勒明亮的面庞，发丝垂落背后。白皙肌肤在舞台灯光下散发健康光泽，保留细微的自然毛孔纹理、轻微的次表面散射，以及锁骨与肩膀上的淡淡演出汗光。她戴着高挑华丽的兔耳戏剧头饰，材质为带纹理的绿松石色与祖母绿色提花面料，搭配水蓝色缎面领饰和镶有水晶胸针的蝴蝶结。服装是一件耀眼的高级定制舞台紧身胸衣连体服：浓郁的蓝绿色、海沫绿色与祖母绿色斑驳水彩纹样，点缀闪烁的金属亮片；精细的银色水晶珠饰与水钻滚边勾勒心形领口及胸衣结构，臀部两侧系着精巧的薄荷色缎带蝴蝶结。腿部穿着半透明菱形花纹演出连裤袜。她正处于舞蹈动作中，双臂轻轻向外舒展；深色杏眼闪着喜悦的光，直视镜头，露出明亮而动人的笑容。
+
+环境是令人兴奋的现场演唱会场馆及夜店舞台，充满戏剧氛围：上方有灯光桁架、蜂巢状 LED 灯阵，水平霓虹激光束穿过背景中浓密的紫色和洋红色舞台烟雾。远处隐约可见多彩霓虹场馆标牌与舞台结构，柔和地发光，并融入奶油般的氛围虚化，为中央舞台营造丰富的纵深与空间沉浸感。
+
+照明遵循真实演唱会灯光的物理效果：正面明亮、干净的白色与青色追光塑造她的面庞、闪耀的服装水晶及绿松石色面料，带来明亮的镜面高光与闪烁；背后的鲜艳洋红、霓虹紫和紫外线舞台染色灯，在她的肩膀与发丝边缘投下生动发亮的轮廓光。悬浮在空气中的体积烟雾捕捉舞台激光，形成可见的彩色光柱，让表演者自然融入脉动的现场舞台气氛。
+
+以高宽容度数字电影画质拍摄，使用大光圈 50mm 变形宽银幕定焦镜头、T2.0 光圈，并以轻度柔光滤镜柔化鲜艳的霓虹高光；保持 M4 演唱会表演质感。真实的演唱会调色：深紫色阴影、饱和霓虹轮廓光，正面追光下的自然肤色保持干净。带有轻微的摄影师动态跟拍能量，舞动的指尖有细微自然运动模糊；整个画面覆盖精细的戏剧感 35mm 胶片颗粒。真实电影摄影机拍下的摄影画面，真实变形宽银幕镜头、真实亮片锦缎面料、真实水钻珠饰、真实人物表演者、真实舞台桁架与演唱会烟雾；不要 CGI、渲染感、过于干净的数字质感、塑料表面、AI 式过度平滑、磨皮、泛光、显得人工的光晕辉光或油亮高光。
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2100090276576407848)) · [来源平台： X](https://x.com/johnAGI168/status/2100090276576407848)</sub>
+
+<a id="p60-intimate-hallway-pov-portrait"></a>
+
+### 📌 1.17. 玄关整理衣领的亲密视角人像
+
+#### 👀 预览
+
+[<img src="assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg" width="225" height="400" alt="玄关整理衣领的亲密视角人像——来源示例">](assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 玄关亲密视角人像`
+
+#### 🔖 完整提示词
+
+```text
+风格方向： 出门前亲密整理情绪
+场景方向： 玄关 / 全身镜旁
+服装方向： 雾粉色修身短袖家居裙或约会裙
+气质标签： 温柔、轻熟、亲近、认真、甜
+身形方向： 丰腴自然曲线
+线条强调： 强
+镜头方向： 女生站在镜头前很近的位置，身体偏向镜头，双手抬到镜头前方，像正在帮男友整理衣领或拉平衣服，整理完后抬眼看向镜头
+画幅比例： 9:16
+互动重点： 镜头直接承担“男友身体位置”，会产生非常明显的恋爱 POV；近距离也更容易自然呈现肩颈、胸腰轮廓。
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100152524884058399)) · [来源平台： X](https://x.com/liyue_ai/status/2100152524884058399) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p61-mirror-sculpture-street-portrait"></a>
+
+### 📌 1.18. 镜面雕塑旁的都市街拍
+
+#### 👀 预览
+
+[<img src="assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg" width="225" height="400" alt="镜面雕塑旁的都市街拍——来源示例">](assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 镜面雕塑旁的日间街拍人像`
+
+#### 🔖 完整提示词
+
+```text
+摄影风格：日间清亮高光CCD生活照风
+写真方向：都市艺术时尚生活照
+场景方向：现代公共艺术广场 / 大型不锈钢镜面雕塑 / 浅灰地面 / 极简开放空间
+服装方向：青柚绿色修身Polo短上衣 + 奶油白低腰修身短裙
+气质标签：清冷、俏皮、时尚、明亮、有设计感
+五官方向：高级元气淡颜
+身形方向：轻盈纤细
+线条强调：强
+镜头方向：半身到大腿
+姿态动作：站在镜面雕塑边，一只手轻触金属表面，身体轻微侧身看向镜面中的自己
+光线氛围：晴天明亮自然光 + 镜面金属形成清晰中性反射补光
+滤镜效果：高亮清晰绿白CCD色彩 + 清楚高光 + 稳定黑位 + 轻颗粒 + 极轻锐度
+画幅比例：9:16
+补充要求：镜面雕塑只能作为几何背景，不出现复杂畸变人像；人物胸腰轮廓清楚，整体要像城市随手拍而不是艺术棚拍
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100123514745536819)) · [来源平台： X](https://x.com/liyue_ai/status/2100123514745536819) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p63-golden-hour-beach-selfie"></a>
+
+### 📌 1.19. 黄金时段海滩自拍
+
+#### 👀 预览
+
+[<img src="assets/p63-golden-hour-beach-selfie/source-example-01.jpg" width="225" height="400" alt="黄金时段海滩自拍——来源示例">](assets/p63-golden-hour-beach-selfie/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 黄金时段海滩自拍`
+
+#### 🔖 完整提示词
+
+```text
+一位长发黑发的东亚美女在海边自拍，穿着黑色高开叉连体泳衣，金色硬币吊坠项链，夕阳黄金时段，海浪拍打礁石，暖色侧光，真实摄影质感，皮肤细腻，微微侧身看镜头
+```
+
+<sub>(by [@shitunote](https://x.com/shitunote/status/2099846900031852562)) · [来源平台： X](https://x.com/shitunote/status/2099846900031852562) · 英文由 SeeAPI 翻译</sub>
+
 <a id="-characters--playful-creations"></a>
 
 ## 🧸 角色与趣味创作
@@ -708,6 +841,50 @@ IPHONE“照片”APP 布局
 
 <sub>(作者：SeeAPI)</sub>
 
+<a id="p56-raiden-shogun-in-a-film-scene"></a>
+
+### 📌 2.9. 雷电将军闯入电影名场面
+
+#### 👀 预览
+
+[<img src="assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg" width="225" height="400" alt="雷电将军闯入电影名场面——来源示例">](assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg)
+
+[<img src="assets/p56-raiden-shogun-in-a-film-scene/source-example-02.jpg" width="225" height="400" alt="雷电将军闯入电影名场面——来源示例">](assets/p56-raiden-shogun-in-a-film-scene/source-example-02.jpg)
+
+#### 👇 工作流
+
+`电影场景 + 雷电将军 → 荒诞竖版抓拍`
+
+#### 🔖 完整提示词
+
+```text
+经典电影名场面 × 第三者雷电将军融入剧情 × 荒诞合理感 × 失败照片 × 9:16竖版。
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100156601600782528)) · [来源平台： X](https://x.com/DeepBlueX0/status/2100156601600782528) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p58-cat-expression-transfer"></a>
+
+### 📌 2.10. 猫咪表情迁移
+
+#### 👀 预览
+
+[<img src="assets/p58-cat-expression-transfer/source-example-01.jpg" width="400" height="400" alt="猫咪表情迁移——来源对比拼图">](assets/p58-cat-expression-transfer/source-example-01.jpg)
+
+[<img src="assets/p58-cat-expression-transfer/source-example-02.jpg" width="334" height="400" alt="猫咪表情迁移——来源对比拼图">](assets/p58-cat-expression-transfer/source-example-02.jpg)
+
+#### 👇 工作流
+
+`表情参考图 + 猫咪参考图 → 迁移表情的猫咪`
+
+#### 🔖 完整提示词
+
+```text
+把图二猫咪变成图一那样的表情
+```
+
+<sub>(by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874)) · [来源平台： X](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · 英文由 SeeAPI 翻译</sub>
+
 <a id="-products--branding"></a>
 
 ## 🛍️ 产品与品牌视觉
@@ -893,6 +1070,58 @@ IPHONE“照片”APP 布局
 ```
 
 <sub>(作者：SeeAPI)</sub>
+
+<a id="p55-miniature-country-chocolate-bar"></a>
+
+### 📌 3.9. 微缩国家巧克力
+
+#### 👀 预览
+
+[<img src="assets/p55-miniature-country-chocolate-bar/source-example-01.jpg" width="320" height="400" alt="微缩国家巧克力 — 法国来源示例">](assets/p55-miniature-country-chocolate-bar/source-example-01.jpg)
+
+[<img src="assets/p55-miniature-country-chocolate-bar/source-example-02.jpg" width="320" height="400" alt="微缩国家巧克力 — 意大利来源示例">](assets/p55-miniature-country-chocolate-bar/source-example-02.jpg)
+
+#### 👇 工作流
+
+`国家与地标信息 → 微缩巧克力产品图`
+
+#### 🔖 完整提示词
+
+```text
+创作一张令人惊叹、照片级真实的奢华食品艺术图像，将 [COUNTRY] 化作一块巨大的高级巧克力。
+
+巧克力斜放在优雅的深色石材表面，从略微俯视的电影感角度拍摄。包装纸借鉴 [COUNTRY] 的视觉形象、色彩、纹样与文化美学，同时保持精致、高级的气质。
+
+巧克力从中央戏剧性地裂开。
+
+裂开的巧克力内部浮现一个极其精细的 [COUNTRY] 3D 微缩景观，仿佛整个国家都被雕刻在巧克力之中。
+
+包含：
+
+以 [FAMOUS LANDMARK] 为中心视觉焦点
+
+周围环绕 [FAMOUS NATURAL LANDSCAPE]
+
+微小而可辨认的当地建筑
+
+微缩街道与交通工具
+
+将 [FAMOUS LOCAL FOOD] 作为微小装饰元素
+
+当地的花卉、树木、山峦或海岸线
+
+该国独有的细微文化元素
+
+巧克力本身必须极为真实：有光泽的可可表面、清脆的断口、柔滑的分层内馅、细小的巧克力碎屑、轻微融化的巧克力，以及真实的高光与阴影。
+
+营造一种奇妙的过渡：巧克力碎块逐渐变成山脉、建筑与景观，看起来仿佛整个国家一直藏在巧克力之中。
+
+高级商业食品摄影、电影感灯光、极度精细的微缩世界、真实材质、微距摄影、浅景深、空气透视、精致构图、丰富纹理、8K 照片级真实感；视觉上令人无法抗拒，超现实却可信。
+
+构图：4:5 竖版、主体居中、戏剧性透视、干净奢华的背景、强烈视觉对比；无人、无字幕、无水印、无多余文字。
+```
+
+<sub>(by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2100164588721651910)) · [来源平台： X](https://x.com/Naiknelofar788/status/2100164588721651910)</sub>
 
 <a id="-posters--artistic-styles"></a>
 
@@ -1545,6 +1774,35 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 ```
 
 <sub>(作者：SeeAPI)</sub>
+
+<a id="p62-minimal-chinese-roof-poster"></a>
+
+### 📌 4.17. 新中式屋檐与雀鸟极简海报
+
+#### 👀 预览
+
+[<img src="assets/p62-minimal-chinese-roof-poster/source-example-01.jpg" width="225" height="400" alt="新中式屋檐与雀鸟极简海报——来源示例">](assets/p62-minimal-chinese-roof-poster/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 留有标题区的新中式极简海报`
+
+#### 🔖 完整提示词
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美新中式型
+主体内容：一位古风女子站在浅色屋脊下方，抬眼看一只停在檐角的小雀
+情绪母题：灵动、安静、东方趣味感
+场景与意象：月牙白屋墙、海棠红檐角点缀、松针绿植物、小雀、女子
+构图与空间：9:16 竖版构图，屋檐斜向切入上方，人物位于下方偏一侧，上方大片浅色墙面形成标题区
+色彩控制：月牙白作为背景和墙面基底，海棠红用于檐角和局部点睛，松针绿用于少量植物，小雀保持自然浅棕色；避免整图偏红或偏绿
+光线与质感：明亮自然光，画面干净，边缘清楚，轻平面新中式海报感
+画幅比例：9:16
+补充要求：整体要有趣味但仍极简，小雀只作为灵动点，不要把背景做复杂，画面留白处配上合适的艺术文字
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100097638326780122)) · [来源平台： X](https://x.com/liyue_ai/status/2100097638326780122) · 英文由 SeeAPI 翻译</sub>
 
 <a id="-home--interior-design"></a>
 

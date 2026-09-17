@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-17",
   "entries": [
     {
       "id": "C01",
@@ -2700,6 +2700,491 @@
       "updated": "2026-09-15",
       "readme_anchor": "p54-cinematic-modern-mafia-boss-portrait",
       "display_number": "1.1"
+    },
+    {
+      "id": "P55",
+      "title": "Miniature Country Chocolate Bar",
+      "title_zh": "微缩国家巧克力",
+      "slug": "p55-miniature-country-chocolate-bar",
+      "categories": [
+        "Products & Branding"
+      ],
+      "status": "image-included",
+      "author": "@Naiknelofar788",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Naiknelofar788/status/2100164588721651910",
+        "publisher": "@Naiknelofar788",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100164588721651910",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p55-miniature-country-chocolate-bar.md",
+      "prompts": [
+        "prompts/p55-miniature-country-chocolate-bar/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p55-miniature-country-chocolate-bar/image-prompt.txt": "prompts/p55-miniature-country-chocolate-bar/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p55-miniature-country-chocolate-bar/image-prompt.txt": "73d37018e9419f6f6b48ac976b5f24eb917a92fa2c43e5c7249a20eed47481d3"
+      },
+      "preview": "assets/p55-miniature-country-chocolate-bar/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p55-miniature-country-chocolate-bar/source-example-01.jpg",
+          "sha256": "c5b66242b4aff443cb4949d17562a361f8605f84b677d01048adf92aea0b3c38",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p55-miniature-country-chocolate-bar/source-example-02.jpg",
+          "sha256": "bf2d57934db3b6178831cfbd10cb1bb94a8d808c8a387601c15032497e35abe3",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p55-miniature-country-chocolate-bar",
+      "display_number": "3.9"
+    },
+    {
+      "id": "P56",
+      "title": "Raiden Shogun in a Film Scene",
+      "title_zh": "雷电将军闯入电影名场面",
+      "slug": "p56-raiden-shogun-in-a-film-scene",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@DeepBlueX0",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/DeepBlueX0/status/2100156601600782528",
+        "publisher": "@DeepBlueX0",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100156601600782528",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p56-raiden-shogun-in-a-film-scene/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p56-raiden-shogun-in-a-film-scene.md",
+      "prompts": [
+        "prompts/p56-raiden-shogun-in-a-film-scene/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p56-raiden-shogun-in-a-film-scene/image-prompt.txt": "prompts/p56-raiden-shogun-in-a-film-scene/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p56-raiden-shogun-in-a-film-scene/image-prompt.txt": "e2920197bc2809c6bed027d3907b3808762c84a3b4c892f9c2b02968a6307178"
+      },
+      "preview": "assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p56-raiden-shogun-in-a-film-scene/source-example-01.jpg",
+          "sha256": "cba9f7317d9ce7a686a54a423fe744ed8d50446861c9fae21215218406aa9a47",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p56-raiden-shogun-in-a-film-scene/source-example-02.jpg",
+          "sha256": "a958826bcabec0d67371434c9b079490ae3233868ea347746bf6a63eb861c5a0",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p56-raiden-shogun-in-a-film-scene",
+      "display_number": "2.9"
+    },
+    {
+      "id": "P57",
+      "title": "Candid Camera Roll Grid",
+      "title_zh": "随手拍相册九宫格",
+      "slug": "p57-candid-camera-roll-grid",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@MrLarus",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/MrLarus/status/2099871480112652453",
+        "publisher": "@MrLarus",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2099871480112652453",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Images 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p57-candid-camera-roll-grid.md",
+      "prompts": [
+        "prompts/p57-candid-camera-roll-grid/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p57-candid-camera-roll-grid/image-prompt.txt": "prompts/p57-candid-camera-roll-grid/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p57-candid-camera-roll-grid/image-prompt.txt": "28833d8bdcbc1bdf8a8212ce8a9d9b18ec45f8540bbe9ac3ef8d828a0de5a29c"
+      },
+      "preview": "assets/p57-candid-camera-roll-grid/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p57-candid-camera-roll-grid/source-example-01.jpg",
+          "sha256": "9c4509448f4fbe688f4236652153c9c88a6206a4e2b4eb9f2e667dc5e9e9de15",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p57-candid-camera-roll-grid/source-example-02.jpg",
+          "sha256": "3ccb3444ffcacdc2ea75ecdffbfac9a453b74481986194a61d205680095ca4f9",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p57-candid-camera-roll-grid/source-example-03.jpg",
+          "sha256": "751012a1af740cc0a4a427b99181cd8b82d55ff931262a39a9e031d1478c47ac",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p57-candid-camera-roll-grid",
+      "display_number": "1.15"
+    },
+    {
+      "id": "P58",
+      "title": "Cat Expression Transfer",
+      "title_zh": "猫咪表情迁移",
+      "slug": "p58-cat-expression-transfer",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@ZHO_ZHO_ZHO",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874",
+        "publisher": "@ZHO_ZHO_ZHO",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2099832996216135874",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p58-cat-expression-transfer/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Images 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p58-cat-expression-transfer.md",
+      "prompts": [
+        "prompts/p58-cat-expression-transfer/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p58-cat-expression-transfer/image-prompt.txt": "prompts/p58-cat-expression-transfer/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p58-cat-expression-transfer/image-prompt.txt": "741b0690f2f545453d8d87239e7e644c8eeedebd0eb78b2e82c073f0c3d1f39c"
+      },
+      "preview": "assets/p58-cat-expression-transfer/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p58-cat-expression-transfer/source-example-01.jpg",
+          "sha256": "549be00661640e67ee1a6a9d01a2b9cf75f1e6c34b8458f65a63b98a581570b3",
+          "width": 1713,
+          "height": 1712,
+          "role": "source-comparison-composite"
+        },
+        {
+          "path": "assets/p58-cat-expression-transfer/source-example-02.jpg",
+          "sha256": "8536ef927b2237e713e87377ee65a35eae6befa7812bdc5a504d4a9815ec3d08",
+          "width": 994,
+          "height": 1192,
+          "role": "source-comparison-composite"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p58-cat-expression-transfer",
+      "display_number": "2.10"
+    },
+    {
+      "id": "P59",
+      "title": "Concert Stage Bunny Costume",
+      "title_zh": "兔耳舞台服演唱会抓拍",
+      "slug": "p59-concert-stage-bunny-costume",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@johnAGI168",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/johnAGI168/status/2100090276576407848",
+        "publisher": "@johnAGI168",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100090276576407848",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Images 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p59-concert-stage-bunny-costume.md",
+      "prompts": [
+        "prompts/p59-concert-stage-bunny-costume/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p59-concert-stage-bunny-costume/image-prompt.txt": "prompts/p59-concert-stage-bunny-costume/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p59-concert-stage-bunny-costume/image-prompt.txt": "9477a11c6f23ffa9ee6cb277bee2d2b01eeecf98778b28663e2a310627b88e8e"
+      },
+      "preview": "assets/p59-concert-stage-bunny-costume/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p59-concert-stage-bunny-costume/source-example-01.jpg",
+          "sha256": "3ff1163be639f2854b7805aea72adab5ca5e0c1e6beb3e7cac3895e5aa3b62aa",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p59-concert-stage-bunny-costume",
+      "display_number": "1.16"
+    },
+    {
+      "id": "P60",
+      "title": "Intimate Hallway POV Portrait",
+      "title_zh": "玄关整理衣领的亲密视角人像",
+      "slug": "p60-intimate-hallway-pov-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@liyue_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/liyue_ai/status/2100152524884058399",
+        "publisher": "@liyue_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100152524884058399",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p60-intimate-hallway-pov-portrait/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p60-intimate-hallway-pov-portrait.md",
+      "prompts": [
+        "prompts/p60-intimate-hallway-pov-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p60-intimate-hallway-pov-portrait/image-prompt.txt": "prompts/p60-intimate-hallway-pov-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p60-intimate-hallway-pov-portrait/image-prompt.txt": "5775145de7377babd19200805818a6b2d2276d4ffd30d0e45cd7821f7012231f"
+      },
+      "preview": "assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p60-intimate-hallway-pov-portrait/source-example-01.jpg",
+          "sha256": "635389f2704f9ace02a7735cf2b70ef1fc8c849028605d0969fa899af1083606",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p60-intimate-hallway-pov-portrait",
+      "display_number": "1.17"
+    },
+    {
+      "id": "P61",
+      "title": "Mirror Sculpture Street Portrait",
+      "title_zh": "镜面雕塑旁的都市街拍",
+      "slug": "p61-mirror-sculpture-street-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@liyue_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/liyue_ai/status/2100123514745536819",
+        "publisher": "@liyue_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100123514745536819",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p61-mirror-sculpture-street-portrait/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p61-mirror-sculpture-street-portrait.md",
+      "prompts": [
+        "prompts/p61-mirror-sculpture-street-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p61-mirror-sculpture-street-portrait/image-prompt.txt": "prompts/p61-mirror-sculpture-street-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p61-mirror-sculpture-street-portrait/image-prompt.txt": "25336e0069e01de61fc63b78c7e4127af286c90321a7e374e616b3f453744528"
+      },
+      "preview": "assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p61-mirror-sculpture-street-portrait/source-example-01.jpg",
+          "sha256": "e85b31ec8575e199d885c546c721493cbccfda11f52c1ae6b1b1557d46263f13",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p61-mirror-sculpture-street-portrait",
+      "display_number": "1.18"
+    },
+    {
+      "id": "P62",
+      "title": "Minimal Chinese Roof Poster",
+      "title_zh": "新中式屋檐与雀鸟极简海报",
+      "slug": "p62-minimal-chinese-roof-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@liyue_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/liyue_ai/status/2100097638326780122",
+        "publisher": "@liyue_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100097638326780122",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p62-minimal-chinese-roof-poster/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p62-minimal-chinese-roof-poster.md",
+      "prompts": [
+        "prompts/p62-minimal-chinese-roof-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p62-minimal-chinese-roof-poster/image-prompt.txt": "prompts/p62-minimal-chinese-roof-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p62-minimal-chinese-roof-poster/image-prompt.txt": "9fff34c45f1f6f051173abf60c7b3fd32b71b458d8816147638ae622650f1f18"
+      },
+      "preview": "assets/p62-minimal-chinese-roof-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p62-minimal-chinese-roof-poster/source-example-01.jpg",
+          "sha256": "e71f2472a55be516cb4228ed2350a25fb76f9bca9348c3d76add28d9e46f174d",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p62-minimal-chinese-roof-poster",
+      "display_number": "4.17"
+    },
+    {
+      "id": "P63",
+      "title": "Golden Hour Beach Selfie",
+      "title_zh": "黄金时段海滩自拍",
+      "slug": "p63-golden-hour-beach-selfie",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@shitunote",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/shitunote/status/2099846900031852562",
+        "publisher": "@shitunote",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2099846900031852562",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p63-golden-hour-beach-selfie/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p63-golden-hour-beach-selfie.md",
+      "prompts": [
+        "prompts/p63-golden-hour-beach-selfie/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p63-golden-hour-beach-selfie/image-prompt.txt": "prompts/p63-golden-hour-beach-selfie/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p63-golden-hour-beach-selfie/image-prompt.txt": "f73b25c26c3502cbe7aae37563d4131bc87bfebd2e731943682dd488c52961e1"
+      },
+      "preview": "assets/p63-golden-hour-beach-selfie/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p63-golden-hour-beach-selfie/source-example-01.jpg",
+          "sha256": "7540dcb95d286ec3999154353ac2d996f670009e938cc2f13eefe3d20e13c343",
+          "width": 940,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-17",
+      "readme_anchor": "p63-golden-hour-beach-selfie",
+      "display_number": "1.19"
     }
   ]
 }
