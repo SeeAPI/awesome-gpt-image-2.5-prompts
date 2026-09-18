@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 63 standalone prompts · Updated September 17, 2026**
+**5 creative workflows · 73 standalone prompts · Updated September 18, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -531,6 +531,513 @@ A beautiful East Asian woman with long black hair takes a selfie by the sea, wea
 
 <sub>(by [@shitunote](https://x.com/shitunote/status/2099846900031852562)) · [Source: X](https://x.com/shitunote/status/2099846900031852562) · English translation by SeeAPI</sub>
 
+<a id="p64-lavender-bedroom-portrait"></a>
+
+### 📌 1.20. Lavender Bedroom Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p64-lavender-bedroom-portrait/source-example-01.jpg" width="225" height="400" alt="Lavender Bedroom Portrait — source example">](assets/p64-lavender-bedroom-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → lavender bedroom portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Hyper-realistic IMAX-level Netflix-style cinematic portrait, 9:16 vertical. Use the uploaded image as the primary identity reference and preserve her exact facial identity, proportions, and defining features. Create a beautiful woman wearing an oversized lavender off-shoulder knit sweater, sitting on a white bed in a bright cozy bedroom. Soft white bedding surrounds her, with a large window on the left filling the room with warm sunlight. She sits slightly sideways on the bed, with her upper body leaning gently backward. Her left arm is raised above her head, hand resting in her hair, while her other arm hangs naturally along her side. Her shoulders are relaxed, one shoulder exposed by the loose sweater. Her head is tilted upward and slightly back, eyes mostly hidden behind loose strands of hair, with a wide natural smile showing her teeth. Long tousled wavy hair with a loose natural center part, voluminous texture, messy face-framing strands falling across her forehead and eyes, with soft waves cascading over her shoulders and down her back. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, naturally illuminated by the warm sunlight. Strong golden backlight from the window creates glowing highlights around her hair and shoulders, soft lens flare, bright airy highlights, and gentle shadows. Warm pastel color grading with soft lavender, creamy white, and golden tones, dreamy high-key lighting, subtle glow, natural skin texture, shallow depth of field, soft romantic editorial photography.
+Negative prompt: changed identity, distorted face, deformed hands or fingers, bad anatomy, unnatural pose, text or watermark.
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2100744113503052078)) · [Source: X](https://x.com/imGopalTiwari/status/2100744113503052078)</sub>
+
+<a id="p65-snowy-mountain-plaid-scarf-portrait"></a>
+
+### 📌 1.21. Snowy Mountain Plaid-Scarf Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg" width="225" height="400" alt="Snowy Mountain Plaid-Scarf Portrait — source example">](assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → snowy mountain portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Hyper-realistic IMAX-level Netflix-style cinematic portrait, 9:16 vertical. Use the uploaded image as the primary identity reference and preserve her exact facial identity, proportions, and defining features. Create a beautiful woman wearing a black fitted top, gray denim jacket, black pants, black lace-up boots, round dark sunglasses, and a black-and-gray checkered scarf wrapped loosely around her neck. She is sitting confidently on a large rugged snow-covered mountain rock, surrounded by vast snowy mountains and dense snow-covered pine forests. She sits with one knee raised high in front of her and the other leg bent downward along the rock, both boots firmly resting on the rock. One hand rests naturally on her raised knee while the other rests on her opposite thigh. Her torso is upright with a slight relaxed lean, shoulders natural, and her head tilted slightly upward and turned toward the side, with a calm confident expression. Long thick wavy hair styled in a voluminous swept-back look, with textured waves, lifted roots, natural movement, and a few loose strands framing her face. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, natural skin texture and soft realistic highlights. Soft cold daylight illuminates her face and clothing, with gentle highlights and cool shadows across the snowy landscape. Cool blue-gray winter color grading, muted tones, soft atmospheric haze, realistic snow and rock textures, shallow depth of field, cinematic mountain photography.
+Negative prompt: changed identity, distorted face, deformed hands or fingers, bad anatomy, unnatural pose, text or watermark.
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2100698813539492223)) · [Source: X](https://x.com/imGopalTiwari/status/2100698813539492223)</sub>
+
+<a id="p68-towel-wrapped-makeup-frame-reconstruction"></a>
+
+### 📌 1.22. Towel-Wrapped Makeup Frame Reconstruction
+
+#### 👀 Preview
+
+[<img src="assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg" width="238" height="400" alt="Towel-Wrapped Makeup Frame Reconstruction — source example">](assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Reference frame → makeup-video reconstruction`
+
+#### 🔖 Full Prompt
+
+```text
+{
+  "prompt_type": "photorealistic_image_reconstruction",
+  "objective": "Recreate the supplied reference image as closely as possible while completely removing and ignoring all on-screen text, playback controls, progress bars, icons, timestamps, and other video UI elements. Preserve the underlying photographic scene, subject, pose, facial expression, styling, lighting, environment, framing, proportions, and material textures.",
+  "reference_priority": {
+    "overall_composition": "extremely high",
+    "subject_placement": "extremely high",
+    "facial_structure": "extremely high",
+    "towel_shape_and_texture": "extremely high",
+    "hand_position": "extremely high",
+    "lip_pencil_position": "extremely high",
+    "lighting": "extremely high",
+    "background_geometry": "high",
+    "color_palette": "high",
+    "micro_texture": "high",
+    "ui_elements": "ignore_completely"
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "approximately 704:1130",
+    "framing": "vertical smartphone-camera composition",
+    "crop": "tight close-up extending from the top of the towel/head-wrap to the upper chest and shoulders",
+    "edge_behavior": {
+      "left_edge": "narrow black vertical border visible outside the main portrait area",
+      "right_edge": "very narrow dark/black edge outside the main portrait area",
+      "top_edge": "small amount of pale background above the towel",
+      "bottom_edge": "cropped at the upper torso/chest area"
+    },
+    "important": "Do not reproduce any screenshot controls, text, icons, timestamps, progress indicators, or playback buttons."
+  },
+  "scene_description": {
+    "setting": "bright, minimalist, modern bathroom or clean dressing-room interior",
+    "visual_mood": "soft, intimate, casual beauty-routine selfie",
+    "time_of_day": "daytime or bright daylight-balanced interior",
+    "overall_style": "authentic modern smartphone beauty video frame, highly photorealistic, softly beauty-filtered but still natural",
+    "environmental_complexity": "minimal and uncluttered",
+    "background_focus": "soft and slightly out of focus compared with the woman's face"
+  },
+  "subject": {
+    "person": {
+      "description": "adult woman",
+      "pose": "facing directly toward the camera in a relaxed seated or reclined position",
+      "orientation": "frontal portrait",
+      "head_alignment": "centered with minimal natural tilt",
+      "body_visibility": "head, neck, shoulders, upper chest, and one or both hands visible",
+      "expression": "calm, relaxed, subtly pouty, neutral-to-soft beauty-tutorial expression",
+      "gaze": "looking toward the camera"
+    },
+    "skin": {
+      "base_tone": "light-to-medium warm beige with a soft golden undertone",
+      "texture": "very smooth and evenly toned, consistent with a subtle social-media beauty filter",
+      "finish": "soft luminous skin with gentle natural highlights",
+      "blemishes": "minimal",
+      "pores": "subtle and softened rather than highly detailed",
+      "blush": "visible diffuse rosy-pink blush on the apples of both cheeks",
+      "undertone": "warm and healthy",
+      "contrast": "low-to-moderate"
+    },
+    "face": {
+      "shape": "soft oval face",
+      "forehead": "smooth and moderately broad",
+      "cheeks": "full, softly rounded cheeks",
+      "jaw": "softly tapered jawline",
+      "chin": "small, rounded chin",
+      "symmetry": "natural high facial symmetry",
+      "proportions": "delicate youthful-looking facial proportions"
+    },
+    "eyes": {
+      "shape": "large almond-shaped eyes",
+      "color": "deep dark brown",
+      "orientation": "frontal and directed toward the camera",
+      "upper_lashes": {
+        "length": "very long",
+        "density": "high",
+        "curl": "strong upward curl",
+        "appearance": "clearly enhanced beauty-makeup eyelashes"
+      },
+      "lower_lashes": "subtle and less pronounced",
+      "eyelids": "softly defined",
+      "eye_makeup": "minimal dark definition around the lash line",
+      "under_eye": "smooth, softly brightened, no strong dark circles",
+      "catchlights": "subtle soft light reflections"
+    },
+    "eyebrows": {
+      "shape": "full, gently arched brows",
+      "color": "dark brown",
+      "density": "medium-full",
+      "styling": "cleanly groomed but natural",
+      "texture": "soft individual hair detail"
+    },
+    "nose": {
+      "shape": "small delicate nose",
+      "bridge": "smooth and softly defined",
+      "tip": "rounded and subtle",
+      "lighting": "gentle highlight along bridge and tip",
+      "contour": "very subtle natural contour"
+    },
+    "lips": {
+      "shape": "full, plush lips",
+      "upper_lip": "defined cupid's bow",
+      "lower_lip": "fuller and rounded",
+      "position": "slightly parted and gently pursed",
+      "color": "muted rosy mauve nude",
+      "finish": "soft satin with slight natural gloss",
+      "makeup": "subtle lip liner and muted pink-nude color",
+      "action": "lip liner is being applied directly to the center/lower portion of the lips"
+    }
+  },
+  "hair": {
+    "visibility": "hair is almost entirely concealed",
+    "style": "hair wrapped completely inside a large towel turban",
+    "visible_hair": "only a very small amount, if any, near the forehead/hairline",
+    "instruction": "Do not expose long loose hair around the shoulders."
+  },
+  "head_towel": {
+    "type": "large bath towel wrapped into a voluminous turban",
+    "material": "thick woven cotton with pronounced waffle-knit texture",
+    "primary_color": "warm pale gray-beige / greige",
+    "texture": {
+      "pattern": "fine repeating square/waffle weave",
+      "definition": "clearly visible but softened by smartphone-camera processing",
+      "surface": "matte and absorbent cotton"
+    },
+    "structure": {
+      "top": "large rounded layered folds piled above the head",
+      "front": "thick rolled edge framing the forehead",
+      "left_side": "large outward-folding towel mass extending behind the left side of the head",
+      "right_side": "longer towel section falling downward along the right side of the face and shoulder",
+      "rear": "substantial layered towel volume behind the head",
+      "folds": "multiple overlapping organic folds and twisted layers",
+      "silhouette": "wide, rounded, oversized towel silhouette surrounding the upper head"
+    },
+    "color_variation": "subtle tonal differences between overlapping folds, with slightly pink-beige and cool-gray variations",
+    "lighting_response": "soft highlights on raised waffle ridges and gentle shadows inside folds"
+  },
+  "secondary_towel_or_fabric": {
+    "description": "additional soft gray towel-like fabric visible around the sides/back of the head and behind the shoulders",
+    "material": "plush absorbent terry or textured cotton",
+    "color": "light neutral gray",
+    "purpose": "adds layered towel volume around the head"
+  },
+  "hands": {
+    "visibility": "hands prominently visible in the lower-center foreground",
+    "skin_tone": "matching the warm beige/golden complexion of the subject",
+    "position": "one hand or both hands hold the cosmetic pencil vertically in front of the mouth",
+    "gesture": "delicate precision beauty-makeup application",
+    "fingers": {
+      "shape": "slender feminine fingers",
+      "pose": "relaxed but controlled around the pencil",
+      "anatomy": "natural human finger proportions",
+      "instruction": "No extra fingers, merged fingers, distorted joints, or malformed hands."
+    },
+    "nails": {
+      "length": "medium-long",
+      "shape": "soft square / squared-off",
+      "color": "opaque clean white",
+      "finish": "smooth glossy manicure",
+      "detail": "subtle specular reflections on nail surfaces"
+    }
+  },
+  "cosmetic_pencil": {
+    "type": "slim lip-liner pencil",
+    "position": "almost perfectly vertical, extending upward from the lower center of the image toward the lips",
+    "tip_location": "touching or nearly touching the center/lower lip",
+    "body_color": "dusty rose, muted pink, mauve-pink",
+    "finish": "matte to satin",
+    "shape": "slender cylindrical cosmetic pencil",
+    "visible_length": "substantial section extends downward into the hand",
+    "branding": "small indistinct light-colored cosmetic markings may appear on the body, but no readable text",
+    "interaction": "actively outlining or applying color to the lower lip"
+  },
+  "jewelry": {
+    "necklace": {
+      "type": "very thin delicate chain",
+      "color": "silver or pale metallic",
+      "placement": "around the neck and partially visible over the upper chest",
+      "pendant": {
+        "description": "small delicate metallic charm",
+        "shape": "compact rounded or letter-like charm",
+        "position": "centered low on the visible neck/chest area",
+        "appearance": "bright metallic highlights with slight sparkle"
+      }
+    }
+  },
+  "upper_body": {
+    "clothing": "bare shoulders and upper chest",
+    "pose": "relaxed shoulders",
+    "skin_rendering": "smooth but naturally dimensional",
+    "lighting": "soft frontal light with mild shadowing beneath chin and around collarbones",
+    "composition": "shoulders extend toward both lower corners of the frame"
+  },
+  "background": {
+    "walls": {
+      "color": "very pale cool white with a subtle blue-gray cast",
+      "finish": "smooth painted wall",
+      "detail": "clean minimalist architecture"
+    },
+    "ceiling_fan": {
+      "visibility": "partial fan visible near the upper center-left region",
+      "description": "white or very pale ceiling fan housing with one dark gray/black blade descending into the frame",
+      "focus": "slightly soft because it is outside the main focal plane"
+    },
+    "air_vent": {
+      "position": "upper-right background",
+      "description": "rectangular white HVAC or air-return vent with narrow horizontal slats",
+      "appearance": "subtle, clean, geometric",
+      "focus": "slightly softened"
+    },
+    "door_or_architecture": {
+      "position": "far right background",
+      "description": "minimal white architectural edge or door frame",
+      "visibility": "partial",
+      "detail_level": "soft and unobtrusive"
+    },
+    "background_depth": "shallow depth with background softly blurred while remaining recognizable"
+  },
+  "camera": {
+    "device_style": "modern smartphone front-facing camera",
+    "lens": "wide selfie lens approximately 24-28mm full-frame equivalent",
+    "perspective": "close facial selfie perspective with mild wide-angle characteristics",
+    "camera_height": "roughly eye level",
+    "camera_distance": "approximately arm's length",
+    "orientation": "vertical portrait",
+    "focus_point": "eyes and central face",
+    "sharpness": "face sharp, background moderately softened",
+    "depth_of_field": "moderately shallow",
+    "stabilization": "stable frame",
+    "image_quality": "high-resolution modern smartphone image",
+    "processing": "subtle computational photography and beauty-filter smoothing"
+  },
+  "lighting": {
+    "primary_source": "large diffused frontal window or soft artificial daylight source",
+    "direction": "front and slightly above",
+    "quality": "very soft",
+    "contrast": "low",
+    "shadows": "gentle, diffuse, no hard-edged shadows",
+    "skin_highlights": "soft highlights on forehead, nose, cheeks, and lips",
+    "towel_lighting": "slightly brighter highlights along raised woven ridges",
+    "background_lighting": "cool pale ambient illumination",
+    "color_temperature": "cool-neutral daylight with warm skin rendering",
+    "overall_effect": "flattering, clean, soft beauty-video lighting"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "pale cool white",
+      "warm light gray",
+      "beige",
+      "greige",
+      "soft rosy pink",
+      "dusty mauve",
+      "warm golden skin"
+    ],
+    "saturation": "moderately low",
+    "contrast": "low-to-moderate",
+    "highlights": "creamy and soft",
+    "shadows": "gentle and slightly lifted",
+    "skin_color_priority": "natural warm skin must remain distinct from the cool background",
+    "towel_color_priority": "neutral warm gray-beige"
+  },
+  "beauty_processing": {
+    "style": "subtle social-media beauty filter",
+    "skin_smoothing": "moderate-to-high",
+    "blemish_reduction": "high",
+    "facial_shape_adjustment": "minimal",
+    "eye_enhancement": "subtle",
+    "lash_enhancement": "visible",
+    "blush_enhancement": "moderate",
+    "lip_enhancement": "subtle",
+    "overall_result": "polished but believable smartphone beauty footage",
+    "avoid": "extreme face reshaping, plastic skin, unrealistic symmetry, or artificial CGI skin"
+  },
+  "composition_geometry": {
+    "subject_center": "approximately centered horizontally",
+    "face_position": "face occupies the central middle portion of the frame",
+    "eyes": "located around the upper-middle third",
+    "towel_top": "extends into the upper quarter of the frame",
+    "mouth": "located near the vertical center",
+    "hands": "occupy the lower-center foreground",
+    "pencil": "creates a nearly vertical central visual line",
+    "shoulders": "fill the lower left and lower right regions",
+    "negative_space": "limited, intimate close-up framing",
+    "symmetry": "mostly symmetrical frontal composition with natural asymmetry in towel folds and hands"
+  },
+  "fine_details": {
+    "skin": "soft realistic texture with subtle tonal variation",
+    "lashes": "individual lash clusters visible",
+    "brows": "fine hair texture visible",
+    "lips": "subtle natural lip texture beneath the makeup",
+    "nails": "clean glossy white surfaces",
+    "towel": "individual woven ridges and loops visible",
+    "necklace": "tiny metallic reflections",
+    "pencil": "small printed cosmetic markings without readable lettering",
+    "background": "faint architectural details without distracting clutter"
+  },
+  "photographic_style": {
+    "genre": "casual luxury beauty/self-care smartphone portrait",
+    "realism": "extreme photorealism",
+    "image_character": "authentic paused frame from a beauty video",
+    "retouching": "soft computational beauty processing",
+    "texture": "clean but not sterile",
+    "dynamic_range": "high",
+    "sharpness": "moderately sharp on face and hands",
+    "compression": "subtle smartphone/social-media compression character"
+  },
+  "negative_prompt": [
+    "text",
+    "captions",
+    "subtitles",
+    "watermarks",
+    "logos",
+    "play button",
+    "pause button",
+    "progress bar",
+    "timeline",
+    "timestamp",
+    "video controls",
+    "UI overlays",
+    "social media icons",
+    "interface elements",
+    "different person",
+    "different facial proportions",
+    "different pose",
+    "different towel style",
+    "loose long hair",
+    "dark towel",
+    "bright colored towel",
+    "red lipstick",
+    "dark lipstick",
+    "heavy contouring",
+    "dramatic eyeliner",
+    "eyeglasses",
+    "sunglasses",
+    "earrings",
+    "extra jewelry",
+    "extra people",
+    "extra hands",
+    "extra fingers",
+    "missing fingers",
+    "deformed hands",
+    "elongated fingers",
+    "incorrect nail color",
+    "pointed nails",
+    "red nails",
+    "lipstick tube instead of lip pencil",
+    "horizontal composition",
+    "landscape photography",
+    "full body",
+    "profile view",
+    "three-quarter profile",
+    "dramatic pose",
+    "hard flash",
+    "strong shadows",
+    "warm orange lighting",
+    "dark environment",
+    "busy bathroom",
+    "mirror-dominant composition",
+    "studio fashion editorial",
+    "cinematic photography",
+    "CGI",
+    "3D render",
+    "illustration",
+    "anime",
+    "plastic skin",
+    "over-smoothed skin",
+    "uncanny face",
+    "excessive HDR",
+    "extreme bokeh",
+    "overly sharpened pores"
+  ],
+  "final_instruction": "Generate a single highly photorealistic vertical image matching the reference composition as closely as possible. Preserve the same centered frontal facial framing, oversized textured beige-gray towel turban with layered folds, warm smooth skin, rosy cheeks, long dark eyelashes, full muted pink nude lips, white glossy manicure, vertical dusty-pink lip pencil touching the lower lip, delicate silver necklace, bare shoulders, pale cool bathroom background, partial ceiling fan at the top, and rectangular air vent in the upper-right background. Remove and ignore every text element, timestamp, playback button, progress line, and all other interface graphics. The result should look like the clean underlying video frame with no UI overlay."
+}
+```
+
+<sub>(by [@neverfilmed](https://x.com/neverfilmed/status/2100670687489020274)) · [Source: X](https://x.com/neverfilmed/status/2100670687489020274)</sub>
+
+<a id="p69-summer-ice-cream-selfie"></a>
+
+### 📌 1.23. Summer Ice-Cream Selfie
+
+#### 👀 Preview
+
+[<img src="assets/p69-summer-ice-cream-selfie/source-example-01.png" width="320" height="400" alt="Summer Ice-Cream Selfie — source example">](assets/p69-summer-ice-cream-selfie/source-example-01.png)
+
+#### 👇 Workflow
+
+`Text → candid summer ice-cream selfie`
+
+#### 🔖 Full Prompt
+
+```text
+A candid close-up selfie of a young woman standing outdoors against a rustic natural stone wall, playfully licking a melting ice cream cone, tongue out catching a drip, mouth open in a fun candid moment. She holds the cone up in one hand in a checkered paper wrapper, wearing chunky oversized rounded black-framed sunglasses with brown-tinted lenses. She has long dark-brown hair styled in two loose braids with small black hair ties, soft strands framing her face. Her makeup is warm and natural with a rosy flush and glossy lips, and she has long red-manicured nails, a chunky gold ring, and layered fine gold chain necklaces.
+
+She wears a delicate crochet/knit cardigan embellished with floral beadwork, seed beads and small pearls, over a patterned top. The ice cream cone is in sharp focus in the foreground — a waffle cone with a swirl of white vanilla and pink strawberry soft-serve, dripping and melting down the sides, in an orange-and-white checkered paper holder.
+
+Warm, bright, natural Mediterranean daylight in soft shade, giving an even warm glow with gentle shadows. The background is a rustic honey-and-grey natural stone brick wall, softly lit, filling the frame behind her.
+
+Facial structure: Youthful oval face with soft cheeks, full lips, a straight nose, strong brows, and a warm sun-kissed Mediterranean complexion.
+
+Camera & realism: Shot on a phone front camera, natural selfie perspective with slight closeness. Authentic smartphone photo quality — subtle grain, true-to-life warm color, natural dynamic range, no heavy filter. Highly realistic skin with visible natural texture — pores, faint freckles, soft peach-fuzz, subtle unevenness and a natural glow from the daylight — so it reads as a real candid photo rather than retouched or airbrushed. Shallow natural depth of field with the ice cream and face sharpest, stone wall softly behind. Warm, playful, European-summer mood
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [Source: Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
+<a id="p70-y2k-lounge-fashion-portrait"></a>
+
+### 📌 1.24. Y2K Lounge Fashion Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p70-y2k-lounge-fashion-portrait/source-example-01.png" width="320" height="400" alt="Y2K Lounge Fashion Portrait — source example">](assets/p70-y2k-lounge-fashion-portrait/source-example-01.png)
+
+#### 👇 Workflow
+
+`Text → Y2K lounge fashion portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A candid photo of a young East Asian woman taken by someone else at a natural eye-level angle, seated indoors in a stylish warm-toned lounge/bar, framed from the hips up. She poses with one hand raised to touch the brim of her hat, elbow out, head tilted down and slightly to the side with a cool, sultry, pouty expression, eyes half-lowered, glossy lips. She has a sleek jet-black chin-length bob with blunt straight bangs falling over her forehead and eyes, and wears a soft snakeskin/leopard-print newsboy baker-boy cap.The outfit is a Y2K-inspired look: a fitted purple short-sleeve crop tee with a large bold black graphic number print on the chest (generic numerals, no logos), exposing her midriff with a navel piercing, paired with a low-rise rhinestone-embellished belt/skirt in silver. She wears a chunky beaded pendant cord necklace with grey and white beads, stacked chunky silver bangles on one wrist, long pale-tipped nails, and carries a metallic silver shoulder bag on a thin strap. The background is a warm, dimly lit retro interior — a curved bright-red sofa, a glass table, abstract framed art on the walls, glowing wall lights and a warm peachy-pink glow, softly out of focus. Warm ambient indoor lighting, soft shadows, moody stylish lounge atmosphere.Camera & texture: Shot on iPhone (rear camera) indoors, authentic candid smartphone photo, fine sensor grain and digital noise, warm indoor color cast, natural smartphone dynamic range with soft highlights, slight softness, no filter.Skin realism (critical): Highly detailed true-to-life human skin that looks real, never waxy, never plastic, never smooth or CGI-like. Skin shows natural imperfections — visible pores across the nose, cheeks and forehead, fine peach-fuzz vellus hairs, subtle uneven skin tone, faint freckles and small beauty marks, a few tiny blemishes and natural warmth, soft under-eye texture with real fine lines, a natural soft sheen on the cheekbones, nose, midriff and arms with matte areas
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [Source: Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
+<a id="p71-candid-street-food-bite"></a>
+
+### 📌 1.25. Candid Street-Food Bite
+
+#### 👀 Preview
+
+[<img src="assets/p71-candid-street-food-bite/source-example-01.png" width="320" height="400" alt="Candid Street-Food Bite — source example">](assets/p71-candid-street-food-bite/source-example-01.png)
+
+#### 👇 Workflow
+
+`Text → candid street-food portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A candid photo of a young woman taken by someone else, seated at a small round outdoor café table on a city street, leaning down and forward with her mouth open wide about to take a big bite of a loaded kebab/gyro wrap held in both hands, wrapped in foil and white paper. Her eyes are lightly closed and her expression is joyful and eager mid-bite — a fun, unposed, real candid moment. She has dark hair slicked back tightly into a sleek low bun/ponytail, with small face-framing baby hairs, wearing gold ear-cuff and chunky gold hoop/drop earrings. Her makeup is soft and natural with defined brows and a glossy lip, and she has a natural sun-kissed complexion with light freckles and beauty marks across her shoulders and chest.
+
+She wears a yellow ribbed strappy tank top and denim jeans, with pale neutral manicured nails and a gold ring. On the table is a beige speckled ceramic plate, a folded stack of yellow and teal paper napkins, and a pair of folded sunglasses. The overloaded wrap is in sharp focus — pita/flatbread stuffed with shaved döner meat, crispy fried pieces, fresh green lettuce, tomato and sauces.
+
+Warm, bright, natural daytime light on a European city street, soft natural shadows. The background shows a blurred street scene — a parked car, shopfronts with signage, a doorway and pavement, all softly out of focus.
+
+Facial structure: Youthful oval face with defined cheekbones, full lips, strong groomed brows, a straight nose, and a warm sun-kissed complexion.
+
+Camera & realism: Shot on a phone rear camera, natural candid perspective. Authentic smartphone photo quality — subtle grain, true-to-life warm color, natural dynamic range, no heavy filter. Highly realistic skin with visible natural texture — pores, freckles and beauty marks on the shoulders and face, soft peach-fuzz, subtle unevenness and a natural sheen from the daylight — so it reads as a real candid photo rather than retouched or airbrushed. Shallow natural depth of field with the wrap and face sharpest, background blurred. Warm, fun, spontaneous street-food mood
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [Source: Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -879,6 +1386,26 @@ Make the cat in image two have the same expression as in image one.
 
 <sub>(by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874)) · [Source: X](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · English translation by SeeAPI</sub>
 
+<a id="p66-couch-potato-miniature-set"></a>
+
+### 📌 2.11. Couch Potato Miniature Set
+
+#### 👀 Preview
+
+[<img src="assets/p66-couch-potato-miniature-set/source-example-01.jpg" width="400" height="225" alt="Couch Potato Miniature Set — source example">](assets/p66-couch-potato-miniature-set/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → miniature couch potato scene`
+
+#### 🔖 Full Prompt
+
+```text
+One oversized russet potato reclines in a tiny upholstered armchair, with its naturally knobbly lower half resting on an ottoman and a television remote beside it. Miniature set photography, eye-level view and warm evening lamplight, preserving realistic potato skin and a comfortably lazy posture in an unlettered living room.. 16:9 wide composition.
+```
+
+<sub>(by [@unrealpixels](https://x.com/unrealpixels/status/2100662656835420370)) · [Source: X](https://x.com/unrealpixels/status/2100662656835420370)</sub>
+
 ## 🛍️ Products & Branding
 
 <a id="p31-virtual-outfit-replacement"></a>
@@ -1119,6 +1646,45 @@ Composition: vertical 4:5, centered hero object, dramatic perspective, clean lux
 ```
 
 <sub>(by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2100164588721651910)) · [Source: X](https://x.com/Naiknelofar788/status/2100164588721651910)</sub>
+
+<a id="p67-cola-and-mentos-highway-dashcam"></a>
+
+### 📌 3.10. Cola and Mentos Highway Dashcam
+
+#### 👀 Preview
+
+[<img src="assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg" width="400" height="227" alt="Cola and Mentos Highway Dashcam — source example">](assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → branded highway dashcam still`
+
+#### 🔖 Full Prompt
+
+```text
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+
+BEAT / COMPOSITION:
+Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
+
+COCA-COLA TRUCK (LEFT, CRITICAL):
+A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
+
+MENTOS TRUCK (BESIDE IT, CRITICAL):
+Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
+
+CAMERA PACK:
+Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
+
+LIGHT:
+Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
+
+PHOTOGRAPHIC CHARACTER:
+Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
+```
+
+<sub>(by [@ECLIPSEINTEL001](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)) · [Source: X](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)</sub>
 
 ## 🎨 Posters & Artistic Styles
 
@@ -1798,6 +2364,50 @@ Additional requirements: Keep the composition playful yet minimal. The sparrow s
 ```
 
 <sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100097638326780122)) · [Source: X](https://x.com/liyue_ai/status/2100097638326780122) · English translation by SeeAPI</sub>
+
+<a id="p72-spring-ridge-leaf-collage-slice"></a>
+
+### 📌 4.18. Spring Ridge Leaf-Collage Slice
+
+#### 👀 Preview
+
+[<img src="assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp" width="225" height="400" alt="Spring Ridge Leaf-Collage Slice — source example">](assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Text → transparent leaf-collage scene slice`
+
+#### 🔖 Full Prompt
+
+```text
+An Eastern-minimal illustration forming one irregularly shaped scene slice floating free with no background at all: the area surrounding the slice is completely transparent (alpha = 0) - not white, not colored, no surface, no checkerboard pattern. The slice holds one small complete spring scene: layered mountain ridges rendered as dense collages of thousands of tiny individual leaves in fresh greens, a creamy paper ground inside the slice carrying calm negative space, two miniature ink-drawn figures walking the ridge line beside a single small tree, a flat coral sun disc placed high, and soft mist bands drifting between the ridges. At its boundary the artwork ends the way the collage runs out: leaf fragments thin out and scatter, the paper edge turns ragged, and small clusters of leaves trail into the transparency, so the artwork looks finished at its heart and unfinished at its rim.
+
+The slice sits fully intact with clear transparent margin on every side; the transparency extends uniformly to all four borders of the canvas. Soft even light with delicate leaf relief only within the slice. No text appears anywhere - all surfaces that would carry writing are blank. 9:16 vertical portrait composition.
+```
+
+<sub>(by [@rafael_nascimento](https://alosem.com/i/spring-ridge-walk-leaf-collage-slice-1d5e0d44)) · [Source: Alosem](https://alosem.com/i/spring-ridge-walk-leaf-collage-slice-1d5e0d44)</sub>
+
+<a id="p73-pressed-flower-wren-cutout"></a>
+
+### 📌 4.19. Pressed-Flower Wren Cutout
+
+#### 👀 Preview
+
+[<img src="assets/p73-pressed-flower-wren-cutout/source-example-01.webp" width="400" height="225" alt="Pressed-Flower Wren Cutout — source example">](assets/p73-pressed-flower-wren-cutout/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Text → transparent pressed-flower wren cutout`
+
+#### 🔖 Full Prompt
+
+```text
+A pressed-flower collage artwork (oshibana) forming one irregularly shaped scene slice floating free with no background at all: the area surrounding the slice is completely transparent (alpha = 0) - not white, not colored, no surface, no checkerboard pattern. The slice holds one small complete scene composed entirely from real pressed flowers, petals, leaves, and stems: a small wren perched on a slender real pressed twig, its body built from layered rust, ochre, and dusty-rose petals with a cream petal breast, moss-green leaf pieces for wing and tail, and a tiny dried-grass eye-line, the twig textured with natural bark irregularity. Every element keeps the honest character of pressed botanicals - natural irregular petal edges, fine veining, delicate layered lift. At its boundary the piece ends the way pressed arrangements end: a few loose petals, tiny leaf fragments, and one small dried blossom scatter onto the transparency, so the artwork looks finished at its heart and unfinished at its rim.
+
+The slice sits fully intact with clear transparent margin on every side; the transparency extends uniformly to all four borders of the canvas. Soft even light with delicate dimensional petal shadows only within the slice. No text appears anywhere. 16:9 wide composition.
+```
+
+<sub>(by [@rafael_nascimento](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)) · [Source: Alosem](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)</sub>
 
 ## 🏡 Home & Interior Design
 

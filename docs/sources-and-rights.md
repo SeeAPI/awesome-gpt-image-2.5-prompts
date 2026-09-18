@@ -65,6 +65,16 @@ P55–P63 收录九条提示词和十四张未改动的 X 原帖图片。模型�
 
 P55 是带参数的巧克力模板。来源未提供各张示例的具体填充值；日本示例将北海道标签与富士山并置，容易造成地理误导，因此未收录。已收录的法国、意大利图片是来源示例，不能证明填写模板后可精确复现。P57 的 `[XXX]` 尚未填写，三张九宫格背后的主体或参考输入未提供。P58 的两张原帖图片是将表情与猫咪参考图、结果放在一起的对比拼图，未提供独立的干净参考图。P56 的中文简短模板也未指定准确的电影场景或输入。P60–P63 缺少独立核验的生成记录或准确参数。这些限制不改变原始来源署名。
 
+## September 18, 2026 Additions / 2026 年 9 月 18 日新增
+
+P64–P73 add ten collected prompts and ten source images without changing the media bytes. Five cases come from X posts, three image-specific cases from one Reddit post, and two from individual Alosem gallery pages. The three Reddit entries share a source post but use separate image keys. The Alosem pages name @rafael_nascimento as creator; this is a gallery attribution, not independent authorship verification. All GPT Image 2.5 labels are source or site claims. SeeAPI has not verified generation records, exact settings, or a matching rerun of these prompts. The images are source examples, not SeeAPI-generated outputs.
+
+P64 and P65 ask for an uploaded identity reference, but those original input files were not supplied. P68 reconstructs a reference video frame, but its underlying clean reference screenshot was not supplied. These examples therefore illustrate the posted outputs without forming complete reproduction packages. P67 includes Coca-Cola and Mentos branding in the source prompt and image; their marks belong to their respective rights holders. The linked X and Reddit posts do not establish general reuse rights. The Alosem pages display their own reuse terms; verify the applicable terms on each source page before redistribution.
+
+P64–P73 收录十条提示词和十张保持原始字节的来源图片：五条来自 X 原帖、三条对应同一个 Reddit 原帖的不同图片、两条来自 Alosem 的具体案例页。三个 Reddit 案例共用原帖链接，但分别记录图片键。Alosem 页面将创作者标为 @rafael_nascimento；这是聚合页署名，并非独立的作者身份核验。所有 GPT Image 2.5 标签均仅为原帖或网站声明；SeeAPI 未核验生成记录、准确参数，也未用这些提示词重新生成匹配图片。所收录图片均为来源示例，并非 SeeAPI 的生成结果。
+
+P64 和 P65 需要上传人物身份参考图，但原始输入文件未提供。P68 用于重建视频参考画面，但未提供其干净的原始参考截图。因此这些示例展示原帖结果，不构成完整可复现素材包。P67 的来源提示词与图片含 Coca-Cola 和 Mentos 品牌元素，相关商标归各权利人所有。所链接的 X 和 Reddit 原帖未确立普遍的复用许可；Alosem 页面展示其自身的使用条款，再分发前须按具体来源页核实适用条款。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

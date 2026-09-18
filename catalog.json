@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "entries": [
     {
       "id": "C01",
@@ -3185,6 +3185,486 @@
       "updated": "2026-09-17",
       "readme_anchor": "p63-golden-hour-beach-selfie",
       "display_number": "1.19"
+    },
+    {
+      "id": "P64",
+      "title": "Lavender Bedroom Portrait",
+      "title_zh": "薰衣草色卧室人像",
+      "slug": "p64-lavender-bedroom-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@imGopalTiwari",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/imGopalTiwari/status/2100744113503052078",
+        "publisher": "@imGopalTiwari",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100744113503052078",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p64-lavender-bedroom-portrait.md",
+      "prompts": [
+        "prompts/p64-lavender-bedroom-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p64-lavender-bedroom-portrait/image-prompt.txt": "prompts/p64-lavender-bedroom-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p64-lavender-bedroom-portrait/image-prompt.txt": "3a9e8ea52d479234f5bef91b3a9373087874462987439fca00ff37991ec33f88"
+      },
+      "preview": "assets/p64-lavender-bedroom-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p64-lavender-bedroom-portrait/source-example-01.jpg",
+          "sha256": "70df31b7c49e3666ab16aad568390284632a9df6821d728c714b8865f9c8303d",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p64-lavender-bedroom-portrait",
+      "display_number": "1.20"
+    },
+    {
+      "id": "P65",
+      "title": "Snowy Mountain Plaid-Scarf Portrait",
+      "title_zh": "雪山格纹围巾人像",
+      "slug": "p65-snowy-mountain-plaid-scarf-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@imGopalTiwari",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/imGopalTiwari/status/2100698813539492223",
+        "publisher": "@imGopalTiwari",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100698813539492223",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p65-snowy-mountain-plaid-scarf-portrait.md",
+      "prompts": [
+        "prompts/p65-snowy-mountain-plaid-scarf-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p65-snowy-mountain-plaid-scarf-portrait/image-prompt.txt": "prompts/p65-snowy-mountain-plaid-scarf-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p65-snowy-mountain-plaid-scarf-portrait/image-prompt.txt": "3686f65b51d873e060978566106519250c99a5c0e9dc6d7562f2779f58f39a1a"
+      },
+      "preview": "assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg",
+          "sha256": "80aa1deb69bec35616cfad648ae3920aa76cff31c040e621682bda98c23a0b37",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p65-snowy-mountain-plaid-scarf-portrait",
+      "display_number": "1.21"
+    },
+    {
+      "id": "P66",
+      "title": "Couch Potato Miniature Set",
+      "title_zh": "懒人土豆微缩客厅",
+      "slug": "p66-couch-potato-miniature-set",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@unrealpixels",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/unrealpixels/status/2100662656835420370",
+        "publisher": "@unrealpixels",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100662656835420370",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p66-couch-potato-miniature-set.md",
+      "prompts": [
+        "prompts/p66-couch-potato-miniature-set/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p66-couch-potato-miniature-set/image-prompt.txt": "prompts/p66-couch-potato-miniature-set/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p66-couch-potato-miniature-set/image-prompt.txt": "9a998b11654ea40ba32631e7a3632033a8df2d183073f6289996730e55c3f8b6"
+      },
+      "preview": "assets/p66-couch-potato-miniature-set/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p66-couch-potato-miniature-set/source-example-01.jpg",
+          "sha256": "ad1d0281444211b7141e48584fbb564401e9a20f774674f24ea93257855886aa",
+          "width": 1672,
+          "height": 941,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p66-couch-potato-miniature-set",
+      "display_number": "2.11"
+    },
+    {
+      "id": "P67",
+      "title": "Cola and Mentos Highway Dashcam",
+      "title_zh": "可乐与曼妥思高速公路行车记录仪画面",
+      "slug": "p67-cola-and-mentos-highway-dashcam",
+      "categories": [
+        "Products & Branding"
+      ],
+      "status": "image-included",
+      "author": "@ECLIPSEINTEL001",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ECLIPSEINTEL001/status/2100730298543550674",
+        "publisher": "@ECLIPSEINTEL001",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100730298543550674",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p67-cola-and-mentos-highway-dashcam.md",
+      "prompts": [
+        "prompts/p67-cola-and-mentos-highway-dashcam/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p67-cola-and-mentos-highway-dashcam/image-prompt.txt": "prompts/p67-cola-and-mentos-highway-dashcam/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p67-cola-and-mentos-highway-dashcam/image-prompt.txt": "1c66f61cd1888ad376c4182f6a202cc9b2e6a19bd2232d83c5e10d8bcec045da"
+      },
+      "preview": "assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg",
+          "sha256": "c7f101590ce1883ef96a64976084aee01111ce605ec0bfacbceb6a8c9d9e1e72",
+          "width": 1024,
+          "height": 580,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p67-cola-and-mentos-highway-dashcam",
+      "display_number": "3.10"
+    },
+    {
+      "id": "P68",
+      "title": "Towel-Wrapped Makeup Frame Reconstruction",
+      "title_zh": "包毛巾上妆视频画面重建",
+      "slug": "p68-towel-wrapped-makeup-frame-reconstruction",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@neverfilmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/neverfilmed/status/2100670687489020274",
+        "publisher": "@neverfilmed",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2100670687489020274",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Images 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p68-towel-wrapped-makeup-frame-reconstruction.md",
+      "prompts": [
+        "prompts/p68-towel-wrapped-makeup-frame-reconstruction/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p68-towel-wrapped-makeup-frame-reconstruction/image-prompt.txt": "prompts/p68-towel-wrapped-makeup-frame-reconstruction/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p68-towel-wrapped-makeup-frame-reconstruction/image-prompt.txt": "f661f09c199dd4ec84a38ab969cdf6638ee5947a0c302c3dfe4e5d8d38ede139"
+      },
+      "preview": "assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg",
+          "sha256": "afdc90d8618862b2007aca8b3d4e66e1acb2b3725b361d9dc9c96e1e644be62c",
+          "width": 614,
+          "height": 1034,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p68-towel-wrapped-makeup-frame-reconstruction",
+      "display_number": "1.22"
+    },
+    {
+      "id": "P69",
+      "title": "Summer Ice-Cream Selfie",
+      "title_zh": "夏日冰淇淋自拍",
+      "slug": "p69-summer-ice-cream-selfie",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "u/imagine_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/",
+        "publisher": "u/imagine_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "image-1",
+        "platform": "Reddit"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Flare",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p69-summer-ice-cream-selfie.md",
+      "prompts": [
+        "prompts/p69-summer-ice-cream-selfie/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p69-summer-ice-cream-selfie/image-prompt.txt": "prompts/p69-summer-ice-cream-selfie/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p69-summer-ice-cream-selfie/image-prompt.txt": "86dc35dca4e02e418f63a9f882334b9d150c640c8058757365f5fcdb0148dba8"
+      },
+      "preview": "assets/p69-summer-ice-cream-selfie/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p69-summer-ice-cream-selfie/source-example-01.png",
+          "sha256": "38165f0867b70505fa5c5fdd10cbb0e1c09422d9b422d79304ae8c7155f22522",
+          "width": 1080,
+          "height": 1350,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p69-summer-ice-cream-selfie",
+      "display_number": "1.23"
+    },
+    {
+      "id": "P70",
+      "title": "Y2K Lounge Fashion Portrait",
+      "title_zh": "Y2K 休息室时尚人像",
+      "slug": "p70-y2k-lounge-fashion-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "u/imagine_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/",
+        "publisher": "u/imagine_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "image-2",
+        "platform": "Reddit"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Flare",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p70-y2k-lounge-fashion-portrait.md",
+      "prompts": [
+        "prompts/p70-y2k-lounge-fashion-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p70-y2k-lounge-fashion-portrait/image-prompt.txt": "prompts/p70-y2k-lounge-fashion-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p70-y2k-lounge-fashion-portrait/image-prompt.txt": "878f40585ccb639613eebd04ee1ca97da57baee29e43d8eb2c744593c1be1da9"
+      },
+      "preview": "assets/p70-y2k-lounge-fashion-portrait/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p70-y2k-lounge-fashion-portrait/source-example-01.png",
+          "sha256": "be2a0e0551281c52a30d236b62a09288073712451dccd6808f662381b015a8ca",
+          "width": 1080,
+          "height": 1350,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p70-y2k-lounge-fashion-portrait",
+      "display_number": "1.24"
+    },
+    {
+      "id": "P71",
+      "title": "Candid Street-Food Bite",
+      "title_zh": "街头大口吃烤肉卷抓拍",
+      "slug": "p71-candid-street-food-bite",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "u/imagine_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/",
+        "publisher": "u/imagine_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "image-3",
+        "platform": "Reddit"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Flare",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p71-candid-street-food-bite.md",
+      "prompts": [
+        "prompts/p71-candid-street-food-bite/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p71-candid-street-food-bite/image-prompt.txt": "prompts/p71-candid-street-food-bite/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p71-candid-street-food-bite/image-prompt.txt": "c233cb9f78361cae0913bbfc56ab0365d8c27219fd8cde14ab587b83899ed86a"
+      },
+      "preview": "assets/p71-candid-street-food-bite/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p71-candid-street-food-bite/source-example-01.png",
+          "sha256": "411f39f141f6cd83db4b943866cfb48ad0d45a9cca0a3981e602ea621822be18",
+          "width": 1080,
+          "height": 1350,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p71-candid-street-food-bite",
+      "display_number": "1.25"
+    },
+    {
+      "id": "P72",
+      "title": "Spring Ridge Leaf-Collage Slice",
+      "title_zh": "春日山脊叶片拼贴切片",
+      "slug": "p72-spring-ridge-leaf-collage-slice",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@rafael_nascimento",
+      "inspiration": null,
+      "source": {
+        "url": "https://alosem.com/i/spring-ridge-walk-leaf-collage-slice-1d5e0d44",
+        "publisher": "@rafael_nascimento",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "1d5e0d44",
+        "platform": "Alosem"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 (site metadata)",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p72-spring-ridge-leaf-collage-slice.md",
+      "prompts": [
+        "prompts/p72-spring-ridge-leaf-collage-slice/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p72-spring-ridge-leaf-collage-slice/image-prompt.txt": "prompts/p72-spring-ridge-leaf-collage-slice/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p72-spring-ridge-leaf-collage-slice/image-prompt.txt": "55ed1fa99eff51ede381c48ccadf0db54ed80d8cd12e3214328fe5adbd1e60b8"
+      },
+      "preview": "assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp",
+          "sha256": "10560daaf472336bfad540e006f984bd520a68b82c1af03a44baa75cc9caa04c",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p72-spring-ridge-leaf-collage-slice",
+      "display_number": "4.18"
+    },
+    {
+      "id": "P73",
+      "title": "Pressed-Flower Wren Cutout",
+      "title_zh": "压花鹪鹩透明剪影",
+      "slug": "p73-pressed-flower-wren-cutout",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@rafael_nascimento",
+      "inspiration": null,
+      "source": {
+        "url": "https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7",
+        "publisher": "@rafael_nascimento",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "4712aff7",
+        "platform": "Alosem"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 (site metadata)",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p73-pressed-flower-wren-cutout.md",
+      "prompts": [
+        "prompts/p73-pressed-flower-wren-cutout/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p73-pressed-flower-wren-cutout/image-prompt.txt": "prompts/p73-pressed-flower-wren-cutout/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p73-pressed-flower-wren-cutout/image-prompt.txt": "88406b6767f20497a0d7b9f16eebb7e58dfecc8e2966f9fb5b4f24a52e3a5fbe"
+      },
+      "preview": "assets/p73-pressed-flower-wren-cutout/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p73-pressed-flower-wren-cutout/source-example-01.webp",
+          "sha256": "2fc6f00845e481983c54a67e001d070921cde605847250e36db2ffd84ff89d6e",
+          "width": 1672,
+          "height": 941,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-18",
+      "readme_anchor": "p73-pressed-flower-wren-cutout",
+      "display_number": "4.19"
     }
   ]
 }

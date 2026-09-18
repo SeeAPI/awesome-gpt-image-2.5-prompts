@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 63 条独立提示词 · 更新于 2026 年 9 月 17 日**
+**5 个创意工作流 · 73 条独立提示词 · 更新于 2026 年 9 月 18 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -537,6 +537,519 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <sub>(by [@shitunote](https://x.com/shitunote/status/2099846900031852562)) · [来源平台： X](https://x.com/shitunote/status/2099846900031852562) · 英文由 SeeAPI 翻译</sub>
 
+<a id="p64-lavender-bedroom-portrait"></a>
+
+### 📌 1.20. 薰衣草色卧室人像
+
+#### 👀 预览
+
+[<img src="assets/p64-lavender-bedroom-portrait/source-example-01.jpg" width="225" height="400" alt="薰衣草色卧室人像——来源示例">](assets/p64-lavender-bedroom-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人像参考图 → 薰衣草色卧室人像`
+
+#### 🔖 完整提示词
+
+```text
+超写实、IMAX 级、Netflix 风格的电影感人像，9:16 竖版。以上传图片作为主要身份参考，准确保留她的面部身份、比例和辨识特征。塑造一位美丽女性，身穿宽松的薰衣草紫色露肩针织毛衣，坐在明亮舒适卧室里的白色床上。柔软的白色床品环绕她，左侧大窗户让暖阳洒满房间。她在床上略微侧坐，上身轻轻后仰。左臂举过头顶，手放在头发里；另一只手臂自然垂在身侧。双肩放松，宽松毛衣露出一侧肩膀。她的头向上并略向后仰，眼睛大部分被散落的发丝遮住，露出自然、灿烂且看得见牙齿的笑容。长而蓬松的凌乱波浪发，自然宽松的中分，发量丰盈，凌乱的脸侧发丝垂过额头和眼睛，柔软的波浪卷落在肩膀和背部。白皙透亮的瓷质肌肤，呈亮象牙色至浅米色，带中性偏冷的底调，在暖阳下自然发亮。来自窗户的强烈金色逆光让头发与肩膀周围泛起发光的高光，伴随柔和镜头光斑、明亮通透的高光与轻柔阴影。暖调粉彩调色，以柔薰衣草紫、奶油白和金色为主；梦幻高调光线、细微柔光、自然肤质、浅景深、柔和浪漫的时尚摄影。
+负面提示词：身份改变、面部扭曲、手或手指畸形、人体结构错误、不自然姿势、文字或水印。
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2100744113503052078)) · [来源平台： X](https://x.com/imGopalTiwari/status/2100744113503052078)</sub>
+
+<a id="p65-snowy-mountain-plaid-scarf-portrait"></a>
+
+### 📌 1.21. 雪山格纹围巾人像
+
+#### 👀 预览
+
+[<img src="assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg" width="225" height="400" alt="雪山格纹围巾人像——来源示例">](assets/p65-snowy-mountain-plaid-scarf-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人像参考图 → 雪山人像`
+
+#### 🔖 完整提示词
+
+```text
+超写实、IMAX 级、Netflix 风格的电影感人像，9:16 竖版。以上传图片作为主要身份参考，准确保留她的面部身份、比例和辨识特征。塑造一位美丽女性，身穿黑色修身上衣、灰色牛仔夹克、黑色长裤、黑色系带靴、圆形深色太阳镜，并在颈间松松围着黑灰格纹围巾。她自信地坐在一块崎岖、覆雪的巨大山石上，四周是辽阔的雪山和密集的覆雪松林。一侧膝盖高高抬在身前，另一条腿沿岩石向下弯曲，两只靴子都稳稳踩在岩石上。一只手自然放在抬起的膝盖上，另一只手搭在另一侧大腿。上身挺直，略微放松地倾斜，肩膀自然；头微微上扬并转向一侧，表情平静、自信。浓密的长波浪发蓬松地向后梳，带有有质感的波浪、抬高的发根、自然动感和几缕勾勒脸部的散发。白皙透亮的瓷质肌肤，亮象牙色至浅米色，带中性偏冷底调；自然肤质和柔和真实的高光。柔和的冷色日光照亮她的脸与衣服，在雪景上形成轻微高光和冷调阴影。冷蓝灰冬日调色、低饱和色彩、轻柔的大气薄雾、真实的雪与岩石纹理、浅景深、电影感山地摄影。
+负面提示词：身份改变、面部扭曲、手或手指畸形、人体结构错误、不自然姿势、文字或水印。
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2100698813539492223)) · [来源平台： X](https://x.com/imGopalTiwari/status/2100698813539492223)</sub>
+
+<a id="p68-towel-wrapped-makeup-frame-reconstruction"></a>
+
+### 📌 1.22. 包毛巾上妆视频画面重建
+
+#### 👀 预览
+
+[<img src="assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg" width="238" height="400" alt="包毛巾上妆视频画面重建——来源示例">](assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg)
+
+#### 👇 工作流
+
+`参考画面 → 上妆视频静帧重建`
+
+#### 🔖 完整提示词
+
+```text
+{
+  "prompt_type": "photorealistic_image_reconstruction",
+  "objective": "尽可能忠实地重建所提供的参考图，同时完全删除并忽略所有屏幕文字、播放控件、进度条、图标、时间戳及其他视频界面元素。保留原有摄影场景、人物、姿势、表情、造型、光线、环境、取景、比例和材质纹理。",
+  "reference_priority": {
+    "overall_composition": "极高",
+    "subject_placement": "极高",
+    "facial_structure": "极高",
+    "towel_shape_and_texture": "极高",
+    "hand_position": "极高",
+    "lip_pencil_position": "极高",
+    "lighting": "极高",
+    "background_geometry": "高",
+    "color_palette": "高",
+    "micro_texture": "高",
+    "ui_elements": "完全忽略"
+  },
+  "canvas": {
+    "orientation": "竖版",
+    "aspect_ratio": "约 704:1130",
+    "framing": "竖版智能手机相机构图",
+    "crop": "从头顶毛巾包裹处到上胸和肩部的紧凑特写",
+    "edge_behavior": {
+      "left_edge": "主体人像区域外可见一道狭窄的黑色竖边",
+      "right_edge": "主体人像区域外可见一道极窄的深色或黑色边缘",
+      "top_edge": "毛巾上方留有少量浅色背景",
+      "bottom_edge": "在上身和胸部位置裁切"
+    },
+    "important": "不要重现任何截图控件、文字、图标、时间戳、进度指示或播放按钮。"
+  },
+  "scene_description": {
+    "setting": "明亮、极简、现代的浴室或整洁的梳妆间内部",
+    "visual_mood": "柔和、亲密、随意的日常美妆自拍",
+    "time_of_day": "白天，或采用明亮日光色的室内光线",
+    "overall_style": "真实的现代智能手机美妆视频画面，高度照片级真实，略带美颜但仍自然",
+    "environmental_complexity": "简洁且不杂乱",
+    "background_focus": "背景比女性面部略柔和、稍稍失焦"
+  },
+  "subject": {
+    "person": {
+      "description": "成年女性",
+      "pose": "以放松的坐姿或半躺姿势正对镜头",
+      "orientation": "正面人像",
+      "head_alignment": "头部居中，仅有轻微自然倾斜",
+      "body_visibility": "头、颈、双肩、上胸及一只或两只手可见",
+      "expression": "平静放松、略微噘嘴，呈现自然柔和的美妆教程表情",
+      "gaze": "看向镜头"
+    },
+    "skin": {
+      "base_tone": "带柔和金色底调的浅至中等暖米色",
+      "texture": "肤色非常平滑均匀，符合轻微社交媒体美颜滤镜的效果",
+      "finish": "柔和发光的肌肤，带自然轻微高光",
+      "blemishes": "瑕疵很少",
+      "pores": "毛孔细微且被柔化，不要过度凸显细节",
+      "blush": "双颊苹果肌有明显但柔和晕开的玫瑰粉腮红",
+      "undertone": "温暖健康",
+      "contrast": "低至中等"
+    },
+    "face": {
+      "shape": "柔和的椭圆形脸",
+      "forehead": "平滑、宽度适中的额头",
+      "cheeks": "饱满、柔和圆润的双颊",
+      "jaw": "下颌线柔和收窄",
+      "chin": "小巧圆润的下巴",
+      "symmetry": "自然且较高的面部对称性",
+      "proportions": "精致、显年轻的面部比例"
+    },
+    "eyes": {
+      "shape": "大而呈杏仁形的眼睛",
+      "color": "深棕色",
+      "orientation": "正面朝向镜头",
+      "upper_lashes": {
+        "length": "很长",
+        "density": "浓密",
+        "curl": "明显向上卷翘",
+        "appearance": "明显经过美妆加强的睫毛"
+      },
+      "lower_lashes": "下睫毛细微、不突出",
+      "eyelids": "眼睑轮廓柔和",
+      "eye_makeup": "沿睫毛根部仅有少量深色眼妆",
+      "under_eye": "眼下平滑、略提亮，没有明显黑眼圈",
+      "catchlights": "轻微、柔和的眼神光"
+    },
+    "eyebrows": {
+      "shape": "浓密、略带柔和弧度的眉毛",
+      "color": "深棕色",
+      "density": "中等偏浓",
+      "styling": "修整干净但自然",
+      "texture": "可见柔和的单根眉毛细节"
+    },
+    "nose": {
+      "shape": "小巧精致的鼻子",
+      "bridge": "鼻梁平滑、轮廓柔和",
+      "tip": "鼻尖圆润低调",
+      "lighting": "鼻梁和鼻尖有轻柔高光",
+      "contour": "极轻微的自然修容"
+    },
+    "lips": {
+      "shape": "饱满柔软的双唇",
+      "upper_lip": "清晰的唇峰",
+      "lower_lip": "下唇更饱满圆润",
+      "position": "双唇微张并轻轻抿起",
+      "color": "低饱和的玫瑰豆沙裸色",
+      "finish": "柔和缎光，带少许自然光泽",
+      "makeup": "淡淡的唇线及柔和粉裸色",
+      "action": "正用唇线笔直接描画双唇中央和下唇"
+    }
+  },
+  "hair": {
+    "visibility": "头发几乎完全被遮住",
+    "style": "头发完全包在一条大毛巾形成的头巾里",
+    "visible_hair": "额头或发际线附近最多露出极少量头发",
+    "instruction": "不要让长发披散在肩膀周围。"
+  },
+  "head_towel": {
+    "type": "用大浴巾包出的饱满头巾",
+    "material": "厚实机织棉布，具有明显的华夫格纹理",
+    "primary_color": "暖调浅灰米色",
+    "texture": {
+      "pattern": "细密重复的方格或华夫格织纹",
+      "definition": "清晰可见，但经过手机相机处理后稍显柔和",
+      "surface": "哑光、吸水的棉质表面"
+    },
+    "structure": {
+      "top": "头顶堆叠着大而圆润的多层褶皱",
+      "front": "厚厚的卷边勾勒额头",
+      "left_side": "一大块向外折叠的毛巾从头部左侧向后伸出",
+      "right_side": "较长的毛巾部分沿面部右侧和肩膀向下垂落",
+      "rear": "头后方有厚实的多层毛巾体积",
+      "folds": "多个相互重叠的自然褶皱和扭转层次",
+      "silhouette": "宽大、圆润、夸张的毛巾轮廓包围头顶"
+    },
+    "color_variation": "重叠褶皱之间有细微色差，略带粉米色和冷灰色变化",
+    "lighting_response": "凸起的华夫格纹理上有柔和高光，褶皱内部有轻柔阴影"
+  },
+  "secondary_towel_or_fabric": {
+    "description": "头部两侧和后方及肩后可见额外的柔软灰色毛巾状布料",
+    "material": "柔软吸水的毛圈布或带纹理的棉布",
+    "color": "浅中性灰色",
+    "purpose": "增加头部周围层叠的毛巾体积"
+  },
+  "hands": {
+    "visibility": "双手明显出现在画面下方中央前景",
+    "skin_tone": "与人物暖米金色肤色一致",
+    "position": "一只或两只手在嘴前竖直握住化妆笔",
+    "gesture": "精细、准确的美妆上妆动作",
+    "fingers": {
+      "shape": "纤细的女性手指",
+      "pose": "握笔姿态放松但稳定",
+      "anatomy": "自然的人类手指比例",
+      "instruction": "不得有多余手指、粘连手指、扭曲关节或畸形手部。"
+    },
+    "nails": {
+      "length": "中长",
+      "shape": "柔和方形或方头",
+      "color": "不透明的干净白色",
+      "finish": "平滑有光泽的美甲",
+      "detail": "指甲表面有轻微镜面反光"
+    }
+  },
+  "cosmetic_pencil": {
+    "type": "纤细的唇线笔",
+    "position": "几乎完全竖直，从画面下方中央向上延伸到双唇",
+    "tip_location": "笔尖触碰或几乎触碰双唇中央或下唇",
+    "body_color": "灰玫瑰色、低饱和粉色、豆沙粉色",
+    "finish": "哑光至缎光",
+    "shape": "纤细的圆柱形化妆笔",
+    "visible_length": "很长一段笔身向下延伸到手中",
+    "branding": "笔身可以有模糊的浅色化妆品标记，但不得出现可读文字",
+    "interaction": "正在描画下唇轮廓或给下唇上色"
+  },
+  "jewelry": {
+    "necklace": {
+      "type": "非常细的精致链条",
+      "color": "银色或浅金属色",
+      "placement": "环绕颈部，部分显露在上胸前",
+      "pendant": {
+        "description": "小巧精致的金属吊饰",
+        "shape": "紧凑的圆形或类似字母的吊饰",
+        "position": "位于可见颈部与胸口较低的中央位置",
+        "appearance": "明亮的金属高光，略带闪光"
+      }
+    }
+  },
+  "upper_body": {
+    "clothing": "露出肩膀和上胸",
+    "pose": "双肩放松",
+    "skin_rendering": "平滑但仍有自然立体感",
+    "lighting": "柔和正面光，下巴和锁骨周围有轻微阴影",
+    "composition": "双肩分别延伸至画面左下角和右下角"
+  },
+  "background": {
+    "walls": {
+      "color": "非常浅的冷白色，略带蓝灰色调",
+      "finish": "平滑的涂漆墙面",
+      "detail": "整洁的极简建筑细节"
+    },
+    "ceiling_fan": {
+      "visibility": "画面左上方附近可见部分吊扇",
+      "description": "白色或极浅色的吊扇机身，一片深灰或黑色扇叶垂入画面",
+      "focus": "不在主要焦平面上，因此略微柔化"
+    },
+    "air_vent": {
+      "position": "右上方背景",
+      "description": "白色矩形暖通空调或回风口，带狭窄的水平百叶",
+      "appearance": "低调、整洁、几何感",
+      "focus": "略微柔化"
+    },
+    "door_or_architecture": {
+      "position": "最右侧背景",
+      "description": "简洁的白色建筑边线或门框",
+      "visibility": "局部可见",
+      "detail_level": "柔和且不抢眼"
+    },
+    "background_depth": "浅景深，背景柔和模糊但仍可辨认"
+  },
+  "camera": {
+    "device_style": "现代智能手机前置摄像头",
+    "lens": "全画幅等效约 24–28mm 的广角自拍镜头",
+    "perspective": "近距离面部自拍视角，带轻微广角特征",
+    "camera_height": "大约与眼睛齐平",
+    "camera_distance": "距离约一臂远",
+    "orientation": "竖版人像",
+    "focus_point": "眼睛和面部中央",
+    "sharpness": "面部清晰，背景适度柔化",
+    "depth_of_field": "中等偏浅的景深",
+    "stabilization": "画面稳定",
+    "image_quality": "高分辨率的现代智能手机影像",
+    "processing": "轻微的计算摄影处理与美颜柔化"
+  },
+  "lighting": {
+    "primary_source": "正面大面积漫射窗光或柔和的人造日光",
+    "direction": "从正面略高处照射",
+    "quality": "非常柔和",
+    "contrast": "低对比度",
+    "shadows": "阴影轻柔、弥散，没有硬边",
+    "skin_highlights": "额头、鼻子、双颊及双唇上有柔和高光",
+    "towel_lighting": "毛巾凸起的织纹处高光略亮",
+    "background_lighting": "背景有浅淡冷色环境光",
+    "color_temperature": "冷中性日光，肤色仍呈温暖质感",
+    "overall_effect": "讨喜、干净、柔和的美妆视频光线"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "浅冷白色",
+      "暖浅灰色",
+      "米色",
+      "灰米色",
+      "柔和玫瑰粉",
+      "灰豆沙紫",
+      "暖金色肌肤"
+    ],
+    "saturation": "中等偏低",
+    "contrast": "低至中等",
+    "highlights": "奶油般柔和",
+    "shadows": "轻柔且略微抬升",
+    "skin_color_priority": "自然暖肤色必须与冷色背景保持区分",
+    "towel_color_priority": "中性暖灰米色"
+  },
+  "beauty_processing": {
+    "style": "轻微的社交媒体美颜滤镜",
+    "skin_smoothing": "中等至较高",
+    "blemish_reduction": "高",
+    "facial_shape_adjustment": "极轻微",
+    "eye_enhancement": "细微",
+    "lash_enhancement": "可见",
+    "blush_enhancement": "中等",
+    "lip_enhancement": "细微",
+    "overall_result": "精致但可信的智能手机美妆视频画面",
+    "avoid": "避免极端修脸、塑料肌肤、不真实的对称感或人工 CGI 肌肤"
+  },
+  "composition_geometry": {
+    "subject_center": "水平方向大致居中",
+    "face_position": "面部位于画面中央中部",
+    "eyes": "眼睛位于上半部约三分之一处",
+    "towel_top": "毛巾顶部伸入画面上四分之一部分",
+    "mouth": "嘴部位于垂直方向中央附近",
+    "hands": "双手占据下方中央前景",
+    "pencil": "化妆笔构成近乎竖直的中央视觉线",
+    "shoulders": "双肩填满左下和右下区域",
+    "negative_space": "留白有限，营造亲密特写取景",
+    "symmetry": "整体大致为对称的正面构图，毛巾褶皱和双手保留自然不对称"
+  },
+  "fine_details": {
+    "skin": "柔和真实的肤质，带细微色调变化",
+    "lashes": "可见单根成束的睫毛",
+    "brows": "可见细密的眉毛纹理",
+    "lips": "妆容下可见细微自然唇纹",
+    "nails": "干净、光泽的白色表面",
+    "towel": "可见单根凸起的织线和线圈",
+    "necklace": "细小金属反光",
+    "pencil": "化妆笔上有细小印刷标记，但不得有可辨识文字",
+    "background": "微弱的建筑细节，不要有分散注意力的杂物"
+  },
+  "photographic_style": {
+    "genre": "随性而精致的美容或自我护理手机人像",
+    "realism": "极高的照片级真实感",
+    "image_character": "真实美妆视频的暂停画面",
+    "retouching": "柔和的计算摄影美颜处理",
+    "texture": "干净但不呆板",
+    "dynamic_range": "高",
+    "sharpness": "面部和双手中等程度清晰",
+    "compression": "轻微的智能手机或社交媒体压缩质感"
+  },
+  "negative_prompt": [
+    "文字",
+    "图注",
+    "字幕",
+    "水印",
+    "标志",
+    "播放按钮",
+    "暂停按钮",
+    "进度条",
+    "时间轴",
+    "时间戳",
+    "视频控件",
+    "界面叠层",
+    "社交媒体图标",
+    "界面元素",
+    "不同的人物",
+    "不同的面部比例",
+    "不同的姿势",
+    "不同的毛巾造型",
+    "披散的长发",
+    "深色毛巾",
+    "鲜艳颜色的毛巾",
+    "红色口红",
+    "深色口红",
+    "浓重修容",
+    "夸张眼线",
+    "普通眼镜",
+    "太阳镜",
+    "耳环",
+    "额外首饰",
+    "其他人物",
+    "多余的手",
+    "多余的手指",
+    "缺失的手指",
+    "畸形的手",
+    "过长的手指",
+    "错误的指甲颜色",
+    "尖头指甲",
+    "红色指甲",
+    "用口红管代替唇线笔",
+    "横向构图",
+    "横幅摄影",
+    "全身",
+    "侧面视角",
+    "四分之三侧面视角",
+    "夸张姿势",
+    "硬闪光",
+    "强烈阴影",
+    "暖橙色光线",
+    "昏暗环境",
+    "杂乱的浴室",
+    "以镜子为主的构图",
+    "影棚时尚大片",
+    "电影感摄影",
+    "CGI",
+    "3D 渲染",
+    "插画",
+    "动漫",
+    "塑料肌肤",
+    "过度磨皮",
+    "诡异的人脸",
+    "过度 HDR",
+    "过强的背景虚化",
+    "过度锐化的毛孔"
+  ],
+  "final_instruction": "生成一张高度照片级真实的竖版图像，尽可能贴合参考图构图。保留居中的正面脸部取景、带层叠褶皱的夸张米灰色纹理毛巾头巾、温暖平滑的肤色、玫瑰粉双颊、细长深色睫毛、饱满的柔和粉裸色嘴唇、白色亮面美甲、竖直触碰下唇的灰粉色唇线笔、精致银色项链、裸露双肩、浅冷色浴室背景、顶部局部可见的吊扇，以及右上方背景的矩形通风口。删除并忽略所有文字元素、时间戳、播放按钮、进度线和其他界面图形。结果应像没有任何界面叠层的干净原始视频画面。"
+}
+```
+
+<sub>(by [@neverfilmed](https://x.com/neverfilmed/status/2100670687489020274)) · [来源平台： X](https://x.com/neverfilmed/status/2100670687489020274)</sub>
+
+<a id="p69-summer-ice-cream-selfie"></a>
+
+### 📌 1.23. 夏日冰淇淋自拍
+
+#### 👀 预览
+
+[<img src="assets/p69-summer-ice-cream-selfie/source-example-01.png" width="320" height="400" alt="夏日冰淇淋自拍——来源示例">](assets/p69-summer-ice-cream-selfie/source-example-01.png)
+
+#### 👇 工作流
+
+`文字 → 夏日冰淇淋抓拍自拍`
+
+#### 🔖 完整提示词
+
+```text
+一张近距离、自然抓拍的自拍照：一位年轻女性站在户外质朴的天然石墙前，俏皮地舔着正在融化的冰淇淋筒。她伸出舌头接住滴落的冰淇淋，张着嘴，呈现有趣的瞬间。她单手举着甜筒，甜筒外包着格纹纸；佩戴粗框、超大圆形黑色太阳镜，镜片为棕色。深棕色长发编成两条松散的辫子，用黑色小发圈扎住，几缕柔软发丝修饰脸部。妆容温暖自然，带红润气色和亮泽双唇；指甲涂成长款红色，佩戴粗金戒指和多条精细的金色链条项链。
+
+她穿着精致的钩针或针织开衫，饰以花朵珠饰、米珠与小珍珠，下搭一件带图案的上衣。前景中冰淇淋筒清晰对焦：华夫筒上是白色香草和粉色草莓口味的软冰淇淋旋卷，正沿两侧融化滴落，外面套着橙白格纹纸筒。
+
+温暖、明亮、自然的地中海日光处于柔和阴影中，形成均匀暖光与轻柔阴影。背景是一面蜂蜜色与灰色交织的质朴天然石砖墙，受光柔和，填满她身后的画面。
+
+面部结构：年轻的椭圆脸、柔和双颊、饱满双唇、直鼻、浓眉，以及温暖、被阳光亲吻过的地中海肤色。
+
+相机与真实感：以手机前置摄像头拍摄，自拍视角自然、距离略近。真实的手机照片画质：细微颗粒、逼真的暖色、自然动态范围，没有厚重滤镜。高度真实的皮肤保留可见的天然质地——毛孔、淡淡雀斑、柔软细汗毛、细微肤色不均和日光下的自然光泽——让它读作真实抓拍，而非修图或磨皮。自然的浅景深，让冰淇淋与面部最清晰，后方石墙略柔和。温暖、俏皮的欧洲夏日氛围。
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [来源平台： Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
+<a id="p70-y2k-lounge-fashion-portrait"></a>
+
+### 📌 1.24. Y2K 休息室时尚人像
+
+#### 👀 预览
+
+[<img src="assets/p70-y2k-lounge-fashion-portrait/source-example-01.png" width="320" height="400" alt="Y2K 休息室时尚人像——来源示例">](assets/p70-y2k-lounge-fashion-portrait/source-example-01.png)
+
+#### 👇 工作流
+
+`文字 → Y2K 休息室时尚人像`
+
+#### 🔖 完整提示词
+
+```text
+一张由他人在自然视线高度拍摄的随手照片：一位年轻东亚女性坐在室内一间时尚、暖色调的休息室或酒吧里，从臀部以上取景。她抬起一只手轻碰帽檐，肘部向外，头向下并稍稍侧倾；表情冷艳、妩媚、微噘嘴，双眼半垂，双唇亮泽。她留着顺滑的乌黑齐下巴短发，平直刘海落在额头与眼睛上，戴一顶柔软的蛇纹或豹纹报童帽。
+
+造型受 Y2K 风格启发：修身紫色短袖露脐 T 恤，胸前有醒目的大号黑色数字图案（通用数字，不要标志），露出腰腹和肚脐穿孔饰品，下搭低腰、镶水钻的银色腰带或短裙。她戴一条由灰白珠子组成、带大吊坠的粗项链，一只手腕叠戴粗款银色手镯，指甲修长、尖端浅色，并挎一只细肩带的金属银色单肩包。背景是暖色、灯光昏暗的复古室内空间：弯曲的亮红色沙发、玻璃桌、墙上的抽象装框艺术、发光的壁灯和温暖的桃粉色光晕，轻微失焦。暖色环境室内光线、柔和阴影，营造有情绪且时髦的休息室气氛。
+
+相机与纹理：在室内用 iPhone 后置摄像头拍摄，呈现真实的手机随手拍；细腻的传感器颗粒与数码噪点、暖色室内偏色、自然的手机动态范围与柔和高光、轻微柔焦，不加滤镜。
+
+皮肤真实感（关键）：极其细致、逼真的真人皮肤，绝不呈现蜡质、塑料、过度平滑或 CGI 质感。保留自然的不完美：鼻子、脸颊与额头上可见毛孔，细软汗毛，轻微不均匀的肤色，淡雀斑与小痣，几颗细小瑕疵和自然暖意；眼下有柔和纹理及真实细纹；颧骨、鼻子、腰腹及手臂呈现自然柔和光泽，同时保留哑光区域。
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [来源平台： Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
+<a id="p71-candid-street-food-bite"></a>
+
+### 📌 1.25. 街头大口吃烤肉卷抓拍
+
+#### 👀 预览
+
+[<img src="assets/p71-candid-street-food-bite/source-example-01.png" width="320" height="400" alt="街头大口吃烤肉卷抓拍——来源示例">](assets/p71-candid-street-food-bite/source-example-01.png)
+
+#### 👇 工作流
+
+`文字 → 街头美食抓拍人像`
+
+#### 🔖 完整提示词
+
+```text
+一张由他人拍摄的自然抓拍照：一位年轻女性坐在城市街道上一张小圆形户外咖啡桌前，俯身向下、向前张大嘴，即将大咬一口双手捧着、以锡箔纸和白纸包裹的馅料丰富的烤肉卷。她的眼睛轻轻闭着，咬下前的表情快乐又期待——有趣、未经摆拍、真实的抓拍瞬间。她的深色头发紧贴头皮向后梳，扎成顺滑低发髻或低马尾，脸侧有少量碎发；佩戴金色耳骨夹和粗款金色圈形或垂坠耳环。妆容柔和自然，眉形清晰、双唇亮泽；自然的阳光感肤色，肩膀和胸口带浅色雀斑与小痣。
+
+她穿着黄色罗纹细肩带背心和牛仔裤，指甲涂浅中性色，戴金色戒指。桌上有一只米色斑点陶瓷盘、叠好的黄绿色与蓝绿色餐巾纸，以及一副折叠的太阳镜。馅料鼓出的卷饼清晰对焦：皮塔饼或薄饼内装切片 döner 烤肉、香脆炸物、新鲜绿生菜、番茄和酱汁。
+
+欧洲城市街道上温暖、明亮的自然日光，柔和自然的阴影。背景是模糊的街景：停着的汽车、带招牌的店面、门洞与人行道，均柔和失焦。
+
+面部结构：年轻的椭圆脸、分明颧骨、丰满双唇、修整整齐的浓眉、直鼻，以及温暖的阳光感肤色。
+
+相机与真实感：用手机后置摄像头拍摄，取景自然抓拍。真实的手机照片画质：轻微颗粒、逼真的暖色、自然动态范围，没有厚重滤镜。高度真实的肌肤保留可见的天然纹理——肩膀与面部的毛孔、雀斑、小痣、细软汗毛、轻微肤色不均和日光下的自然光泽——让它读作真实抓拍，而非修图或磨皮。自然的浅景深，让卷饼与面部最清晰，背景虚化。温暖、有趣、即兴的街头美食氛围。
+```
+
+<sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [来源平台： Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
+
 <a id="-characters--playful-creations"></a>
 
 ## 🧸 角色与趣味创作
@@ -885,6 +1398,26 @@ IPHONE“照片”APP 布局
 
 <sub>(by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874)) · [来源平台： X](https://x.com/ZHO_ZHO_ZHO/status/2099832996216135874) · 英文由 SeeAPI 翻译</sub>
 
+<a id="p66-couch-potato-miniature-set"></a>
+
+### 📌 2.11. 懒人土豆微缩客厅
+
+#### 👀 预览
+
+[<img src="assets/p66-couch-potato-miniature-set/source-example-01.jpg" width="400" height="225" alt="懒人土豆微缩客厅——来源示例">](assets/p66-couch-potato-miniature-set/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 懒人土豆微缩场景`
+
+#### 🔖 完整提示词
+
+```text
+一颗大号红褐色土豆斜躺在一张微缩软垫扶手椅里，它天然疙瘩状的下半部搁在脚凳上，旁边放着电视遥控器。微缩布景摄影、视线高度取景、温暖的傍晚台灯光线；保留真实的土豆皮和慵懒舒适的姿态，置于没有文字的客厅。16:9 横幅构图。
+```
+
+<sub>(by [@unrealpixels](https://x.com/unrealpixels/status/2100662656835420370)) · [来源平台： X](https://x.com/unrealpixels/status/2100662656835420370)</sub>
+
 <a id="-products--branding"></a>
 
 ## 🛍️ 产品与品牌视觉
@@ -1122,6 +1655,45 @@ IPHONE“照片”APP 布局
 ```
 
 <sub>(by [@Naiknelofar788](https://x.com/Naiknelofar788/status/2100164588721651910)) · [来源平台： X](https://x.com/Naiknelofar788/status/2100164588721651910)</sub>
+
+<a id="p67-cola-and-mentos-highway-dashcam"></a>
+
+### 📌 3.10. 可乐与曼妥思高速公路行车记录仪画面
+
+#### 👀 预览
+
+[<img src="assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg" width="400" height="227" alt="可乐与曼妥思高速公路行车记录仪画面——来源示例">](assets/p67-cola-and-mentos-highway-dashcam/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 品牌卡车高速公路行车记录仪静帧`
+
+#### 🔖 完整提示词
+
+```text
+指令：
+制作一张静态画面，看起来像从一辆在高速公路行驶的汽车的行车记录仪中截取的真实帧。采用光学行车记录仪拍摄、宽阔的挡风玻璃视角，并看见挡风玻璃、A 柱及一小部分仪表台或引擎盖；画面要像真实日常的行车记录仪 JPEG，而不是电影画面，也不要 HDR。
+
+事件／构图：
+透过挡风玻璃向前看。在道路左侧（左车道或左侧路肩，清楚出现在画面里），有两辆靠得很近、带品牌标识的卡车。
+
+可口可乐卡车（左侧，关键）：
+一辆全尺寸可口可乐罐车或配送卡车，采用官方可口可乐红色涂装，标志清晰可读。它出了故障：罐壁上有一个撕裂的不规则破洞。一股粗重的深棕色可口可乐从洞中猛烈喷到沥青路面，大量液体形成不断扩散的积液和泡沫，空中有飞溅，湿路面反光。卡车已停下或缓慢挪动，处于道路险情中。
+
+曼妥思卡车（在旁边，关键）：
+紧贴可口可乐卡车（同处左侧车辆群，略微在前或并行）的是一辆封闭式厢式或配送卡车，车侧带大幅、明确可辨的 MENTOS 品牌标识（曼妥思标志和糖卷图案）。车后门和侧门均关闭。没有糖果洒出。必须清楚看出这是一辆曼妥思卡车。
+
+摄像设备：
+固定在挡风玻璃后方的行车记录仪，轻微桶形广角；画面底部可见仪表台或引擎盖，挡风玻璃带有污渍或反射，可选时间戳叠层；白天道路，远处还有其他车流。真实的消费级行车记录仪静帧。
+
+光线：
+白天，可阴天或晴天；道路颜色真实，可乐看起来像深色汽水而非黑色石油。
+
+照片特征：
+未经摆拍的行车记录仪截图；卡车在物理上可信，品牌可读，泄漏是事件焦点。
+```
+
+<sub>(by [@ECLIPSEINTEL001](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)) · [来源平台： X](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)</sub>
 
 <a id="-posters--artistic-styles"></a>
 
@@ -1803,6 +2375,50 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 ```
 
 <sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2100097638326780122)) · [来源平台： X](https://x.com/liyue_ai/status/2100097638326780122) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p72-spring-ridge-leaf-collage-slice"></a>
+
+### 📌 4.18. 春日山脊叶片拼贴切片
+
+#### 👀 预览
+
+[<img src="assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp" width="225" height="400" alt="春日山脊叶片拼贴切片——来源示例">](assets/p72-spring-ridge-leaf-collage-slice/source-example-01.webp)
+
+#### 👇 工作流
+
+`文字 → 透明背景叶片拼贴切片`
+
+#### 🔖 完整提示词
+
+```text
+一幅东方极简插画，形成一块形状不规则、悬浮且没有任何背景的场景切片：切片周围的区域完全透明（alpha = 0），既不是白色或彩色，也没有表面或棋盘格图案。切片内部是一幅完整的小型春日场景：层叠山脊由成千上万片鲜绿色的小叶片密集拼贴而成；切片内部的奶油色纸张底面留出宁静的负空间；两个用墨线勾勒的微小人物沿着山脊行走，旁边只有一棵小树；较高处放置一轮扁平的珊瑚色太阳圆盘，柔和雾带在山脊之间飘过。边界呈现拼贴逐渐散尽的样子：叶片碎屑逐渐稀疏并散落，纸边变得参差不齐，几簇叶片延伸到透明区域，使作品中心看起来已经完成、边缘仍未完成。
+
+切片本体完整呈现，四周都有清晰的透明边距；透明区域均匀延伸到画布的四条边。柔和均匀的光线，细微的叶片浮雕感仅存在于切片内部。任何地方都没有文字；所有可能写字的表面都保持空白。9:16 竖版人像构图。
+```
+
+<sub>(by [@rafael_nascimento](https://alosem.com/i/spring-ridge-walk-leaf-collage-slice-1d5e0d44)) · [来源平台： Alosem](https://alosem.com/i/spring-ridge-walk-leaf-collage-slice-1d5e0d44)</sub>
+
+<a id="p73-pressed-flower-wren-cutout"></a>
+
+### 📌 4.19. 压花鹪鹩透明剪影
+
+#### 👀 预览
+
+[<img src="assets/p73-pressed-flower-wren-cutout/source-example-01.webp" width="400" height="225" alt="压花鹪鹩透明剪影——来源示例">](assets/p73-pressed-flower-wren-cutout/source-example-01.webp)
+
+#### 👇 工作流
+
+`文字 → 透明背景压花鹪鹩剪影`
+
+#### 🔖 完整提示词
+
+```text
+一件压花拼贴艺术作品（押花，oshibana），形成一块形状不规则、悬浮且没有任何背景的场景切片：切片周围的区域完全透明（alpha = 0），既不是白色或彩色，也没有表面或棋盘格图案。切片内部是一幅完全由真实压花、花瓣、叶片与茎秆构成的完整小场景：一只小鹪鹩停在一根纤细的真实压制树枝上；它的身体由层叠的锈红色、赭色和灰玫瑰色花瓣构成，胸部是奶油色花瓣，翅膀和尾巴由苔绿色叶片制成，眼线是一根细小的干草；树枝保留天然不规则的树皮纹理。每个元素都保持压制植物材料的真实特征：不规则的天然花瓣边缘、纤细叶脉和轻巧的层叠翘起。切片边缘像压花摆设自然收尾那样：几片散落花瓣、微小叶片碎屑和一朵小小的干花散到透明区域，让作品中心显得完整，边缘仍带未完的感觉。
+
+切片本体完整呈现，四周都有清晰的透明边距；透明区域均匀延伸到画布的四条边。柔和均匀的光线，细腻且有立体感的花瓣阴影仅存在于切片内部。任何地方都不要出现文字。16:9 横幅构图。
+```
+
+<sub>(by [@rafael_nascimento](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)) · [来源平台： Alosem](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)</sub>
 
 <a id="-home--interior-design"></a>
 

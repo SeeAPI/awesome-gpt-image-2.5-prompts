@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-18
+
+- Published P64–P73 from the approved Feishu review batch: ten collected prompts and ten unchanged source images from X, Reddit, and Alosem, with complete English/Simplified Chinese pages. Documented unavailable reference inputs, source-only model claims, and third-party marks.
+- 从已通过审核的飞书批次发布 P64–P73：收录十条提示词及十张未改动的 X、Reddit 和 Alosem 来源图片，同步完整中英文页面；记录缺失的参考输入、仅由来源声明的模型归属及第三方商标。
+
 ## 2026-09-17
 
 - Published P55–P63 from the approved Feishu review batch: nine collected prompts and fourteen unchanged X source images, with complete English/Simplified Chinese pages and source attribution. Omitted the misleading Japan chocolate image and documented the missing template values and reference inputs.

@@ -1,0 +1,388 @@
+# P68. 包毛巾上妆视频画面重建
+
+[English](../p68-towel-wrapped-makeup-frame-reconstruction.md) | [简体中文](p68-towel-wrapped-makeup-frame-reconstruction.md)
+
+## 👀 预览
+
+[<img src="../../assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg" width="238" height="400" alt="包毛巾上妆视频画面重建——来源示例">](../../assets/p68-towel-wrapped-makeup-frame-reconstruction/source-example-01.jpg)
+
+## 👇 工作流
+
+`参考画面 → 上妆视频静帧重建`
+
+## 🔖 完整提示词
+
+```text
+{
+  "prompt_type": "photorealistic_image_reconstruction",
+  "objective": "尽可能忠实地重建所提供的参考图，同时完全删除并忽略所有屏幕文字、播放控件、进度条、图标、时间戳及其他视频界面元素。保留原有摄影场景、人物、姿势、表情、造型、光线、环境、取景、比例和材质纹理。",
+  "reference_priority": {
+    "overall_composition": "极高",
+    "subject_placement": "极高",
+    "facial_structure": "极高",
+    "towel_shape_and_texture": "极高",
+    "hand_position": "极高",
+    "lip_pencil_position": "极高",
+    "lighting": "极高",
+    "background_geometry": "高",
+    "color_palette": "高",
+    "micro_texture": "高",
+    "ui_elements": "完全忽略"
+  },
+  "canvas": {
+    "orientation": "竖版",
+    "aspect_ratio": "约 704:1130",
+    "framing": "竖版智能手机相机构图",
+    "crop": "从头顶毛巾包裹处到上胸和肩部的紧凑特写",
+    "edge_behavior": {
+      "left_edge": "主体人像区域外可见一道狭窄的黑色竖边",
+      "right_edge": "主体人像区域外可见一道极窄的深色或黑色边缘",
+      "top_edge": "毛巾上方留有少量浅色背景",
+      "bottom_edge": "在上身和胸部位置裁切"
+    },
+    "important": "不要重现任何截图控件、文字、图标、时间戳、进度指示或播放按钮。"
+  },
+  "scene_description": {
+    "setting": "明亮、极简、现代的浴室或整洁的梳妆间内部",
+    "visual_mood": "柔和、亲密、随意的日常美妆自拍",
+    "time_of_day": "白天，或采用明亮日光色的室内光线",
+    "overall_style": "真实的现代智能手机美妆视频画面，高度照片级真实，略带美颜但仍自然",
+    "environmental_complexity": "简洁且不杂乱",
+    "background_focus": "背景比女性面部略柔和、稍稍失焦"
+  },
+  "subject": {
+    "person": {
+      "description": "成年女性",
+      "pose": "以放松的坐姿或半躺姿势正对镜头",
+      "orientation": "正面人像",
+      "head_alignment": "头部居中，仅有轻微自然倾斜",
+      "body_visibility": "头、颈、双肩、上胸及一只或两只手可见",
+      "expression": "平静放松、略微噘嘴，呈现自然柔和的美妆教程表情",
+      "gaze": "看向镜头"
+    },
+    "skin": {
+      "base_tone": "带柔和金色底调的浅至中等暖米色",
+      "texture": "肤色非常平滑均匀，符合轻微社交媒体美颜滤镜的效果",
+      "finish": "柔和发光的肌肤，带自然轻微高光",
+      "blemishes": "瑕疵很少",
+      "pores": "毛孔细微且被柔化，不要过度凸显细节",
+      "blush": "双颊苹果肌有明显但柔和晕开的玫瑰粉腮红",
+      "undertone": "温暖健康",
+      "contrast": "低至中等"
+    },
+    "face": {
+      "shape": "柔和的椭圆形脸",
+      "forehead": "平滑、宽度适中的额头",
+      "cheeks": "饱满、柔和圆润的双颊",
+      "jaw": "下颌线柔和收窄",
+      "chin": "小巧圆润的下巴",
+      "symmetry": "自然且较高的面部对称性",
+      "proportions": "精致、显年轻的面部比例"
+    },
+    "eyes": {
+      "shape": "大而呈杏仁形的眼睛",
+      "color": "深棕色",
+      "orientation": "正面朝向镜头",
+      "upper_lashes": {
+        "length": "很长",
+        "density": "浓密",
+        "curl": "明显向上卷翘",
+        "appearance": "明显经过美妆加强的睫毛"
+      },
+      "lower_lashes": "下睫毛细微、不突出",
+      "eyelids": "眼睑轮廓柔和",
+      "eye_makeup": "沿睫毛根部仅有少量深色眼妆",
+      "under_eye": "眼下平滑、略提亮，没有明显黑眼圈",
+      "catchlights": "轻微、柔和的眼神光"
+    },
+    "eyebrows": {
+      "shape": "浓密、略带柔和弧度的眉毛",
+      "color": "深棕色",
+      "density": "中等偏浓",
+      "styling": "修整干净但自然",
+      "texture": "可见柔和的单根眉毛细节"
+    },
+    "nose": {
+      "shape": "小巧精致的鼻子",
+      "bridge": "鼻梁平滑、轮廓柔和",
+      "tip": "鼻尖圆润低调",
+      "lighting": "鼻梁和鼻尖有轻柔高光",
+      "contour": "极轻微的自然修容"
+    },
+    "lips": {
+      "shape": "饱满柔软的双唇",
+      "upper_lip": "清晰的唇峰",
+      "lower_lip": "下唇更饱满圆润",
+      "position": "双唇微张并轻轻抿起",
+      "color": "低饱和的玫瑰豆沙裸色",
+      "finish": "柔和缎光，带少许自然光泽",
+      "makeup": "淡淡的唇线及柔和粉裸色",
+      "action": "正用唇线笔直接描画双唇中央和下唇"
+    }
+  },
+  "hair": {
+    "visibility": "头发几乎完全被遮住",
+    "style": "头发完全包在一条大毛巾形成的头巾里",
+    "visible_hair": "额头或发际线附近最多露出极少量头发",
+    "instruction": "不要让长发披散在肩膀周围。"
+  },
+  "head_towel": {
+    "type": "用大浴巾包出的饱满头巾",
+    "material": "厚实机织棉布，具有明显的华夫格纹理",
+    "primary_color": "暖调浅灰米色",
+    "texture": {
+      "pattern": "细密重复的方格或华夫格织纹",
+      "definition": "清晰可见，但经过手机相机处理后稍显柔和",
+      "surface": "哑光、吸水的棉质表面"
+    },
+    "structure": {
+      "top": "头顶堆叠着大而圆润的多层褶皱",
+      "front": "厚厚的卷边勾勒额头",
+      "left_side": "一大块向外折叠的毛巾从头部左侧向后伸出",
+      "right_side": "较长的毛巾部分沿面部右侧和肩膀向下垂落",
+      "rear": "头后方有厚实的多层毛巾体积",
+      "folds": "多个相互重叠的自然褶皱和扭转层次",
+      "silhouette": "宽大、圆润、夸张的毛巾轮廓包围头顶"
+    },
+    "color_variation": "重叠褶皱之间有细微色差，略带粉米色和冷灰色变化",
+    "lighting_response": "凸起的华夫格纹理上有柔和高光，褶皱内部有轻柔阴影"
+  },
+  "secondary_towel_or_fabric": {
+    "description": "头部两侧和后方及肩后可见额外的柔软灰色毛巾状布料",
+    "material": "柔软吸水的毛圈布或带纹理的棉布",
+    "color": "浅中性灰色",
+    "purpose": "增加头部周围层叠的毛巾体积"
+  },
+  "hands": {
+    "visibility": "双手明显出现在画面下方中央前景",
+    "skin_tone": "与人物暖米金色肤色一致",
+    "position": "一只或两只手在嘴前竖直握住化妆笔",
+    "gesture": "精细、准确的美妆上妆动作",
+    "fingers": {
+      "shape": "纤细的女性手指",
+      "pose": "握笔姿态放松但稳定",
+      "anatomy": "自然的人类手指比例",
+      "instruction": "不得有多余手指、粘连手指、扭曲关节或畸形手部。"
+    },
+    "nails": {
+      "length": "中长",
+      "shape": "柔和方形或方头",
+      "color": "不透明的干净白色",
+      "finish": "平滑有光泽的美甲",
+      "detail": "指甲表面有轻微镜面反光"
+    }
+  },
+  "cosmetic_pencil": {
+    "type": "纤细的唇线笔",
+    "position": "几乎完全竖直，从画面下方中央向上延伸到双唇",
+    "tip_location": "笔尖触碰或几乎触碰双唇中央或下唇",
+    "body_color": "灰玫瑰色、低饱和粉色、豆沙粉色",
+    "finish": "哑光至缎光",
+    "shape": "纤细的圆柱形化妆笔",
+    "visible_length": "很长一段笔身向下延伸到手中",
+    "branding": "笔身可以有模糊的浅色化妆品标记，但不得出现可读文字",
+    "interaction": "正在描画下唇轮廓或给下唇上色"
+  },
+  "jewelry": {
+    "necklace": {
+      "type": "非常细的精致链条",
+      "color": "银色或浅金属色",
+      "placement": "环绕颈部，部分显露在上胸前",
+      "pendant": {
+        "description": "小巧精致的金属吊饰",
+        "shape": "紧凑的圆形或类似字母的吊饰",
+        "position": "位于可见颈部与胸口较低的中央位置",
+        "appearance": "明亮的金属高光，略带闪光"
+      }
+    }
+  },
+  "upper_body": {
+    "clothing": "露出肩膀和上胸",
+    "pose": "双肩放松",
+    "skin_rendering": "平滑但仍有自然立体感",
+    "lighting": "柔和正面光，下巴和锁骨周围有轻微阴影",
+    "composition": "双肩分别延伸至画面左下角和右下角"
+  },
+  "background": {
+    "walls": {
+      "color": "非常浅的冷白色，略带蓝灰色调",
+      "finish": "平滑的涂漆墙面",
+      "detail": "整洁的极简建筑细节"
+    },
+    "ceiling_fan": {
+      "visibility": "画面左上方附近可见部分吊扇",
+      "description": "白色或极浅色的吊扇机身，一片深灰或黑色扇叶垂入画面",
+      "focus": "不在主要焦平面上，因此略微柔化"
+    },
+    "air_vent": {
+      "position": "右上方背景",
+      "description": "白色矩形暖通空调或回风口，带狭窄的水平百叶",
+      "appearance": "低调、整洁、几何感",
+      "focus": "略微柔化"
+    },
+    "door_or_architecture": {
+      "position": "最右侧背景",
+      "description": "简洁的白色建筑边线或门框",
+      "visibility": "局部可见",
+      "detail_level": "柔和且不抢眼"
+    },
+    "background_depth": "浅景深，背景柔和模糊但仍可辨认"
+  },
+  "camera": {
+    "device_style": "现代智能手机前置摄像头",
+    "lens": "全画幅等效约 24–28mm 的广角自拍镜头",
+    "perspective": "近距离面部自拍视角，带轻微广角特征",
+    "camera_height": "大约与眼睛齐平",
+    "camera_distance": "距离约一臂远",
+    "orientation": "竖版人像",
+    "focus_point": "眼睛和面部中央",
+    "sharpness": "面部清晰，背景适度柔化",
+    "depth_of_field": "中等偏浅的景深",
+    "stabilization": "画面稳定",
+    "image_quality": "高分辨率的现代智能手机影像",
+    "processing": "轻微的计算摄影处理与美颜柔化"
+  },
+  "lighting": {
+    "primary_source": "正面大面积漫射窗光或柔和的人造日光",
+    "direction": "从正面略高处照射",
+    "quality": "非常柔和",
+    "contrast": "低对比度",
+    "shadows": "阴影轻柔、弥散，没有硬边",
+    "skin_highlights": "额头、鼻子、双颊及双唇上有柔和高光",
+    "towel_lighting": "毛巾凸起的织纹处高光略亮",
+    "background_lighting": "背景有浅淡冷色环境光",
+    "color_temperature": "冷中性日光，肤色仍呈温暖质感",
+    "overall_effect": "讨喜、干净、柔和的美妆视频光线"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "浅冷白色",
+      "暖浅灰色",
+      "米色",
+      "灰米色",
+      "柔和玫瑰粉",
+      "灰豆沙紫",
+      "暖金色肌肤"
+    ],
+    "saturation": "中等偏低",
+    "contrast": "低至中等",
+    "highlights": "奶油般柔和",
+    "shadows": "轻柔且略微抬升",
+    "skin_color_priority": "自然暖肤色必须与冷色背景保持区分",
+    "towel_color_priority": "中性暖灰米色"
+  },
+  "beauty_processing": {
+    "style": "轻微的社交媒体美颜滤镜",
+    "skin_smoothing": "中等至较高",
+    "blemish_reduction": "高",
+    "facial_shape_adjustment": "极轻微",
+    "eye_enhancement": "细微",
+    "lash_enhancement": "可见",
+    "blush_enhancement": "中等",
+    "lip_enhancement": "细微",
+    "overall_result": "精致但可信的智能手机美妆视频画面",
+    "avoid": "避免极端修脸、塑料肌肤、不真实的对称感或人工 CGI 肌肤"
+  },
+  "composition_geometry": {
+    "subject_center": "水平方向大致居中",
+    "face_position": "面部位于画面中央中部",
+    "eyes": "眼睛位于上半部约三分之一处",
+    "towel_top": "毛巾顶部伸入画面上四分之一部分",
+    "mouth": "嘴部位于垂直方向中央附近",
+    "hands": "双手占据下方中央前景",
+    "pencil": "化妆笔构成近乎竖直的中央视觉线",
+    "shoulders": "双肩填满左下和右下区域",
+    "negative_space": "留白有限，营造亲密特写取景",
+    "symmetry": "整体大致为对称的正面构图，毛巾褶皱和双手保留自然不对称"
+  },
+  "fine_details": {
+    "skin": "柔和真实的肤质，带细微色调变化",
+    "lashes": "可见单根成束的睫毛",
+    "brows": "可见细密的眉毛纹理",
+    "lips": "妆容下可见细微自然唇纹",
+    "nails": "干净、光泽的白色表面",
+    "towel": "可见单根凸起的织线和线圈",
+    "necklace": "细小金属反光",
+    "pencil": "化妆笔上有细小印刷标记，但不得有可辨识文字",
+    "background": "微弱的建筑细节，不要有分散注意力的杂物"
+  },
+  "photographic_style": {
+    "genre": "随性而精致的美容或自我护理手机人像",
+    "realism": "极高的照片级真实感",
+    "image_character": "真实美妆视频的暂停画面",
+    "retouching": "柔和的计算摄影美颜处理",
+    "texture": "干净但不呆板",
+    "dynamic_range": "高",
+    "sharpness": "面部和双手中等程度清晰",
+    "compression": "轻微的智能手机或社交媒体压缩质感"
+  },
+  "negative_prompt": [
+    "文字",
+    "图注",
+    "字幕",
+    "水印",
+    "标志",
+    "播放按钮",
+    "暂停按钮",
+    "进度条",
+    "时间轴",
+    "时间戳",
+    "视频控件",
+    "界面叠层",
+    "社交媒体图标",
+    "界面元素",
+    "不同的人物",
+    "不同的面部比例",
+    "不同的姿势",
+    "不同的毛巾造型",
+    "披散的长发",
+    "深色毛巾",
+    "鲜艳颜色的毛巾",
+    "红色口红",
+    "深色口红",
+    "浓重修容",
+    "夸张眼线",
+    "普通眼镜",
+    "太阳镜",
+    "耳环",
+    "额外首饰",
+    "其他人物",
+    "多余的手",
+    "多余的手指",
+    "缺失的手指",
+    "畸形的手",
+    "过长的手指",
+    "错误的指甲颜色",
+    "尖头指甲",
+    "红色指甲",
+    "用口红管代替唇线笔",
+    "横向构图",
+    "横幅摄影",
+    "全身",
+    "侧面视角",
+    "四分之三侧面视角",
+    "夸张姿势",
+    "硬闪光",
+    "强烈阴影",
+    "暖橙色光线",
+    "昏暗环境",
+    "杂乱的浴室",
+    "以镜子为主的构图",
+    "影棚时尚大片",
+    "电影感摄影",
+    "CGI",
+    "3D 渲染",
+    "插画",
+    "动漫",
+    "塑料肌肤",
+    "过度磨皮",
+    "诡异的人脸",
+    "过度 HDR",
+    "过强的背景虚化",
+    "过度锐化的毛孔"
+  ],
+  "final_instruction": "生成一张高度照片级真实的竖版图像，尽可能贴合参考图构图。保留居中的正面脸部取景、带层叠褶皱的夸张米灰色纹理毛巾头巾、温暖平滑的肤色、玫瑰粉双颊、细长深色睫毛、饱满的柔和粉裸色嘴唇、白色亮面美甲、竖直触碰下唇的灰粉色唇线笔、精致银色项链、裸露双肩、浅冷色浴室背景、顶部局部可见的吊扇，以及右上方背景的矩形通风口。删除并忽略所有文字元素、时间戳、播放按钮、进度线和其他界面图形。结果应像没有任何界面叠层的干净原始视频画面。"
+}
+```
+
+<sub>(by [@neverfilmed](https://x.com/neverfilmed/status/2100670687489020274)) · [来源平台： X](https://x.com/neverfilmed/status/2100670687489020274)</sub>
