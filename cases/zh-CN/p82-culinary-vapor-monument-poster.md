@@ -1,0 +1,21 @@
+# P82. 蒸汽纪念碑式美食海报
+
+[English](../p82-culinary-vapor-monument-poster.md) | [简体中文](p82-culinary-vapor-monument-poster.md)
+
+## 👀 预览
+
+[<img src="../../assets/p82-culinary-vapor-monument-poster/source-example-01.jpg" width="268" height="400" alt="蒸汽纪念碑式美食海报——来源示例 1">](../../assets/p82-culinary-vapor-monument-poster/source-example-01.jpg)
+
+[<img src="../../assets/p82-culinary-vapor-monument-poster/source-example-02.jpg" width="268" height="400" alt="蒸汽纪念碑式美食海报——来源示例 2">](../../assets/p82-culinary-vapor-monument-poster/source-example-02.jpg)
+
+## 👇 工作流
+
+`菜品变量 → 蒸汽美食海报`
+
+## 🔖 完整提示词
+
+```text
+竖版美食纪念碑式海报。将一道 [DISH] 摆放在 [SURFACE] 上，居中置于高耸的 [VAPOR] 气柱下方；气柱成为画面的主要图形结构。蒸汽应具有建筑感：层叠的半透明平面，而非蓬松的卡通蒸汽。[HUMAN] 只以手和前臂的形式从 [ENTRY] 伸入画面，穿着 [SLEEVES]，正在进行 [ACTION]。背景是平面化的 [KITCHEN PLANE]，只保留一件有用的物品：[UTENSIL]。配色：[PALETTE]。在蒸汽后方放置放大的数字“[NUMBER]”。底部以紧凑的窄体字体写出菜名“[DISH NAME]”。呈现热度、度量感与静谧感。画幅比例 4:5。
+```
+
+<sub>(by [@miratechtool](https://x.com/miratechtool/status/2101560392589758614)) · [来源平台： X](https://x.com/miratechtool/status/2101560392589758614)</sub>

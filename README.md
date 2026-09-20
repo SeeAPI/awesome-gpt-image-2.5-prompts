@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 73 standalone prompts · Updated September 18, 2026**
+**5 creative workflows · 83 standalone prompts · Updated September 20, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -1038,6 +1038,1208 @@ Camera & realism: Shot on a phone rear camera, natural candid perspective. Authe
 
 <sub>(by [u/imagine_ai](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)) · [Source: Reddit](https://www.reddit.com/r/ImagineAiArt/comments/1wi79wi/gpt_image_25_flare_is_this_actually_the_best_ai/)</sub>
 
+<a id="p77-natural-bedroom-ugc-selfie"></a>
+
+### 📌 1.26. Natural Bedroom UGC Selfie
+
+#### 👀 Preview
+
+[<img src="assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg" width="300" height="400" alt="Natural Bedroom UGC Selfie — source example 1">](assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → natural bedroom UGC selfie`
+
+#### 🔖 Full Prompt
+
+```text
+{
+  "prompt_type": "photorealistic_female_ugc",
+
+  "subject": {
+    "person": "white adult woman in her 20s",
+    "appearance": "naturally attractive, relatable and approachable",
+    "expression": "genuine, spontaneous and natural",
+    "body_language": "relaxed and unposed",
+    "skin": "realistic fair-to-light skin with visible pores, natural texture and subtle imperfections"
+  },
+
+  "scene": {
+    "environment": "realistic everyday setting",
+    "background": "lived-in environment with natural details and subtle imperfections",
+    "atmosphere": "casual, personal and unstaged"
+  },
+
+  "clothing": {
+    "style": "casual everyday clothing",
+    "appearance": "modern, comfortable and relatable",
+    "texture": "realistic fabric folds and wrinkles",
+    "branding": "no visible logos or recognizable brands"
+  },
+
+  "hair": {
+    "style": "natural contemporary hairstyle",
+    "texture": "realistic individual strands",
+    "appearance": "slightly imperfect and naturally arranged"
+  },
+
+  "camera": {
+    "device": "modern smartphone",
+    "perspective": "natural smartphone perspective",
+    "framing": "medium close-up or medium shot",
+    "composition": "slightly imperfect handheld framing",
+    "focus": "natural smartphone autofocus",
+    "image_quality": "high-resolution smartphone photography",
+    "lens": "natural smartphone wide-angle lens"
+  },
+
+  "lighting": {
+    "source": "natural available light",
+    "quality": "soft and realistic",
+    "shadows": "natural directional shadows",
+    "avoid": [
+      "studio lighting",
+      "professional beauty lighting",
+      "dramatic cinematic lighting"
+    ]
+  },
+
+  "ugc_characteristics": {
+    "authenticity": "extremely high",
+    "style": "raw, casual, spontaneous and relatable",
+    "camera_feel": "handheld smartphone capture",
+    "commercial_feel": "minimal",
+    "social_media_feel": "native to TikTok and Instagram",
+    "imperfections": "subtle natural imperfections in framing, lighting and environment"
+  },
+
+  "realism": {
+    "skin": "photorealistic",
+    "anatomy": "accurate human anatomy",
+    "hands": "realistic hands and fingers"
+  },
+
+  "negative_prompt": [
+    "product",
+    "product packaging",
+    "logos",
+    "brand names",
+    "advertisement",
+    "commercial photography",
+    "studio photography",
+    "fashion editorial",
+    "CGI",
+    "3D render",
+    "cartoon",
+    "anime",
+    "plastic skin",
+    "waxy skin",
+    "unrealistic anatomy",
+    "extra fingers",
+    "deformed hands",
+    "text",
+    "captions",
+    "watermarks",
+    "graphics",
+    "artificial posing"
+  ],
+
+  "final_generation_instruction": "Generate a single photorealistic UGC-style image of a white adult woman that looks like an authentic smartphone capture for TikTok or Instagram. Make her feel like a real creator rather than a model. Prioritize natural facial expression, realistic skin texture, believable anatomy, casual clothing, natural lighting, imperfect handheld framing and a lived-in environment. The final image should feel spontaneous, relatable and native to social media. Do not include any product, brand, logo, advertisement graphics or commercial elements."
+}
+```
+
+<sub>(by [@Daniloecom](https://x.com/Daniloecom/status/2101403775164674440)) · [Source: X](https://x.com/Daniloecom/status/2101403775164674440)</sub>
+
+<a id="p78-candid-gym-deadlift-photo"></a>
+
+### 📌 1.27. Candid Gym Deadlift Photo
+
+#### 👀 Preview
+
+[<img src="assets/p78-candid-gym-deadlift-photo/source-example-01.jpg" width="267" height="400" alt="Candid Gym Deadlift Photo — source example 1">](assets/p78-candid-gym-deadlift-photo/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → candid gym workout photo`
+
+#### 🔖 Full Prompt
+
+```text
+{
+  "prompt": {
+    "type": "ultra_photorealistic_lifestyle_fitness_photography",
+    "objective": "Generate a single extremely realistic high-resolution fitness photograph of a fictional young adult woman exercising inside a real contemporary gym. The image should feel naturally sexy, confident and feminine without looking staged, explicit or artificial. It must look like a genuine smartphone photograph casually taken during a workout, not AI-generated artwork, CGI, commercial fitness advertising or an over-retouched photoshoot. Prioritize believable anatomy, imperfect natural skin, realistic fabric behavior, authentic gym lighting, subtle asymmetry, physically correct equipment and ordinary photographic imperfections.",
+    "image_format": {
+      "orientation": "portrait",
+      "aspect_ratio": "approximately 2:3",
+      "framing": "vertical full-body to three-quarter-body fitness photograph",
+      "resolution": "very high resolution",
+      "composition_priority": "extremely high",
+      "photographic_authenticity_priority": "maximum"
+    },
+    "subject": {
+      "count": 1,
+      "presentation": "young adult woman",
+      "age_appearance": "clearly adult, approximately mid twenties",
+      "appearance": {
+        "physique": "athletic feminine physique with naturally developed glutes and legs, toned abdomen, moderately defined shoulders and arms, realistic waist-to-hip proportions and visible evidence of regular strength training without exaggerated bodybuilding proportions",
+        "body_realism": [
+          "subtle natural asymmetry between left and right sides",
+          "realistic muscle tension from the exercise",
+          "small natural skin folds caused by movement",
+          "no impossible hourglass proportions",
+          "no artificial extreme waist reduction",
+          "no exaggerated breast or glute proportions"
+        ],
+        "skin": {
+          "tone": "warm lightly tanned natural skin",
+          "texture": "visible realistic pores and subtle skin texture",
+          "details": [
+            "tiny variations in skin tone",
+            "very subtle redness from physical activity",
+            "minor natural imperfections",
+            "faint visible veins in appropriate areas",
+            "slight natural sheen from workout perspiration",
+            "subtle compression marks where clothing contacts the skin"
+          ],
+          "avoid": "perfect waxy skin, plastic texture, excessive smoothing or artificial beauty-filter appearance"
+        },
+        "hair": {
+          "color": "rich dark brown",
+          "length": "long",
+          "style": "loosely tied high ponytail",
+          "condition": "slightly messy from exercising",
+          "details": [
+            "individual strands visible",
+            "small loose strands around forehead and temples",
+            "natural flyaways",
+            "slight unevenness rather than perfect salon styling"
+          ]
+        },
+        "face": {
+          "expression": "relaxed, confident and subtly flirtatious without exaggerated posing",
+          "gaze": "looking toward the camera with a natural slightly intense expression",
+          "mouth": "lips naturally relaxed and very slightly parted",
+          "makeup": "minimal realistic gym makeup, subtle mascara, natural brows and muted nude-pink lips",
+          "facial_structure": "attractive but believable adult face with natural proportions",
+          "realism": [
+            "minor facial asymmetry",
+            "natural under-eye texture",
+            "realistic nasolabial contours",
+            "subtle skin texture on forehead and cheeks",
+            "no perfectly mirrored features"
+          ]
+        }
+      },
+      "exercise": {
+        "type": "Romanian deadlift with a barbell",
+        "moment": "captured near the lower-middle portion of the repetition while the subject is hinging at the hips",
+        "execution": {
+          "feet": "approximately hip-width apart and firmly planted on the rubber flooring",
+          "knees": "slightly bent in a realistic Romanian deadlift position",
+          "hips": "pushed backward naturally",
+          "spine": "neutral and anatomically plausible",
+          "torso": "leaned forward due to the hip hinge while maintaining realistic posture",
+          "barbell": "held close to the legs around mid-shin to just below knee level",
+          "shoulders": "slightly pulled back and stable",
+          "hands": "gripping the bar naturally at approximately shoulder width",
+          "head": "slightly raised and turned enough for the subject to glance toward the camera"
+        },
+        "pose_character": "athletic and functional first, with the natural hip-hinge position creating a flattering silhouette without turning into an unrealistic pin-up pose"
+      }
+    },
+    "clothing": {
+      "top": {
+        "type": "minimal fitted athletic sports bra",
+        "color": "deep burgundy / wine red",
+        "cut": "low-to-moderate athletic scoop neckline",
+        "fit": "snug supportive compression fit",
+        "straps": "thin-to-medium athletic shoulder straps",
+        "back": "minimal racerback-inspired athletic construction",
+        "fabric": "matte technical stretch material",
+        "details": [
+          "realistic stitching",
+          "small seams",
+          "slight natural fabric tension",
+          "very small tonal logo or no visible branding"
+        ]
+      },
+      "bottom": {
+        "type": "very fitted high-waisted seamless gym shorts",
+        "color": "dark charcoal gray",
+        "length": "short upper-thigh athletic length",
+        "waist": "high-rise ribbed compression waistband",
+        "fit": "form-fitting contour style with realistic compression",
+        "fabric": "matte seamless stretch knit",
+        "details": [
+          "subtle ribbed texture",
+          "natural fabric tension",
+          "realistic creases around the hip joints",
+          "slight compression around thighs",
+          "subtle center and contour seams",
+          "no impossible painted-on texture"
+        ]
+      },
+      "socks": {
+        "type": "white athletic crew socks",
+        "height": "mid-calf",
+        "condition": "slightly worn but clean",
+        "texture": "visible cotton ribbing and minor natural wrinkles"
+      },
+      "shoes": {
+        "type": "flat-soled women's gym training shoes",
+        "color": "white and off-white with muted gray details",
+        "design": "practical strength-training silhouette",
+        "condition": "clean but visibly used",
+        "details": [
+          "minor sole wear",
+          "slightly uneven lace tension",
+          "real textile mesh",
+          "stitching",
+          "small floor dust marks"
+        ]
+      },
+      "accessories": {
+        "headphones": {
+          "type": "compact wireless in-ear earbuds",
+          "color": "white",
+          "details": "small and understated"
+        },
+        "watch": {
+          "type": "fitness smartwatch",
+          "position": "left wrist",
+          "color": "black",
+          "details": "slightly reflective screen with no readable interface text"
+        },
+        "jewelry": {
+          "type": "small thin hoop earrings",
+          "appearance": "subtle and believable"
+        }
+      }
+    },
+    "barbell": {
+      "type": "standard Olympic barbell",
+      "position": "held close to the legs during the Romanian deadlift",
+      "plates": {
+        "quantity": "one moderate-sized plate per side",
+        "style": "black commercial rubber bumper plates",
+        "weight_markings": "subtle and not necessarily readable"
+      },
+      "details": [
+        "realistic knurling",
+        "metal sleeves",
+        "minor scratches from normal gym use",
+        "physically correct plate thickness",
+        "correct bar straightness and perspective"
+      ]
+    },
+    "gym_environment": {
+      "location": "real upscale urban commercial gym",
+      "overall_style": "modern industrial minimalist strength-training area",
+      "atmosphere": "active but not crowded, believable and slightly imperfect rather than pristine showroom-like",
+      "floor": {
+        "material": "dark charcoal rubber flooring",
+        "texture": "fine speckled rubber texture",
+        "condition": "minor shoe marks and normal gym wear",
+        "details": "visible seams between flooring sections"
+      },
+      "walls": {
+        "materials": [
+          "warm off-white painted concrete",
+          "dark metal",
+          "large mirror panels"
+        ],
+        "condition": "clean but realistically used",
+        "decoration": "minimal"
+      },
+      "windows": {
+        "type": "large industrial floor-to-ceiling windows",
+        "frames": "black metal",
+        "lighting": "soft natural daylight entering from the side",
+        "glass": "realistic slight reflections and subtle smudging",
+        "view": "modern urban buildings outside"
+      },
+      "ceiling": {
+        "style": "exposed industrial ceiling",
+        "color": "dark charcoal",
+        "details": [
+          "HVAC ducts",
+          "electrical conduit",
+          "support beams",
+          "linear LED fixtures",
+          "small recessed lights"
+        ]
+      }
+    },
+    "gym_equipment": {
+      "power_racks": {
+        "position": "rear and side background",
+        "type": "heavy black steel commercial racks",
+        "details": [
+          "uprights",
+          "holes",
+          "J-hooks",
+          "safety arms",
+          "stored plates"
+        ]
+      },
+      "dumbbells": {
+        "position": "background",
+        "type": "commercial black rubber dumbbells",
+        "arrangement": "imperfectly aligned along a multi-level rack",
+        "realism": "minor wear and believable metallic reflections"
+      },
+      "benches": {
+        "position": "background edges",
+        "type": "black adjustable gym benches",
+        "details": "subtle upholstery creases and metal support frames"
+      },
+      "weight_plates": {
+        "position": "storage pegs and plate trees",
+        "appearance": "slightly used black plates with minor surface wear"
+      },
+      "additional_details": [
+        "water bottle partially visible in the background",
+        "small gym towel on a distant bench",
+        "cable handles hanging naturally",
+        "no unnaturally perfect equipment arrangement"
+      ]
+    },
+    "mirrors": {
+      "presence": true,
+      "position": "large mirror panels behind and slightly to one side of the subject",
+      "reflection_behavior": "physically consistent with actual camera and subject positions",
+      "reflection_quality": "slightly darker and fractionally softer than direct view",
+      "details": [
+        "correct reflected gym equipment",
+        "correct reflected lighting",
+        "no duplicate limbs",
+        "no impossible alternative pose",
+        "no impossible camera reflection"
+      ]
+    },
+    "composition": {
+      "subject_position": "slightly right of center",
+      "body_coverage": "almost full body visible",
+      "exercise_visibility": "barbell and complete hip-hinge position clearly readable",
+      "visual_emphasis": "face, waist-to-hip silhouette, leg tension and athletic movement",
+      "foreground": "subtle portion of rubber flooring with enough space around feet and barbell",
+      "background": "recognizable gym interior with realistic depth but not distracting",
+      "visual_hierarchy": [
+        "subject's face and gaze",
+        "natural athletic silhouette",
+        "Romanian deadlift movement",
+        "burgundy sports bra and charcoal shorts",
+        "barbell",
+        "gym equipment and windows"
+      ],
+      "camera_angle": "around hip-to-waist height relative to standing subject",
+      "camera_position": "approximately three-quarter front-side angle rather than perfectly frontal",
+      "camera_distance": "approximately 2.5 to 3.5 meters from subject",
+      "framing_character": "slightly casual, as though another person quickly photographed the workout rather than precisely composing a fashion campaign"
+    },
+    "camera_characteristics": {
+      "device": "modern flagship smartphone main camera",
+      "lens": "approximately 28mm full-frame equivalent",
+      "aperture_behavior": "smartphone-like natural depth of field rather than artificial DSLR portrait blur",
+      "focus": "subject's torso and face sharply focused",
+      "background_focus": "slightly softer due to distance but still clearly recognizable",
+      "depth_of_field": "moderately deep",
+      "dynamic_range": "realistic smartphone HDR",
+      "exposure": "slightly imperfect but well-balanced natural exposure",
+      "white_balance": "mostly neutral with slightly warm skin rendering",
+      "sharpness": "high natural detail but not digitally crunchy",
+      "noise": "very subtle fine sensor noise in darker regions",
+      "lens_distortion": "small realistic wide-angle distortion near frame edges",
+      "chromatic_aberration": "extremely subtle and only where physically plausible",
+      "motion": "tiny natural motion softness in loose hair strands while face and torso remain sharp",
+      "processing": "minimal computational photography look",
+      "avoid": [
+        "cinematic grading",
+        "commercial studio lighting",
+        "unrealistic edge sharpening",
+        "fake depth-map blur",
+        "perfectly uniform skin exposure"
+      ]
+    },
+    "lighting": {
+      "primary_source": "natural daylight from large side windows",
+      "secondary_source": "existing neutral-white overhead gym lighting",
+      "direction": "side-front daylight creating gentle body contouring",
+      "quality": "soft but not flat",
+      "contrast": "moderate and realistic",
+      "face": "naturally lit with slight shadow variation",
+      "body": "soft highlights across shoulders, abdomen and legs caused by real overhead and window light",
+      "skin_specularity": "very subtle realistic post-workout sheen",
+      "shadows": [
+        "contact shadows under shoes",
+        "soft shadow beneath barbell",
+        "natural shadow between limbs",
+        "subtle facial shadows",
+        "equipment shadows consistent with ceiling lights"
+      ],
+      "avoid": [
+        "beauty dish lighting",
+        "strong rim lighting",
+        "neon RGB lighting",
+        "orange-and-teal cinema grading",
+        "perfect symmetrical light",
+        "unrealistic glowing skin",
+        "overexposed windows"
+      ]
+    },
+    "photographic_realism": {
+      "goal": "The viewer should initially assume this is a normal real photograph uploaded by a fitness creator rather than generated imagery.",
+      "required_imperfections": [
+        "slightly asymmetric framing",
+        "minor fabric wrinkles",
+        "subtle skin texture",
+        "natural hair flyaways",
+        "tiny lighting inconsistencies",
+        "minor equipment wear",
+        "small rubber floor scuffs",
+        "non-perfect shoe placement",
+        "slight variation in muscle tension",
+        "natural facial asymmetry",
+        "realistic hand pressure on the bar"
+      ],
+      "avoid_ai_signatures": [
+        "hyper-perfect face",
+        "identical repeating dumbbells",
+        "perfectly spaced equipment",
+        "impossible reflections",
+        "melting background objects",
+        "random unreadable wall typography",
+        "fake logos",
+        "overly glossy surfaces",
+        "uniform pore texture",
+        "overly smooth legs",
+        "overly dramatic body proportions"
+      ]
+    },
+    "anatomical_requirements": {
+      "hands": [
+        "exactly five fingers per hand",
+        "natural finger spacing",
+        "thumb positioned correctly around bar",
+        "correct wrist alignment",
+        "no fused fingers"
+      ],
+      "legs": [
+        "realistic knee structure",
+        "correct calf and thigh proportions",
+        "both feet connected naturally to floor",
+        "no duplicated or distorted joints"
+      ],
+      "torso": [
+        "natural ribcage dimensions",
+        "realistic waist",
+        "physically plausible spinal posture",
+        "no twisted torso geometry"
+      ],
+      "face": [
+        "two symmetrical but naturally non-identical eyes",
+        "normal teeth if visible",
+        "realistic ears",
+        "correct hairline"
+      ]
+    },
+    "fine_details": [
+      "individual hair strands near temples",
+      "tiny droplets or subtle perspiration along hairline",
+      "natural eyebrow hairs",
+      "slight texture on lips",
+      "very subtle veins on hands",
+      "realistic fingernails",
+      "barbell knurling",
+      "minor metal scratches",
+      "fabric knit visible in shorts",
+      "sports bra stitching",
+      "sock ribbing",
+      "shoe mesh",
+      "shoelace fibers",
+      "rubber floor granularity",
+      "minor dust near equipment",
+      "mirror edge seams",
+      "subtle fingerprints or smudging on distant mirror",
+      "window reflections",
+      "small highlights on gym hardware"
+    ],
+    "color_palette": {
+      "dominant": [
+        "burgundy",
+        "dark charcoal",
+        "black",
+        "white",
+        "warm natural skin tones",
+        "soft neutral gray"
+      ],
+      "secondary": [
+        "cool daylight blue",
+        "brushed steel",
+        "muted city colors"
+      ],
+      "saturation": "natural and restrained",
+      "contrast": "moderate",
+      "grading": "minimal realistic smartphone color processing"
+    },
+    "negative_prompt": [
+      "AI generated appearance",
+      "CGI",
+      "3D render",
+      "illustration",
+      "anime",
+      "cartoon",
+      "digital painting",
+      "plastic skin",
+      "porcelain skin",
+      "airbrushed skin",
+      "beauty filter",
+      "perfectly smooth skin",
+      "overly glossy skin",
+      "exaggerated hourglass figure",
+      "impossibly narrow waist",
+      "oversized breasts",
+      "exaggerated buttocks",
+      "unnatural hip width",
+      "elongated legs",
+      "shortened limbs",
+      "extra arms",
+      "extra legs",
+      "extra hands",
+      "extra fingers",
+      "missing fingers",
+      "fused fingers",
+      "warped hands",
+      "broken wrists",
+      "deformed knees",
+      "warped feet",
+      "floating shoes",
+      "floating barbell",
+      "bent barbell",
+      "asymmetric weight plates",
+      "duplicated gym equipment",
+      "repeating dumbbell patterns",
+      "warped racks",
+      "warped mirrors",
+      "incorrect reflections",
+      "duplicate person in mirror",
+      "fisheye distortion",
+      "extreme low angle",
+      "extreme wide angle",
+      "heavy portrait blur",
+      "fake bokeh",
+      "cinematic lighting",
+      "studio lighting",
+      "RGB neon lights",
+      "teal-orange grading",
+      "excessive HDR",
+      "oversharpening",
+      "excessive contrast",
+      "motion blur across face",
+      "grainy low-quality image",
+      "watermark",
+      "random text",
+      "unreadable wall text",
+      "fake brand logos",
+      "perfect showroom gym",
+      "unnatural exercise form",
+      "stiff model pose",
+      "explicit nudity",
+      "transparent clothing",
+      "wardrobe malfunction",
+      "pornographic framing"
+    ],
+    "identity_handling": {
+      "instruction": "Create a completely fictional adult woman. Do not reproduce or imitate the recognizable identity of any real person."
+    },
+    "priority_order": [
+      "1. The result must look like an actual real-world smartphone gym photograph",
+      "2. Preserve believable adult human anatomy and exercise biomechanics",
+      "3. Create a naturally attractive and sexy fitness aesthetic without explicit presentation",
+      "4. Preserve realistic imperfect skin, hair, fabric and equipment details",
+      "5. Make the Romanian deadlift position anatomically and mechanically plausible",
+      "6. Preserve realistic burgundy sports bra and charcoal fitted shorts",
+      "7. Use ordinary natural gym lighting instead of cinematic or studio lighting",
+      "8. Preserve physically correct mirrors, shadows and reflections",
+      "9. Include subtle real-world imperfections that reduce the AI-generated appearance",
+      "10. Avoid all common AI artifacts in hands, equipment, background geometry and textures"
+    ]
+  },
+  "output": {
+    "style": "extremely photorealistic authentic fitness photography",
+    "quality": "maximum",
+    "detail": "maximum",
+    "human_realism": "maximum",
+    "skin_realism": "maximum",
+    "anatomical_accuracy": "maximum",
+    "exercise_accuracy": "very high",
+    "environment_realism": "maximum",
+    "photographic_authenticity": "maximum",
+    "ai_artifact_suppression": "maximum",
+    "retouching_level": "minimal"
+  }
+}
+```
+
+<sub>(by [@cartelfather](https://x.com/cartelfather/status/2101400765772542021)) · [Source: X](https://x.com/cartelfather/status/2101400765772542021)</sub>
+
+<a id="p79-two-woman-fitness-selfie-reconstruction"></a>
+
+### 📌 1.28. Two Woman Fitness Selfie Reconstruction
+
+#### 👀 Preview
+
+[<img src="assets/p79-two-woman-fitness-selfie-reconstruction/source-example-01.jpg" width="225" height="400" alt="Two Woman Fitness Selfie Reconstruction — source example 1">](assets/p79-two-woman-fitness-selfie-reconstruction/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Reference photo → two-woman fitness selfie reconstruction`
+
+#### 🔖 Full Prompt
+
+```text
+{
+  "prompt_type": "photorealistic_reference_image_reconstruction",
+  "goal": "Recreate the supplied reference photograph as closely as possible, matching the composition, two-person arrangement, facial expressions, body positioning, clothing, accessories, background foliage, camera perspective, natural lighting, colors, proportions, and smartphone-photo aesthetic. Completely ignore and remove all text, interface elements, buttons, icons, timestamps, watermarks, captions, borders, and any other screen graphics.",
+  "reference_fidelity": {
+    "target": "extremely high visual similarity",
+    "priority_order": [
+      "overall composition and crop",
+      "positions and scale of both subjects",
+      "facial expressions and head angles",
+      "hair shapes and colors",
+      "eyewear",
+      "clothing silhouettes and colors",
+      "hand placement and manicures",
+      "green drink and straw",
+      "background greenery and architecture",
+      "lighting and color grading",
+      "fine material and skin detail"
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "approximately 736:1307",
+    "framing": "tight vertical smartphone selfie photograph",
+    "crop_style": "upper-body to mid-thigh/full partial-body framing",
+    "camera_distance": "very close, approximately arm's length",
+    "camera_height": "slightly above chest level and angled downward just a little",
+    "composition": "two adult women standing very close together, occupying nearly the entire frame",
+    "edge_behavior": {
+      "top": "small amount of background visible above both heads",
+      "left": "left woman's hair and body extend close to frame edge",
+      "right": "right woman's shoulder and torso extend close to frame edge",
+      "bottom": "right woman's pants and left woman's legs extend toward the bottom border"
+    }
+  },
+  "scene": {
+    "setting": "sunny outdoor patio, garden, or residential courtyard",
+    "atmosphere": "warm upscale casual summer lifestyle setting",
+    "visual_style": "authentic high-end smartphone social-media photograph rather than studio photography",
+    "background": {
+      "dominant_element": "dense dark green leafy hedge or climbing vegetation",
+      "architecture": {
+        "visible": true,
+        "description": "cream/light beige stucco or concrete vertical structure partially concealed by foliage",
+        "details": [
+          "vertical pale structural post",
+          "light wall surface",
+          "subtle roof or pergola structure near upper right",
+          "dark horizontal/wood-like architectural element"
+        ]
+      },
+      "vegetation": {
+        "type": "dense broadleaf greenery",
+        "color": "deep natural green with lighter sunlit leaves",
+        "density": "very high",
+        "focus": "slightly softer than subjects"
+      },
+      "ground": {
+        "appearance": "light gray or pale stone/concrete patio",
+        "visibility": "mostly obscured by subjects, visible in lower background"
+      }
+    }
+  },
+  "subjects": {
+    "count": 2,
+    "both_are": "adult women",
+    "interaction": "standing closely together for a casual selfie/fashion-lifestyle photo",
+    "mood": "playful, confident, relaxed, summery"
+  },
+  "right_subject": {
+    "position": "foreground right, larger and closer to camera",
+    "scale": "dominant subject occupying approximately 55-60 percent of visible image width",
+    "body_visibility": "head, shoulders, torso, abdomen, hips, and upper portion of high-waisted pants visible",
+    "pose": {
+      "orientation": "facing camera almost directly",
+      "head": "slightly tilted toward viewer's left",
+      "shoulders": "relaxed and open",
+      "torso": "front-facing with a slight natural rotation",
+      "right_arm": "mostly outside or along edge of frame",
+      "left_arm": "near center-left region, hand resting over the other woman's shoulder",
+      "posture": "upright and relaxed"
+    },
+    "face": {
+      "shape": "soft oval with defined cheekbones and tapered lower face",
+      "skin": {
+        "tone": "warm medium tan / golden beige",
+        "finish": "smooth, luminous, lightly sun-kissed",
+        "texture": "natural fine texture softened by smartphone processing",
+        "highlights": "warm highlights across forehead, cheeks, nose, and upper chest"
+      },
+      "expression": "subtle pout with lips gently pursed, calm confident expression",
+      "gaze": "directly toward camera",
+      "eyes": {
+        "visibility": "mostly obscured by sunglasses",
+        "makeup": "subtle polished eye makeup around exposed areas"
+      },
+      "brows": "dark, groomed, defined",
+      "nose": "straight, softly defined",
+      "lips": {
+        "shape": "full and defined",
+        "color": "muted pink-nude / soft mauve",
+        "finish": "satin to slightly glossy",
+        "expression": "slight kissy pout"
+      },
+      "cheeks": "softly bronzed with faint warm blush"
+    },
+    "hair": {
+      "color": "dark brown to nearly black",
+      "style": "sleek, tightly pulled-back hairstyle",
+      "length": "long but mostly gathered away from face",
+      "part": "clean center or slightly off-center part",
+      "finish": "smooth and glossy",
+      "texture": "fine smooth strands with subtle individual detail",
+      "silhouette": "close to scalp near crown and pulled toward back"
+    },
+    "eyewear": {
+      "type": "narrow futuristic wraparound sunglasses",
+      "frame": "dark metallic or glossy black",
+      "lens": "dark smoked brown-black reflective lenses",
+      "shape": "elongated angular cat-eye / shield hybrid",
+      "size": "medium width, relatively narrow vertical height",
+      "position": "low enough to clearly frame upper face but completely cover eyes",
+      "reflection": "subtle bright outdoor reflections visible on lenses",
+      "style": "fashion-forward early-2000s-inspired rectangular sunglasses"
+    },
+    "clothing": {
+      "top": {
+        "type": "fitted cropped athletic tank / sports-bra-style top",
+        "color": "very pale icy blue-white / cool lavender-white",
+        "neckline": "wide rounded scoop neckline",
+        "straps": "medium-width athletic straps",
+        "fit": "snug and body-contouring",
+        "length": "cropped just below bust",
+        "material": "stretch athletic fabric with fine ribbed texture",
+        "finish": "matte with subtle fabric highlights"
+      },
+      "bottom": {
+        "type": "high-waisted fitted leggings or yoga pants",
+        "color": "matching very pale blue-white / cool lavender-white",
+        "rise": "very high waist",
+        "fit": "close-fitting through waist and hips",
+        "surface": "smooth stretch fabric with subtle ribbed construction",
+        "waistband": "wide and supportive",
+        "silhouette": "clean fitted athletic line"
+      }
+    },
+    "jewelry": {
+      "earrings": {
+        "type": "large gold hoop earrings",
+        "shape": "rounded thick hoops",
+        "finish": "warm polished gold",
+        "visibility": "clearly visible on side closest to camera"
+      },
+      "necklace": {
+        "type": "very delicate short gold chain",
+        "pendant": "tiny minimalist pendant",
+        "placement": "low on upper chest"
+      }
+    },
+    "manicure": {
+      "hand": "the hand resting on the other woman's shoulder",
+      "nails": {
+        "length": "long",
+        "shape": "long almond / tapered stiletto-almond",
+        "color": "pale neutral pink or soft nude",
+        "finish": "high gloss",
+        "appearance": "well-manicured, elegant"
+      },
+      "rings": {
+        "quantity": "one or a few delicate rings",
+        "material": "silver or gold",
+        "style": "minimal"
+      }
+    }
+  },
+  "left_subject": {
+    "position": "behind and to the left of foreground woman",
+    "scale": "slightly smaller due to being farther from camera",
+    "body_visibility": "head, shoulders, torso, waist, shorts, and upper-to-mid thighs visible",
+    "pose": {
+      "orientation": "facing camera",
+      "head": "slightly tilted",
+      "shoulders": "relaxed",
+      "left_arm": "lower and partially cropped",
+      "right_arm": "near center/right with hand interacting visually with foreground woman",
+      "posture": "casual and slightly angled"
+    },
+    "face": {
+      "shape": "soft youthful oval",
+      "skin": {
+        "tone": "warm medium tan / golden beige",
+        "finish": "smooth and softly luminous",
+        "texture": "natural but subtly beauty-filtered"
+      },
+      "expression": "playful exaggerated kissy lips / duck-face pout",
+      "gaze": "toward camera",
+      "eyes": {
+        "visibility": "visible through tinted sunglasses",
+        "appearance": "dark eyes with subtle eye makeup"
+      },
+      "brows": "dark and defined",
+      "nose": "small and softly contoured",
+      "lips": {
+        "shape": "full and prominent",
+        "color": "muted rosy pink",
+        "finish": "soft satin",
+        "expression": "strong puckered kiss expression"
+      }
+    },
+    "hair": {
+      "color": "dark brown",
+      "style": "long, voluminous, loose hair",
+      "length": "past shoulders, extending down toward waist/hips",
+      "texture": "soft waves with natural body",
+      "part": "slightly off-center",
+      "appearance": "full, slightly tousled, glossy",
+      "face_framing": "multiple loose strands and thick sections frame cheeks and jaw",
+      "volume": "high around sides of head"
+    },
+    "eyewear": {
+      "type": "small narrow rectangular sunglasses",
+      "frame": "dark brown/black",
+      "lens": "warm brown smoked translucent lenses",
+      "shape": "slightly cat-eye / rectangular",
+      "position": "centered across eyes",
+      "style": "retro-futuristic narrow fashion sunglasses"
+    },
+    "clothing": {
+      "top": {
+        "type": "fitted cropped tank / sports-bra top",
+        "color": "soft pale blush pink",
+        "trim": "contrasting light cool-gray piping or trim around neckline and straps",
+        "neckline": "rounded scoop",
+        "fit": "tight and supportive",
+        "length": "cropped above waist",
+        "material": "stretch athletic fabric",
+        "finish": "matte with subtle rib texture"
+      },
+      "bottom": {
+        "type": "high-waisted fitted biker shorts",
+        "color": "matching pale blush pink",
+        "length": "mid-thigh",
+        "fit": "tight body-contouring silhouette",
+        "material": "smooth stretchy athletic fabric",
+        "waistband": "high and wide",
+        "wrinkles": "subtle natural fabric tension around hips and thighs"
+      }
+    },
+    "accessories": {
+      "watch_or_bracelet": {
+        "position": "left wrist",
+        "type": "chunky gold watch or stacked bracelet",
+        "finish": "polished gold",
+        "appearance": "bright metallic highlights"
+      },
+      "rings": {
+        "style": "minimal delicate rings",
+        "finish": "gold"
+      }
+    },
+    "drink": {
+      "type": "clear plastic cup of green beverage",
+      "position": "held in front of lower torso",
+      "beverage": "bright natural green smoothie, matcha, or pressed green drink",
+      "cup": {
+        "material": "transparent plastic",
+        "shape": "medium-to-large cylindrical takeaway cup",
+        "lid": "clear domed or flat plastic lid",
+        "condensation": "subtle moisture on exterior",
+        "color_detail": "green drink dominates interior"
+      },
+      "straw": {
+        "color": "white",
+        "type": "straight plastic straw",
+        "position": "rises diagonally upward from cup toward the upper-right",
+        "visibility": "clearly visible"
+      },
+      "grip": {
+        "hand": "left subject's hand wrapped naturally around the cup",
+        "fingers": "slender",
+        "nails": "long pale pink/nude glossy nails"
+      }
+    }
+  },
+  "interaction_between_subjects": {
+    "distance": "very close, shoulders and upper arms nearly touching",
+    "foreground_hand": "right subject's hand rests casually across or near left subject's shoulder",
+    "body_overlap": "right subject overlaps part of left subject's torso",
+    "social_context": "close friends posing together for a casual fashion/lifestyle selfie",
+    "pose_relationship": "coordinated but spontaneous"
+  },
+  "background": {
+    "vegetation": {
+      "description": "dense leafy hedge covering most of the upper and central background",
+      "colors": [
+        "deep forest green",
+        "medium natural green",
+        "olive green",
+        "muted sage green"
+      ],
+      "lighting": "mixed shade with small patches of warm sunlight",
+      "texture": "many overlapping small and medium leaves",
+      "depth": "moderate"
+    },
+    "architecture": {
+      "wall": "warm off-white or beige",
+      "vertical_pillar": "pale beige structural column at upper-left/center",
+      "roof_structure": "partial slatted pergola/awning visible upper-right",
+      "background_detail": "subtle and not distracting"
+    },
+    "ground": {
+      "material": "light gray stone/concrete",
+      "texture": "slightly rough",
+      "lighting": "softly illuminated"
+    }
+  },
+  "lighting": {
+    "source": "natural outdoor daylight",
+    "style": "bright but softened sunlight filtered through nearby foliage",
+    "direction": "front-right and slightly above camera",
+    "quality": "soft directional daylight with some dappled highlights",
+    "skin_rendering": "warm, luminous, flattering",
+    "hair_highlights": "subtle warm highlights on loose strands",
+    "clothing_highlights": "soft bright highlights on white/pale fabric",
+    "background": "slightly darker foliage creates separation around faces",
+    "shadows": "soft and realistic, no harsh flash shadows",
+    "color_temperature": "warm-neutral daylight"
+  },
+  "camera": {
+    "device": "modern smartphone front-facing camera",
+    "lens": "mildly wide selfie lens",
+    "focal_length_equivalent": "approximately 24-28mm",
+    "perspective": "close wide-angle portrait with slight natural edge stretching",
+    "orientation": "vertical",
+    "camera_position": "held above or around eye/chest height",
+    "distance": "arm's length or slightly longer selfie distance",
+    "focus": "both women's faces reasonably sharp, foreground subject slightly sharper",
+    "depth_of_field": "moderate, background softly softened but still recognizable",
+    "image_quality": "high-resolution smartphone photograph",
+    "processing": "subtle HDR, smooth skin processing, moderate clarity, natural colors",
+    "stabilization": "very stable handheld image",
+    "motion_blur": "minimal"
+  },
+  "composition": {
+    "foreground_subject": "large on right half of frame",
+    "background_subject": "slightly smaller on left half of frame",
+    "faces": {
+      "right_subject": "upper-right quadrant",
+      "left_subject": "upper-left quadrant",
+      "vertical_level": "faces approximately aligned but foreground woman's head slightly higher"
+    },
+    "bodies": {
+      "right_subject": "torso dominates lower-right",
+      "left_subject": "torso and shorts occupy lower-left"
+    },
+    "drink": "green cup anchors lower-middle-left region",
+    "hands": "one hand near center/top of left subject's shoulder, one hand around green drink",
+    "negative_space": "very little negative space due to tight selfie framing",
+    "visual_balance": "two faces and two contrasting pastel outfits form the main visual focus"
+  },
+  "clothing_materials": {
+    "right_outfit": {
+      "texture": "fine ribbed athletic knit",
+      "stretch": "smooth body-contouring stretch",
+      "surface": "matte satin"
+    },
+    "left_outfit": {
+      "texture": "fine athletic knit",
+      "stretch": "soft and fitted",
+      "surface": "matte with subtle sheen"
+    }
+  },
+  "color_grading": {
+    "overall": "warm, lightly pastel, natural social-media aesthetic",
+    "skin": "warm golden beige",
+    "whites": "slightly cool",
+    "pink": "soft blush pink",
+    "green": "rich natural leafy green",
+    "contrast": "moderate",
+    "saturation": "moderate",
+    "highlights": "slightly warm",
+    "shadows": "cooler muted greens and grays",
+    "black_levels": "natural, not crushed"
+  },
+  "beauty_processing": {
+    "strength": "moderate",
+    "skin_smoothing": "moderate-to-high",
+    "blemish_reduction": "moderate",
+    "eye_enhancement": "subtle",
+    "facial_shape_changes": "none or minimal",
+    "lip_definition": "subtle",
+    "overall": "polished smartphone/social-media beauty look while remaining photorealistic"
+  },
+  "micro_details": {
+    "skin": "subtle natural pores and tonal variation remain visible",
+    "hair": "fine individual strands visible around face and shoulders",
+    "sunglasses": "realistic reflections of sky/architecture",
+    "gold_jewelry": "tiny sharp specular highlights",
+    "nails": "glossy reflections and realistic curvature",
+    "athletic_fabric": "fine rib texture and realistic tension folds",
+    "drink": "transparent reflections, green liquid depth, slight condensation",
+    "leaves": "individual leaf shapes and overlapping shadows",
+    "background_structure": "subtle architectural edges and texture"
+  },
+  "photographic_character": {
+    "genre": "luxury casual lifestyle / fashion influencer selfie",
+    "realism": "extreme photorealism",
+    "camera_feel": "authentic smartphone capture",
+    "retouching": "light-to-moderate",
+    "avoid": "studio editorial appearance",
+    "desired_result": "looks like an actual spontaneous photograph taken outdoors by one of the subjects"
+  },
+  "negative_prompt": [
+    "text",
+    "captions",
+    "subtitles",
+    "watermarks",
+    "logos",
+    "social media UI",
+    "buttons",
+    "play icons",
+    "pause icons",
+    "progress bar",
+    "timestamps",
+    "interface elements",
+    "screen overlays",
+    "extra people",
+    "third person",
+    "different number of subjects",
+    "child",
+    "teenager",
+    "different pose",
+    "different camera angle",
+    "wide landscape composition",
+    "cropped heads",
+    "cropped faces",
+    "missing hands",
+    "extra hands",
+    "extra fingers",
+    "deformed fingers",
+    "anatomical distortion",
+    "duplicate limbs",
+    "unnatural body proportions",
+    "different hairstyles",
+    "short hair on left subject",
+    "loose hair on right subject",
+    "missing sunglasses",
+    "oversized sunglasses",
+    "round sunglasses",
+    "clear sunglasses",
+    "different clothing colors",
+    "dark clothing",
+    "long sleeves",
+    "jackets",
+    "coats",
+    "jeans",
+    "skirts",
+    "different drink",
+    "no drink",
+    "cup without straw",
+    "metal cup",
+    "glass wine goblet",
+    "busy city background",
+    "indoor environment",
+    "night scene",
+    "studio backdrop",
+    "flash photography",
+    "dramatic cinematic lighting",
+    "extreme bokeh",
+    "fisheye distortion",
+    "cartoon",
+    "anime",
+    "illustration",
+    "3D render",
+    "CGI",
+    "plastic skin",
+    "uncanny faces",
+    "over-smoothed skin",
+    "excessive HDR",
+    "oversaturated colors",
+    "unrealistic reflections"
+  ],
+  "final_generation_instruction": "Generate one highly photorealistic vertical smartphone selfie that matches the reference composition as closely as possible. Two adult women stand very close together outdoors against a dense leafy green hedge and pale architectural background. The foreground woman on the right is closer to the camera, wearing a pale icy blue-white fitted cropped athletic top and matching high-waisted leggings, narrow dark wraparound sunglasses, large gold hoop earrings, and delicate gold jewelry. Her hair is sleek and pulled back, her lips are gently pursed, and her right-side presence dominates the frame. Her manicured hand rests casually on the other woman's shoulder. The woman on the left stands slightly behind, wearing a pale blush-pink cropped athletic tank with cool-gray trim and matching high-waisted biker shorts, narrow brown-tinted rectangular sunglasses, and long loose dark wavy hair. She holds a clear cup containing a vivid green drink with a white straw. Both have long glossy almond-shaped manicures and warm naturally bronzed skin. Preserve the intimate selfie perspective, natural daylight, realistic skin, subtle beauty processing, leafy background, pale athletic fabrics, jewelry reflections, and casual social-media lifestyle aesthetic. Remove and ignore all text, buttons, UI elements, timestamps, watermarks, and interface graphics."
+}
+```
+
+<sub>(by [@jasonugc](https://x.com/jasonugc/status/2101372937353965940)) · [Source: X](https://x.com/jasonugc/status/2101372937353965940)</sub>
+
+<a id="p80-sepia-reference-portraits"></a>
+
+### 📌 1.29. Sepia Reference Portraits
+
+#### 👀 Preview
+
+[<img src="assets/p80-sepia-reference-portraits/source-example-01.jpg" width="400" height="400" alt="Sepia Reference Portraits — source example 1">](assets/p80-sepia-reference-portraits/source-example-01.jpg)
+
+[<img src="assets/p80-sepia-reference-portraits/source-example-02.jpg" width="400" height="400" alt="Sepia Reference Portraits — source example 2">](assets/p80-sepia-reference-portraits/source-example-02.jpg)
+
+[<img src="assets/p80-sepia-reference-portraits/source-example-03.jpg" width="400" height="400" alt="Sepia Reference Portraits — source example 3">](assets/p80-sepia-reference-portraits/source-example-03.jpg)
+
+[<img src="assets/p80-sepia-reference-portraits/source-example-04.jpg" width="400" height="400" alt="Sepia Reference Portraits — source example 4">](assets/p80-sepia-reference-portraits/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`Person reference → sepia portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Sepia portrait of the person in the attached reference image, preserving their facial features, identity, hairstyle, skin tone, and proportions. Classic warm brown sepia tones, soft directional lighting, subtle film grain, rich shadows, timeless vintage photography aesthetic, natural skin texture, elegant composition, shallow depth of field, highly detailed, photorealistic, cinematic, sharp focus
+```
+
+<sub>(by [@shushant_l](https://x.com/shushant_l/status/2101567556268310657)) · [Source: X](https://x.com/shushant_l/status/2101567556268310657)</sub>
+
+<a id="p81-playful-plaza-finger-point-portrait"></a>
+
+### 📌 1.30. Playful Plaza Finger Point Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p81-playful-plaza-finger-point-portrait/source-example-01.jpg" width="225" height="400" alt="Playful Plaza Finger Point Portrait — source example 1">](assets/p81-playful-plaza-finger-point-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → playful plaza street portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A cinematic candid 35mm street photograph captured on location — an engaging medium hero composition of an exceptionally attractive 20-year-old East Asian collegiate woman on a sunlit urban plaza, the camera positioned straight-on at chest level capturing her breathtaking youthful beauty and playful charm as she points her right index finger teasingly directly toward the camera lens in an M1 cinematic narrative register.
+
+The woman is a strikingly gorgeous 20-year-old young adult with refined, sweet East Asian facial features, soft radiant cheeks with a delicate peach flush, and large, captivating dark almond eyes gazing directly into the lens. Her soft, plump rose-tinted lips are pressed into an adorable, subtle micro-pout with her upper lip slightly puckered in a sweet, endearing expression of playful feigned annoyance. She has silky, shoulder-length dark espresso hair with neat, airy straight-across fringe bangs framing her lovely face, adorned with a miniature white hairpin above her left ear, with soft strands catching the warm afternoon light. She possesses a remarkably curvaceous, feminine hourglass figure with a prominent, full bust and a tiny, slender waistline. She wears a snug, form-fitting tight white stretch-cotton baby tee that hugs her voluptuous bustline and narrow waist neatly, featuring a distinct cartoon black handlebar mustache print centered across her chest. A tan leather crossbody bag strap stretches diagonally across her torso, naturally accentuating her striking feminine contours. Her shirt is neatly tucked into high-waisted, fitted washed-gray denim suspender shorts that sit snugly at her waist, styled with slender denim suspenders over her shoulders. Her right arm extends directly toward the camera with her index finger pointing at the lens in dramatic optical foreshortening, while her left hand rests confidently on her hip, showing a slender silver clover bracelet on her wrist.
+
+The setting is a modern outdoor architectural entrance on a bright afternoon — a massive circular beige granite pillar rises directly beside her, with smooth stone pavement beneath her feet and outdoor steps leading up to landscaped green shrubs in the softly blurred background, providing an authentic urban campus/city setting.
+
+The lighting is governed by clean, warm natural afternoon sunlight — a bright directional sunlight source from above and camera-right casts brilliant golden rim light and luminous highlights along the top of her dark hair and shoulders, while clear ambient daylight fills her face and white shirt smoothly with balanced, flattering illumination, beautifully highlighting her feminine curves and enchanting facial expression.
+
+Captured with a wide-latitude digital cinema look on a fast 35mm wide-angle prime lens at wide aperture T2.0, rendering crisp focus across her eyes, fringe bangs, subtle pout, and fitted t-shirt, while naturally softening the reaching foreground index finger and blurring the background architecture into smooth circular bokeh. Daylight film emulation with warm, luminous skin tones, crisp clean whites, and deep rich blacks in the mustache print and denim, finished with fine, organic 35mm theatrical film grain across the frame. Real photographic frame captured on a real cinema camera, real wide-angle lens, real tight fitted cotton tee, real denim fabric, real leather strap, real gorgeous 20-year-old East Asian woman, real sunlit urban plaza — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no child features, no exaggerated distorted pout, no glow, no halation bloom that reads as artificial, no glossy highlights.
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2101552625669833159)) · [Source: X](https://x.com/johnAGI168/status/2101552625669833159)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -1406,6 +2608,26 @@ One oversized russet potato reclines in a tiny upholstered armchair, with its na
 
 <sub>(by [@unrealpixels](https://x.com/unrealpixels/status/2100662656835420370)) · [Source: X](https://x.com/unrealpixels/status/2100662656835420370)</sub>
 
+<a id="p83-cinema-pets-with-3d-glasses"></a>
+
+### 📌 2.12. Cinema Pets with 3D Glasses
+
+#### 👀 Preview
+
+[<img src="assets/p83-cinema-pets-with-3d-glasses/source-example-01.webp" width="400" height="400" alt="Cinema Pets with 3D Glasses — source example 1">](assets/p83-cinema-pets-with-3d-glasses/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Text → nostalgic cinema pets photo`
+
+#### 🔖 Full Prompt
+
+```text
+A West Highland White Terrier and a white-and-black cat sitting side by side in a dark movie theater, both wearing vintage blue cardboard 3D glasses, each holding a full bucket of buttered popcorn (warm orange bucket for the dog, teal bucket for the cat), deep blue velvet cinema seats filling the foreground and background rows, low-key screen light hitting their faces from the front-left, shallow depth of field, 1970s film photograph aesthetic, faded Kodak color, heavy grain and dust speckles, slightly soft focus, square 1:1 crop, centered symmetrical composition with both animals looking off-screen toward the screen, nostalgic and quietly humorous mood. Negative: modern digital sharpness, HDR, cartoon style, human hands, text, watermark, distorted eyes.
+```
+
+<sub>[Source: Clico](https://tryclico.com/gallery/double-feature)</sub>
+
 ## 🛍️ Products & Branding
 
 <a id="p31-virtual-outfit-replacement"></a>
@@ -1685,6 +2907,42 @@ Unstaged dashcam grab — physically grounded trucks, readable brands, the leak 
 ```
 
 <sub>(by [@ECLIPSEINTEL001](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)) · [Source: X](https://x.com/ECLIPSEINTEL001/status/2100730298543550674)</sub>
+
+<a id="p75-loreva-coastal-fragrance-ad"></a>
+
+### 📌 3.11. Loreva Coastal Fragrance Ad
+
+#### 👀 Preview
+
+[<img src="assets/p75-loreva-coastal-fragrance-ad/source-example-01.jpg" width="400" height="300" alt="Loreva Coastal Fragrance Ad — source example 1">](assets/p75-loreva-coastal-fragrance-ad/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Composition reference + text → coastal fragrance campaign`
+
+#### 🔖 Full Prompt
+
+```text
+Create a museum-grade fragrance advertising hero image for a fictional couture perfume house named LORÉVA, designed as a single elevated editorial composition where a real perfume bottle and its packaging become the center of a poetic landscape installation. Preserve the structural intelligence of the reference as pure design logic: one centered rectangular glass perfume bottle in the foreground, one slightly taller packaging box behind it, a sculptural mineral pedestal beneath, and a softly dissolved destination-world unfolding behind and partly through the product. The final image must be more artistic, more restrained, and more luxurious than a conventional fragrance ad, reading like a collectible gallery poster and a high-fashion website hero at the same time.
+
+The product is the absolute hero. The bottle must be photoreal and exquisitely rendered: thick transparent glass walls, elegant proportions, pale luminous fragrance liquid, subtle refraction and reflection, crisp shoulder edges, a warm natural wood cap with visible grain, and a clean label with refined typography. The packaging box behind it must feel like a premium paper object with tactile matte texture and softly weathered printed artwork, extending the same atmospheric landscape language as if the scent’s world lives inside the packaging. The bottle must dominate through clarity, stillness, and material precision, while the box functions as a quiet architectural support.
+
+The concept is that scent contains a place, but the place is rendered as memory rather than illustration. Build a pale, cultured, painterly-photoreal Mediterranean landscape rising behind and around the product: faded coastal mountains, distant shoreline, cypress silhouettes, softened stone villages, mineral air, and restrained botanical traces. This world should feel washed in time, almost like a restored fresco or hand-tinted landscape memory, not a literal travel postcard. The environmental imagery should dissolve gently into the pale background and partially into the box surface, creating an impression that perfume is a vessel for atmosphere, distance, and silence.
+
+At the base, build a sculpted still-life pedestal using pale rock, moss, weathered stone, muted dried stems, one or two softly toned flowers, and delicate translucent petals. These elements must feel curated and minimal, never crowded. The still-life should support the bottle like a fragrance altar rather than decorative styling. Reduce any unnecessary prop abundance and let emptiness play an active role in the composition.
+
+Color hierarchy: 60% parchment ivory, limestone beige, chalk white, and pale mineral paper tones; 20% moss green, cypress green, dry olive, and soft botanical grey-green; 15% muted wine, dusty plum, faded sienna, and floral burgundy accents; 5% clear glass highlights and crisp dark typography. Lighting is soft and intelligent: diffused daylight from the front-left, refined shadow pooling under the glass, subtle highlight lines along bottle edges, a quiet glow through the liquid, and atmospheric depth in the landscape field. Keep contrast low but sophisticated, with volume and separation achieved through material response rather than harsh dramatic lighting.
+
+Typography must be colder, fewer, and more elevated. Place the brand name "LORÉVA" at the top center in a refined high-contrast serif with generous breathing room. On the left open space, place only one statement line in elegant serif capitals: "WE DISTILL DISTANCE." Add one very small supporting line beneath it, brief and intelligent, about scent, memory, and place. Keep all other interface text minimal or nearly absent. Typography should feel like part of a luxury exhibition layout, not a commercial web banner, and must never compete with the bottle.
+
+Material semantics must be explicit and exquisite: thick glass refraction, matte paper carton fibers, natural wood grain, soft stone powder, translucent petal veins, restrained floral depth, and atmospheric landscape pigment softness. The fusion between object and world must feel seamless, as if the fragrance has condensed an entire geography into one vessel. Every element should feel intentional, rarefied, and calm.
+
+Rendering target: photoreal luxury perfume campaign, fine-art still-life precision, editorial sophistication, high-end print finish, product-dominant hierarchy, restrained visual poetry, elegant negative space, and international gallery-level aesthetic.
+
+Structured exclusion constraints: no real fragrance brand names, no copied text, no cluttered florals, no excessive decorative crystals, no distorted bottle geometry, no warped label, no unreadable typography, no random letters, no muddy color, no dirty haze, no busy prop styling, no style drift, no cheap beauty-commerce look, no AI artifacts.
+```
+
+<sub>(by [@ou_zhen599](https://x.com/ou_zhen599/status/2101557541318910089)) · [Source: X](https://x.com/ou_zhen599/status/2101557541318910089)</sub>
 
 ## 🎨 Posters & Artistic Styles
 
@@ -2408,6 +3666,102 @@ The slice sits fully intact with clear transparent margin on every side; the tra
 ```
 
 <sub>(by [@rafael_nascimento](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)) · [Source: Alosem](https://alosem.com/i/pressed-flower-wren-on-twig-slice-4712aff7)</sub>
+
+<a id="p74-colossal-squid-harbor-poster"></a>
+
+### 📌 4.20. Colossal Squid Harbor Poster
+
+#### 👀 Preview
+
+[<img src="assets/p74-colossal-squid-harbor-poster/source-example-01.jpg" width="400" height="400" alt="Colossal Squid Harbor Poster — source example 1">](assets/p74-colossal-squid-harbor-poster/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Composition reference + text → illustrated squid harbor poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium illustrated seafood advertising poster for a fictional coastal gourmet brand named TIDEKRAKEN, refined into a more elevated, more luxurious Orbit-plus-Transit direction. Design it as a single vertically composed commercial poster where a colossal fresh squid is the absolute hero ingredient, dominating the frame with sculptural elegance, while a curated micro-world of harbor life unfolds across its body, tentacles, docks, and surrounding water. Preserve the core structural brilliance of the reference as visual logic only: a monumental central squid, a seated adult female mascot on top, a bold title area in the upper-left, and richly layered miniature scenes distributed with disciplined rhythm around the product. The result must feel less like a cute festival cartoon and more like a globally awarded illustrated gourmet campaign: sophisticated, collectible, witty, and highly art-directed.
+
+The squid is the central product icon and must feel irresistibly premium. Render it in a refined editorial illustration style with exquisite marine texture: warm coral-peach flesh, subtle paprika speckling, moist surface highlights, fleshy tentacle weight, elegant suction cup structure, clean natural anatomy, and a grand sculptural silhouette that reads instantly from afar. It is not grotesque, not comic-horror, and not chaotic; it is a majestic ingredient transformed into a monumental gourmet landscape. Every micro-scene on and around the squid must reinforce its desirability as the star ingredient.
+
+The world built around the squid should be more curated and selective than before. Miniature harbor scenes still exist, but with stronger hierarchy and more breathing room: a few refined dock platforms, elegant seafood grilling stations, tasting tables, small fishing boats, hanging catch lines, and tiny market figures arranged with intentional spacing. Reduce low-value noise. Let the finest scenes feel like editorial vignettes rather than random crowd clutter. The lower tentacles should create graceful sweeping arcs that guide the eye through the poster like calligraphic strokes, supporting premium flow and graphic rhythm.
+
+At the top of the squid sits an adult woman illustrated in a polished coastal editorial style, calm and inviting rather than overly playful. She wears a refined workwear-inspired outfit: headscarf, rolled sleeves, apron elements, relaxed trousers, and warm-toned footwear, all simplified into elegant shape language. She holds a squid skewer as a symbolic product cue. Her figure must be clearly adult, proportionally correct for an illustration, with balanced shoulders, natural seated weight, readable hands, five fingers when visible, and a poised posture. She acts as a brand ambassador, but she must remain secondary to the squid.
+
+The environment should feel like a high-end harbor-food universe rather than a noisy fairground. Use pale open background space in the upper field to preserve poster sophistication. Around the lower half, integrate selective sea zones, weathered fishing boats, quiet gulls, rope textures, floating platforms, and a few smoke plumes from grills. Keep the micro-scenery rich but elegant, with better visual editing and more negative space than a dense children’s illustration. Think gourmet seasonal poster, not comic chaos.
+
+Color hierarchy: 50% warm squid coral, shell pink, sea-salt peach, and grilled paprika tones; 20% marine blue, harbor teal, and muted weathered navy; 20% parchment white, mineral cream, and sun-faded neutral space; 10% charcoal ink linework, muted rust details, and typography. Use crisp linework, subtle gouache-watercolor fill behavior, restrained texture, and premium print clarity. The rendering should feel handcrafted and intelligent, with clean contour discipline and refined color separation. Make the palette slightly dustier, more elegant, and more internationally editorial.
+
+Typography must be bolder in authority but more sophisticated in finish. In the upper-left, create a large custom black brush-lettered title block with stronger luxury poster rhythm, such as "SQUID SOCIETY" or "THE SQUID TABLE", stacked with dynamic but controlled shape energy. Beneath it, place only one short supporting line, minimal and sharp, such as "Season arrives in salt and fire." Reduce all other slogan text. Use only a few tiny designed signs inside the miniature market world, and keep them sparse, clean, and intentional. Typography must feel like part of the poster’s graphic composition, not scattered novelty signage.
+
+Material and food cues must be luxurious and appetizing: glossy grilled glaze, charred edges on skewers, weathered dock wood, moist sea reflections, rope fibers, painted boats, smoke ribbons from seafood grills, clean market crates, and elegant plating details. The squid must remain fresh, premium, and desirable at every scale. The entire poster should feel like a Cannes-winning gourmet campaign that turns one iconic ingredient into a complete seasonal universe.
+
+Output goal: one finished illustrated poster, premium commercial quality, product-dominant hierarchy, refined micro-storytelling, controlled negative space, elegant coastal energy, strong silhouette readability, bold collectible title design, and world-class poster finish.
+
+Exclusion and quality constraints: no horror squid, no gore, no rotten seafood, no muddy textures, no low-end cartoon look, no chaotic crowd clutter, no deformed tentacles, no broken suction cups, no anatomy collapse, no childlike mascot proportions, no malformed hands, no extra fingers, no missing fingers, no fused fingers, no unreadable text, no random letters, no cheap festival flyer aesthetic, no style drift, no AI slop, no real brand names, no real person names.
+```
+
+<sub>(by [@ou_zhen599](https://x.com/ou_zhen599/status/2101586769250783463)) · [Source: X](https://x.com/ou_zhen599/status/2101586769250783463)</sub>
+
+<a id="p76-avelora-coastal-bridge-car-poster"></a>
+
+### 📌 4.21. Avelora Coastal Bridge Car Poster
+
+#### 👀 Preview
+
+[<img src="assets/p76-avelora-coastal-bridge-car-poster/source-example-01.jpg" width="300" height="400" alt="Avelora Coastal Bridge Car Poster — source example 1">](assets/p76-avelora-coastal-bridge-car-poster/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Composition reference + text → aerial car poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium automotive art-poster campaign for a fictional luxury grand touring brand named AVELORA, designed as a single vertical aerial composition with a monumental top-down perspective. Preserve the structural intelligence of the reference as pure visual architecture: a vast field of luminous coastal water on the left, a sun-scorched earthmass on the right, and a severe linear bridge running vertically near the right side of frame. The real hero product is a graphite metallic grand touring sedan traveling along the bridge, visually small yet compositionally dominant through placement, contrast, and the disciplined emptiness around it. The final image must feel more artistic, more elevated, and more like a museum-grade international advertising poster than a conventional car campaign.
+
+The concept is that motion has carved a silent score into the landscape. The sea, coastline, agricultural geometry, shoreline curvature, wake lines, and land traces must imply rhythm, resonance, and orchestral order without becoming illustrative or literal. The image should feel like geography composed into music. The bridge reads like a single decisive line across a living canvas, and the car reads like the only note that matters.
+
+On the left, the sea must be deep, mineral, and painterly in a photoreal way: saturated but elegant Mediterranean blue, teal depth shifts, pale wave edges, and elongated white wake trails from a few distant boats that feel like gestural strokes across the surface. On the right, the land must be dry, textural, and sculptural: terracotta fields, oxidized ochre soil, dusty umber, pale sand pockets, and one subtle spiral or calligraphic land trace embedded into the terrain as if the earth itself remembers movement. The coastline should feel naturally cut, irregular, and beautiful, with white shore foam and believable erosion lines. Every macro-shape must feel designed, but never artificial.
+
+The car is a real premium sedan, highly photoreal and precisely engineered: low and elegant body line, dark panoramic roof glass, subtle metallic reflections, crisp window trim, refined wheel design, realistic tire contact, and a calm sense of speed rather than aggressive motion blur. The vehicle must remain legible despite its scale, through controlled road contrast, precise shadow, and exact positioning on the bridge. The bridge surface is immaculate dark asphalt with thin pale lane markings, engineered edges, and minimal structural interruption, rendered as a pure modernist line slicing through sea and land.
+
+Color hierarchy: 55% luminous deep blue and teal water, 25% warm copper, rust, terracotta, and mineral earth, 10% charcoal bridge and graphite car, 10% soft white wake lines and typography. Lighting is high aerial daylight but refined into fine-art tonality: crisp coastal sun, sculpted texture in water and soil, exact white foam edges, very subtle atmospheric diffusion, and strong micro-contrast without harsh over-sharpening. The image must feel clean, expensive, breathable, and globally premium.
+
+Typography must be fewer, colder, and more refined than before. Use only two text elements total. In the upper-left open water area, place one elegant headline: "Composed for Distance." Set in a modern refined sans-serif or restrained high-fashion serif-sans blend, bright white, carefully kerned, with quiet authority. In the upper-right, use a minimal brand block only: "AVELORA". No extra descriptors, no website, no explanatory copy, no information clutter. The typography should feel like a gallery-grade editorial intervention, suspended in the negative space, never competing with the landscape or the car.
+
+Material semantics must be explicit and elevated: mineral-rich water depth, chalky coastline, dry agricultural soil, engineered asphalt, metallic automotive paint, reflective glass, subtle undercar shadow, and fine aerial photographic texture. The entire composition must read as a product-led luxury campaign where the car transforms the landscape into an emotional instrument of movement.
+
+Rendering target: photoreal luxury automotive campaign, aerial fine-art realism, conceptually intelligent composition, premium editorial poster finish, clean negative space, restrained typography, world-class print quality, and seamless harmony between engineering, terrain, and visual poetry.
+
+Structured exclusion constraints: no real car brands, no copied slogans, no garbled typography, no unreadable text, no extra vehicles cluttering the bridge, no low-resolution car, no distorted coastline, no cartoon music symbols, no warped bridge geometry, no muddy water, no dirty haze, no cheap tourism poster look, no oversaturated travel aesthetic, no style drift, no AI artifacts, no duplicate boats, no visual clutter.
+```
+
+<sub>(by [@ou_zhen599](https://x.com/ou_zhen599/status/2101556753762586720)) · [Source: X](https://x.com/ou_zhen599/status/2101556753762586720)</sub>
+
+<a id="p82-culinary-vapor-monument-poster"></a>
+
+### 📌 4.22. Culinary Vapor Monument Poster
+
+#### 👀 Preview
+
+[<img src="assets/p82-culinary-vapor-monument-poster/source-example-01.jpg" width="268" height="400" alt="Culinary Vapor Monument Poster — source example 1">](assets/p82-culinary-vapor-monument-poster/source-example-01.jpg)
+
+[<img src="assets/p82-culinary-vapor-monument-poster/source-example-02.jpg" width="268" height="400" alt="Culinary Vapor Monument Poster — source example 2">](assets/p82-culinary-vapor-monument-poster/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Dish variables → culinary vapor poster`
+
+#### 🔖 Full Prompt
+
+```text
+Vertical culinary monument poster. A single [DISH] is plated on [SURFACE] and centered under a tall rising column of [VAPOR] that becomes the main graphic structure of the image. The vapor is architectural: stacked translucent planes, not fluffy cartoon steam. [HUMAN] appears only as hands and forearms entering from [ENTRY], wearing [SLEEVES], performing [ACTION]. Background is a flattened [KITCHEN PLANE] with one useful object: [UTENSIL]. Palette: [PALETTE]. Oversized numeral “[NUMBER]” behind the vapor. Dish name “[DISH NAME]” in tight condensed type at the foot. Heat, measure, stillness. 4:5
+```
+
+<sub>(by [@miratechtool](https://x.com/miratechtool/status/2101560392589758614)) · [Source: X](https://x.com/miratechtool/status/2101560392589758614)</sub>
 
 ## 🏡 Home & Interior Design
 

@@ -75,6 +75,16 @@ P64–P73 收录十条提示词和十张保持原始字节的来源图片：五�
 
 P64 和 P65 需要上传人物身份参考图，但原始输入文件未提供。P68 用于重建视频参考画面，但未提供其干净的原始参考截图。因此这些示例展示原帖结果，不构成完整可复现素材包。P67 的来源提示词与图片含 Coca-Cola 和 Mentos 品牌元素，相关商标归各权利人所有。所链接的 X 和 Reddit 原帖未确立普遍的复用许可；Alosem 页面展示其自身的使用条款，再分发前须按具体来源页核实适用条款。
 
+## September 20, 2026 Additions / 2026 年 9 月 20 日新增
+
+P74–P83 contain ten public source prompts and fourteen unchanged source example images: nine X post cases and one Clico gallery case. Each X case links to its individual post; the Clico case links to its individual gallery item. X handles are credited as displayed by the source. Clico is recorded as the collection publisher; the original prompt author is unconfirmed. The source or gallery claims GPT Image 2.5, but SeeAPI has not independently verified generation logs, settings, or a matching rerun. The examples were selected by visual comparison with the published prompts; they are not SeeAPI-generated results.
+
+P74–P76 describe reference-guided composition, but their underlying composition references were not supplied. P79 needs the original two-person reference photo, and P80 needs the person reference image; neither input was supplied. P82 is a short template: the values used to produce its two example posters were not disclosed. These six entries show source examples without a complete reproduction package. The Clico case has no visible original publication date and was found in an expanded time range, rather than the initial 24-hour search. Public links, media hashes and prompt text are recorded per entry in `catalog.json`. No case-specific redistribution permission was established for these third-party examples; follow the linked source's terms or seek the rights holder's permission before reusing them.
+
+P74–P83 收录十条公开来源提示词和十四张未改动的来源示例图：九条来自 X 原帖，一条来自 Clico 的具体画廊案例页。X 作者名按来源显示署名；Clico 仅记录为聚合页发布者，原提示词作者尚未确认。GPT Image 2.5 的模型归属仅为原帖或画廊声明；SeeAPI 未独立核验生成记录、参数，也未用这些提示词复现相同图片。示例图经过与公开提示词的目视比对，并非 SeeAPI 生成结果。
+
+P74–P76 描述了以参考图引导构图，但未提供其原始构图参考图。P79 需要原始双人参考照片，P80 需要人物参考图；这两项输入也未提供。P82 是短模板，来源没有公开两张示例海报使用的变量填充值。因此这六条仅展示来源示例，尚不构成完整的复现素材包。Clico 案例未显示原始发布日期，属于扩展时间范围发现的旧案例，并非最初 24 小时内发现。每条案例的公开链接、媒体哈希和提示词文本见 `catalog.json`。这些第三方示例未确认单独的再分发许可；复用前应遵循来源条款或向权利人取得许可。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

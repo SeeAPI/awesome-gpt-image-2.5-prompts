@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-20
+
+- Published P74–P83 from the approved Feishu review batch: ten source prompts and fourteen unchanged example images from nine X posts and one Clico gallery item, with complete English/Simplified Chinese pages. Recorded source-only model claims, missing reference inputs or template values, unconfirmed Clico authorship and third-party reuse limits.
+- 从已通过审核的飞书批次发布 P74–P83：收录九条 X 原帖及一条 Clico 画廊案例的十条提示词、十四张未改动的示例图，并同步完整中英文页面；记录仅由来源声明的模型归属、缺失的参考输入或模板变量、尚未确认的 Clico 原作者及第三方素材复用限制。
+
 ## 2026-09-18
 
 - Published P64–P73 from the approved Feishu review batch: ten collected prompts and ten unchanged source images from X, Reddit, and Alosem, with complete English/Simplified Chinese pages. Documented unavailable reference inputs, source-only model claims, and third-party marks.

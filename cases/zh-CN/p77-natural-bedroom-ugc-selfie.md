@@ -1,0 +1,101 @@
+# P77. 自然卧室 UGC 自拍
+
+[English](../p77-natural-bedroom-ugc-selfie.md) | [简体中文](p77-natural-bedroom-ugc-selfie.md)
+
+## 👀 预览
+
+[<img src="../../assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg" width="300" height="400" alt="自然卧室 UGC 自拍——来源示例 1">](../../assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg)
+
+## 👇 工作流
+
+`文字 → 自然卧室 UGC 自拍`
+
+## 🔖 完整提示词
+
+```text
+{
+  "prompt_type": "photorealistic_female_ugc",
+  "subject": {
+    "person": "20 多岁的白人成年女性",
+    "appearance": "天生有吸引力、有亲和力且平易近人",
+    "expression": "真实、自发、自然",
+    "body_language": "放松且不摆姿势",
+    "skin": "真实的白皙至浅色皮肤，毛孔可见，纹理自然，有细微的瑕疵"
+  },
+  "scene": {
+    "environment": "现实的日常场景",
+    "background": "具有自然细节和微妙缺陷的居住环境",
+    "atmosphere": "休闲、个性、不做作"
+  },
+  "clothing": {
+    "style": "休闲日常服装",
+    "appearance": "现代、舒适、有亲和力",
+    "texture": "逼真的织物褶皱和皱纹",
+    "branding": "没有可见的徽标或可识别的品牌"
+  },
+  "hair": {
+    "style": "自然现代的发型",
+    "texture": "真实的单根发丝",
+    "appearance": "稍有不完美，排列自然"
+  },
+  "camera": {
+    "device": "现代智能手机",
+    "perspective": "自然智能手机视角",
+    "framing": "中景特写或中景",
+    "composition": "手持取景略有缺陷",
+    "focus": "自然智能手机自动对焦",
+    "image_quality": "高分辨率智能手机摄影",
+    "lens": "自然智能手机广角镜头"
+  },
+  "lighting": {
+    "source": "自然可用光",
+    "quality": "柔软而真实",
+    "shadows": "自然定向阴影",
+    "avoid": [
+      "演播室灯光",
+      "专业美容灯光",
+      "戏剧性的电影灯光"
+    ]
+  },
+  "ugc_characteristics": {
+    "authenticity": "极高",
+    "style": "原始、随意、自发且相关",
+    "camera_feel": "手持智能手机捕捉",
+    "commercial_feel": "最小的",
+    "social_media_feel": "原生于 TikTok 和 Instagram",
+    "imperfections": "取景、灯光和环境中微妙的自然缺陷"
+  },
+  "realism": {
+    "skin": "逼真的",
+    "anatomy": "准确的人体解剖学",
+    "hands": "现实的手和手指"
+  },
+  "negative_prompt": [
+    "产品",
+    "产品包装",
+    "标志",
+    "品牌名称",
+    "广告",
+    "商业摄影",
+    "工作室摄影",
+    "时尚社论",
+    "CGI",
+    "3D渲染",
+    "卡通片",
+    "日本动画片",
+    "塑料皮",
+    "蜡质皮肤",
+    "不切实际的解剖学",
+    "额外的手指",
+    "变形的手",
+    "文本",
+    "字幕",
+    "水印",
+    "图形",
+    "人工摆姿势"
+  ],
+  "final_generation_instruction": "生成一张逼真的 UGC 风格的白人成年女性图像，看起来就像 TikTok 或 Instagram 上真实的智能手机截图。让她感觉自己是一个真正的创造者，而不是一个模特。优先考虑自然的面部表情、真实的皮肤纹理、可信的解剖结构、休闲服装、自然光线、不完美的手持取景和居住环境。最终的图像应该感觉自然、亲切，像真实的社交媒体内容。请勿包含任何产品、品牌、徽标、广告图形或商业元素。"
+}
+```
+
+<sub>(by [@Daniloecom](https://x.com/Daniloecom/status/2101403775164674440)) · [来源平台： X](https://x.com/Daniloecom/status/2101403775164674440)</sub>

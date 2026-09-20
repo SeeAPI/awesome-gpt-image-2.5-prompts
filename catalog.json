@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-20",
   "entries": [
     {
       "id": "C01",
@@ -3665,6 +3665,514 @@
       "updated": "2026-09-18",
       "readme_anchor": "p73-pressed-flower-wren-cutout",
       "display_number": "4.19"
+    },
+    {
+      "id": "P74",
+      "title": "Colossal Squid Harbor Poster",
+      "title_zh": "巨型鱿鱼港湾海报",
+      "slug": "p74-colossal-squid-harbor-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@ou_zhen599",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ou_zhen599/status/2101586769250783463",
+        "publisher": "@ou_zhen599",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101586769250783463",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p74-colossal-squid-harbor-poster.md",
+      "prompts": [
+        "prompts/p74-colossal-squid-harbor-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p74-colossal-squid-harbor-poster/image-prompt.txt": "prompts/p74-colossal-squid-harbor-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p74-colossal-squid-harbor-poster/image-prompt.txt": "026dd9b38159a9c4981d9b844549970a9e176f9d31bdbb8b9f847de80639adac"
+      },
+      "preview": "assets/p74-colossal-squid-harbor-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p74-colossal-squid-harbor-poster/source-example-01.jpg",
+          "sha256": "86cf83b54de082059cc25285f9bf767824e2f3a8515acaf27231226a1d96936a",
+          "width": 2097,
+          "height": 2097,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p74-colossal-squid-harbor-poster",
+      "display_number": "4.20"
+    },
+    {
+      "id": "P75",
+      "title": "Loreva Coastal Fragrance Ad",
+      "title_zh": "LORÉVA 海岸香水广告",
+      "slug": "p75-loreva-coastal-fragrance-ad",
+      "categories": [
+        "Products & Branding"
+      ],
+      "status": "image-included",
+      "author": "@ou_zhen599",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ou_zhen599/status/2101557541318910089",
+        "publisher": "@ou_zhen599",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101557541318910089",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p75-loreva-coastal-fragrance-ad.md",
+      "prompts": [
+        "prompts/p75-loreva-coastal-fragrance-ad/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p75-loreva-coastal-fragrance-ad/image-prompt.txt": "prompts/p75-loreva-coastal-fragrance-ad/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p75-loreva-coastal-fragrance-ad/image-prompt.txt": "7b56b7c20e876782af792d8985033ab9b1e1f848ea96db69ddbde0fc9e327883"
+      },
+      "preview": "assets/p75-loreva-coastal-fragrance-ad/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p75-loreva-coastal-fragrance-ad/source-example-01.jpg",
+          "sha256": "64d5b2a2855628321ebe62cda7e27217a0b5c33c529badf5205931a5af59586c",
+          "width": 4096,
+          "height": 3071,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p75-loreva-coastal-fragrance-ad",
+      "display_number": "3.11"
+    },
+    {
+      "id": "P76",
+      "title": "Avelora Coastal Bridge Car Poster",
+      "title_zh": "AVELORA 海岸大桥汽车海报",
+      "slug": "p76-avelora-coastal-bridge-car-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@ou_zhen599",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ou_zhen599/status/2101556753762586720",
+        "publisher": "@ou_zhen599",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101556753762586720",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p76-avelora-coastal-bridge-car-poster.md",
+      "prompts": [
+        "prompts/p76-avelora-coastal-bridge-car-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p76-avelora-coastal-bridge-car-poster/image-prompt.txt": "prompts/p76-avelora-coastal-bridge-car-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p76-avelora-coastal-bridge-car-poster/image-prompt.txt": "46d074779e5c2b3fe887c5b7d3a528668cc9752bffe0069b1587e5ef32dcd442"
+      },
+      "preview": "assets/p76-avelora-coastal-bridge-car-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p76-avelora-coastal-bridge-car-poster/source-example-01.jpg",
+          "sha256": "7499291ee7f924bc0ca4e6af298501968265dae4f7638cbb0d69127032301fdf",
+          "width": 3071,
+          "height": 4096,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p76-avelora-coastal-bridge-car-poster",
+      "display_number": "4.21"
+    },
+    {
+      "id": "P77",
+      "title": "Natural Bedroom UGC Selfie",
+      "title_zh": "自然卧室 UGC 自拍",
+      "slug": "p77-natural-bedroom-ugc-selfie",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@Daniloecom",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Daniloecom/status/2101403775164674440",
+        "publisher": "@Daniloecom",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101403775164674440",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p77-natural-bedroom-ugc-selfie.md",
+      "prompts": [
+        "prompts/p77-natural-bedroom-ugc-selfie/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p77-natural-bedroom-ugc-selfie/image-prompt.txt": "prompts/p77-natural-bedroom-ugc-selfie/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p77-natural-bedroom-ugc-selfie/image-prompt.txt": "89f91e2d5cc970efde7710fbbe54f876297b75ab7119c3c0fcd0ace01fa0c299"
+      },
+      "preview": "assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p77-natural-bedroom-ugc-selfie/source-example-01.jpg",
+          "sha256": "00192355a0f328827f51592107b9ec5c4d726d766a191a05671f0da5bf099dfa",
+          "width": 1086,
+          "height": 1448,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p77-natural-bedroom-ugc-selfie",
+      "display_number": "1.26"
+    },
+    {
+      "id": "P78",
+      "title": "Candid Gym Deadlift Photo",
+      "title_zh": "健身房硬拉抓拍",
+      "slug": "p78-candid-gym-deadlift-photo",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@cartelfather",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/cartelfather/status/2101400765772542021",
+        "publisher": "@cartelfather",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101400765772542021",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p78-candid-gym-deadlift-photo.md",
+      "prompts": [
+        "prompts/p78-candid-gym-deadlift-photo/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p78-candid-gym-deadlift-photo/image-prompt.txt": "prompts/p78-candid-gym-deadlift-photo/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p78-candid-gym-deadlift-photo/image-prompt.txt": "1bae93b538c194619cc25908796258f40d2feceda2a485e3cabbded39067e0c8"
+      },
+      "preview": "assets/p78-candid-gym-deadlift-photo/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p78-candid-gym-deadlift-photo/source-example-01.jpg",
+          "sha256": "5e78eee2380b0f9201705bfb96642f59565ecf5c3359892bf0db8bfaa666e164",
+          "width": 1024,
+          "height": 1536,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p78-candid-gym-deadlift-photo",
+      "display_number": "1.27"
+    },
+    {
+      "id": "P79",
+      "title": "Two Woman Fitness Selfie Reconstruction",
+      "title_zh": "双人健身自拍重建",
+      "slug": "p79-two-woman-fitness-selfie-reconstruction",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@jasonugc",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/jasonugc/status/2101372937353965940",
+        "publisher": "@jasonugc",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101372937353965940",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p79-two-woman-fitness-selfie-reconstruction.md",
+      "prompts": [
+        "prompts/p79-two-woman-fitness-selfie-reconstruction/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p79-two-woman-fitness-selfie-reconstruction/image-prompt.txt": "prompts/p79-two-woman-fitness-selfie-reconstruction/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p79-two-woman-fitness-selfie-reconstruction/image-prompt.txt": "d86a6e7087aa047fc76987343f12426ad415d4ef2869be82c16bca346cce25cd"
+      },
+      "preview": "assets/p79-two-woman-fitness-selfie-reconstruction/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p79-two-woman-fitness-selfie-reconstruction/source-example-01.jpg",
+          "sha256": "c62fb5bf2c62a9ee418b828d99add7ab42fe535b6a56ee2cd121118d53893046",
+          "width": 675,
+          "height": 1199,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p79-two-woman-fitness-selfie-reconstruction",
+      "display_number": "1.28"
+    },
+    {
+      "id": "P80",
+      "title": "Sepia Reference Portraits",
+      "title_zh": "参考人物棕褐色人像",
+      "slug": "p80-sepia-reference-portraits",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@shushant_l",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/shushant_l/status/2101567556268310657",
+        "publisher": "@shushant_l",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101567556268310657",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p80-sepia-reference-portraits.md",
+      "prompts": [
+        "prompts/p80-sepia-reference-portraits/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p80-sepia-reference-portraits/image-prompt.txt": "prompts/p80-sepia-reference-portraits/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p80-sepia-reference-portraits/image-prompt.txt": "7e94f3a5bf722d88fbc269bbc85b2fa58aacb733c99b95307df04eec79e69883"
+      },
+      "preview": "assets/p80-sepia-reference-portraits/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p80-sepia-reference-portraits/source-example-01.jpg",
+          "sha256": "a6c2518045ae4c0b17764e1ff83b4fb6aabf27c41d757c80e9ec0e8f2a0b442d",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p80-sepia-reference-portraits/source-example-02.jpg",
+          "sha256": "cd785a52d5b9b950aeacdeaf4c4b13ffd5298360d6ccf052d1840195e0e04a1e",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p80-sepia-reference-portraits/source-example-03.jpg",
+          "sha256": "21cb2b58dd33ef7ccfd59db5be6e8247b187b49694a575f2c119d139341ef6b8",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p80-sepia-reference-portraits/source-example-04.jpg",
+          "sha256": "468022e4a72281338098ae7907150a1486dbb5923786e889a3c0a059aa916703",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p80-sepia-reference-portraits",
+      "display_number": "1.29"
+    },
+    {
+      "id": "P81",
+      "title": "Playful Plaza Finger Point Portrait",
+      "title_zh": "广场俏皮指向镜头人像",
+      "slug": "p81-playful-plaza-finger-point-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@johnAGI168",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/johnAGI168/status/2101552625669833159",
+        "publisher": "@johnAGI168",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101552625669833159",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p81-playful-plaza-finger-point-portrait.md",
+      "prompts": [
+        "prompts/p81-playful-plaza-finger-point-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p81-playful-plaza-finger-point-portrait/image-prompt.txt": "prompts/p81-playful-plaza-finger-point-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p81-playful-plaza-finger-point-portrait/image-prompt.txt": "856659594c9fdf3c81be381fbaa65b69c65b69f0424e4d8e3372285dff17cb45"
+      },
+      "preview": "assets/p81-playful-plaza-finger-point-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p81-playful-plaza-finger-point-portrait/source-example-01.jpg",
+          "sha256": "5b2a7d7bf3b19367e2b52fe7ecd8e48b798e4e6abe51289b040aaedcad1a280d",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p81-playful-plaza-finger-point-portrait",
+      "display_number": "1.30"
+    },
+    {
+      "id": "P82",
+      "title": "Culinary Vapor Monument Poster",
+      "title_zh": "蒸汽纪念碑式美食海报",
+      "slug": "p82-culinary-vapor-monument-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@miratechtool",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/miratechtool/status/2101560392589758614",
+        "publisher": "@miratechtool",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101560392589758614",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p82-culinary-vapor-monument-poster.md",
+      "prompts": [
+        "prompts/p82-culinary-vapor-monument-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p82-culinary-vapor-monument-poster/image-prompt.txt": "prompts/p82-culinary-vapor-monument-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p82-culinary-vapor-monument-poster/image-prompt.txt": "c9196759b976b3b8ed40bfa721b666cc21618a1c39c9c3949951e41dbd95f718"
+      },
+      "preview": "assets/p82-culinary-vapor-monument-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p82-culinary-vapor-monument-poster/source-example-01.jpg",
+          "sha256": "407a3af54bafd4d5d5b1a385b08bfd1f75d50d0443f57062a427af2b1e2ce063",
+          "width": 784,
+          "height": 1168,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p82-culinary-vapor-monument-poster/source-example-02.jpg",
+          "sha256": "0721b84e7be40707eebb87b1462bf8b62665725d4799b17af4854a0a6645a318",
+          "width": 784,
+          "height": 1168,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p82-culinary-vapor-monument-poster",
+      "display_number": "4.22"
+    },
+    {
+      "id": "P83",
+      "title": "Cinema Pets with 3D Glasses",
+      "title_zh": "戴 3D 眼镜的影院宠物",
+      "slug": "p83-cinema-pets-with-3d-glasses",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://tryclico.com/gallery/double-feature",
+        "publisher": "Clico collection",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "double-feature",
+        "platform": "Clico"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p83-cinema-pets-with-3d-glasses.md",
+      "prompts": [
+        "prompts/p83-cinema-pets-with-3d-glasses/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p83-cinema-pets-with-3d-glasses/image-prompt.txt": "prompts/p83-cinema-pets-with-3d-glasses/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p83-cinema-pets-with-3d-glasses/image-prompt.txt": "435e29f7a31a714733310dcc305664abd0c0ec0de928bda74b937e37f33062a4"
+      },
+      "preview": "assets/p83-cinema-pets-with-3d-glasses/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p83-cinema-pets-with-3d-glasses/source-example-01.webp",
+          "sha256": "e38e7b9c1bfc8e7f762dbdc5e562e68a3a549b4bf8ea725e8d4d3c5693f8894b",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-20",
+      "readme_anchor": "p83-cinema-pets-with-3d-glasses",
+      "display_number": "2.12"
     }
   ]
 }
