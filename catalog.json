@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "entries": [
     {
       "id": "C01",
@@ -4173,6 +4173,308 @@
       "updated": "2026-09-20",
       "readme_anchor": "p83-cinema-pets-with-3d-glasses",
       "display_number": "2.12"
+    },
+    {
+      "id": "P84",
+      "title": "Orochi Fashion Character Concept Sheet",
+      "title_zh": "OROCHI 时尚角色设定表",
+      "slug": "p84-orochi-fashion-character-concept-sheet",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@itsPixieVerse",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/itsPixieVerse/status/2101905822888677714",
+        "publisher": "@itsPixieVerse",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101905822888677714",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p84-orochi-fashion-character-concept-sheet.md",
+      "prompts": [
+        "prompts/p84-orochi-fashion-character-concept-sheet/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p84-orochi-fashion-character-concept-sheet/image-prompt.txt": "prompts/p84-orochi-fashion-character-concept-sheet/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p84-orochi-fashion-character-concept-sheet/image-prompt.txt": "3a5e95448061a83d0bd5af0e5be5309b94a3a0e47e7f17b665251f7b62fce94c"
+      },
+      "preview": "assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg",
+          "sha256": "c55888e376563d1b493a34dfdb802024a7acc820efffe93a9f70c7cece4e5bb6",
+          "width": 2048,
+          "height": 1152,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p84-orochi-fashion-character-concept-sheet",
+      "display_number": "2.13"
+    },
+    {
+      "id": "P85",
+      "title": "Y2K Street Fashion Portrait",
+      "title_zh": "Y2K 街头时尚人像",
+      "slug": "p85-y2k-street-fashion-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@saniaspeaks_",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/saniaspeaks_/status/2101878359282036998",
+        "publisher": "@saniaspeaks_",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101878359282036998",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p85-y2k-street-fashion-portrait.md",
+      "prompts": [
+        "prompts/p85-y2k-street-fashion-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p85-y2k-street-fashion-portrait/image-prompt.txt": "prompts/p85-y2k-street-fashion-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p85-y2k-street-fashion-portrait/image-prompt.txt": "5d07107e742df96ab0dd675c882a045ea876801b19320ec6119a4a9f11c6e833"
+      },
+      "preview": "assets/p85-y2k-street-fashion-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p85-y2k-street-fashion-portrait/source-example-01.jpg",
+          "sha256": "53527223cac16b354a7591fd8433c51ea1b20080f89a7c9f56fe4e673c68b9ac",
+          "width": 1536,
+          "height": 2048,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p85-y2k-street-fashion-portrait",
+      "display_number": "1.31"
+    },
+    {
+      "id": "P86",
+      "title": "Global Dish Ingredient Provenance Map",
+      "title_zh": "全球菜肴食材溯源图",
+      "slug": "p86-global-dish-ingredient-provenance-map",
+      "categories": [
+        "Infographics & Practical Design"
+      ],
+      "status": "image-included",
+      "author": "@Gdgtify",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Gdgtify/status/2101941248022249841",
+        "publisher": "@Gdgtify",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101941248022249841",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p86-global-dish-ingredient-provenance-map.md",
+      "prompts": [
+        "prompts/p86-global-dish-ingredient-provenance-map/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p86-global-dish-ingredient-provenance-map/image-prompt.txt": "prompts/p86-global-dish-ingredient-provenance-map/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p86-global-dish-ingredient-provenance-map/image-prompt.txt": "a38c72514aeb77995defaf2b2091244a8c3d5764daddacc4baba20cbd11f31bf"
+      },
+      "preview": "assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg",
+          "sha256": "5c3c23f3c57e58adc9899b163dd65d512513dc0ac0945c70e1d3e25644cf8341",
+          "width": 1672,
+          "height": 941,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p86-global-dish-ingredient-provenance-map",
+      "display_number": "6.8"
+    },
+    {
+      "id": "P87",
+      "title": "Voxel Brain Teaser Posters",
+      "title_zh": "体素风烧脑题海报",
+      "slug": "p87-voxel-brain-teaser-posters",
+      "categories": [
+        "Infographics & Practical Design"
+      ],
+      "status": "image-included",
+      "author": "@Gdgtify",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Gdgtify/status/2101753259325063485",
+        "publisher": "@Gdgtify",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2101753259325063485",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p87-voxel-brain-teaser-posters.md",
+      "prompts": [
+        "prompts/p87-voxel-brain-teaser-posters/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p87-voxel-brain-teaser-posters/image-prompt.txt": "prompts/p87-voxel-brain-teaser-posters/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p87-voxel-brain-teaser-posters/image-prompt.txt": "caafe6f89d2aa01a7c6cc947660d22002f8f796f5a7aa4267dc3df68ecfbf60d"
+      },
+      "preview": "assets/p87-voxel-brain-teaser-posters/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p87-voxel-brain-teaser-posters/source-example-01.jpg",
+          "sha256": "3b7a0d49b79957450d78ae5823720df9234cd27775cbc542fb49efecc0193f5a",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p87-voxel-brain-teaser-posters/source-example-02.jpg",
+          "sha256": "97b5295eb1a457f03641bce96234e03e6fd33e3391f895d1b085656af5d522ff",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p87-voxel-brain-teaser-posters/source-example-03.jpg",
+          "sha256": "40f2132804f1da663de6fb31cb707d0f789f28961b65b7fc919848c36a304d68",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p87-voxel-brain-teaser-posters",
+      "display_number": "6.9"
+    },
+    {
+      "id": "P88",
+      "title": "Bangkok Night Market Street Photograph",
+      "title_zh": "曼谷夜市街头摄影",
+      "slug": "p88-bangkok-night-market-street-photograph",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "Jim Clyde Monge",
+      "inspiration": null,
+      "source": {
+        "url": "https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2",
+        "publisher": "Jim Clyde Monge",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "test-1-bangkok-night-market",
+        "platform": "Generative AI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p88-bangkok-night-market-street-photograph.md",
+      "prompts": [
+        "prompts/p88-bangkok-night-market-street-photograph/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p88-bangkok-night-market-street-photograph/image-prompt.txt": "prompts/p88-bangkok-night-market-street-photograph/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p88-bangkok-night-market-street-photograph/image-prompt.txt": "94c82fe090f2395f69719e4362bbd3293d49d9d1a6d9c8c9ecaf5d354e18ca86"
+      },
+      "preview": "assets/p88-bangkok-night-market-street-photograph/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p88-bangkok-night-market-street-photograph/source-example-01.png",
+          "sha256": "728e49dcc7adda3d9a0378a1be187ace35244f8280de82069cb36a763c6fb753",
+          "width": 700,
+          "height": 392,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p88-bangkok-night-market-street-photograph",
+      "display_number": "1.32"
+    },
+    {
+      "id": "P89",
+      "title": "Endangered Animal Infographic",
+      "title_zh": "濒危动物信息图",
+      "slug": "p89-endangered-animal-infographic",
+      "categories": [
+        "Infographics & Practical Design"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://vanikya.ai/gpt-image-2-5#education-poster",
+        "publisher": "Vanikya template gallery",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "education-poster",
+        "platform": "Vanikya"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p89-endangered-animal-infographic.md",
+      "prompts": [
+        "prompts/p89-endangered-animal-infographic/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p89-endangered-animal-infographic/image-prompt.txt": "prompts/p89-endangered-animal-infographic/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p89-endangered-animal-infographic/image-prompt.txt": "b2b999866e4f527fc2a4dc5d8f5e4400d0013270fab7e8c71d486b8a14ef6399"
+      },
+      "preview": "assets/p89-endangered-animal-infographic/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p89-endangered-animal-infographic/source-example-01.webp",
+          "sha256": "c37ce1baca21d5e99687396b61121726ff1db7ab684ae6e9d591712652581aaf",
+          "width": 1024,
+          "height": 1536,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-21",
+      "readme_anchor": "p89-endangered-animal-infographic",
+      "display_number": "6.10"
     }
   ]
 }

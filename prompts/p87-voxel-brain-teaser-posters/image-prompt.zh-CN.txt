@@ -1,0 +1,1 @@
+4 张图，4:5，围绕数学、科学、逻辑和谜语生成难到连智商 150 的人都会抓狂的烧脑题。输入：$ TOPIC。# 在该主题上建立难度场 D。D = infer_conceptual_depth($ TOPIC) # 按 D 的递增阈值抽取 4 道题。Q1 = generate_question($ TOPIC, difficulty='easy') Q2 = generate_question($ TOPIC, difficulty='medium') Q3 = generate_question($ TOPIC, difficulty='hard') Q4 = generate_question($ TOPIC, difficulty='brutal') # 将 Q1–Q4 渲染为体素风海报。

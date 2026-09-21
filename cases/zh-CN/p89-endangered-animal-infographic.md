@@ -1,0 +1,19 @@
+# P89. 濒危动物信息图
+
+[English](../p89-endangered-animal-infographic.md) | [简体中文](p89-endangered-animal-infographic.md)
+
+## 👀 预览
+
+[<img src="../../assets/p89-endangered-animal-infographic/source-example-01.webp" width="267" height="400" alt="濒危动物信息图——来源示例">](../../assets/p89-endangered-animal-infographic/source-example-01.webp)
+
+## 👇 工作流
+
+`动物资料研究 → 图解信息图`
+
+## 🔖 完整提示词
+
+```text
+制作一张视觉丰富的濒危动物信息图。先在线寻找一种濒危动物，研究其栖息地、食性和独特特征。通过带标注的视觉元素和结构化说明框呈现信息，而不要使用泛泛的章节。风格如大胆的平面插画：以细节丰富、照片级写实的动物作为画面中心，辅以图解、标注和简洁的文字元素。使用干净的背景，将照片写实效果与有力的图形元素（形状、图标、色块）结合，形成有层次的构图。让画面信息密集、富有触感，并呈现专业作者的制作水准。
+```
+
+<sub>[来源平台： Vanikya](https://vanikya.ai/gpt-image-2-5#education-poster)</sub>

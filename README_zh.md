@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 83 条独立提示词 · 更新于 2026 年 9 月 20 日**
+**5 个创意工作流 · 89 条独立提示词 · 更新于 2026 年 9 月 21 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -2242,6 +2242,52 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2101552625669833159)) · [来源平台： X](https://x.com/johnAGI168/status/2101552625669833159)</sub>
 
+<a id="p85-y2k-street-fashion-portrait"></a>
+
+### 📌 1.31. Y2K 街头时尚人像
+
+#### 👀 预览
+
+[<img src="assets/p85-y2k-street-fashion-portrait/source-example-01.jpg" width="300" height="400" alt="Y2K 街头时尚人像——来源示例">](assets/p85-y2k-street-fashion-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`先前人像参考图 → Y2K 街头抓拍姿势`
+
+#### 🔖 完整提示词
+
+```text
+超写实的自然手机照片，竖幅 3:4，抓拍一位年轻漂亮的日本女性的 Y2K 街头时尚人像。<<<d1ec9c33a3e14a5dbbef4f3088b4ad5f>>>，她站在有纹理的灰白色灰泥墙前。
+
+以下特征须保持完全一致：她自然垂落肩头的深棕色长直发，以及轻柔地修饰脸庞的发丝；有型的黑色报童帽／面包师帽；合身、纯白、短款短袖 baby tee，胸前有一颗醒目的豹纹五角星图案；低腰、宽大的深蓝色阔腿牛仔裤，带有真实的水洗褪色效果；腰间的豹纹腰带／裤腰；饰有大号圆形金属环和垂坠带饰的长金属链；以及黑色大号单肩包。
+
+全新的姿势——与先前所有版本明显不同：抓拍她自然走动时迈步的瞬间，身体约以四分之三角度朝向镜头，头部从左肩向后转过来看向镜头，神情冷酷而漫不经心——嘴唇微张，目光放松且直视镜头。重心正向前转移到右脚，左腿向后迈步，使宽松牛仔裤呈现自然的行走动态。右臂随步态自然向前摆动，肘部放松地弯曲；左臂略向后摆，黑色单肩包随着动作自然移动。头发松散垂落，并有暗示步行的细微动态。整体姿态应像街头时尚抓拍，随意、不摆拍；其身体朝向、重心分布和头部方向都与之前两个参考姿势完全不同。
+
+使用直接的机顶闪光灯拍摄，在身后的纹理墙上投下她身体与帽子的清晰、真实阴影。呈现真实的 2000 年代早期傻瓜相机或便携数码相机质感。RAW 手机照片美学、真实皮肤纹理、清晰可辨的发丝、准确的手和手指、自然的人体比例、细致的牛仔布纹理、真实的皮革包、真实的金属反光、可见的墙面肌理、直接闪光、轻微颗粒感、略不完美的曝光，以及怀旧的 Y2K 时尚摄影感。不要美颜滤镜、塑料皮肤、CGI 外观或过度修饰。竖幅 3:4 构图。
+```
+
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2101878359282036998)) · [来源平台： X](https://x.com/saniaspeaks_/status/2101878359282036998)</sub>
+
+<a id="p88-bangkok-night-market-street-photograph"></a>
+
+### 📌 1.32. 曼谷夜市街头摄影
+
+#### 👀 预览
+
+[<img src="assets/p88-bangkok-night-market-street-photograph/source-example-01.png" width="400" height="224" alt="曼谷夜市街头摄影——来源示例">](assets/p88-bangkok-night-market-street-photograph/source-example-01.png)
+
+#### 👇 工作流
+
+`文字 → 曼谷夜市摄影`
+
+#### 🔖 完整提示词
+
+```text
+一张曼谷繁忙夜市的广角照片，从视平线高度使用 35mm 镜头拍摄。前景面摊升起蒸汽，头顶悬挂着串灯，大约十五个人分布在画面的不同距离处走动，湿润的路面倒映着泰文霓虹招牌。让前景摊贩处于浅景深焦点之内，其后的所有景物逐渐虚化。
+```
+
+<sub>(by [Jim Clyde Monge](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)) · [来源平台： Generative AI](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)</sub>
+
 <a id="-characters--playful-creations"></a>
 
 ## 🧸 角色与趣味创作
@@ -2629,6 +2675,45 @@ IPHONE“照片”APP 布局
 ```
 
 <sub>[来源平台： Clico](https://tryclico.com/gallery/double-feature)</sub>
+
+<a id="p84-orochi-fashion-character-concept-sheet"></a>
+
+### 📌 2.13. OROCHI 时尚角色设定表
+
+#### 👀 预览
+
+[<img src="assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg" width="400" height="225" alt="OROCHI 时尚角色设定表——来源示例">](assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg)
+
+#### 👇 工作流
+
+`角色风格参考图＋设定说明 → 角色设定表`
+
+#### 🔖 完整提示词
+
+```text
+在纯白背景上制作一张高端、现代的高定时尚角色概念设定表，采用 16:9 宽屏布局。所附参考图定义了画面风格——将它视为严格的风格准则，在设定表的每个人物上精确复现其渲染技法。
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]：忠实复现参考图的渲染方式：超写实 3D CGI 收藏级人偶渲染、基于物理的渲染、Octane Render 水准的布光，以及真实的材质表现（织物的纹理与垂坠、金属的磨损与氧化、石化木细至毛孔尺度的微观细节）。整体灯光布置和材质色板须与参考图一致（明亮、干净、白底的摄影棚拍摄效果——不要将其扁平化或处理成赛璐璐上色），使用柔和的棚拍光，以及与参考图相符的轻微轮廓光。每个人物都必须看起来像使用同一个 3D 文件、在同一套摄影棚灯光下渲染而成。
+
+[STYLE PROHIBITIONS — ABSOLUTE]：不得使用扁平的 2D 赛璐璐上色、卡通描边、线稿、动漫风格、绘画笔触、海报化的纯色块、低多边形或游戏资产外观、塑料玩具光泽，也不得出现融合或畸形的手指。如果参考图采用写实材质，本设定表也必须如此——绝不能将其扁平化。
+
+[PROPORTIONS]：每个人物的身体比例都要与参考图精确一致——修长的时装插画式体态（身高约 9–10 个头长、头部较小、四肢纤长、腰部窄），并延续到照片级写实渲染中。较小的姿态研究图也不能把比例改回普通人体比例。
+
+[SUBJECT_DESCRIPTION]：角色名为 OROCHI。一个由浅色石化梣木构成的高大类人形实体，头生树枝状的角，佩戴金色圆环耳环，面部是一道虚空般的裂缝。身穿宽大垂坠的橄榄绿机能风和服外套、战术尼龙胸前绑带、深靛蓝宽腿机能袴式牛仔裤，脚穿厚重的战术凉鞋。
+
+可见的超能力：空中漂浮着发出幽光的深红色幽灵樱花瓣；幻影般的绿色灵火环绕其木质利爪和武士刀刀身。
+
+版面构图（严格按以下分区组织）：
+1. 左侧面板：元数据与转面图——使用干净、厚重、窄体的无衬线字体，竖排突出角色名“OROCHI”。元数据块以清晰的无衬线字体写出“ROLE: PHANTOM RONIN”、“CORE MOOD: ANCIENT DREAD”和“VISUAL SIGNATURE: SPECTRAL WOOD MAGIC”。迷你转面图：3 个较小的竖向全身人物，分别标为“neutral”、“back view”、“profile”；即使尺寸较小，也要保持与参考图完全一致的风格和完整的材质细节。剪影研究：在转面图下方放置 3 个与这些姿势对应的纯黑剪影。表情研究（左下角）：恰好 4 个小幅头部特写，展现其虚空裂缝面部所发出灵火的细微变化。
+
+2. 中央面板：主视觉——一个占据画面主导地位的巨大、完整全身人物，摆出冷静放松的标志性姿势，细节达到最高程度，并与参考图风格完美一致；拔出的武士刀周围缠绕着发光的深红色幽灵叶片和绿色灵火。
+
+3. 右侧面板：多姿势与主题研究——姿势研究：恰好 4 到 5 个中小尺寸人物，摆出动态战斗姿势（拔刀、施放灵火、向前突刺）。每个人物下方都有一个手写风格的小标签；所有人物都使用与参考图完全一致的风格。
+
+4. 右下面板：细节研究——恰好 5 个方形小幅局部特写，分别突出：(1) 石化木纹与金色圆环耳环；(2) 橄榄色帆布外套的织纹与战术绑带；(3) 武士刀刀刃上的幻影绿色灵火；(4) 牛仔机能袴的褶裥；(5) 握着悬浮深红花瓣的木质利爪。每个局部特写下方都加上干净的手写风格标签。
+```
+
+<sub>(by [@itsPixieVerse](https://x.com/itsPixieVerse/status/2101905822888677714)) · [来源平台： X](https://x.com/itsPixieVerse/status/2101905822888677714)</sub>
 
 <a id="-products--branding"></a>
 
@@ -3947,6 +4032,70 @@ WITH identity AS (     SELECT        derive_display_name([PLACE_OR_CULTURE])    
 ```
 
 <sub>[来源平台： Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
+<a id="p86-global-dish-ingredient-provenance-map"></a>
+
+### 📌 6.8. 全球菜肴食材溯源图
+
+#### 👀 预览
+
+[<img src="assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg" width="400" height="225" alt="全球菜肴食材溯源图——来源示例">](assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg)
+
+#### 👇 工作流
+
+`四种菜肴变量 → 食材溯源图`
+
+#### 🔖 完整提示词
+
+```text
+16:9，$ DISH: [A, B, C, D, each a lesser known under rated dishes from various countries around the world]；$ VIEW: "ingredient provenance network converging on final plating"；$ MEDIUM: "gastronomic manuscript with supply-chain cartography"。为 [$DISH] 制作一本美食手稿，以汇聚图的形式展示每种食材从产地到最终摆盘的旅程。画面中央悬浮着成品菜肴，以精美的照片级写实细节呈现——蒸汽升腾、质地闪亮，并盛放在符合其时代背景的餐具中——成为发光的视觉焦点。每种食材的溯源路线像车轮辐条一样从菜肴向外辐射，沿线追踪其来源。一颗番茄的路线经过市场摊位、配送仓库、农田，最终抵达安第斯山脉中该具体栽培品种的遗传起源。一种香料的路线则在一幅微型大航海时代地图上跨越海洋贸易航线。每条路线都采用相应食材的代表色——藏红花金、罗勒绿、辣椒红——并依据该食材在菜谱中的重要程度改变线条粗细。
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2101941248022249841)) · [来源平台： X](https://x.com/Gdgtify/status/2101941248022249841)</sub>
+
+<a id="p87-voxel-brain-teaser-posters"></a>
+
+### 📌 6.9. 体素风烧脑题海报
+
+#### 👀 预览
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-01.jpg" width="320" height="400" alt="体素风烧脑题海报——来源示例 1">](assets/p87-voxel-brain-teaser-posters/source-example-01.jpg)
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-02.jpg" width="320" height="400" alt="体素风烧脑题海报——来源示例 2">](assets/p87-voxel-brain-teaser-posters/source-example-02.jpg)
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-03.jpg" width="320" height="400" alt="体素风烧脑题海报——来源示例 3">](assets/p87-voxel-brain-teaser-posters/source-example-03.jpg)
+
+#### 👇 工作流
+
+`主题变量 → 体素风谜题海报`
+
+#### 🔖 完整提示词
+
+```text
+4 张图，4:5，围绕数学、科学、逻辑和谜语生成难到连智商 150 的人都会抓狂的烧脑题。输入：$ TOPIC。# 在该主题上建立难度场 D。D = infer_conceptual_depth($ TOPIC) # 按 D 的递增阈值抽取 4 道题。Q1 = generate_question($ TOPIC, difficulty='easy') Q2 = generate_question($ TOPIC, difficulty='medium') Q3 = generate_question($ TOPIC, difficulty='hard') Q4 = generate_question($ TOPIC, difficulty='brutal') # 将 Q1–Q4 渲染为体素风海报。
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2101753259325063485)) · [来源平台： X](https://x.com/Gdgtify/status/2101753259325063485)</sub>
+
+<a id="p89-endangered-animal-infographic"></a>
+
+### 📌 6.10. 濒危动物信息图
+
+#### 👀 预览
+
+[<img src="assets/p89-endangered-animal-infographic/source-example-01.webp" width="267" height="400" alt="濒危动物信息图——来源示例">](assets/p89-endangered-animal-infographic/source-example-01.webp)
+
+#### 👇 工作流
+
+`动物资料研究 → 图解信息图`
+
+#### 🔖 完整提示词
+
+```text
+制作一张视觉丰富的濒危动物信息图。先在线寻找一种濒危动物，研究其栖息地、食性和独特特征。通过带标注的视觉元素和结构化说明框呈现信息，而不要使用泛泛的章节。风格如大胆的平面插画：以细节丰富、照片级写实的动物作为画面中心，辅以图解、标注和简洁的文字元素。使用干净的背景，将照片写实效果与有力的图形元素（形状、图标、色块）结合，形成有层次的构图。让画面信息密集、富有触感，并呈现专业作者的制作水准。
+```
+
+<sub>[来源平台： Vanikya](https://vanikya.ai/gpt-image-2-5#education-poster)</sub>
 
 <a id="-5-creative-cases"></a>
 

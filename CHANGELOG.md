@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-21
+
+- Published P84–P89 from the six user-approved, unpublished Feishu records in scope: four X posts, one Generative AI article example, and one Vanikya template, with eight unchanged source images and complete English/Simplified Chinese pages. Recorded missing references, short-template values, source-only model claims, and factual limitations in the source examples.
+- 按用户限定范围发布飞书中六条已通过且未发布的记录，新增 P84–P89：四条 X 原帖、一条 Generative AI 文章案例和一条 Vanikya 模板，共八张未改动的来源图片及完整中英文页面。记录缺失的参考图、短模板变量、仅由来源声明的模型归属和示例图中的事实限制。
+
 ## 2026-09-20
 
 - Published P74–P83 from the approved Feishu review batch: ten source prompts and fourteen unchanged example images from nine X posts and one Clico gallery item, with complete English/Simplified Chinese pages. Recorded source-only model claims, missing reference inputs or template values, unconfirmed Clico authorship and third-party reuse limits.

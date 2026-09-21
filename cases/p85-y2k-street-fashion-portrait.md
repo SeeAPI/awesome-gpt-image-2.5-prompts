@@ -1,0 +1,23 @@
+# P85. Y2K Street Fashion Portrait
+
+## 👀 Preview
+
+[<img src="../assets/p85-y2k-street-fashion-portrait/source-example-01.jpg" width="300" height="400" alt="Y2K Street Fashion Portrait — source example">](../assets/p85-y2k-street-fashion-portrait/source-example-01.jpg)
+
+## 👇 Workflow
+
+`Prior portrait reference → candid Y2K street pose`
+
+## 🔖 Full Prompt
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid Y2K street-style fashion portrait of the young pretty Japanese woman. <<<d1ec9c33a3e14a5dbbef4f3088b4ad5f>>>, standing against the textured off-white plaster wall background.
+
+Keep identical: her long straight dark-brown hair falling naturally over her shoulders with soft strands framing her face, her structured black newsboy/baker-boy cap, her fitted plain white cropped short-sleeve baby tee with the large leopard-print five-point star graphic on the chest, her low-rise oversized dark-blue baggy jeans with realistic faded denim washes, the leopard-print belt/waistband at her waist, the long decorative metal chain with large circular metal ring and dangling strap details, and the large black shoulder bag.
+
+COMPLETELY NEW POSE — distinctly different from all previous versions: she is caught mid-stride in a casual walking motion, her body turned approximately three-quarters toward the camera, head turned back over her left shoulder to glance at the camera with a cool, effortless expression — lips slightly parted, eyes relaxed and direct. Her weight is shifting forward onto her right foot, left leg stepping back, creating natural mid-walk movement in her baggy denim. Her right arm swings naturally forward with a relaxed bent elbow, while her left arm trails back slightly with the black shoulder bag shifting naturally with her motion. Her hair falls loosely with subtle movement suggesting the walking stride. The overall stance reads as a candid, unposed street-fashion catch — a completely different body orientation, weight distribution, and head direction than either previous reference pose.
+
+Direct on-camera flash photography creating a distinct realistic shadow of her body and cap on the textured wall behind her. Authentic early-2000s point-and-shoot or compact digital camera feel. RAW smartphone aesthetic, realistic skin texture, individual hair strands, accurate hands and fingers, natural body proportions, detailed denim texture, realistic leather bag, authentic metal reflections, visible wall texture, direct flash, subtle grain, slightly imperfect exposure, nostalgic Y2K fashion photography, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition
+```
+
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2101878359282036998)) · [Source: X](https://x.com/saniaspeaks_/status/2101878359282036998)</sub>

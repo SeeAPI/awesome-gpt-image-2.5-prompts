@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 83 standalone prompts · Updated September 20, 2026**
+**5 creative workflows · 89 standalone prompts · Updated September 21, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2240,6 +2240,52 @@ Captured with a wide-latitude digital cinema look on a fast 35mm wide-angle prim
 
 <sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2101552625669833159)) · [Source: X](https://x.com/johnAGI168/status/2101552625669833159)</sub>
 
+<a id="p85-y2k-street-fashion-portrait"></a>
+
+### 📌 1.31. Y2K Street Fashion Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p85-y2k-street-fashion-portrait/source-example-01.jpg" width="300" height="400" alt="Y2K Street Fashion Portrait — source example">](assets/p85-y2k-street-fashion-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Prior portrait reference → candid Y2K street pose`
+
+#### 🔖 Full Prompt
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid Y2K street-style fashion portrait of the young pretty Japanese woman. <<<d1ec9c33a3e14a5dbbef4f3088b4ad5f>>>, standing against the textured off-white plaster wall background.
+
+Keep identical: her long straight dark-brown hair falling naturally over her shoulders with soft strands framing her face, her structured black newsboy/baker-boy cap, her fitted plain white cropped short-sleeve baby tee with the large leopard-print five-point star graphic on the chest, her low-rise oversized dark-blue baggy jeans with realistic faded denim washes, the leopard-print belt/waistband at her waist, the long decorative metal chain with large circular metal ring and dangling strap details, and the large black shoulder bag.
+
+COMPLETELY NEW POSE — distinctly different from all previous versions: she is caught mid-stride in a casual walking motion, her body turned approximately three-quarters toward the camera, head turned back over her left shoulder to glance at the camera with a cool, effortless expression — lips slightly parted, eyes relaxed and direct. Her weight is shifting forward onto her right foot, left leg stepping back, creating natural mid-walk movement in her baggy denim. Her right arm swings naturally forward with a relaxed bent elbow, while her left arm trails back slightly with the black shoulder bag shifting naturally with her motion. Her hair falls loosely with subtle movement suggesting the walking stride. The overall stance reads as a candid, unposed street-fashion catch — a completely different body orientation, weight distribution, and head direction than either previous reference pose.
+
+Direct on-camera flash photography creating a distinct realistic shadow of her body and cap on the textured wall behind her. Authentic early-2000s point-and-shoot or compact digital camera feel. RAW smartphone aesthetic, realistic skin texture, individual hair strands, accurate hands and fingers, natural body proportions, detailed denim texture, realistic leather bag, authentic metal reflections, visible wall texture, direct flash, subtle grain, slightly imperfect exposure, nostalgic Y2K fashion photography, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition
+```
+
+<sub>(by [@saniaspeaks_](https://x.com/saniaspeaks_/status/2101878359282036998)) · [Source: X](https://x.com/saniaspeaks_/status/2101878359282036998)</sub>
+
+<a id="p88-bangkok-night-market-street-photograph"></a>
+
+### 📌 1.32. Bangkok Night Market Street Photograph
+
+#### 👀 Preview
+
+[<img src="assets/p88-bangkok-night-market-street-photograph/source-example-01.png" width="400" height="224" alt="Bangkok Night Market Street Photograph — source example">](assets/p88-bangkok-night-market-street-photograph/source-example-01.png)
+
+#### 👇 Workflow
+
+`Text → Bangkok night-market photograph`
+
+#### 🔖 Full Prompt
+
+```text
+A wide-angle photograph of a busy night market in Bangkok, shot at eye level with a 35mm lens. Steam rising from a noodle stall in the foreground, string lights overhead, a crowd of about fifteen people moving through the frame at different distances, wet pavement reflecting neon signage in Thai script. Shallow depth of field on the foreground vendor, everything behind falling gradually out of focus.
+```
+
+<sub>(by [Jim Clyde Monge](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)) · [Source: Generative AI](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -2627,6 +2673,45 @@ A West Highland White Terrier and a white-and-black cat sitting side by side in 
 ```
 
 <sub>[Source: Clico](https://tryclico.com/gallery/double-feature)</sub>
+
+<a id="p84-orochi-fashion-character-concept-sheet"></a>
+
+### 📌 2.13. Orochi Fashion Character Concept Sheet
+
+#### 👀 Preview
+
+[<img src="assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg" width="400" height="225" alt="Orochi Fashion Character Concept Sheet — source example">](assets/p84-orochi-fashion-character-concept-sheet/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Character style reference + brief → concept sheet`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: hyper-realistic 3D CGI collectible-figurine render, physically-based rendering, octane-render-quality lighting, real material fidelity (fabric weave and drape, metal wear and oxidation, pore-level petrified wood micro-detail), identical overall lighting setup and material palette to the reference (light, clean, white-background studio photography — do NOT flatten or cel-shade it), soft studio lighting with a subtle rim light matching the reference. Every figure must look like it was rendered from the same 3D file, under the same studio lighting, as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no flat 2D cel-shading, no cartoon outlines, no lineart, no anime style, no painterly brushwork, no posterized flat color blocks, no low-poly or game-asset look, no plastic-toy sheen, no fused or malformed fingers. If the reference has photoreal materials, this sheet does too — never flatten them.
+
+[PROPORTIONS]: Match the reference's exact body proportions in every figure — elongated fashion-illustration anatomy (9–10 heads tall, small head, long slender limbs, narrow waist) carried into photoreal rendering. Do not normalize proportions in the smaller studies.
+
+[SUBJECT_DESCRIPTION]: Character named OROCHI. A tall humanoid entity made of petrified pale ash wood with branch-like horns, gold hoop earrings, and a void-slit face. Wearing an oversized draped olive-green techwear kimono jacket, tactical nylon chest harness, and dark indigo wide-leg tech-hakama denim trousers with chunky tactical sandals.
+
+SUPERPOWERS VISIBLE: Hovering ethereal glowing crimson spectral sakura petals and phantom green spirit-fire swirling around his wooden claws and katana blade.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA & TURNAROUND- Large, bold vertical typography of the character's Name "OROCHI" in a clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: PHANTOM RONIN", "CORE MOOD: ANCIENT DREAD", and "VISUAL SIGNATURE: SPECTRAL WOOD MAGIC" in a clean sans-serif font.- MINI TURNAROUND: 3 small vertical figures — "neutral", "back view", "profile" — rendered in the identical reference style, full material fidelity even at small scale.- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances underneath.- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots showing subtle shifts in the spirit-fire glowing from his void-slit face.
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a cool, relaxed signature pose, maximum detail, rendered as a perfect style-match to the reference image, but with glowing crimson spectral leaves and green spirit-fire wrapping around his drawn katana.
+
+3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES- POSE STUDY: exactly 4 to 5 small-to-medium figures in dynamic combat stances (drawing blade, casting spirit fire, lunging), each with a small handwritten-style label underneath, all in the identical reference style.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- Exactly 5 small square close-up crops highlighting: (1) petrified wood grain and gold hoop earring, (2) olive canvas jacket weave and tactical harness, (3) glowing phantom green spirit-fire on the katana blade, (4) denim tech-hakama pleats, (5) clawed wooden hand holding hovering crimson petals.- Each crop gets a clean handwriting-style label underneath.
+```
+
+<sub>(by [@itsPixieVerse](https://x.com/itsPixieVerse/status/2101905822888677714)) · [Source: X](https://x.com/itsPixieVerse/status/2101905822888677714)</sub>
 
 ## 🛍️ Products & Branding
 
@@ -3942,6 +4027,70 @@ I'd like to understand technically and visually the flow.
 ```
 
 <sub>[Source: Reddit](https://www.reddit.com/r/ChatGPT/comments/1wcatvx/gpt_image_25_prompt_guide_2026_13_8_rules_and_8/)</sub>
+
+<a id="p86-global-dish-ingredient-provenance-map"></a>
+
+### 📌 6.8. Global Dish Ingredient Provenance Map
+
+#### 👀 Preview
+
+[<img src="assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg" width="400" height="225" alt="Global Dish Ingredient Provenance Map — source example">](assets/p86-global-dish-ingredient-provenance-map/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Four dish variables → ingredient provenance map`
+
+#### 🔖 Full Prompt
+
+```text
+16:9, $ DISH: [A, B, C, D, each a lesser known under rated dishes from various countries around the world] $ VIEW: "ingredient provenance network converging on final plating" $ MEDIUM: "gastronomic manuscript with supply-chain cartography" Gastronomic manuscript of [$DISH], presented as a convergence diagram where every ingredient's journey is traced from origin to plate. At the center floats the finished dish in exquisite photorealistic detail — steam rising, textures glistening, plated on period-appropriate serveware — rendered as a luminous focal point.   Radiating outward from the dish like spokes of a wheel, each ingredient traces a provenance line back to its source. A tomato's line flows through a market stall, a distribution warehouse, a farm field, to the specific cultivar's genetic origin in the Andes. A spice's line crosses ocean trade routes on a miniature age-of-sail map. Each line is rendered in the ingredient's characteristic color — saffron gold, basil green, chili red — and varies in thickness according to the ingredient's proportional importance in the recipe.
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2101941248022249841)) · [Source: X](https://x.com/Gdgtify/status/2101941248022249841)</sub>
+
+<a id="p87-voxel-brain-teaser-posters"></a>
+
+### 📌 6.9. Voxel Brain Teaser Posters
+
+#### 👀 Preview
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-01.jpg" width="320" height="400" alt="Voxel Brain Teaser Posters — source example 1">](assets/p87-voxel-brain-teaser-posters/source-example-01.jpg)
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-02.jpg" width="320" height="400" alt="Voxel Brain Teaser Posters — source example 2">](assets/p87-voxel-brain-teaser-posters/source-example-02.jpg)
+
+[<img src="assets/p87-voxel-brain-teaser-posters/source-example-03.jpg" width="320" height="400" alt="Voxel Brain Teaser Posters — source example 3">](assets/p87-voxel-brain-teaser-posters/source-example-03.jpg)
+
+#### 👇 Workflow
+
+`Topic variable → voxel puzzle posters`
+
+#### 🔖 Full Prompt
+
+```text
+4 images, 4:5, mindboggling hard math, science, logic, riddle questions that would make IQ 150 people cry. INPUT: $ TOPIC # Build a difficulty field D over the topic. D = infer_conceptual_depth($ TOPIC) # Sample 4 questions at increasing thresholds of D. Q1 = generate_question($ TOPIC, difficulty='easy') Q2 = generate_question($ TOPIC, difficulty='medium') Q3 = generate_question($ TOPIC, difficulty='hard') Q4 = generate_question($ TOPIC, difficulty='brutal') # Render voxel poster with Q1–Q4.
+```
+
+<sub>(by [@Gdgtify](https://x.com/Gdgtify/status/2101753259325063485)) · [Source: X](https://x.com/Gdgtify/status/2101753259325063485)</sub>
+
+<a id="p89-endangered-animal-infographic"></a>
+
+### 📌 6.10. Endangered Animal Infographic
+
+#### 👀 Preview
+
+[<img src="assets/p89-endangered-animal-infographic/source-example-01.webp" width="267" height="400" alt="Endangered Animal Infographic — source example">](assets/p89-endangered-animal-infographic/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Animal research → illustrated infographic`
+
+#### 🔖 Full Prompt
+
+```text
+Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
+```
+
+<sub>[Source: Vanikya](https://vanikya.ai/gpt-image-2-5#education-poster)</sub>
 
 <a id="-5-creative-cases"></a>
 

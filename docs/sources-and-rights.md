@@ -85,6 +85,16 @@ P74–P83 收录十条公开来源提示词和十四张未改动的来源示例�
 
 P74–P76 描述了以参考图引导构图，但未提供其原始构图参考图。P79 需要原始双人参考照片，P80 需要人物参考图；这两项输入也未提供。P82 是短模板，来源没有公开两张示例海报使用的变量填充值。因此这六条仅展示来源示例，尚不构成完整的复现素材包。Clico 案例未显示原始发布日期，属于扩展时间范围发现的旧案例，并非最初 24 小时内发现。每条案例的公开链接、媒体哈希和提示词文本见 `catalog.json`。这些第三方示例未确认单独的再分发许可；复用前应遵循来源条款或向权利人取得许可。
 
+## September 21, 2026 Additions / 2026 年 9 月 21 日新增
+
+P84–P89 preserve six approved source prompts and eight unchanged source example images: four X posts (two from this collection round and two from the preceding round), one authored Generative AI article, and one Vanikya template item. P88 uses only the figure that the article captions as GPT Image 2.5, not its adjacent GPT Image 2.0 comparison. Vanikya is the template publisher; the original prompt author is unconfirmed. All model labels are source claims, not independently verified generation runs by SeeAPI. The displayed images were visually matched to the prompt subjects and layouts, but this does not establish their exact generation inputs or provenance. No case-specific redistribution permission was established for these third-party examples.
+
+P84 requires a style reference image that was not supplied. P85 contains a source reference identifier and mentions earlier portrait poses, but the underlying prior reference images were not supplied. P86, P87 and P89 are short templates: the exact dish choices, puzzle topics and animal research used for their examples are not fully disclosed. P86's ingredient and geographic annotations have not been fact-checked. P87's three retained posters contain four questions each; the fourth source image duplicates one of those three and was omitted. Their difficulty is visibly lower than the prompt requests, so do not treat them as a validated assessment set. P89's example infographic says approximately 100 Amur leopards remain in the wild. [WWF's Amur-Heilong page](https://www.worldwildlife.org/places/amur-heilong/) gave an estimate of approximately 135 when checked on September 21, 2026, so the sample image is illustrative, not an up-to-date conservation reference. Verify all scientific labels and population numbers before reuse.
+
+P84–P89 保留六条已通过审核的来源提示词和八张未修改字节的来源示例图：四条 X 原帖（本轮两条、上一轮两条）、一篇署名的 Generative AI 文章及一条 Vanikya 模板。P88 仅收录文章明确标注为 GPT Image 2.5 的图片，排除相邻的 GPT Image 2.0 对照图。Vanikya 是模板发布方，原提示词作者尚未确认。所有模型标签均仅为来源声明，SeeAPI 未独立核验生成记录。示例图已按主题与版式进行目视比对，但这不能证明精确生成输入或生成来源。这些第三方示例没有确认单独的再分发许可。
+
+P84 所需风格参考图未提供。P85 保留了来源中的参考标识，并提到之前的人像姿势，但相关参考图未提供。P86、P87 和 P89 属于短模板：示例图使用的具体菜肴、谜题主题与动物研究输入并未完整公开。P86 图中的食材和地理标注尚未核实。P87 保留的三张海报各有四道题；原帖第四张与其中一张完全重复，因此未收录。题目难度明显低于提示词要求，不应作为经过验证的测评题集。P89 的示例信息图称野生远东豹约余 100 只，而 [WWF 阿穆尔—黑龙江流域页面](https://www.worldwildlife.org/places/amur-heilong/)在 2026 年 9 月 21 日核查时给出的估计约为 135 只，因此该图只作为视觉示例，不能作为最新保育数据引用；复用前应核对所有科学标注和种群数字。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.
