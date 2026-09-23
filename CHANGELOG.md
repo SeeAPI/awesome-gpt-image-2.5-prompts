@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-23
+
+- Published P90–P97 from eight user-approved, unpublished Feishu records: seven X cases and one Reddit benchmark, with fourteen unchanged source images and complete English/Simplified Chinese pages. Preserved the full source JSON for the two concise SeeAPI reference adaptations and documented missing references, source-only model claims, benchmark image roles, and third-party reuse limits.
+- 按用户审核结果发布飞书中八条已通过且未发布的记录，新增 P90–P97：七条 X 案例和一条 Reddit 对比案例，共十四张未改动的来源图片及完整中英文页面。两条 SeeAPI 精简参考改编保留了完整来源 JSON，并记录缺失参考图、仅由来源声明的模型归属、对比图片角色及第三方复用限制。
+
 ## 2026-09-21
 
 - Published P84–P89 from the six user-approved, unpublished Feishu records in scope: four X posts, one Generative AI article example, and one Vanikya template, with eight unchanged source images and complete English/Simplified Chinese pages. Recorded missing references, short-template values, source-only model claims, and factual limitations in the source examples.

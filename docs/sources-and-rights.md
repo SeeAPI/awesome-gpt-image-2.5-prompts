@@ -95,6 +95,16 @@ P84–P89 保留六条已通过审核的来源提示词和八张未修改字节�
 
 P84 所需风格参考图未提供。P85 保留了来源中的参考标识，并提到之前的人像姿势，但相关参考图未提供。P86、P87 和 P89 属于短模板：示例图使用的具体菜肴、谜题主题与动物研究输入并未完整公开。P86 图中的食材和地理标注尚未核实。P87 保留的三张海报各有四道题；原帖第四张与其中一张完全重复，因此未收录。题目难度明显低于提示词要求，不应作为经过验证的测评题集。P89 的示例信息图称野生远东豹约余 100 只，而 [WWF 阿穆尔—黑龙江流域页面](https://www.worldwildlife.org/places/amur-heilong/)在 2026 年 9 月 21 日核查时给出的估计约为 135 只，因此该图只作为视觉示例，不能作为最新保育数据引用；复用前应核对所有科学标注和种群数字。
 
+## September 23, 2026 Additions / 2026 年 9 月 23 日新增
+
+P90–P97 preserve eight user-approved prompts and fourteen unchanged source example images: seven cases from individual X posts and one Reddit comparison thread. P97 includes only the two gallery images identified by the source order as GPT Image 2.5 Sunburst and GPT Image 2.5 Flare. All model labels are source claims; SeeAPI has not independently verified generation logs, settings, or matching reruns. The images were visually matched to the published subjects and layouts, but they remain source examples rather than SeeAPI generation results.
+
+P90 requires an uploaded photo reference; its two source examples contain the retained photograph and the illustrated treatment, but the independent input files were not supplied. P94 also requires the original portrait and vehicle reference, which was not supplied. P94 and P95 use concise SeeAPI reference adaptations of unusually long source JSON prompts; the complete source JSON is preserved in `docs/source-prompts/`, and the source images illustrate the original posts rather than validating the adapted prompts. P97 uses one short prompt across several models; this repository retains only the Sunburst and Flare examples and does not claim that either image is the definitive or preferred result. Third-party locations, cultural symbols, vehicle or product identifiers, and people shown in the source examples remain subject to their respective rights. No case-specific redistribution permission was established; consult the linked posts and rights holders before reuse.
+
+P90–P97 收录八条经用户审核通过的提示词和十四张未修改字节的来源示例图：七条来自独立 X 原帖，一条来自 Reddit 多模型对比帖。P97 仅收录来源按画廊顺序标识为 GPT Image 2.5 Sunburst 与 GPT Image 2.5 Flare 的两张图片。所有模型标签均仅为来源声明；SeeAPI 未独立核验生成记录、参数，也未进行匹配复现。图片已经按公开提示词的主体与版式进行目视比对，但仍属于来源示例，并非 SeeAPI 的生成结果。
+
+P90 需要上传照片参考图；两个来源示例在成品中保留了照片和插画处理，但未提供独立输入文件。P94 同样需要原始人物和车辆参考图，该输入未提供。P94 与 P95 将特别冗长的来源 JSON 提示词整理为简洁的 SeeAPI 参考改编版；完整来源 JSON 保存在 `docs/source-prompts/`，来源图片只说明原帖效果，不能视为改编提示词已经通过复现验证。P97 使用同一条短提示词比较多个模型；仓库仅保留 Sunburst 与 Flare 示例，不宣称其中任何一张是唯一或首选结果。来源示例中的第三方地点、文化符号、车辆或产品标识及人物仍受各自权利约束。本批案例没有确认单独的再分发许可；复用前应核对链接原帖并联系相关权利人。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

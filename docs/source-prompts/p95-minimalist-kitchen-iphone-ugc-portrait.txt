@@ -1,0 +1,139 @@
+{
+  "prompt": "A photorealistic iPhone photo of an attractive adult blonde woman in her mid-20s standing in a modern minimalist kitchen at night. She has fair, lightly sun-kissed skin, a softly defined oval face, full naturally pink lips, sculpted eyebrows and blue-green eyes. Her blonde hair has darker natural roots and is styled in a loosely gathered, slightly messy high bun with long face-framing strands. She wears a short, oversized black satin robe with wide flowing sleeves, delicate black lace trim along the neckline, cuffs and hem, and a loosely cinched waist. Small silver dangling oval earrings complete her look. She stands sideways beside a white kitchen countertop, resting one hand against its edge. Her body faces the counter while she turns her head over her left shoulder to look directly into the camera with a relaxed, confident expression. The robe falls naturally around her body, with an asymmetrical hem and a side opening revealing her upper thigh. The photograph feels like a spontaneous late-night lifestyle snapshot taken by a friend on an iPhone, with authentic skin texture, imperfect indoor lighting and a natural, unposed atmosphere.",
+  "subject": {
+    "age": "Mid-20s",
+    "gender": "Female",
+    "appearance": {
+      "hair": "Dark blonde with subtle golden highlights and darker natural roots, styled in a slightly messy high bun with loose face-framing strands",
+      "eyes": "Blue-green",
+      "eyebrows": "Defined, naturally arched eyebrows",
+      "lips": "Full, naturally pink lips with a subtle satin finish",
+      "skin": "Fair, warm-toned skin with natural pores, subtle texture and realistic tonal variations",
+      "expression": "Relaxed, confident and slightly playful, with direct eye contact"
+    },
+    "outfit": {
+      "garment": "Short, oversized black satin robe with a loose fit",
+      "fabric": "Lightweight, softly reflective black satin with natural wrinkles and draping",
+      "details": "Delicate black floral lace trim along the collar, sleeve openings and hem",
+      "sleeves": "Long, oversized kimono-style sleeves with wide openings",
+      "waist": "Loosely gathered with a black satin tie",
+      "hem": "Short, asymmetrical hem with delicate lace edging and a natural side opening"
+    },
+    "accessories": [
+      "Small silver dangling oval earrings",
+      "Subtle natural makeup",
+      "Soft pink manicure"
+    ],
+    "pose": {
+      "body_position": "Standing sideways beside the kitchen counter with her back partially toward the camera",
+      "head_position": "Head turned over her left shoulder toward the camera",
+      "hands": "One hand resting naturally on the edge of the kitchen countertop",
+      "posture": "Relaxed standing pose with a slight natural curve through the hips and one knee subtly bent",
+      "gaze": "Direct eye contact with the camera"
+    }
+  },
+  "composition": {
+    "aspect_ratio": "9:16",
+    "orientation": "Vertical portrait",
+    "framing": "Three-quarter to nearly full-body portrait, showing the subject from the top of her head to her lower legs",
+    "subject_placement": "Slightly right of center, framed between the kitchen countertop on the left and built-in appliances on the right",
+    "camera_angle": "Natural handheld smartphone perspective from approximately waist-to-chest height",
+    "camera_distance": "Approximately 2 to 3 meters from the subject",
+    "perspective": "Moderately wide smartphone field of view, showing both the subject and surrounding kitchen",
+    "headroom": "Generous negative space above the subject, including the tall kitchen cabinets and recessed ceiling lights",
+    "depth_of_field": "Deep smartphone depth of field, preserving detail in the subject and kitchen environment"
+  },
+  "environment": {
+    "location": "Modern minimalist apartment kitchen",
+    "time_of_day": "Evening or nighttime",
+    "interior_style": "Contemporary European minimalist design with floor-to-ceiling cabinetry, integrated appliances and clean architectural lines",
+    "color_palette": [
+      "Warm off-white",
+      "Matte greige",
+      "Cream",
+      "Soft gray",
+      "Black",
+      "Warm neutral beige"
+    ],
+    "background": {
+      "left": "Tall matte greige upper cabinets extending toward the ceiling, a concealed range hood with a slim illuminated LED strip and a white marble backsplash featuring delicate gray veining",
+      "center": "White countertop, black glass induction cooktop, large black frying pan and a matte black curved kitchen faucet",
+      "right": "Floor-to-ceiling minimalist cabinetry with a built-in black microwave positioned above a matching black oven",
+      "ceiling": "Flat white ceiling with warm recessed circular downlights",
+      "floor": "Large, light-colored porcelain tiles with subtle grout lines"
+    },
+    "countertop_details": [
+      "A freshly baked savory pie or quiche in a white ceramic baking dish in the lower-left foreground",
+      "A black frying pan on the induction cooktop",
+      "A wooden cutting board with a baked loaf or pastry",
+      "A dark green glass olive oil bottle",
+      "Small glass jars containing seasonings",
+      "A clear glass soap dispenser",
+      "A matte black curved faucet"
+    ],
+    "atmosphere": "Quiet, intimate, lived-in residential setting with realistic everyday kitchen clutter"
+  },
+  "lighting": {
+    "primary_source": "Warm recessed ceiling downlights",
+    "secondary_source": "Warm-white under-cabinet LED lighting above the cooktop",
+    "color_temperature": "Approximately 3000K to 3500K",
+    "quality": "Soft but directional indoor ambient lighting with naturally uneven illumination",
+    "subject_lighting": "Soft overhead illumination across the woman's face, hair, shoulders and robe, with subtle shadowing beneath the cheekbones and chin",
+    "background_lighting": "Warm pools of light visible on the upper cabinets, backsplash and countertop",
+    "shadows": "Soft, realistic residential lighting shadows with slightly darker areas around the appliances and beneath the cabinets",
+    "exposure": "Natural smartphone autoexposure, retaining detail in the illuminated cabinets while preserving darker tones in the black satin robe",
+    "white_balance": "Warm indoor white balance with subtle beige and amber undertones"
+  },
+  "camera": {
+    "device": "iPhone 17 Pro Max",
+    "lens": "24mm equivalent wide-angle main camera",
+    "aperture": "f/1.8",
+    "capture_mode": "Standard Photo mode",
+    "iso": "400",
+    "shutter_speed": "1/60",
+    "focus": "Sharp focus on the woman's face and upper body with recognizable kitchen details throughout the frame",
+    "dynamic_range": "Natural smartphone HDR with controlled ceiling-light highlights and realistic indoor shadows",
+    "image_processing": "Apple Smart HDR aesthetic with subtle computational sharpening, realistic indoor noise reduction and natural skin-tone reproduction",
+    "resolution": "2K",
+    "compression": "None"
+  },
+  "visual_style": {
+    "aesthetic": "Authentic candid iPhone lifestyle photography, casual late-night apartment snapshot",
+    "mood": "Relaxed, intimate, understated and effortlessly stylish",
+    "color_grading": "Warm neutral indoor tones with subdued saturation, soft highlights, natural skin tones and deep black fabric",
+    "contrast": "Moderate natural contrast with gently illuminated skin against the darker satin robe",
+    "skin_texture": "Photorealistic skin featuring visible pores, subtle natural imperfections, fine facial hair and realistic tonal variations",
+    "fabric_texture": "Realistic black satin with subtle specular reflections, natural creases and finely detailed lace",
+    "realism": "Indistinguishable from an authentic handheld smartphone photograph taken inside a real apartment",
+    "finishing": "Minimal editing, natural color reproduction, no excessive retouching and no cinematic filters"
+  },
+  "negative_prompt": [
+    "Professional studio photography",
+    "Commercial fashion campaign",
+    "Editorial lighting",
+    "Artificially perfect skin",
+    "Airbrushed face",
+    "Plastic or waxy skin",
+    "Excessive beauty retouching",
+    "Unrealistic body proportions",
+    "Exaggerated anatomy",
+    "Distorted hands",
+    "Extra fingers",
+    "Warped kitchen cabinets",
+    "Bent architectural lines",
+    "Floating objects",
+    "Unrealistic fabric",
+    "Artificial satin reflections",
+    "Overly saturated colors",
+    "Exaggerated cinematic bokeh",
+    "Artificial lens flares",
+    "Heavy film grain",
+    "Extreme HDR",
+    "Overexposed ceiling lights",
+    "Overprocessed sharpening",
+    "Compression artifacts",
+    "Text overlays",
+    "Watermarks",
+    "Logos"
+  ]
+}

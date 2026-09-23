@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 89 standalone prompts · Updated September 21, 2026**
+**5 creative workflows · 97 standalone prompts · Updated September 23, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2286,6 +2286,179 @@ A wide-angle photograph of a busy night market in Bangkok, shot at eye level wit
 
 <sub>(by [Jim Clyde Monge](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)) · [Source: Generative AI](https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2)</sub>
 
+<a id="p92-night-train-window-portrait"></a>
+
+### 📌 1.33. Night Train Window Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p92-night-train-window-portrait/source-example-01.jpg" width="225" height="400" alt="Night Train Window Portrait — source example">](assets/p92-night-train-window-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → cinematic train-window portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Create a photorealistic cinematic portrait photograph of a young adult woman sitting alone by the window of a modern intercity train.
+
+COMPOSITION:
+Vertical 9:16 portrait frame. Camera positioned from the aisle, slightly behind the seat in front of her, looking diagonally toward the window seat. A large blurred train seat dominates the lower-left foreground, creating strong depth and framing the subject. The woman is positioned in the center-right of the frame, partially hidden behind the foreground seat. Her reflection is clearly visible in the train window on the right.
+
+SUBJECT:
+Young adult woman with fair skin, natural freckles, soft facial features, medium-length copper-red hair with messy natural bangs falling across her forehead. Her hair is slightly tousled and imperfect, with individual strands visible. She has light blue-gray eyes, natural eyebrows, subtle eyelashes, soft pink natural lips and a completely natural face with no heavy makeup.
+
+She is wearing a loose beige/taupe hoodie with the hood resting around the back of her head and shoulders. The hoodie has realistic soft fabric texture and natural folds.
+
+POSE AND EXPRESSION:
+She is sitting beside the window, leaning slightly toward the aisle and looking directly toward the camera with a quiet, tired, introspective expression. Her head is tilted slightly downward and toward the foreground seat. Relaxed posture, lips gently closed, subtle melancholy mood. Natural candid moment, not posing for the camera.
+
+TRAIN INTERIOR:
+Realistic modern European-style train interior. Dark charcoal-gray fabric seats with small scattered red geometric patterns. Multiple rows of seats extend into the background. The foreground seat is very close to the camera and heavily out of focus. Another passenger is barely visible far in the background, also heavily blurred.
+
+WINDOW:
+Large train window immediately beside the woman. The glass has subtle reflections and slight smudges. Her face and upper body appear as a soft but recognizable reflection in the window. Outside the window is an indistinct muted urban/rural landscape, completely blurred because of the moving train.
+
+LIGHTING:
+Soft natural daylight entering through the train window from the right side. Warm, slightly golden daylight illuminates her face and copper hair while the train interior remains darker and subdued. Gentle cinematic contrast, soft shadows, realistic skin highlights, subtle reflected light from the window.
+
+CAMERA:
+Professional cinematic photography, 50mm lens, approximately f/1.8, shallow depth of field. Focus precisely on the woman's eyes and face. Foreground seat and background passenger strongly blurred. Natural perspective, realistic optical depth, subtle lens compression.
+
+COLOR AND MOOD:
+Muted cinematic color grading with warm copper/orange tones in the hair and beige hoodie contrasted against cool dark blue-gray train seats and window tones. Soft filmic contrast, slightly desaturated colors, natural skin tones, subtle grain, atmospheric and intimate feeling.
+
+REALISM:
+Ultra-photorealistic, authentic candid photography, realistic skin pores and freckles, individual hair strands, realistic fabric texture, physically accurate reflections in glass, natural imperfections, realistic train materials, true photographic depth of field, no artificial beauty retouching.
+
+NEGATIVE PROMPT:
+cartoon, anime, illustration, CGI, 3D render, plastic skin, excessive makeup, perfect skin, beauty filter, oversharpening, unrealistic eyes, distorted face, extra fingers, deformed hands, duplicate person, duplicated reflection, incorrect reflection, artificial hair, glossy skin, studio lighting, fantasy train, text, watermark, logo, low resolution, excessive HDR, oversaturated colors
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2102635863893307394)) · [Source: X](https://x.com/harboriis/status/2102635863893307394)</sub>
+
+<a id="p94-luxury-suv-night-selfie-reconstruction"></a>
+
+### 📌 1.34. Luxury SUV Night Selfie Reconstruction
+
+#### 👀 Preview
+
+[<img src="assets/p94-luxury-suv-night-selfie-reconstruction/source-example-01.jpg" width="312" height="400" alt="Luxury SUV Night Selfie Reconstruction — source example">](assets/p94-luxury-suv-night-selfie-reconstruction/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → luxury-SUV night selfie reconstruction`
+
+#### 🔖 Full Prompt
+
+```text
+Use the uploaded image as the sole visual authority. Recreate it as a highly photorealistic vertical nighttime smartphone selfie taken from the rear passenger seat of a white luxury SUV. Preserve the woman’s identity, facial proportions, expression, skin tone, very long center-parted blonde hair, natural soft-glam makeup, black dress, silver metal-link watch, seated pose, extended camera arm, raised hand beside her temple, fabric-covered bent knee, handbag, cabin layout, flash lighting, reflections, perspective, crop, and framing.
+
+COMPOSITION
+Use a wide-angle arm’s-length selfie perspective in portrait orientation, approximately 1108:1420. Keep generous ceiling space above the subject. Place her face slightly left of center, torso in the lower center, and raised knee in the lower-right foreground. Let the extended arm enter through the left edge and appear naturally enlarged by proximity. Preserve the bottom crop through the handbag, lap, and dress-covered leg; do not tighten the image into a headshot.
+
+SUBJECT AND STYLING
+Show an adult woman with warm light-to-medium golden-tan skin, a softly elongated oval face, muted brown-hazel almond eyes, softly arched ash-brown brows, a slender straight nose, full peachy rose-nude lips, visible natural pores, and restrained flash highlights. Her very long beige-golden blonde hair has champagne highlights, a near-center part, darker roots, mostly straight lengths with gentle bends, and natural strand separation. She wears a fitted, opaque matte black short-sleeved high-neck dress with realistic waist and lap folds. Keep her silver stainless-steel link watch beside her temple and a black quilted leather shoulder bag with a gold-toned chain near her hip. Do not add prominent earrings or other accessories.
+
+POSE AND EXPRESSION
+She reclines casually with one knee raised, looking directly into the lens with a calm, self-assured expression. Her lips are slightly parted, brows relaxed, and raised hand rests lightly beside the temple with anatomically correct fingers and wrist rotation. Maintain realistic shoulder connections, limb lengths, seated geometry, and wide-angle perspective.
+
+VEHICLE INTERIOR
+Reproduce white perforated leather seats and headrest with narrow black piping, an ivory perforated headliner scattered with warm-white fiber-optic starlights, a diagonal padded grab handle, a dark side window with faint hair and arm reflections, a pale upholstered pillar, glossy carbon-fiber trim, polished chrome details, a recessed rectangular door handle, and a broad white leather armrest. Keep the exterior nearly black. Do not add a second person, reflected face, visible phone, or bright outdoor scene.
+
+LIGHTING AND CAMERA
+Use direct nighttime phone flash from beside the lens, softened by the white cabin. Clearly illuminate the face, hair, arms, dress, and nearby upholstery while preserving deep shadows in the window and cabin recesses. Use neutral flash color with warm skin and starlights, controlled highlights, realistic low-light sensor texture, moderate smartphone sharpening, broad depth of field, and the visual character of a 24–28mm wide selfie lens. The result must look like a real high-resolution phone photograph, not a studio portrait.
+
+Remove all text, buttons, icons, timestamps, watermarks, and interface graphics. Avoid beauty filters, waxy skin, excessive retouching, distorted anatomy, extra fingers, duplicated limbs, incorrect reflections, glossy satin fabric, low necklines, lace, straps, added logos, artificial bloom, CGI, 3D rendering, oversaturated color, extreme HDR, or invented cabin elements.
+```
+
+<sub>(by [@noneugc](https://x.com/noneugc/status/2102655295335936032)) · [Source: X](https://x.com/noneugc/status/2102655295335936032) · Reference adaptation by SeeAPI</sub>
+
+<a id="p95-minimalist-kitchen-iphone-ugc-portrait"></a>
+
+### 📌 1.35. Minimalist Kitchen iPhone UGC Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p95-minimalist-kitchen-iphone-ugc-portrait/source-example-01.jpg" width="224" height="400" alt="Minimalist Kitchen iPhone UGC Portrait — source example">](assets/p95-minimalist-kitchen-iphone-ugc-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → candid iPhone kitchen portrait`
+
+#### 🔖 Full Prompt
+
+```text
+Create a photorealistic vertical iPhone lifestyle photograph of an attractive adult blonde woman standing in a modern minimalist apartment kitchen at night. The image should feel like a genuine handheld late-night snapshot rather than a professional fashion campaign.
+
+SUBJECT
+Show an adult woman in her mid-20s with fair, lightly sun-kissed skin, a softly defined oval face, full naturally pink lips, sculpted brows, and blue-green eyes. Her blonde hair has darker natural roots and is gathered into a loose, slightly messy high bun with a few wispy strands. Preserve realistic pores, fine facial hair, subtle tonal variation, and small natural imperfections. She wears a short black satin robe with delicate lace trim, loosely tied at the waist. Render the satin with restrained, physically believable reflections and natural folds.
+
+POSE AND COMPOSITION
+Frame a full-body vertical portrait from a natural handheld smartphone viewpoint around waist-to-chest height, approximately 2–3 meters from the subject. Place her near the center aisle between the left countertop and right built-in appliances. She stands in a relaxed contrapposto pose, body angled slightly away while turning her head back toward the camera. Keep generous negative space above her, showing the tall cabinets and recessed ceiling lights. Use a moderately wide 24mm-equivalent perspective and deep smartphone depth of field so both the woman and kitchen remain recognizable.
+
+KITCHEN
+Use a contemporary European minimalist interior with floor-to-ceiling matte greige cabinetry, warm off-white and cream surfaces, a white marble backsplash with delicate gray veining, a black induction cooktop, black frying pan, matte black curved faucet, built-in black microwave and oven, large light porcelain floor tiles, and clean architectural lines. Include believable everyday details: a freshly baked savory pie or quiche in a white ceramic dish in the lower-left foreground, a wooden board with baked bread or pastry, a dark green olive-oil bottle, small seasoning jars, and a clear soap dispenser. Keep the setting lived-in but uncluttered.
+
+LIGHTING AND CAMERA
+Light the scene with warm 3000–3500K recessed ceiling downlights and under-cabinet LEDs. Create soft directional illumination on the face, hair, robe, cabinets, backsplash, and countertop, with realistic darker areas beneath cabinets and around appliances. Emulate an iPhone 17 Pro Max main camera with a 24mm-equivalent lens at f/1.8, ISO 400, 1/60 second, natural auto exposure, controlled ceiling highlights, subtle computational sharpening, realistic indoor noise reduction, and warm neutral white balance. Use moderate natural contrast, subdued saturation, deep blacks, and minimal editing.
+
+Avoid studio or editorial lighting, airbrushed or plastic skin, exaggerated anatomy, distorted hands, extra fingers, warped cabinets, bent architectural lines, floating objects, artificial fabric reflections, excessive bokeh, lens flares, heavy film grain, extreme HDR, overexposed lights, oversharpening, compression artifacts, text, watermarks, and logos.
+```
+
+<sub>(by [@cvcvta](https://x.com/cvcvta/status/2102600005693391324)) · [Source: X](https://x.com/cvcvta/status/2102600005693391324) · Reference adaptation by SeeAPI</sub>
+
+<a id="p96-ducati-night-motorcycle-hero-portrait"></a>
+
+### 📌 1.36. Ducati Night Motorcycle Hero Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p96-ducati-night-motorcycle-hero-portrait/source-example-01.jpg" width="300" height="400" alt="Ducati Night Motorcycle Hero Portrait — source example">](assets/p96-ducati-night-motorcycle-hero-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → cinematic night motorcycle portrait`
+
+#### 🔖 Full Prompt
+
+```text
+A breathtaking cinematic 35mm night photograph — an intimate, alluring low-angle hero composition of an exceptionally gorgeous 20-year-old East Asian woman straddling a matte battleship-gray supersport motorcycle in an open asphalt lot at night, captured at eye level in an authentic M1 cinematic narrative register.
+
+The woman possesses an extraordinarily beautiful, doll-like East Asian face with soft youthful cheeks, a delicate tapered chin, fair glowing porcelain skin with visible fine pore texture, and a faint peachy flush. Her dark brown hair is pulled tightly into a high, sleek ponytail that cascades down her back, with soft natural wisps and fine baby hairs framing her temples and forehead. Her large, dark almond eyes look slightly off-camera with a cool, captivating, and slightly aloof expression, paired with naturally glossy rose lips. She has a slender yet strikingly curvaceous figure. She wears a retro-chic cropped leather moto racing jacket in bold crimson-red and black with crisp white piping, left unzipped at the collar to reveal a snug fitted white scoop-neck camisole. She pairs it with high-waisted black shorts and black patent leather platform biker boots, with her long, bare porcelain legs creating a stunning sensual contrast against the dark mechanical motorcycle. She is posed leaning her torso forward across the fuel tank, her chest pressed close to the frame, left arm braced while her right hand grips the black clip-on handlebar, with one slender leg bent and raised high along the rear seat cowl in an effortlessly cool and alluring riding posture.
+
+The motorcycle is a sleek, aggressive modern superbike finished in smooth matte battleship cement-gray, featuring sharp aerodynamic dual front headlights, a glossy black-tinted windscreen, and exposed mechanical engine components on the dark tarmac beneath. The deep nighttime background melts into soft, dark industrial textures with a few distant amber runway marker lights softly blurred into gentle bokeh.
+
+The lighting is governed by clean, high-fashion nighttime flash physics — a crisp, flattering cool daylight-balanced key light from the front-left illuminates her porcelain face, collarbones, and bare legs with radiant, dewy clarity, while casting natural subtle shadows under her jaw and along the curves of her jacket, beautifully separating her luminous figure from the dark asphalt and matte gray motorcycle chassis without artificial bloom.
+
+Captured with a wide-latitude digital cinema look on a fast 50mm vintage prime lens at wide aperture T1.8, rendering extreme optical sharpness across her eyes, eyelashes, individual hair strands, leather jacket stitching, and metallic bike hardware, while gracefully melting the dark background into smooth organic blur. Kodak daylight film emulation with rich saturated crimson reds, clean porcelain whites, velvety uncrushed blacks, and authentic skin warmth, finished with fine, organic 35mm theatrical film grain across the frame. Real photographic frame captured on a real cinema camera, real prime lens, real leather jacket, real high-performance superbike, real stunning 20-year-old East Asian human subject, real nighttime asphalt environment — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no fake 3D waxiness, no glow, no halation bloom that reads as artificial.
+```
+
+<sub>(by [@johnAGI168](https://x.com/johnAGI168/status/2102595053021483400)) · [Source: X](https://x.com/johnAGI168/status/2102595053021483400)</sub>
+
+<a id="p97-rainy-bus-stop-multi-model-benchmark"></a>
+
+### 📌 1.37. Rainy Bus Stop Multi-Model Benchmark
+
+#### 👀 Preview
+
+[<img src="assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-01.png" width="400" height="400" alt="Rainy Bus Stop Multi-Model Benchmark — source example 1 — GPT Image 2.5 Sunburst">](assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-01.png)
+
+[<img src="assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-02.png" width="400" height="400" alt="Rainy Bus Stop Multi-Model Benchmark — source example 2 — GPT Image 2.5 Flare">](assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-02.png)
+
+#### 👇 Workflow
+
+`One prompt → Sunburst and Flare comparison`
+
+#### 🔖 Full Prompt
+
+```text
+Photoreal portrait of a woman in her 30s at a rainy bus stop at night, soft neon from a pharmacy sign, slight film grain, no text, no watermark
+```
+
+<sub>(by [u/kaboom-o](https://www.reddit.com/r/generativeAI/comments/1wmq8pj/same_prompt_five_image_models_rainy_busstop)) · [Source: Reddit](https://www.reddit.com/r/generativeAI/comments/1wmq8pj/same_prompt_five_image_models_rainy_busstop)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -3847,6 +4020,132 @@ Vertical culinary monument poster. A single [DISH] is plated on [SURFACE] and ce
 ```
 
 <sub>(by [@miratechtool](https://x.com/miratechtool/status/2101560392589758614)) · [Source: X](https://x.com/miratechtool/status/2101560392589758614)</sub>
+
+<a id="p90-photo-to-illustration-editorial-poster"></a>
+
+### 📌 4.23. Photo-to-Illustration Editorial Poster
+
+#### 👀 Preview
+
+[<img src="assets/p90-photo-to-illustration-editorial-poster/source-example-01.jpg" width="300" height="400" alt="Photo-to-Illustration Editorial Poster — source example 1">](assets/p90-photo-to-illustration-editorial-poster/source-example-01.jpg)
+
+[<img src="assets/p90-photo-to-illustration-editorial-poster/source-example-02.jpg" width="300" height="400" alt="Photo-to-Illustration Editorial Poster — source example 2">](assets/p90-photo-to-illustration-editorial-poster/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → photo-and-illustration editorial poster`
+
+#### 🔖 Full Prompt
+
+```text
+Use the uploaded image as the exact reference. Preserve the original subjects, identities, poses, composition, colors, lighting, background, and key details. Do not add, remove, or rearrange major elements.
+
+Create a vertical 3:4 editorial poster with two sections:
+
+- Top half: keep the original photo natural, sharp, and essentially unchanged.
+- Bottom half: recreate the exact same scene as a refined hand-drawn illustration in soft watercolor, colored pencil, and fine ink sketch style.
+
+Keep the same subjects, positions, perspective, and recognizable details. Use soft pastel tones, a warm off-white paper background, subtle paper texture, and a premium editorial / art-book / postcard feel. Add a soft seamless transition between the photo and illustration.
+
+Add minimal elegant typography: a handwritten-style title and a small simple subtitle. Use context-appropriate text such as “A Brighter Day” and “A Slower Life”, or for pets/family “Good Friends”, “Brighter Days”, or “Happier Tails ♡”.
+
+Optional: add a few subtle hand-drawn decorative details like tiny petals, leaves, hearts, or sketch marks only if they naturally fit.
+
+Do not change identities or the scene, and do not make the lower section look like photorealism, 3D, anime, or cartoon.
+```
+
+<sub>(by [@miratechtool](https://x.com/miratechtool/status/2102656456478589340)) · [Source: X](https://x.com/miratechtool/status/2102656456478589340)</sub>
+
+<a id="p91-cinematic-paper-memory-poster"></a>
+
+### 📌 4.24. Cinematic Paper Memory Poster
+
+#### 👀 Preview
+
+[<img src="assets/p91-cinematic-paper-memory-poster/source-example-01.jpg" width="288" height="360" alt="Cinematic Paper Memory Poster — source example 1">](assets/p91-cinematic-paper-memory-poster/source-example-01.jpg)
+
+[<img src="assets/p91-cinematic-paper-memory-poster/source-example-02.jpg" width="288" height="360" alt="Cinematic Paper Memory Poster — source example 2">](assets/p91-cinematic-paper-memory-poster/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Text → cinematic portrait and layered paper-memory poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium 4:5 editorial art poster featuring an original character and a visually rich personal story.
+
+The upper section should be a highly realistic cinematic portrait of the character in a natural environment connected to their story. Give the character a distinctive appearance, authentic expression, realistic skin texture, believable clothing, and carefully composed environmental details. The scene should feel like a frame from a sophisticated travel or lifestyle magazine.
+
+Gradually transform the lower section of the same composition into an intricate handcrafted layered paper-cut artwork. Reinterpret the character, surroundings, landmarks, objects, and small narrative elements entirely through cut and sculpted paper. Use stacked paper layers, finely cut silhouettes, subtle embossing, folded and torn edges, tactile fibers, miniature details, and realistic depth created by delicate shadows.
+
+Let the paper artwork visually continue elements from the photograph above, almost as if the real world is unfolding into a miniature handmade world. Include visual motifs connected to the character’s city, profession, passion, travels, or personal journey rather than simply copying the photographic scene.
+
+Use a sophisticated palette of warm ivory, parchment, muted earth tones, dusty neutrals, and restrained accent colors, with visible paper grain and handcrafted imperfections. Add elegant editorial typography with a refined serif typeface, a short fictional name or title, and minimal supporting text.
+
+Composition: sophisticated magazine cover aesthetic, strong visual hierarchy, generous negative space, balanced symmetry, premium art direction, subtle cinematic lighting, tactile realism, museum-quality paper craftsmanship.
+
+The key visual idea is: a real cinematic moment evolving into a handcrafted paper memory.
+
+No reference image, no existing celebrity likeness, no copied composition. Create the character, environment, and narrative from scratch while maintaining a polished, recognizable visual identity throughout.
+```
+
+<sub>(by [@j_smeaton99](https://x.com/j_smeaton99/status/2102653995919487110)) · [Source: X](https://x.com/j_smeaton99/status/2102653995919487110)</sub>
+
+<a id="p93-collectible-souvenir-box-travel-posters"></a>
+
+### 📌 4.25. Collectible Souvenir Box Travel Posters
+
+#### 👀 Preview
+
+[<img src="assets/p93-collectible-souvenir-box-travel-posters/source-example-01.jpg" width="320" height="400" alt="Collectible Souvenir Box Travel Posters — source example 1">](assets/p93-collectible-souvenir-box-travel-posters/source-example-01.jpg)
+
+[<img src="assets/p93-collectible-souvenir-box-travel-posters/source-example-02.jpg" width="320" height="400" alt="Collectible Souvenir Box Travel Posters — source example 2">](assets/p93-collectible-souvenir-box-travel-posters/source-example-02.jpg)
+
+[<img src="assets/p93-collectible-souvenir-box-travel-posters/source-example-03.jpg" width="320" height="400" alt="Collectible Souvenir Box Travel Posters — source example 3">](assets/p93-collectible-souvenir-box-travel-posters/source-example-03.jpg)
+
+[<img src="assets/p93-collectible-souvenir-box-travel-posters/source-example-04.jpg" width="320" height="400" alt="Collectible Souvenir Box Travel Posters — source example 4">](assets/p93-collectible-souvenir-box-travel-posters/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`Country variable → collectible souvenir-box travel poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium 4:5 vertical Instagram travel poster for [COUNTRY], designed as part of a cohesive collectible “Souvenir Box” series.
+
+Show an open vintage cardboard travel box containing exactly 10 culturally authentic souvenirs from [COUNTRY]: 1 hero object, 2–3 supporting objects, and additional smaller keepsakes. Choose objects with varied materials, sizes, shapes, and cultural significance.
+
+Include exactly 4 paper elements:
+
+- A folded illustrated map showing 4 different destinations
+- A perforated vintage travel ticket
+- A die-cut [COUNTRY] destination sticker
+- One culturally appropriate paper-craft element
+
+Use a warm textured-paper background with subtle fibers and imperfections. Place huge distressed condensed “[COUNTRY]” typography behind the box.
+
+Develop a unique color palette inspired by the country's landscape, architecture, traditional crafts, and culture, using a dominant tone, secondary tone, warm neutral, accent, and dark text color.
+
+Style
+
+Premium tactile 3D collectible illustration + vintage international travel poster + editorial magazine cover + nostalgic packaging design. Use soft studio lighting, realistic contact shadows, subtle ambient occlusion, material grain, paper texture, and handmade imperfections. Keep it sophisticated and tactile rather than glossy CGI.
+
+Add restrained travel ephemera: 4–7 stamps/badges/labels, an arrival mark, postage details, route arrows, coordinates, small travel metadata, a culturally appropriate local-language phrase, and:
+
+“COLLECT MEMORIES NOT THINGS.”
+
+Maintain a clear hierarchy:
+
+COUNTRY title → hero souvenir → supporting objects → remaining keepsakes → graphic details.
+
+Use strong negative space, balanced composition, rich but controlled detail, and excellent thumbnail readability.
+
+Every country must receive a fresh, original composition based on its own cultural identity. Never copy another reference's layout, objects, typography arrangement, or visual composition.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2102630540293837041)) · [Source: X](https://x.com/Goodmanprotocol/status/2102630540293837041)</sub>
 
 ## 🏡 Home & Interior Design
 

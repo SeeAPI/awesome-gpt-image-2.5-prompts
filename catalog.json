@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-23",
   "entries": [
     {
       "id": "C01",
@@ -4475,6 +4475,438 @@
       "updated": "2026-09-21",
       "readme_anchor": "p89-endangered-animal-infographic",
       "display_number": "6.10"
+    },
+    {
+      "id": "P90",
+      "title": "Photo-to-Illustration Editorial Poster",
+      "title_zh": "照片转手绘插画编辑海报",
+      "slug": "p90-photo-to-illustration-editorial-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@miratechtool",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/miratechtool/status/2102656456478589340",
+        "publisher": "@miratechtool",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102656456478589340",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p90-photo-to-illustration-editorial-poster.md",
+      "prompts": [
+        "prompts/p90-photo-to-illustration-editorial-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p90-photo-to-illustration-editorial-poster/image-prompt.txt": "prompts/p90-photo-to-illustration-editorial-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p90-photo-to-illustration-editorial-poster/image-prompt.txt": "0204decf9d56482917f1fae38412e078f0d6ef103934187c16d2f3ab16627ebd"
+      },
+      "preview": "assets/p90-photo-to-illustration-editorial-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p90-photo-to-illustration-editorial-poster/source-example-01.jpg",
+          "sha256": "c746d7a38b0a4c509a6293ad981f7f4deee0b063ca8406065697366dd4be6764",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p90-photo-to-illustration-editorial-poster/source-example-02.jpg",
+          "sha256": "e693c227c96f428ec6ceb5a2101f9e1243dadaf8607cf88629f62aba817d80ba",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p90-photo-to-illustration-editorial-poster",
+      "display_number": "4.23"
+    },
+    {
+      "id": "P91",
+      "title": "Cinematic Paper Memory Poster",
+      "title_zh": "电影感纸艺记忆海报",
+      "slug": "p91-cinematic-paper-memory-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@j_smeaton99",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/j_smeaton99/status/2102653995919487110",
+        "publisher": "@j_smeaton99",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102653995919487110",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p91-cinematic-paper-memory-poster.md",
+      "prompts": [
+        "prompts/p91-cinematic-paper-memory-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p91-cinematic-paper-memory-poster/image-prompt.txt": "prompts/p91-cinematic-paper-memory-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p91-cinematic-paper-memory-poster/image-prompt.txt": "e4a79f4ec51cc43e9310e440b9f946ff14ab37e1f9a12834d65abb4381eeef64"
+      },
+      "preview": "assets/p91-cinematic-paper-memory-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p91-cinematic-paper-memory-poster/source-example-01.jpg",
+          "sha256": "3ea1fd2fd2e12523e1d93641b0276e5537d80e003237bc406909647f848c58b5",
+          "width": 288,
+          "height": 360,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p91-cinematic-paper-memory-poster/source-example-02.jpg",
+          "sha256": "17528e47b9eb73c7c52c2dc7d9865943668dc955f5e8d05c819de8389d4ff4d4",
+          "width": 288,
+          "height": 360,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p91-cinematic-paper-memory-poster",
+      "display_number": "4.24"
+    },
+    {
+      "id": "P92",
+      "title": "Night Train Window Portrait",
+      "title_zh": "夜间列车窗边人像",
+      "slug": "p92-night-train-window-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@harboriis",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/harboriis/status/2102635863893307394",
+        "publisher": "@harboriis",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102635863893307394",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p92-night-train-window-portrait.md",
+      "prompts": [
+        "prompts/p92-night-train-window-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p92-night-train-window-portrait/image-prompt.txt": "prompts/p92-night-train-window-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p92-night-train-window-portrait/image-prompt.txt": "497dc84285f26d53bebbbbe907605bccdb5e082e81fabfd3dede2739b18c91bb"
+      },
+      "preview": "assets/p92-night-train-window-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p92-night-train-window-portrait/source-example-01.jpg",
+          "sha256": "7996e8e36ad7d15deecc3f3dfe31319d05de83d7ccc0d0d39906265a6b22e4ac",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p92-night-train-window-portrait",
+      "display_number": "1.33"
+    },
+    {
+      "id": "P93",
+      "title": "Collectible Souvenir Box Travel Posters",
+      "title_zh": "收藏式旅行纪念盒海报",
+      "slug": "p93-collectible-souvenir-box-travel-posters",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2102630540293837041",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102630540293837041",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p93-collectible-souvenir-box-travel-posters.md",
+      "prompts": [
+        "prompts/p93-collectible-souvenir-box-travel-posters/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p93-collectible-souvenir-box-travel-posters/image-prompt.txt": "prompts/p93-collectible-souvenir-box-travel-posters/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p93-collectible-souvenir-box-travel-posters/image-prompt.txt": "32ff43bbb6b3d949164f5ec01403daecf1c523f4f16ad21caca7cd61a7415bba"
+      },
+      "preview": "assets/p93-collectible-souvenir-box-travel-posters/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p93-collectible-souvenir-box-travel-posters/source-example-01.jpg",
+          "sha256": "3f1c31e2319a17a8f3499766d76fee00c617474b255ef28b90c959854bb6b6fe",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p93-collectible-souvenir-box-travel-posters/source-example-02.jpg",
+          "sha256": "839d4a4a9ec03b26401d48948d27d233ea2f5e81c1667e810c8a89b0329db01b",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p93-collectible-souvenir-box-travel-posters/source-example-03.jpg",
+          "sha256": "650ae76b39affc06a32a642c258cb6d52ade84246656ca93858d12ccd9a49a6a",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p93-collectible-souvenir-box-travel-posters/source-example-04.jpg",
+          "sha256": "38569b7f0988ec89cef8473c5b96398f5a694727e4b6ba8c23c0f7ee6e3c9225",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p93-collectible-souvenir-box-travel-posters",
+      "display_number": "4.25"
+    },
+    {
+      "id": "P94",
+      "title": "Luxury SUV Night Selfie Reconstruction",
+      "title_zh": "豪华 SUV 夜间自拍重建",
+      "slug": "p94-luxury-suv-night-selfie-reconstruction",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@noneugc",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/noneugc/status/2102655295335936032",
+        "publisher": "@noneugc",
+        "author_status": "credited-by-source",
+        "relationship": "adapted",
+        "item_key": "2102655295335936032",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p94-luxury-suv-night-selfie-reconstruction.md",
+      "prompts": [
+        "prompts/p94-luxury-suv-night-selfie-reconstruction/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p94-luxury-suv-night-selfie-reconstruction/image-prompt.txt": "prompts/p94-luxury-suv-night-selfie-reconstruction/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p94-luxury-suv-night-selfie-reconstruction/image-prompt.txt": "86a99e12754c3c10445c031d29634ba30b8c4d6db08b435f6bf7601d761fac6c"
+      },
+      "preview": "assets/p94-luxury-suv-night-selfie-reconstruction/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p94-luxury-suv-night-selfie-reconstruction/source-example-01.jpg",
+          "sha256": "281a6c176b9baf9a00a7895a243de631d29834e50233373a18c7781c6b791d34",
+          "width": 531,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p94-luxury-suv-night-selfie-reconstruction",
+      "display_number": "1.34",
+      "original_prompt": "docs/source-prompts/p94-luxury-suv-night-selfie-reconstruction.txt",
+      "adapted_by": "SeeAPI"
+    },
+    {
+      "id": "P95",
+      "title": "Minimalist Kitchen iPhone UGC Portrait",
+      "title_zh": "极简厨房 iPhone UGC 人像",
+      "slug": "p95-minimalist-kitchen-iphone-ugc-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@cvcvta",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/cvcvta/status/2102600005693391324",
+        "publisher": "@cvcvta",
+        "author_status": "credited-by-source",
+        "relationship": "adapted",
+        "item_key": "2102600005693391324",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p95-minimalist-kitchen-iphone-ugc-portrait.md",
+      "prompts": [
+        "prompts/p95-minimalist-kitchen-iphone-ugc-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p95-minimalist-kitchen-iphone-ugc-portrait/image-prompt.txt": "prompts/p95-minimalist-kitchen-iphone-ugc-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p95-minimalist-kitchen-iphone-ugc-portrait/image-prompt.txt": "394bf102bc64c7a3fba2c7910892439b87ba7a9902b9f81a9f18cfa3f180c29d"
+      },
+      "preview": "assets/p95-minimalist-kitchen-iphone-ugc-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p95-minimalist-kitchen-iphone-ugc-portrait/source-example-01.jpg",
+          "sha256": "a02d56a9eb8ee078ceb4d7a717d12cba7424e020fa146031d998ffac48030684",
+          "width": 381,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p95-minimalist-kitchen-iphone-ugc-portrait",
+      "display_number": "1.35",
+      "original_prompt": "docs/source-prompts/p95-minimalist-kitchen-iphone-ugc-portrait.txt",
+      "adapted_by": "SeeAPI"
+    },
+    {
+      "id": "P96",
+      "title": "Ducati Night Motorcycle Hero Portrait",
+      "title_zh": "杜卡迪夜间机车主角人像",
+      "slug": "p96-ducati-night-motorcycle-hero-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@johnAGI168",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/johnAGI168/status/2102595053021483400",
+        "publisher": "@johnAGI168",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102595053021483400",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p96-ducati-night-motorcycle-hero-portrait.md",
+      "prompts": [
+        "prompts/p96-ducati-night-motorcycle-hero-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p96-ducati-night-motorcycle-hero-portrait/image-prompt.txt": "prompts/p96-ducati-night-motorcycle-hero-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p96-ducati-night-motorcycle-hero-portrait/image-prompt.txt": "6e1373bd321f3abfbf2c9c56cb258761f0ffd6532c4942c3a5d1f368919875dc"
+      },
+      "preview": "assets/p96-ducati-night-motorcycle-hero-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p96-ducati-night-motorcycle-hero-portrait/source-example-01.jpg",
+          "sha256": "6ce4519dc3638b139b2b5fb6343ab607769cb8b09a3a0725ac47bd9eb4a4ae66",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p96-ducati-night-motorcycle-hero-portrait",
+      "display_number": "1.36"
+    },
+    {
+      "id": "P97",
+      "title": "Rainy Bus Stop Multi-Model Benchmark",
+      "title_zh": "雨夜公交站多模型对比",
+      "slug": "p97-rainy-bus-stop-multi-model-benchmark",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "u/kaboom-o",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/generativeAI/comments/1wmq8pj/same_prompt_five_image_models_rainy_busstop",
+        "publisher": "u/kaboom-o",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "1wmq8pj-sunburst-flare",
+        "platform": "Reddit"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p97-rainy-bus-stop-multi-model-benchmark.md",
+      "prompts": [
+        "prompts/p97-rainy-bus-stop-multi-model-benchmark/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p97-rainy-bus-stop-multi-model-benchmark/image-prompt.txt": "prompts/p97-rainy-bus-stop-multi-model-benchmark/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p97-rainy-bus-stop-multi-model-benchmark/image-prompt.txt": "3fcf5e4159df9e0cc7817813667c1c2bfadd3650b818a9a31a653e8aeff8ab79"
+      },
+      "preview": "assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-01.png",
+          "sha256": "a25e05c8984599d7bc771f11a2ba9710686f2d07de34be116879e05d12214c01",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example",
+          "variant": "GPT Image 2.5 Sunburst"
+        },
+        {
+          "path": "assets/p97-rainy-bus-stop-multi-model-benchmark/source-example-02.png",
+          "sha256": "f0d75c137e60e4acd8334c6250f74278dcc46476e7f90125385f07dc809b32f2",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example",
+          "variant": "GPT Image 2.5 Flare"
+        }
+      ],
+      "updated": "2026-09-23",
+      "readme_anchor": "p97-rainy-bus-stop-multi-model-benchmark",
+      "display_number": "1.37"
     }
   ]
 }

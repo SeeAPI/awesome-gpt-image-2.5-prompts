@@ -1,0 +1,424 @@
+{
+  "prompt_type": "photorealistic_reference_reconstruction",
+  "objective": "Recreate the supplied image as closely as possible as a vertical nighttime smartphone selfie inside a white luxury SUV. Match the woman's face, expression, skin tone, blonde hair, makeup, black dress, wristwatch, handbag, seated pose, extended arm, raised hand, covered bent knee, flash lighting, upholstery, carbon-fiber trim, starlight ceiling, reflections, perspective, and framing. Remove text, buttons, icons, timestamps, watermarks, and interface elements. The attached image is the visual authority.",
+  "reference_fidelity": {
+    "target": "extremely high visual similarity",
+    "priority_order": [
+      "portrait crop, generous ceiling area, and subject placement",
+      "facial proportions, head angle, gaze, and parted lips",
+      "extended foreground arm and hand beside temple",
+      "very long center-parted blonde hair",
+      "black short-sleeved high-neck dress",
+      "fabric-covered knee in lower-right foreground",
+      "white perforated upholstery and black piping",
+      "starlight ceiling and diagonal grab handle",
+      "dark window and faint reflections",
+      "silver watch and black quilted chain handbag",
+      "direct flash and natural skin",
+      "wide-angle smartphone rendering"
+    ]
+  },
+  "canvas": {
+    "orientation": "portrait",
+    "aspect_ratio": "approximately 1108:1420",
+    "framing": "wide-angle rear-passenger smartphone selfie",
+    "crop": "ceiling at top; handbag, lap, and covered knee at bottom",
+    "subject_scale": "central and lower frame, with enlarged foreground arm and knee",
+    "subject_alignment": "face slightly left of center, torso central, knee lower-right",
+    "camera_distance": "arm's length",
+    "headroom": "generous; hair begins approximately 37 percent down the frame",
+    "bottom_crop": "cuts through handbag and dress-covered leg",
+    "left_background": "white headrest and perforated seatback",
+    "right_background": "dark window, pale pillar, carbon fiber, chrome handle, white armrest",
+    "instruction": "Preserve the large ceiling area and foreground perspective; do not tighten into a headshot."
+  },
+  "scene": {
+    "location": "rear passenger seat of a white Rolls-Royce Cullinan-style cabin",
+    "time_of_day": "night",
+    "mood": "relaxed, composed, luxurious",
+    "visual_style": "realistic flash-lit smartphone selfie",
+    "background_complexity": "detailed cabin against a nearly black exterior",
+    "environment": {
+      "seating": "white perforated leather with narrow black piping",
+      "ceiling": "ivory perforated headliner with scattered warm-white starlights",
+      "door": "white leather, glossy carbon fiber, polished chrome",
+      "window": "dark side glass with faint reflections",
+      "lighting": "frontal flash with softer shadow across the ceiling and distant cabin"
+    }
+  },
+  "subject": {
+    "description": "adult woman taking a seated nighttime selfie",
+    "position": "central lower foreground",
+    "body_visibility": "head, neck, torso, both arms, raised hand, and covered bent leg",
+    "pose": {
+      "head": "nearly upright, slightly tilted toward the raised hand",
+      "torso": "relaxed against the seat, subtly angled toward camera",
+      "shoulders": "relaxed, camera-side shoulder projecting forward",
+      "camera_arm": "extended toward the lens through the left edge, enlarged by proximity",
+      "posture": "casually reclining with one knee raised"
+    },
+    "expression": {
+      "overall": "calm and self-assured",
+      "mouth": "slightly open with a narrow glimpse of upper teeth",
+      "lips": "softly parted natural pout",
+      "gaze": "directly into the lens",
+      "brows": "relaxed, softly arched"
+    },
+    "skin": {
+      "tone": "warm light-to-medium golden tan",
+      "undertone": "peach-gold",
+      "finish": "natural satin under flash",
+      "texture": "fine believable pores and tonal variation",
+      "freckles_and_marks": "retain visible reference details without adding conspicuous marks",
+      "highlights": "forehead, nose, cheeks, lips, and forearms",
+      "retouching": "light, natural, never waxy"
+    },
+    "face": {
+      "shape": "soft elongated oval",
+      "forehead": "medium height framed by center-parted hair",
+      "cheekbones": "softly defined with warm blush",
+      "jaw": "gently tapered",
+      "chin": "small and rounded",
+      "eyes": {
+        "shape": "almond-shaped with subtly lifted outer corners",
+        "color": "match the reference's muted brown-hazel appearance",
+        "size": "medium and proportionate",
+        "lashes": "long, dark, lifted, separated",
+        "eyeliner": "fine lash-line definition with restrained extension",
+        "eyeshadow": "beige, taupe, and warm neutrals",
+        "catchlights": "small camera-adjacent flash reflections"
+      },
+      "eyebrows": {
+        "shape": "soft arch with tapered ends",
+        "color": "medium ash brown",
+        "density": "medium-full",
+        "finish": "groomed with individual hairs"
+      },
+      "nose": {
+        "shape": "slender and relatively straight",
+        "bridge": "narrow-medium",
+        "tip": "small and rounded",
+        "highlight": "subtle flash reflection"
+      },
+      "lips": {
+        "shape": "full with a defined upper contour",
+        "upper_lip": "gentle cupid's bow",
+        "lower_lip": "slightly fuller",
+        "color": "peachy rose-nude",
+        "liner": "subtle deeper nude",
+        "finish": "soft satin gloss"
+      },
+      "makeup": {
+        "style": "natural soft glam",
+        "foundation": "even, skin-like coverage",
+        "bronzer": "subtle warm shaping",
+        "blush": "muted peach-rose",
+        "highlight": "restrained sheen",
+        "eyes": "neutral shadow, fine liner, defined lashes",
+        "lips": "warm rosy nude"
+      }
+    }
+  },
+  "hair": {
+    "color": "beige-golden blonde with champagne highlights",
+    "style": "very long and loose over both shoulders",
+    "part": "near-center",
+    "texture": "mostly straight with gentle bends through lower lengths",
+    "crown": "smooth, naturally rounded",
+    "front_sections": "frame the face before falling across the chest",
+    "left_face_strand": "broad curtain descending toward handbag and lower-left torso",
+    "right_face_strand": "falls along cheek and chest, curving inward near waist",
+    "back": "remaining lengths fall behind shoulders",
+    "flyaways": "sparse fine strands",
+    "shine": "narrow creamy highlights from flash",
+    "roots": "soft dark-blonde to light ash-brown shading",
+    "length": "lower torso and lap",
+    "ends": "lightly feathered with natural strand separation"
+  },
+  "jewelry": {
+    "earrings": {
+      "type": "none clearly visible",
+      "visibility": "ears concealed by hair",
+      "instruction": "do not add prominent earrings"
+    },
+    "necklace": "none visible",
+    "watch": {
+      "type": "silver metal-link wristwatch",
+      "position": "wrist beside the temple at viewer-right",
+      "bracelet": "segmented links with bright and dark reflections",
+      "face": "oblique and partly concealed",
+      "finish": "polished stainless steel",
+      "scale": "natural wristwatch proportions"
+    }
+  },
+  "wardrobe": {
+    "dress": {
+      "type": "fitted black short-sleeved dress",
+      "color": "deep neutral black",
+      "neckline": "high and gently curved",
+      "construction": "simple continuous garment without boning or decorative hardware",
+      "sleeves": "short fitted sleeves over shoulder caps",
+      "center": "smooth bodice partly concealed by hair",
+      "fit": "fitted torso with natural folds at waist and lap",
+      "material": "opaque matte stretch fabric",
+      "finish": "mostly matte with restrained broad highlights",
+      "wrinkles": "small waist creases and larger draped folds over knee",
+      "coverage": "chest, torso, lap, and visible knee covered",
+      "hem": "not visible",
+      "instruction": "Match the reference dress; no satin, lace, straps, low neckline, or slit."
+    }
+  },
+  "body_and_pose": {
+    "shoulders": "relaxed beneath short sleeves",
+    "collarbones": "mostly covered by neckline and hair",
+    "upper_chest": "covered by dress",
+    "torso": "slightly reclined beneath face",
+    "left_arm": "viewer-left arm extends toward camera, filling the left-middle foreground",
+    "right_side": "viewer-right elbow projects outward; forearm returns toward temple",
+    "raised_hand": {
+      "position": "viewer-right temple and outer cheek",
+      "gesture": "open hand resting lightly against head",
+      "fingers": "close together with natural bends",
+      "palm": "diagonally angled toward camera",
+      "nails": "understated natural or pale nude"
+    },
+    "leg": {
+      "position": "bent upward in lower-right foreground",
+      "appearance": "rounded knee beneath black dress fabric",
+      "perspective": "enlarged by proximity",
+      "crop": "continues beyond bottom and right edges"
+    },
+    "anatomy": "Realistic limb lengths, shoulder connections, wrist rotation, fingers, and seated geometry."
+  },
+  "background": {
+    "left": {
+      "headrest": {
+        "type": "padded luxury rear headrest",
+        "color": "soft white",
+        "shape": "rounded rectangle",
+        "position": "behind and left of the woman's head",
+        "surface": "fine perforated leather",
+        "trim": "narrow black piping",
+        "branding": "plain, as in this reference"
+      },
+      "seatback": {
+        "type": "white perforated leather",
+        "panels": "sculpted padding with stitched boundaries",
+        "dark_elements": "vertical black belt or trim behind arm and handbag",
+        "lighting": "flash-lit surfaces with gray recesses"
+      },
+      "handbag": {
+        "type": "black quilted leather shoulder bag",
+        "position": "lower-left beside hip",
+        "shape": "soft rectangle with rounded edges",
+        "pattern": "elongated diamond quilting",
+        "material": "slightly glossy leather",
+        "strap": "gold-toned chain interwoven with dark leather",
+        "chain_position": "diagonal behind foreground arm and beside hair",
+        "crop": "bottom cut off"
+      }
+    },
+    "center_rear": {
+      "ceiling": {
+        "material": "light ivory with dense fine perforations",
+        "coverage": "upper third and much of upper-left half",
+        "starlights": "many irregularly scattered warm-white fiber-optic points",
+        "light_variation": "mostly tiny points with a few restrained brighter glints",
+        "seams": "subtle diagonal panel seams",
+        "shading": "darker toward far-left and cabin recesses"
+      },
+      "grab_handle": {
+        "position": "upper center-right",
+        "orientation": "diagonal rising toward viewer-right",
+        "body": "padded white grip",
+        "end_caps": "chrome with dark reflective inserts",
+        "perspective": "foreshortened to match roof angle"
+      },
+      "rear_cabin": {
+        "appearance": "dark recess beneath ceiling behind headrest",
+        "detail_level": "subdued, without added objects"
+      }
+    },
+    "right": {
+      "window": {
+        "type": "dark vehicle side glass",
+        "position": "upper-right and middle-right",
+        "exterior": "nearly black",
+        "reflection": "faint warm reflection of blonde hair and arm",
+        "instruction": "No distinct reflected face, second person, phone, or bright outdoor scene."
+      },
+      "pillar": {
+        "type": "thick upholstered window surround",
+        "color": "white to ivory",
+        "shape": "curved diagonal upper frame with broad descending pillar",
+        "surface": "smooth upholstery with subtle seams"
+      },
+      "door": {
+        "upper_trim": "glossy carbon fiber with visible weave",
+        "trim_direction": "across right-middle beneath window",
+        "lower_panel": "white perforated leather with stitched borders",
+        "handle": "recessed rectangular chrome handle at lower-right",
+        "armrest": "broad padded white leather",
+        "reflections": "small sharp highlights on chrome and carbon fiber"
+      }
+    }
+  },
+  "lighting": {
+    "type": "direct nighttime phone flash",
+    "primary_source": "small source beside camera lens",
+    "direction": "frontal",
+    "quality": "direct flash softened by white cabin reflections",
+    "contrast": "moderate on subject, strong against dark window",
+    "subject": "face, hair, arms, and clothing clearly illuminated",
+    "background": "near upholstery visible; exterior and recesses dark",
+    "skin_effect": "warm skin with controlled highlights",
+    "hair_effect": "bright strands and darker root separation",
+    "fabric_effect": "subtle black-fabric shading without satin gloss",
+    "color_temperature": "neutral flash with warm skin and starlights",
+    "shadow_style": "modest facial shadows and deeper shadows behind arm and hair",
+    "white_materials": "retain perforations and stitching without clipping"
+  },
+  "camera": {
+    "device": "modern smartphone selfie-camera appearance",
+    "orientation": "vertical",
+    "lens": "standard wide selfie lens",
+    "focal_length_equivalent": "approximately 24-28mm visual character",
+    "camera_height": "near face level, framed upward to include ceiling",
+    "camera_distance": "one extended arm",
+    "perspective": "enlarged foreground arm and knee, restrained facial distortion",
+    "focus": "eyes, face, hair, and nearby clothing",
+    "depth_of_field": "broad, with recognizable cabin detail",
+    "image_quality": "high-resolution natural phone photograph",
+    "dynamic_range": "detailed white upholstery, warm skin, deep black glass",
+    "processing": "moderate sharpening and subtle noise reduction",
+    "grain": "fine low-light sensor texture",
+    "motion_blur": "none"
+  },
+  "composition_geometry": {
+    "coordinate_system": "approximate percentages from top-left",
+    "face_center": "x=45%, y=46%",
+    "eye_line": "y=44%",
+    "head_top": "x=41%, y=37%",
+    "mouth": "x=47%, y=49%",
+    "shoulder_line": "y=58-61%",
+    "neckline": "x=48%, y=60%",
+    "torso_center": "x=47%, y=76%",
+    "raised_hand": "x=54%, y=48%",
+    "watch": "x=65%, y=53%",
+    "bent_elbow": "x=88%, y=63%",
+    "foreground_arm": "from x=29%, y=59% to left edge at y=56-72%",
+    "headrest": "x=13-33%, y=41-51%",
+    "handbag": "x=4-36%, y=75-100%",
+    "covered_knee": "x=56-100%, y=80-100%",
+    "grab_handle": "diagonal from x=54%, y=20% to x=78%, y=3%",
+    "window": "upper-right and middle-right within white surround",
+    "visual_balance": "pale ceiling above, warm face and blonde hair centrally, black garments below, dark glass at right"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "ivory",
+      "white",
+      "golden tan",
+      "champagne blonde",
+      "beige blonde",
+      "black",
+      "charcoal",
+      "silver",
+      "muted gold"
+    ],
+    "skin": "peach-golden tan",
+    "hair": "beige-golden blonde with cream highlights",
+    "dress": "matte black",
+    "watch": "silver",
+    "handbag": "black with gold-toned chain",
+    "background": "white upholstery, black glass, charcoal carbon fiber",
+    "ceiling_lights": "warm white",
+    "overall_saturation": "moderate",
+    "contrast": "moderately high",
+    "white_balance": "neutral-warm"
+  },
+  "image_texture": {
+    "skin": "fine pores and natural tonal transitions",
+    "hair": "individual strands and sparse flyaways",
+    "dress": "matte fabric with compression and draping folds",
+    "watch": "crisp segmented metal reflections",
+    "headliner": "fine perforations, seams, and embedded light points",
+    "seat_leather": "perforations, restrained grain, stitching, and piping",
+    "carbon_fiber": "regular weave beneath glossy finish",
+    "chrome": "bright highlights and dark reflected shapes",
+    "handbag": "slightly pebbled leather and quilted stitching",
+    "window": "black glass with faint reflections"
+  },
+  "photographic_style": {
+    "genre": "luxury lifestyle smartphone selfie",
+    "aesthetic": "casual nighttime portrait in a white premium cabin",
+    "realism": "extreme photorealism",
+    "retouching": "polished but believable",
+    "production_value": "personal phone photograph with direct flash",
+    "desired_result": "the same seated selfie, preserving crop, pose, facial appearance, cabin geometry, and texture"
+  },
+  "negative_prompt": [
+    "text",
+    "captions",
+    "buttons",
+    "icons",
+    "timestamps",
+    "watermarks",
+    "interface",
+    "borders",
+    "added logos",
+    "different face",
+    "different camera angle",
+    "tight headshot",
+    "insufficient ceiling",
+    "full-body shot",
+    "standing",
+    "side profile",
+    "strong head tilt",
+    "large smile",
+    "looking away",
+    "short hair",
+    "ponytail",
+    "updo",
+    "curly hair",
+    "dark hair",
+    "white platinum hair",
+    "added jewelry",
+    "missing watch",
+    "missing handbag",
+    "red upholstery",
+    "dark seats",
+    "black ceiling",
+    "wood trim",
+    "missing carbon fiber",
+    "oversized ceiling stars",
+    "daylight",
+    "bright exterior",
+    "extra people",
+    "duplicate reflection",
+    "visible phone",
+    "jeans",
+    "lace",
+    "corset",
+    "satin dress",
+    "straps",
+    "low neckline",
+    "slit",
+    "bare knee",
+    "sheer fabric",
+    "studio lighting",
+    "colored lighting",
+    "heavy bokeh",
+    "fisheye",
+    "clipped whites",
+    "plastic skin",
+    "oversmoothing",
+    "CGI",
+    "illustration",
+    "distorted anatomy",
+    "extra fingers",
+    "warped hands",
+    "impossible seat geometry"
+  ],
+  "final_generation_instruction": "Generate one extremely photorealistic vertical smartphone selfie matching the attached image. Preserve the approximately 1108:1420 crop, generous ceiling area, and woman in the central lower frame. Match her face, warm golden-tan skin, parted rosy nude lips, direct gaze, soft-glam makeup, and very long center-parted beige-golden blonde hair. She reclines in a white rear passenger seat, extending one arm through the left foreground while resting the opposite hand beside her temple. Preserve the silver watch, opaque black short-sleeved high-neck dress, covered foreground knee, and black quilted handbag with gold-toned chain. Reconstruct the white perforated seat and plain headrest, black piping, ivory starlight ceiling, diagonal white-and-chrome grab handle, white window surround, dark glass with faint reflections, carbon-fiber trim, chrome handle, and padded armrest. Use frontal phone flash, natural skin texture, detailed blonde strands, matte black fabric, preserved white-leather detail, broad depth of field, and authentic foreground perspective. Do not introduce elements from earlier versions. Remove unrelated text, watermarks, buttons, and interface graphics."
+}

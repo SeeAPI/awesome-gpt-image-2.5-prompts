@@ -1,0 +1,49 @@
+# P92. Night Train Window Portrait
+
+## 👀 Preview
+
+[<img src="../assets/p92-night-train-window-portrait/source-example-01.jpg" width="225" height="400" alt="Night Train Window Portrait — source example">](../assets/p92-night-train-window-portrait/source-example-01.jpg)
+
+## 👇 Workflow
+
+`Text → cinematic train-window portrait`
+
+## 🔖 Full Prompt
+
+```text
+Create a photorealistic cinematic portrait photograph of a young adult woman sitting alone by the window of a modern intercity train.
+
+COMPOSITION:
+Vertical 9:16 portrait frame. Camera positioned from the aisle, slightly behind the seat in front of her, looking diagonally toward the window seat. A large blurred train seat dominates the lower-left foreground, creating strong depth and framing the subject. The woman is positioned in the center-right of the frame, partially hidden behind the foreground seat. Her reflection is clearly visible in the train window on the right.
+
+SUBJECT:
+Young adult woman with fair skin, natural freckles, soft facial features, medium-length copper-red hair with messy natural bangs falling across her forehead. Her hair is slightly tousled and imperfect, with individual strands visible. She has light blue-gray eyes, natural eyebrows, subtle eyelashes, soft pink natural lips and a completely natural face with no heavy makeup.
+
+She is wearing a loose beige/taupe hoodie with the hood resting around the back of her head and shoulders. The hoodie has realistic soft fabric texture and natural folds.
+
+POSE AND EXPRESSION:
+She is sitting beside the window, leaning slightly toward the aisle and looking directly toward the camera with a quiet, tired, introspective expression. Her head is tilted slightly downward and toward the foreground seat. Relaxed posture, lips gently closed, subtle melancholy mood. Natural candid moment, not posing for the camera.
+
+TRAIN INTERIOR:
+Realistic modern European-style train interior. Dark charcoal-gray fabric seats with small scattered red geometric patterns. Multiple rows of seats extend into the background. The foreground seat is very close to the camera and heavily out of focus. Another passenger is barely visible far in the background, also heavily blurred.
+
+WINDOW:
+Large train window immediately beside the woman. The glass has subtle reflections and slight smudges. Her face and upper body appear as a soft but recognizable reflection in the window. Outside the window is an indistinct muted urban/rural landscape, completely blurred because of the moving train.
+
+LIGHTING:
+Soft natural daylight entering through the train window from the right side. Warm, slightly golden daylight illuminates her face and copper hair while the train interior remains darker and subdued. Gentle cinematic contrast, soft shadows, realistic skin highlights, subtle reflected light from the window.
+
+CAMERA:
+Professional cinematic photography, 50mm lens, approximately f/1.8, shallow depth of field. Focus precisely on the woman's eyes and face. Foreground seat and background passenger strongly blurred. Natural perspective, realistic optical depth, subtle lens compression.
+
+COLOR AND MOOD:
+Muted cinematic color grading with warm copper/orange tones in the hair and beige hoodie contrasted against cool dark blue-gray train seats and window tones. Soft filmic contrast, slightly desaturated colors, natural skin tones, subtle grain, atmospheric and intimate feeling.
+
+REALISM:
+Ultra-photorealistic, authentic candid photography, realistic skin pores and freckles, individual hair strands, realistic fabric texture, physically accurate reflections in glass, natural imperfections, realistic train materials, true photographic depth of field, no artificial beauty retouching.
+
+NEGATIVE PROMPT:
+cartoon, anime, illustration, CGI, 3D render, plastic skin, excessive makeup, perfect skin, beauty filter, oversharpening, unrealistic eyes, distorted face, extra fingers, deformed hands, duplicate person, duplicated reflection, incorrect reflection, artificial hair, glossy skin, studio lighting, fantasy train, text, watermark, logo, low resolution, excessive HDR, oversaturated colors
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2102635863893307394)) · [Source: X](https://x.com/harboriis/status/2102635863893307394)</sub>
