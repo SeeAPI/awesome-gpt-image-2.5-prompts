@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 97 standalone prompts · Updated September 23, 2026**
+**5 creative workflows · 104 standalone prompts · Updated September 24, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2459,6 +2459,55 @@ Photoreal portrait of a woman in her 30s at a rainy bus stop at night, soft neon
 
 <sub>(by [u/kaboom-o](https://www.reddit.com/r/generativeAI/comments/1wmq8pj/same_prompt_five_image_models_rainy_busstop)) · [Source: Reddit](https://www.reddit.com/r/generativeAI/comments/1wmq8pj/same_prompt_five_image_models_rainy_busstop)</sub>
 
+<a id="p98-y2k-k-pop-desktop-music-video-frame"></a>
+
+### 📌 1.38. Y2K K-Pop Desktop Music Video Frame
+
+#### 👀 Preview
+
+[<img src="assets/p98-y2k-k-pop-desktop-music-video-frame/source-example-01.jpg" width="400" height="224" alt="Y2K K-Pop Desktop Music Video Frame — source example">](assets/p98-y2k-k-pop-desktop-music-video-frame/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → Y2K K-pop desktop-overlay music-video frame`
+
+#### 🔖 Full Prompt
+
+```text
+16:9 widescreen, shot on 35mm film camera, solo shot, extreme close-up on face, steep high-angle shot looking down at a fresh-faced female K-pop idol alone in a room, long straight black hair with soft curtain bangs, natural dewy makeup, bright youthful "refreshing" concept (y2k retro aesthetic), casual homey styling, cozy bedroom setting, playful bright expression, eyes looking up toward camera, retro Windows 95 desktop UI overlay: multiple overlapping windows scattered across the frame (e.g. a media player window, a chat/messenger window, a file explorer window, a small pop-up dialog box), each window with classic teal title bar, pixelated icons, gray beveled borders, y2k desktop aesthetic, soft warm lighting, shallow depth of field bokeh, cinematic music video framing, subtle natural film grain, soft saturated pastel color grading, candid youthful nostalgic energy, no edgy/dark tones
+```
+
+<sub>(by [@2dalmat](https://x.com/2dalmat/status/2103018598486970642)) · [Source: X](https://x.com/2dalmat/status/2103018598486970642)</sub>
+
+<a id="p103-dubai-car-identity-consistent-photo-collage"></a>
+
+### 📌 1.39. Dubai Car Identity-Consistent Photo Collage
+
+#### 👀 Preview
+
+[<img src="assets/p103-dubai-car-identity-consistent-photo-collage/source-example-01.jpg" width="400" height="400" alt="Dubai Car Identity-Consistent Photo Collage — source example">](assets/p103-dubai-car-identity-consistent-photo-collage/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → identity-consistent four-panel Dubai car collage`
+
+#### 🔖 Full Prompt
+
+```text
+Create a 2x2 four-panel cinematic photo collage featuring the EXACT SAME Korean-looking young woman in all four panels. Strong identity consistency: same face, same hairstyle, same black oversized sweatshirt, same sunglasses, same earrings, same makeup, same Mercedes car, same beige leather interior, same lighting, same time of day, and the same Dubai skyline with the Burj Khalifa visible through the windows.
+
+She is sitting comfortably inside the car taking stylish photos/selfies. Each panel must show a DIFFERENT natural pose while everything else remains identical.
+
+Panel 1: She rests her cheek on her hand and gives a playful wink toward the camera.
+Panel 2: She turns slightly toward the camera with a soft confident expression, one hand near the steering wheel.
+Panel 3: She holds her smartphone in front of her face while taking a selfie.
+Panel 4: She looks toward the window with her hand gently touching her cheek.
+
+Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, realistic skin texture, natural facial expressions, cinematic sunset lighting, Dubai city lights beginning to glow, Burj Khalifa clearly visible in the background, premium social-media aesthetic, highly detailed, realistic camera photography, seamless 2x2 collage, perfect visual consistency across all four panels, no face changes, no outfit changes, no car changes, no background changes.
+```
+
+<sub>(by [@adam_x_____](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)) · [Source: Threads](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -2885,6 +2934,359 @@ Layout Composition (Organize strictly into these sections):
 ```
 
 <sub>(by [@itsPixieVerse](https://x.com/itsPixieVerse/status/2101905822888677714)) · [Source: X](https://x.com/itsPixieVerse/status/2101905822888677714)</sub>
+
+<a id="p101-seven-miniature-clones-on-a-giant-hand"></a>
+
+### 📌 2.14. Seven Miniature Clones on a Giant Hand
+
+#### 👀 Preview
+
+[<img src="assets/p101-seven-miniature-clones-on-a-giant-hand/source-example-01.jpg" width="300" height="400" alt="Seven Miniature Clones on a Giant Hand — source example">](assets/p101-seven-miniature-clones-on-a-giant-hand/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Person reference → seven miniature clones on a giant hand`
+
+#### 🔖 Full Prompt
+
+```text
+Use the uploaded person as the ONLY identity reference.
+Create 7 pocket-sized miniature clones of the reference person interacting naturally with a giant adult open hand.
+Arrange them in clearly different poses: two standing on the palm, one sitting naturally on a finger, one climbing a finger using both hands and feet, one hanging from a fingertip with their full body suspended, one carefully climbing over the edge of the palm, and one standing near the base of the thumb.
+Capture from a dramatic top-down, high-angle perspective with an extreme sense of scale.
+IDENTITY LOCK: Every clone must preserve the reference person’s exact face, facial proportions, eyes, nose, mouth, jawline, expression, pupil size, hairstyle and recognisable features. Keep the original dark clothing and appearance.
+Every clone must have a complete, anatomically correct human body with normal proportions. Hands and feet must make believable physical contact with the giant hand.
+No bodies fused into the hand, no wrapping around the wrist, no emerging from skin, no missing limbs, no duplicated limbs, no distorted anatomy.
+Make them look like real miniature humans, not toys or figurines.
+Photorealistic skin, individual hair strands, realistic fabric, believable gravity and gripping, detailed hand texture, natural contact shadows, cinematic lighting, shallow depth of field and premium macro photography.
+```
+
+<sub>(by [Chinonso Victor](https://www.facebook.com/61565779293097/posts/try-this-prompt-below-gpt-image-25/122211515222525976)) · [Source: Facebook](https://www.facebook.com/61565779293097/posts/try-this-prompt-below-gpt-image-25/122211515222525976)</sub>
+
+<a id="p104-production-character-reference-sheet"></a>
+
+### 📌 2.15. Production Character Reference Sheet
+
+#### 👀 Preview
+
+[<img src="assets/p104-production-character-reference-sheet/source-example-01.jpg" width="400" height="225" alt="Production Character Reference Sheet — source example">](assets/p104-production-character-reference-sheet/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Character reference → production-ready character sheet`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium production-ready character reference sheet using the uploaded image as the sole visual authority for the character.
+
+## CORE PRIORITY — CHARACTER CONSISTENCY
+
+The uploaded reference defines the character. Do not redesign or reinterpret the person.
+
+Preserve the character's recognizable identity exactly, including:
+
+* facial structure and proportions
+* eyes, eye color and eye spacing
+* eyebrows
+* nose and lips
+* jawline and face shape
+* skin tone and age appearance
+* hairstyle, hairline and hair volume
+* body type and physical proportions
+* height and overall silhouette
+* clothing construction, fit and layering
+* colors, patterns and graphics
+* footwear
+* jewelry and accessories
+* distinctive marks or identifying details
+
+The objective is one character shown from multiple angles, not multiple interpretations of the same character.
+
+Before generating the board, establish a consistent internal model of the character's face, anatomy, silhouette, wardrobe, materials and proportions. Maintain those decisions across every panel.
+
+## PRESENTATION
+
+Create a single landscape 16:9 professional character-development board.
+
+Style: high-end animation / game / visual-development production sheet.
+
+Use:
+
+* clean warm-neutral or off-white studio background
+* sophisticated editorial grid
+* precise alignment
+* generous negative space
+* subtle technical construction lines
+* restrained labels
+* consistent panel sizing
+* polished professional rendering
+
+The result should look like an actual production document used by a professional art or character-development team, not a collage of unrelated AI generations.
+
+Avoid decorative elements that do not contribute to character documentation.
+
+## 01 — PRIMARY IDENTITY PORTRAIT
+
+Give the character one prominent portrait that establishes the canonical appearance.
+
+Use a head-and-shoulders or three-quarter composition.
+
+Show:
+
+* accurate facial structure
+* canonical hairstyle
+* correct skin tone
+* natural neutral expression
+* correct clothing and visible accessories
+
+This portrait should function as the visual reference point for the entire sheet.
+
+## 02 — FIVE-VIEW TURNAROUND
+
+Create a clean full-body turnaround of the exact same character.
+
+Include:
+
+Front
+3/4 Front
+Side Profile
+3/4 Back
+Back
+
+Use the same neutral standing posture and consistent scale.
+
+Maintain alignment of:
+
+* top of head
+* eyes
+* shoulders
+* chest
+* waist
+* hips
+* knees
+* ankles and feet
+
+Every view must preserve the same anatomy, clothing construction, hairstyle, accessories, patterns and silhouette.
+
+Do not introduce details that are not supported by the reference.
+
+## 03 — FACIAL EXPRESSION SHEET
+
+Create a compact expression study with approximately six expressions:
+
+* neutral
+* subtle happiness
+* serious
+* determined / angry
+* surprised
+* sad / emotional
+
+The expressions may change naturally, but the underlying person must remain unmistakably identical.
+
+Keep the same:
+
+* facial proportions
+* eye structure
+* nose
+* mouth shape
+* jawline
+* hairstyle
+* head proportions
+
+Favor believable facial acting over exaggerated cartoon deformation.
+
+## 04 — CHARACTER POSE STUDIES
+
+Show 4–6 full-body poses that reveal the character's natural personality and physical behavior.
+
+Possible poses include:
+
+* relaxed standing
+* confident stance
+* walking
+* sitting
+* interacting with an object
+* distinctive dynamic pose
+
+Keep the anatomy, clothing, accessories and silhouette consistent across every pose.
+
+Do not allow pose variation to become character redesign.
+
+## 05 — DESIGN DETAIL CALLOUTS
+
+Add focused close-up panels for the most important design elements.
+
+Prioritize details actually visible or clearly established in the reference, such as:
+
+* hair and hairstyle
+* facial details
+* collar / neckline
+* garment construction
+* sleeves and seams
+* footwear
+* jewelry
+* accessories
+* logos, emblems or patterns
+* important props
+* distinctive textures
+
+Present these as production callouts, not as decorative fashion photography.
+
+## 06 — MATERIAL & SURFACE REFERENCES
+
+Document the major materials present in the character design.
+
+Include only relevant materials, such as:
+
+* fabric
+* leather
+* denim
+* metal
+* silk
+* knit
+* plastic
+* glass
+* hair
+* skin
+
+Show their characteristic surface behavior, texture, reflectivity and construction.
+
+Keep the material studies directly connected to the actual costume and character design.
+
+## 07 — CHARACTER COLOR PALETTE
+
+Add a compact professional palette extracted faithfully from the reference.
+
+Organize it by role:
+
+Skin
+Hair
+Primary clothing
+Secondary clothing
+Accent color
+Accessories / materials
+
+Do not introduce new colors simply to make the palette more visually interesting.
+
+## 08 — PROPORTION & SILHOUETTE GUIDE
+
+Add a subtle technical anatomy section beside the turnaround.
+
+Include:
+
+* overall character height
+* head-to-body relationship
+* shoulder and torso proportions
+* major body alignment guides
+* simplified silhouette
+* key proportional landmarks
+
+Keep this technical and understated.
+
+The purpose is to help another artist reproduce the same character consistently.
+
+## 09 — CANONICAL DESIGN LOCK
+
+Treat the entire board as one unified source of truth.
+
+Every panel must represent the same character.
+
+Lock:
+
+Identity — same face and recognizable features
+Anatomy — same body structure and proportions
+Hair — same hairstyle and hairline
+Wardrobe — same garments and construction
+Accessories — same placement and quantity
+Colors — same palette
+Silhouette — same recognizable shape
+Details — same left/right elements and patterns
+
+No unexplained variations between panels.
+
+## VISUAL QUALITY
+
+Aim for sophisticated professional visual-development quality:
+
+* refined character rendering
+* accurate anatomy
+* realistic skin and hair
+* believable material response
+* crisp construction details
+* controlled neutral studio lighting
+* clean edges
+* polished presentation
+* strong visual hierarchy
+* consistent rendering style
+
+Lighting should be **soft, neutral and diagnostic**, allowing the character design and materials to be inspected clearly. Avoid dramatic cinematic lighting.
+
+Use a restrained neutral studio environment rather than scenery.
+
+## CAMERA & VIEW CONSISTENCY
+
+Turnaround views should feel close to orthographic production references, with minimal perspective distortion.
+
+Expression studies should maintain consistent head framing and camera distance.
+
+Pose studies may use natural perspective, but the character's anatomy must remain accurate.
+
+Avoid extreme lenses, fisheye distortion or dramatic camera angles that make proportions difficult to compare.
+
+## LAYOUT RULES
+
+Build the board as a coherent information system.
+
+Prioritize:
+
+1. identity portrait
+2. turnaround
+3. expressions
+4. poses
+5. design details
+6. materials
+7. color palette
+8. proportion guide
+
+Use consistent margins, spacing and alignment.
+
+Do not overlap characters or panels.
+
+Do not crop important anatomy.
+
+Do not create unnecessary environmental backgrounds.
+
+Every visual element should have a clear production purpose.
+
+## FINAL FIDELITY CHECK
+
+Before finalizing, verify that all panels depict the **same exact character**.
+
+Check for:
+
+* facial identity consistency
+* matching eye shape and placement
+* matching hairstyle and hairline
+* consistent body proportions
+* consistent height and silhouette
+* identical clothing
+* identical accessories
+* correct left/right details
+* consistent colors and patterns
+* anatomically correct hands and limbs
+* no unexplained additions or omissions
+
+The final result should feel like a **single professionally designed character documented from multiple viewpoints**, with no visible identity drift.
+
+## AVOID
+
+Character redesign, beautification, identity changes, age changes, hairstyle changes, wardrobe changes, accessory changes, proportion drift, facial drift, inconsistent left/right details, duplicate accessories, missing clothing elements, extra fingers, malformed hands, extra limbs, distorted anatomy, random props, unrelated scenery, cinematic backgrounds, excessive visual effects, decorative clutter, watermarks, logos or cropped reference views.
+
+Overall goal: create a highly polished, production-grade character model sheet that allows an artist, animator, game designer or creative team to reproduce the character accurately and consistently from any required angle.
+```
+
+<sub>(by [@HeyZoyaKhan](https://x.com/HeyZoyaKhan/status/2102455966369280388)) · [Source: X](https://x.com/HeyZoyaKhan/status/2102455966369280388)</sub>
 
 ## 🛍️ Products & Branding
 
@@ -4146,6 +4548,124 @@ Every country must receive a fresh, original composition based on its own cultur
 ```
 
 <sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2102630540293837041)) · [Source: X](https://x.com/Goodmanprotocol/status/2102630540293837041)</sub>
+
+<a id="p99-photo-to-expressive-oil-painting"></a>
+
+### 📌 4.26. Photo-to-Expressive Oil Painting
+
+#### 👀 Preview
+
+**Reference 1**
+
+[<img src="assets/p99-photo-to-expressive-oil-painting/source-example-01.jpg" width="225" height="400" alt="Photo-to-Expressive Oil Painting — source example 1 — Reference 1">](assets/p99-photo-to-expressive-oil-painting/source-example-01.jpg)
+
+**Painted result 1**
+
+[<img src="assets/p99-photo-to-expressive-oil-painting/source-example-02.jpg" width="225" height="400" alt="Photo-to-Expressive Oil Painting — source example 2 — Painted result 1">](assets/p99-photo-to-expressive-oil-painting/source-example-02.jpg)
+
+**Reference 2**
+
+[<img src="assets/p99-photo-to-expressive-oil-painting/source-example-03.jpg" width="225" height="400" alt="Photo-to-Expressive Oil Painting — source example 3 — Reference 2">](assets/p99-photo-to-expressive-oil-painting/source-example-03.jpg)
+
+**Painted result 2**
+
+[<img src="assets/p99-photo-to-expressive-oil-painting/source-example-04.jpg" width="225" height="400" alt="Photo-to-Expressive Oil Painting — source example 4 — Painted result 2">](assets/p99-photo-to-expressive-oil-painting/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → expressive oil-and-gouache painting`
+
+#### 🔖 Full Prompt
+
+```text
+Use the uploaded real photograph as the absolute source image. Transform the entire photograph into a sophisticated, highly detailed full fine-art painting while preserving the exact identity and visual structure of the original image.
+
+The result must clearly remain the same person, same face, same facial features, same facial proportions, same hairstyle, same pose, same body proportions, same clothing, same hand position, same expression, same camera angle, same framing, same background composition, and same overall scene. Do not redesign or reinterpret the subject's identity, anatomy, pose, or composition.
+
+IMPORTANT: This is a transformation of the uploaded real photograph into a painting, NOT a new image generation. Every visible element from the original photograph should be retained and converted into painted form.
+
+Transform the entire image into a bold contemporary expressive oil-and-gouache fine-art painting with an authentic handcrafted appearance. Replace the photographic surface completely with rich physical paint. Use thick visible brushstrokes, expressive impasto, palette-knife marks, layered pigments, dry-brush textures, painterly edges, subtle paint buildup, and visible canvas texture.
+
+Preserve the person's face with high accuracy. Facial identity must remain recognizable and consistent with the source photograph. Carefully retain the exact eyes, eye spacing, eyebrows, nose shape, lips, jawline, cheek structure, skin tone, facial proportions, hairstyle and expression. Render the face with refined painterly detail while allowing visible brushwork and natural paint texture.
+
+Transform the hair completely into expressive painted strokes while maintaining the original hairstyle, volume, direction, length, and shape. Use a mixture of fine individual brush marks and larger energetic strokes to create realistic yet artistic hair texture.
+
+Transform the clothing completely into painted fabric while preserving its exact design, colors, folds, seams, logos or symbols, proportions, and position from the original photograph. Use thick layered paint and expressive strokes to describe the fabric and folds without changing the clothing itself.
+
+Transform the hands and fingers into anatomically accurate painted forms while preserving their exact position, gesture, proportions, skin tone, and relationship to the face.
+
+Transform the entire background into the same scene rendered as physical artwork. Preserve the original objects, colors, shapes, perspective, lighting direction, and composition, but reinterpret their surfaces through expressive paint. Do not replace the background with a different environment.
+
+Use a rich contemporary palette with deep cobalt blue, vivid golden yellow, warm orange, red, turquoise, cream, earthy brown, and natural skin tones, matching the colors already present in the source image. Allow colors to overlap naturally through visible brushwork.
+
+The painting should feel like a hand-painted gallery artwork created with oil paint, gouache, and palette knives on textured canvas, combining realistic figurative painting with energetic modern expressionism.
+
+Surface and brushwork: thick impasto, tactile paint, visible bristle marks, palette-knife strokes, dry-brush details, layered translucent washes, broken color, rough painted edges, natural pigment variation, canvas grain, subtle imperfections, handcrafted physical artwork.
+
+Lighting: preserve the original photograph's lighting and shadows, translating them into painted highlights, midtones, and shadows rather than changing the lighting setup.
+
+Composition: preserve the exact original composition, framing, camera perspective, subject placement, proportions, and aspect ratio. Do not crop, zoom, rotate, extend, or rearrange the image.
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2103015777360392379)) · [Source: X](https://x.com/harboriis/status/2103015777360392379)</sub>
+
+<a id="p100-split-photo-and-hand-painted-editorial-poster"></a>
+
+### 📌 4.27. Split Photo and Hand-Painted Editorial Poster
+
+#### 👀 Preview
+
+[<img src="assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-01.jpg" width="320" height="400" alt="Split Photo and Hand-Painted Editorial Poster — source example 1">](assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-01.jpg)
+
+[<img src="assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-02.jpg" width="320" height="400" alt="Split Photo and Hand-Painted Editorial Poster — source example 2">](assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → split photo-and-painted editorial poster`
+
+#### 🔖 Full Prompt
+
+```text
+Create a separate high-end poster for each uploaded photo, never combining multiple images. Use a 4:5 vertical format, divided into two equal sections: 50% upper and 50% lower.
+
+UPPER HALF — ORIGINAL PHOTO
+Preserve the subject’s identity, proportions, posture, structure, texture, lighting, and natural atmosphere. Apply only subtle premium color grading inspired by art magazines and gallery photography. Expand the background naturally if needed, but never distort or alter the subject.
+
+LOWER HALF — ARTISTIC RECONSTRUCTION
+Reinterpret the image using only its most recognizable elements—subject, silhouette, posture, structure, movement, and key visual relationships. Remove most of the original background and unnecessary details. Use cropping, simplification, scaling, repositioning, and negative space to create a stronger artistic composition while keeping the connection to the original photo immediately recognizable.
+
+Place the reconstruction on a warm white/off-white paper background with an irregular rectangular hand-painted color field. Keep generous white margins around it, with subtle brush marks, smudges, imperfect edges, and uneven paint texture. Allow a few important lines, shapes, leaves, or details to break outside the color field for a refined break-the-frame effect.
+
+Use strong negative space and avoid filling the composition. The subject can be centered, offset, cropped, suspended, or edge-aligned depending on its natural visual direction.
+
+The lower artwork should feel hand-drawn and editorial, using simplified color blocks, selective outlines, minimal details, and moderate abstraction rather than realism. Extract 2–4 memorable colors from the original photo and build a cohesive, bright yet restrained palette.
+
+Add only minimal editorial typography when appropriate—short words or phrases inspired by the subject, location, action, or emotion, placed subtly within the negative space.
+
+Overall, create a premium contemporary art-magazine/gallery aesthetic focused on negative space, handmade color fields, artistic reduction, break-the-frame composition, and visual storytelling. Avoid clutter, excessive background details, literal duplication, stiff layouts, hard edges, and template-like designs. Less is more.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2102996979005743175)) · [Source: X](https://x.com/Goodmanprotocol/status/2102996979005743175)</sub>
+
+<a id="p102-surreal-seaside-clock-still-life"></a>
+
+### 📌 4.28. Surreal Seaside Clock Still Life
+
+#### 👀 Preview
+
+[<img src="assets/p102-surreal-seaside-clock-still-life/source-example-01.jpg" width="400" height="333" alt="Surreal Seaside Clock Still Life — source example">](assets/p102-surreal-seaside-clock-still-life/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → surreal seaside clock still life`
+
+#### 🔖 Full Prompt
+
+```text
+Create a set of ornate clocks arranged like a surreal still life on a bright seaside path above exaggerated surf and decorative rock shapes. Use a warm sunrise palette without making the image overly golden. Build in a sense of visual spellcraft through luminous details and impossible beauty. Blend stylized sketch artwork with acrylic painting, combining expressive drawn lines, visible hand-work and lightly rough artistic texture with bold painted surfaces, crisp brushwork and strong color structure, using a color story built around soft candy color. Let foreground details partially frame the main idea without turning into a border. Keep it clearly stylized and illustrative, with no readable text.
+```
+
+<sub>(by [@CliffWade](https://x.com/CliffWade/status/2102771495495688586)) · [Source: X](https://x.com/CliffWade/status/2102771495495688586)</sub>
 
 ## 🏡 Home & Interior Design
 

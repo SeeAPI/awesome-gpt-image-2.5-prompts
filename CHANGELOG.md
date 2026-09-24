@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-24
+
+- Published P98–P104 from seven user-approved, unpublished Feishu records: five X cases, one Facebook post, and one Threads post, with eleven unchanged source images and complete English/Simplified Chinese pages. Recorded source-only model claims, missing clean reference inputs, the two reference/result painting pairs, named but unlinked inspiration, and third-party reuse limits.
+- 按用户审核结果发布飞书中七条已通过且未发布的记录，新增 P98–P104：五条 X 案例、一条 Facebook 帖子和一条 Threads 帖子，共十一张未改动的来源图片及完整中英文页面；记录仅由来源声明的模型归属、缺失的干净参考输入、两组绘画前后对照、仅具姓名但无链接的灵感来源及第三方复用限制。
+
 ## 2026-09-23
 
 - Published P90–P97 from eight user-approved, unpublished Feishu records: seven X cases and one Reddit benchmark, with fourteen unchanged source images and complete English/Simplified Chinese pages. Preserved the full source JSON for the two concise SeeAPI reference adaptations and documented missing references, source-only model claims, benchmark image roles, and third-party reuse limits.

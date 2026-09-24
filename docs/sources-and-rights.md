@@ -105,6 +105,16 @@ P90–P97 收录八条经用户审核通过的提示词和十四张未修改字�
 
 P90 需要上传照片参考图；两个来源示例在成品中保留了照片和插画处理，但未提供独立输入文件。P94 同样需要原始人物和车辆参考图，该输入未提供。P94 与 P95 将特别冗长的来源 JSON 提示词整理为简洁的 SeeAPI 参考改编版；完整来源 JSON 保存在 `docs/source-prompts/`，来源图片只说明原帖效果，不能视为改编提示词已经通过复现验证。P97 使用同一条短提示词比较多个模型；仓库仅保留 Sunburst 与 Flare 示例，不宣称其中任何一张是唯一或首选结果。来源示例中的第三方地点、文化符号、车辆或产品标识及人物仍受各自权利约束。本批案例没有确认单独的再分发许可；复用前应核对链接原帖并联系相关权利人。
 
+## September 24, 2026 Additions / 2026 年 9 月 24 日新增
+
+P98–P104 preserve seven user-approved prompts and eleven unchanged source images: five cases from individual X posts, one Facebook post, and one Threads post. All GPT Image 2.5 labels are claims by the source publishers; SeeAPI has not independently verified generation logs, settings, or matching reruns. The images were visually matched to the published subjects and layouts, but they remain source examples rather than SeeAPI-generated results.
+
+P99 includes two displayed reference/result painting pairs and labels those roles in the catalog and previews; this does not establish the exact generation settings. P100 embeds each source photograph inside the upper half of its poster examples but does not include separate clean input files. P101 and P104 require uploaded identity or character references that were not supplied as independent inputs. The Facebook publisher of P101 names Kanji Low as inspiration without providing a public source link, so that name is documented here without inventing an attribution URL. P103 contains Mercedes styling and the Dubai skyline, including the Burj Khalifa; associated marks, architecture, people, and other third-party elements remain subject to their respective rights. No case-specific redistribution permission was established for this batch.
+
+P98–P104 收录七条经用户审核通过的提示词和十一张保持原始字节的来源图片：五条来自独立 X 原帖，一条来自 Facebook 帖子，一条来自 Threads 帖子。所有 GPT Image 2.5 标签均仅为来源发布者的声明；SeeAPI 未独立核验生成记录、参数，也未进行匹配复现。图片已按公开提示词的主体与版式进行目视比对，但仍属于来源示例，并非 SeeAPI 生成结果。
+
+P99 收录两组来源页展示的参考图／绘画结果，并在目录和预览中标明角色；这不能证明准确生成参数。P100 的海报示例在上半部嵌入来源照片，但未提供独立干净输入文件。P101 与 P104 需要上传身份或角色参考图，来源没有提供独立输入文件。P101 的 Facebook 发布者注明灵感来自 Kanji Low，但未给出公开来源链接，因此这里只记录姓名，不虚构署名链接。P103 包含奔驰造型与迪拜天际线（包括哈利法塔）；相关商标、建筑、人物及其他第三方元素仍受各自权利约束。本批案例未确认单独的再分发许可。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

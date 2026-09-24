@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "entries": [
     {
       "id": "C01",
@@ -4907,6 +4907,374 @@
       "updated": "2026-09-23",
       "readme_anchor": "p97-rainy-bus-stop-multi-model-benchmark",
       "display_number": "1.37"
+    },
+    {
+      "id": "P98",
+      "title": "Y2K K-Pop Desktop Music Video Frame",
+      "title_zh": "Y2K K-Pop 桌面界面音乐视频画面",
+      "slug": "p98-y2k-k-pop-desktop-music-video-frame",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@2dalmat",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/2dalmat/status/2103018598486970642",
+        "publisher": "@2dalmat",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2103018598486970642",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p98-y2k-k-pop-desktop-music-video-frame.md",
+      "prompts": [
+        "prompts/p98-y2k-k-pop-desktop-music-video-frame/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p98-y2k-k-pop-desktop-music-video-frame/image-prompt.txt": "prompts/p98-y2k-k-pop-desktop-music-video-frame/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p98-y2k-k-pop-desktop-music-video-frame/image-prompt.txt": "236b5fbae7e57281a0c2d832a2baece56983a6a7d196381f9dee198a94cb021a"
+      },
+      "preview": "assets/p98-y2k-k-pop-desktop-music-video-frame/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p98-y2k-k-pop-desktop-music-video-frame/source-example-01.jpg",
+          "sha256": "ff73e93074d566b19c27d2c8a1b07ba785b5112b740203bbc045bff95da9864f",
+          "width": 1344,
+          "height": 752,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p98-y2k-k-pop-desktop-music-video-frame",
+      "display_number": "1.38"
+    },
+    {
+      "id": "P99",
+      "title": "Photo-to-Expressive Oil Painting",
+      "title_zh": "照片转表现主义油画",
+      "slug": "p99-photo-to-expressive-oil-painting",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@harboriis",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/harboriis/status/2103015777360392379",
+        "publisher": "@harboriis",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2103015777360392379",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p99-photo-to-expressive-oil-painting.md",
+      "prompts": [
+        "prompts/p99-photo-to-expressive-oil-painting/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p99-photo-to-expressive-oil-painting/image-prompt.txt": "prompts/p99-photo-to-expressive-oil-painting/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p99-photo-to-expressive-oil-painting/image-prompt.txt": "792509e50112791a88649aceb8203d16914a4c37e148112f7ab47697d3421cac"
+      },
+      "preview": "assets/p99-photo-to-expressive-oil-painting/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p99-photo-to-expressive-oil-painting/source-example-01.jpg",
+          "sha256": "cda5fb0af1fc119bf3b08c6dabe039d5dc4ac81c2f3df636a90a63c80d7604d3",
+          "width": 564,
+          "height": 1002,
+          "role": "source-reference",
+          "variant": "Reference 1"
+        },
+        {
+          "path": "assets/p99-photo-to-expressive-oil-painting/source-example-02.jpg",
+          "sha256": "92acfbf7bcbf4a7baf951214bfc66cfe6ccf6b8d47abbdb3c468c380e07727bb",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example",
+          "variant": "Painted result 1"
+        },
+        {
+          "path": "assets/p99-photo-to-expressive-oil-painting/source-example-03.jpg",
+          "sha256": "8a5a511d2927f8c3ef5f716717d06f51b998109e369d330551905e23d5796bdd",
+          "width": 736,
+          "height": 1307,
+          "role": "source-reference",
+          "variant": "Reference 2"
+        },
+        {
+          "path": "assets/p99-photo-to-expressive-oil-painting/source-example-04.jpg",
+          "sha256": "8cc37b58120fab59a557e7f44e8a66e62b291b585ad8ac057febfd4252b6e366",
+          "width": 941,
+          "height": 1672,
+          "role": "source-example",
+          "variant": "Painted result 2"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p99-photo-to-expressive-oil-painting",
+      "display_number": "4.26"
+    },
+    {
+      "id": "P100",
+      "title": "Split Photo and Hand-Painted Editorial Poster",
+      "title_zh": "照片与手绘分区编辑海报",
+      "slug": "p100-split-photo-and-hand-painted-editorial-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2102996979005743175",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102996979005743175",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p100-split-photo-and-hand-painted-editorial-poster.md",
+      "prompts": [
+        "prompts/p100-split-photo-and-hand-painted-editorial-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p100-split-photo-and-hand-painted-editorial-poster/image-prompt.txt": "prompts/p100-split-photo-and-hand-painted-editorial-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p100-split-photo-and-hand-painted-editorial-poster/image-prompt.txt": "61dab6637f061c208cd6d7c7e6a272e8429008c8044523d82217f485ccb18047"
+      },
+      "preview": "assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-01.jpg",
+          "sha256": "22d65dbc99c2d3e4f0e61096f6c274eda19d57f3f8697412477327741c1402f6",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p100-split-photo-and-hand-painted-editorial-poster/source-example-02.jpg",
+          "sha256": "fa9858995c11808f8aede2a3c3903bf097d5262ee83f13c091543f11314812e3",
+          "width": 1122,
+          "height": 1402,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p100-split-photo-and-hand-painted-editorial-poster",
+      "display_number": "4.27"
+    },
+    {
+      "id": "P101",
+      "title": "Seven Miniature Clones on a Giant Hand",
+      "title_zh": "巨手上的七个微缩克隆人物",
+      "slug": "p101-seven-miniature-clones-on-a-giant-hand",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "Chinonso Victor",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.facebook.com/61565779293097/posts/try-this-prompt-below-gpt-image-25/122211515222525976",
+        "publisher": "Chinonso Victor",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "122211515222525976",
+        "platform": "Facebook"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p101-seven-miniature-clones-on-a-giant-hand.md",
+      "prompts": [
+        "prompts/p101-seven-miniature-clones-on-a-giant-hand/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p101-seven-miniature-clones-on-a-giant-hand/image-prompt.txt": "prompts/p101-seven-miniature-clones-on-a-giant-hand/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p101-seven-miniature-clones-on-a-giant-hand/image-prompt.txt": "b0ce0b9d09f1029d720639bd8a4c305a11b46b339ef62f25d9b2fffa6dc41951"
+      },
+      "preview": "assets/p101-seven-miniature-clones-on-a-giant-hand/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p101-seven-miniature-clones-on-a-giant-hand/source-example-01.jpg",
+          "sha256": "d079fadb24b1180c1b91cdff5ef97177aa263ef87bd3b3a7b92eacdae0f70266",
+          "width": 1080,
+          "height": 1440,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p101-seven-miniature-clones-on-a-giant-hand",
+      "display_number": "2.14"
+    },
+    {
+      "id": "P102",
+      "title": "Surreal Seaside Clock Still Life",
+      "title_zh": "超现实海边时钟静物",
+      "slug": "p102-surreal-seaside-clock-still-life",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@CliffWade",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/CliffWade/status/2102771495495688586",
+        "publisher": "@CliffWade",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102771495495688586",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p102-surreal-seaside-clock-still-life.md",
+      "prompts": [
+        "prompts/p102-surreal-seaside-clock-still-life/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p102-surreal-seaside-clock-still-life/image-prompt.txt": "prompts/p102-surreal-seaside-clock-still-life/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p102-surreal-seaside-clock-still-life/image-prompt.txt": "68dbd588999eccb6f348a10b2a8020ae1fc004657980c4e7453396802dda3e80"
+      },
+      "preview": "assets/p102-surreal-seaside-clock-still-life/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p102-surreal-seaside-clock-still-life/source-example-01.jpg",
+          "sha256": "da71216f15b2c111cbefe0d4e99f89fb541c93d340f710e02db5df954994e991",
+          "width": 1374,
+          "height": 1145,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p102-surreal-seaside-clock-still-life",
+      "display_number": "4.28"
+    },
+    {
+      "id": "P103",
+      "title": "Dubai Car Identity-Consistent Photo Collage",
+      "title_zh": "迪拜汽车人物一致性四格照片",
+      "slug": "p103-dubai-car-identity-consistent-photo-collage",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@adam_x_____",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage",
+        "publisher": "@adam_x_____",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "Ddl6A2-jccL",
+        "platform": "Threads"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p103-dubai-car-identity-consistent-photo-collage.md",
+      "prompts": [
+        "prompts/p103-dubai-car-identity-consistent-photo-collage/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p103-dubai-car-identity-consistent-photo-collage/image-prompt.txt": "prompts/p103-dubai-car-identity-consistent-photo-collage/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p103-dubai-car-identity-consistent-photo-collage/image-prompt.txt": "b99d3107bb181f7fda29ab811c9d4e5ff413b1e5265637ba335f6f4a7793d449"
+      },
+      "preview": "assets/p103-dubai-car-identity-consistent-photo-collage/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p103-dubai-car-identity-consistent-photo-collage/source-example-01.jpg",
+          "sha256": "3167e094d6a1d677e758bb582fba9c211e03e0ba993c62bcc6ca21e5d0ec51ab",
+          "width": 480,
+          "height": 480,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p103-dubai-car-identity-consistent-photo-collage",
+      "display_number": "1.39"
+    },
+    {
+      "id": "P104",
+      "title": "Production Character Reference Sheet",
+      "title_zh": "制作级角色参考设定表",
+      "slug": "p104-production-character-reference-sheet",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@HeyZoyaKhan",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/HeyZoyaKhan/status/2102455966369280388",
+        "publisher": "@HeyZoyaKhan",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2102455966369280388",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p104-production-character-reference-sheet.md",
+      "prompts": [
+        "prompts/p104-production-character-reference-sheet/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p104-production-character-reference-sheet/image-prompt.txt": "prompts/p104-production-character-reference-sheet/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p104-production-character-reference-sheet/image-prompt.txt": "980f122faa4c121cf0e44c90b767b66964b423b64c787b55b8f06e1a38d3a01f"
+      },
+      "preview": "assets/p104-production-character-reference-sheet/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p104-production-character-reference-sheet/source-example-01.jpg",
+          "sha256": "a7de1705a12ae89634824148b6821e2463d17b0dd331b70a226b0e1ff595946e",
+          "width": 1672,
+          "height": 941,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-24",
+      "readme_anchor": "p104-production-character-reference-sheet",
+      "display_number": "2.15"
     }
   ]
 }
