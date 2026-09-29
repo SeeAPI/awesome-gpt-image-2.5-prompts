@@ -1,0 +1,5 @@
+Transfer the makeup style from Image 1 to the person in Image 2.
+
+Only change the makeup on the person in Image 2, including eyeshadow, eyeliner, lashes, blush, contour, lip color, and overall makeup finish.
+
+Keep the person’s facial features, identity, hairstyle, clothing, pose, lighting, background, and photo style unchanged.

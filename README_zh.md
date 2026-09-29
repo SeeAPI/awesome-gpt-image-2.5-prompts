@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 104 条独立提示词 · 更新于 2026 年 9 月 24 日**
+**5 个创意工作流 · 110 条独立提示词 · 更新于 2026 年 9 月 29 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -2510,6 +2510,40 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <sub>(by [@adam_x_____](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)) · [来源平台： Threads](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)</sub>
 
+<a id="p109-reference-makeup-transfer"></a>
+
+### 📌 1.40. 参考妆容迁移
+
+#### 👀 预览
+
+**妆容参考图**
+
+[<img src="assets/p109-reference-makeup-transfer/source-reference-01.png" width="269" height="400" alt="参考妆容迁移 — 妆容参考图">](assets/p109-reference-makeup-transfer/source-reference-01.png)
+
+**自拍参考图**
+
+[<img src="assets/p109-reference-makeup-transfer/source-reference-02.png" width="283" height="400" alt="参考妆容迁移 — 自拍参考图">](assets/p109-reference-makeup-transfer/source-reference-02.png)
+
+**妆容迁移结果**
+
+[<img src="assets/p109-reference-makeup-transfer/source-example-03.png" width="297" height="400" alt="参考妆容迁移 — 妆容迁移结果">](assets/p109-reference-makeup-transfer/source-example-03.png)
+
+#### 👇 工作流
+
+`妆容参考 + 自拍 → 妆容迁移`
+
+#### 🔖 完整提示词
+
+```text
+将图像1中的妆容风格迁移到图像2中的人物身上。
+
+只改变图像2中人物的妆容，包括眼影、眼线、睫毛、腮红、修容、唇色以及整体妆效。
+
+保持人物的五官、身份、发型、服装、姿势、光照、背景和照片风格不变。
+```
+
+<sub>(by [WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)) · [来源平台： WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)</sub>
+
 <a id="-characters--playful-creations"></a>
 
 ## 🧸 角色与趣味创作
@@ -3289,6 +3323,64 @@ IPHONE“照片”APP 布局
 ```
 
 <sub>(by [@HeyZoyaKhan](https://x.com/HeyZoyaKhan/status/2102455966369280388)) · [来源平台： X](https://x.com/HeyZoyaKhan/status/2102455966369280388)</sub>
+
+<a id="p108-monochrome-mini-me-shoulder-portrait"></a>
+
+### 📌 2.16. 黑白肩头迷你分身肖像
+
+#### 👀 预览
+
+[<img src="assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg" width="322" height="400" alt="黑白肩头迷你分身肖像 — 来源示例 1">](assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人像参考 → 与微缩分身同框的黑白肖像`
+
+#### 🔖 完整提示词
+
+```text
+使用我上传的照片作为主要男性人物的精确身份参考。最大限度地保持我的面部身份、脸型、肤色、发型、发丝质感、面部毛发、眼睛、鼻子、嘴唇和可识别特征的一致性。
+创作一张我与自己的微缩版本（“mini me”）同框的超写实黑白电影感肖像。
+主体是一位成年男性，在深黑色影棚背景前以放松、自信的姿势坐着。他穿着简洁的黑色高领毛衣，外观干净、精致。他直视镜头，表情平静、温暖，略带严肃。
+一个与主体完全相同的成年男性微缩版本舒适地坐在主体的肩膀上，双臂部分环抱主体的脖子，姿态亲昵而俏皮。这个迷你版人物必须与主体具有相同的脸、发型、面部毛发、肤色和可识别特征，但缩小至成年主体身高的大约20–25%。
+主体穿着简洁、高品质的黑色卫衣，宽松版型、圆领、长袖，造型干净简约。卫衣应具有真实柔软的棉布质感，带有自然褶皱和面料垂坠感。不出现标志、图案、文字或可见品牌。
+迷你版人物穿着与其小身体自然成比例的迷你白衬衫。
+主体用一只手轻轻握住迷你版人物的手臂，让两者之间形成可信的身体接触。互动应自然而温暖，不要呈现卡通感。
+构图：竖版肖像，中近景，居中构图，两张脸都清楚可见，主体占据画面大部分，迷你版人物自然地坐在肩上，取景对称且视觉平衡。
+相机：专业影棚人像摄影，平视机位，约85mm人像镜头，浅景深但两张脸均清晰合焦，自然透视，真实的比例与大小关系。
+光照：从正面略偏上方照射的戏剧性柔和影棚光，面部柔和高光，细腻的阴影衰减，优美立体的五官，真实皮肤纹理。
+色彩处理：全黑白画面，丰富的单色层次，深邃黑色、明亮白色、细腻灰阶过渡，高对比度，经典永恒的艺术摄影美感。
+风格：超写实摄影、高端编辑肖像、电影感艺术摄影、真实皮肤毛孔、细致发丝、自然面料纹理、物理准确的阴影、真实微缩比例、精致而富有情感、极高细节、8K。
+重要要求：迷你版人物必须明显是同一个男人的成年微缩版本，不能是另一个人，也不能是随意出现的儿童。保持大人物与迷你版人物的面部身份完全一致。让大小差异明显，同时使迷你版人物具有真实的解剖结构。
+```
+
+<sub>(by [Chinonso Victor](https://www.facebook.com/61565779293097/posts/try-this-viral-prompt-below-gpt-image-25/122212116734525976)) · [来源平台： Facebook](https://www.facebook.com/61565779293097/posts/try-this-viral-prompt-below-gpt-image-25/122212116734525976)</sub>
+
+<a id="p110-modern-anime-style-upgrade"></a>
+
+### 📌 2.17. 现代动漫画风升级
+
+#### 👀 预览
+
+**原图**
+
+[<img src="assets/p110-modern-anime-style-upgrade/source-reference-01.jpg" width="300" height="400" alt="现代动漫画风升级 — 原图">](assets/p110-modern-anime-style-upgrade/source-reference-01.jpg)
+
+**效果图**
+
+[<img src="assets/p110-modern-anime-style-upgrade/source-example-02.jpg" width="300" height="400" alt="现代动漫画风升级 — 效果图">](assets/p110-modern-anime-style-upgrade/source-example-02.jpg)
+
+#### 👇 工作流
+
+`动漫参考图 → 现代动漫画风升级`
+
+#### 🔖 完整提示词
+
+```text
+保持取景范围不变，进行超分辨率增强，转为现代动漫风格。
+```
+
+<sub>(by [@SuzukaBike](https://x.com/SuzukaBike/status/2104487587021041696)) · [来源平台： X](https://x.com/SuzukaBike/status/2104487587021041696) · 英文由 SeeAPI 翻译</sub>
 
 <a id="-products--branding"></a>
 
@@ -4667,6 +4759,173 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 ```
 
 <sub>(by [@CliffWade](https://x.com/CliffWade/status/2102771495495688586)) · [来源平台： X](https://x.com/CliffWade/status/2102771495495688586)</sub>
+
+<a id="p105-architectural-travel-postcards"></a>
+
+### 📌 4.29. 建筑旅行明信片
+
+#### 👀 预览
+
+[<img src="assets/p105-architectural-travel-postcards/source-example-01.jpg" width="266" height="400" alt="建筑旅行明信片 — 来源示例 1">](assets/p105-architectural-travel-postcards/source-example-01.jpg)
+
+[<img src="assets/p105-architectural-travel-postcards/source-example-02.jpg" width="266" height="400" alt="建筑旅行明信片 — 来源示例 2">](assets/p105-architectural-travel-postcards/source-example-02.jpg)
+
+#### 👇 工作流
+
+`目的地 → 建筑旅行明信片`
+
+#### 🔖 完整提示词
+
+```text
+目的地：[DESTINATION]
+
+创建一张精致的竖版 2:3 建筑旅行明信片，以 [DESTINATION] 为主题。
+
+风格
+
+高级当代编辑风明信片，带有微妙的复古影响。结合精准的建筑钢笔水墨插画、克制的旅行图形、档案细节和现代平面设计。成品应给人以有文化底蕴、历久弥新、建筑感强且值得收藏的感觉，而非旅游纪念品。
+
+主体
+
+呈现一座与 [DESTINATION] 有强烈关联的标志性建筑、纪念碑、构筑物、街道立面或建筑地标。使其成为清晰的视觉主角，以可信的 3/4 视角或略带戏剧性的建筑视角呈现。不要地标拼贴。
+
+插画
+
+使用极其精细的黑色或深石墨色线条、细致的建筑排线、准确的比例和微妙的手绘瑕疵。在适当之处加入可辨认的结构细节，例如窗户、立面、屋顶、柱子或装饰。
+
+色彩
+
+让大部分建筑保持线稿，仅使用 2–4 种目的地特有的色调进行选择性的纯色着色。色彩应精致且略微柔和。避免渐变、光泽渲染、照片写实、过多的米色和浑浊的棕褐色。
+
+背景
+
+使用干净的纯白背景，并加入微妙的档案元素，例如淡淡的地图、街道规划图、坐标、等高线、建筑图纸或极简的当地语言标注。让这些元素保持次要且轻微淡化。
+
+构图
+
+竖版 2:3 格式，地标约占画面的 60–75%。使用充裕的负空间和非对称的编辑式版面。当裁切能改善构图时，可进行有品位的裁切。
+
+排版
+
+加入克制的文字排版：
+
+[LOCAL NAME]
+[DESTINATION]
+
+使用优雅的建筑风格或博物馆目录风格字体。在底部加入一条极小的信息条，包含相关细节，例如 CITY / COUNTRY · ARCHITECTURE · EST. YEAR · COORDINATES。
+
+细节与氛围
+
+仅在适当时加入少量极小的语境元素——人物、自行车、树木、路灯、车辆或街道细节——主要用于建立尺度感。
+
+氛围：安静的都市精致感、文化真实性、历史感与雅致的设计。
+
+避免
+
+旅游陈词滥调、卡通风格、虚假建筑、地标拼贴、巨型文字、过度装饰、浓重的复古滤镜、假邮票、杂乱、3D 渲染和不必要的文字。
+
+最终目标：一张历久弥新、极为精细、高级的建筑明信片，如同博物馆商店的收藏品或当代设计版画。
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104813775610384490)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2104813775610384490)</sub>
+
+<a id="p106-photo-and-ink-wash-memory-posters"></a>
+
+### 📌 4.30. 照片与水墨记忆海报
+
+#### 👀 预览
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg" width="300" height="400" alt="照片与水墨记忆海报 — 来源示例 1">](assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg)
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-02.jpg" width="300" height="400" alt="照片与水墨记忆海报 — 来源示例 2">](assets/p106-photo-and-ink-wash-memory-posters/source-example-02.jpg)
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-03.jpg" width="300" height="400" alt="照片与水墨记忆海报 — 来源示例 3">](assets/p106-photo-and-ink-wash-memory-posters/source-example-03.jpg)
+
+#### 👇 工作流
+
+`照片参考 → 照片与水墨分区海报`
+
+#### 🔖 完整提示词
+
+```text
+分帧水墨重构
+3:4 竖版构图 · 照片 / 水墨分割 · 当代东方美学
+画面为 3:4 竖版构图，分为两个区域，严格采用 1:1 比例，各占画面的 50%。
+上方区域 —— 原始照片拍摄区域
+保留主体的身份、结构、透视和真实材质、自然光及原始色彩氛围，仅进行轻微的高级调色和图像净化，以艺术杂志或展览摄影的质感呈现。允许适度扩展背景以适配画面尺寸，但不得拉伸、扭曲或重塑主体，不改变主体的结构、姿态和核心构图。
+下方区域 —— 极简水墨重构区域
+首先提炼主体最令人难忘的细节，例如轮廓、结构、走势、透视、节奏和氛围，然后将同一场景重构为极简水墨材质景观。不要复制照片细节，不要制作写实复制品，只保留最具辨识度的结构和韵味，让人第一眼便能识别出上方区域与原始照片之间的对应关系。
+下半部分的整体基调为乳白色、暖白色或纸白色，带有细腻的纸张纤维和自然纹理。主体以水墨晕染、干湿交织、飞白、渗化、积墨和留白重构，形成安静、克制且富有诗意的东方视觉。去除次要细节，只保留最有特色的轮廓、结构转折、空间层次和气息，不追求写实的完整性，而是进行概括、提炼并留下余韵。用墨采用黑、灰、淡墨色调，层次递进，浓淡和节奏富于变化。
+可从原始图像中提取最鲜活的色彩，形成少量染色或设色点缀，无需机械复制色彩数值。色彩可局部转化为清澈的蓝灰、远蓝、柔金、暖黄、朱红、浅青等，用以强调主要焦点和情绪节奏，但整体构图仍以墨色和负空间为主。避免沉闷、厚重、陈旧的棕色、过度装饰和俗气的色彩组合。
+主体核心区域应更精致且集中，边缘逐渐松开、断裂、消失并散开，与大面积负空间形成呼吸感。下半部分的构图应占约 30%–45%，其余留作大面积负空间。构图可以偏置、框取、悬置或略微裁切，但必须保持非对称平衡和高级的编辑感。负空间并非空白，而是视觉结构的重要组成部分。与其填满整个画面，不如减少信息，使主要焦点看起来像展示在页面上的一枚水墨印章或一件东方材质作品。
+文字处理
+文字只允许极少量的编辑性介入，不预设标题和数字。可从主体、地点、时间、动作、情绪或隐喻中提取少量词语或短句，安静地置于留白区域或主体边缘。文字应克制、稀疏且具有呼吸感，不喧闹或喧宾夺主。
+整体呈现
+当代东方美学、极简水墨重构、大尺度艺术留白、小尺度印章印象、安静的编辑版式和展览海报风格。避免复杂背景、堆叠的真实细节、过于装饰化、过多文字、模板化版式和填满式构图。
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2104799948072161492)) · [来源平台： X](https://x.com/harboriis/status/2104799948072161492)</sub>
+
+<a id="p107-travel-scenes-with-geometric-vignettes"></a>
+
+### 📌 4.31. 城市景观与几何插图
+
+#### 👀 预览
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg" width="320" height="400" alt="城市景观与几何插图 — 来源示例 1">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-02.jpg" width="320" height="400" alt="城市景观与几何插图 — 来源示例 2">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-02.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-03.jpg" width="320" height="400" alt="城市景观与几何插图 — 来源示例 3">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-03.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-04.jpg" width="320" height="400" alt="城市景观与几何插图 — 来源示例 4">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-04.jpg)
+
+#### 👇 工作流
+
+`目的地 → 旅行景观与几何插图`
+
+#### 🔖 完整提示词
+
+```text
+为 [COUNTRY / CITY / LOCATION / SUBJECT] 创建一幅高级 4:5 竖版编辑风旅行艺术作品。
+
+仅文本生成图像 —— 仅根据 [COUNTRY / CITY / LOCATION / SUBJECT] 创造性地生成完整构图。无需参考图像。
+
+核心概念
+创建一个代表 [COUNTRY / CITY / LOCATION / SUBJECT] 的写实上方场景，并在下方区域搭配一个小型极简几何图形小景。下方艺术作品应在视觉上呼应主场景，但不要直接照搬它。
+
+图形小景
+自动识别 [COUNTRY / CITY / LOCATION / SUBJECT] 最强烈的 2–5 个视觉记忆点——其最具辨识度的剪影、动作、姿态、结构、物体或叙事关系。去除一切不必要的内容，使用简单几何形状、干净的剪影、纯色色块和少量经过精心分层的形状来重构这些元素。
+
+小景应保持小巧且精致，绝不尝试重现整个场景。它可根据主体的视觉重量略微偏离中心、与边缘对齐、悬浮、局部裁切或非对称定位。
+
+负空间
+为几何艺术作品留出充裕的周围留白。将负空间视为不可或缺的设计元素，运用尺度对比、正负形、间距、聚集和非对称平衡，营造精致的编辑节奏。
+
+色彩
+从 [COUNTRY / CITY / LOCATION / SUBJECT] 的视觉身份中提取克制的 2–4 色调色板。提取与主体、环境、材质、季节、氛围、服装、建筑、植被、水域或食物相关的有意义色彩，然后将其简化并略微提亮为干净的图形色彩。
+
+使用接近白色的非常浅、柔和背景。避免浑浊的中性色、不必要的柔和调色板、荧光色或与主体无关的装饰性色彩。
+
+风格
+保持小景小巧、简洁、精准且高度可辨识。使用专业平面设计语言，而非写实的体积感、复杂纹理或卡通风格。
+
+无论主体是人物、建筑、动物、植物、物体、车辆还是景观，都将其转化为具有强烈视觉身份和极简几何的优雅点缀插画。
+
+排版
+如适当，仅加入极少量克制的编辑式文字。从目的地、主体、动作、情绪或视觉隐喻中提取简短词语或短语。让它保持微妙，并融入周围的负空间。
+
+最终美学
+极简几何平面设计 × 编辑式点缀插画 × 当代旅行艺术 × 巧妙留白 × 语义调色板。
+
+成品应感觉精致、现代、活泼、设计意图鲜明且值得收藏，而非照片描摹或普通卡通。
+
+避免照片写实的下方艺术作品、直接照搬照片、过多细节、复杂明暗、渐变、3D 渲染、过大的图形、杂乱、装饰性色彩、通用图标、过多排版、标志、水印或填满的背景。
+
+格式：4:5 竖版，高级编辑式构图，小型几何图形小景并带有充裕的负空间。
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104518835076551144)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2104518835076551144)</sub>
 
 <a id="-home--interior-design"></a>
 

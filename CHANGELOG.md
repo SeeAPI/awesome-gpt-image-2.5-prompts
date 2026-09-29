@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-29
+
+- Published P105–P110 from six user-approved records: four X cases, one Facebook post, and one WeShop AI page, with twelve unchanged outputs, three labeled references, and complete English/Simplified Chinese pages. Preserved the Japanese original for P110 and credited its translations. Documented missing inputs, visual deviations, source-only model claims, and third-party reuse limits.
+- 按用户审核结果发布六条已通过记录，新增 P105–P110：四条 X 案例、一条 Facebook 帖子和一条 WeShop AI 页面，共十二张原始效果图、三张已标明角色的参考图及完整中英文页面；保留 P110 日文原文并标明翻译署名，记录缺失输入、视觉差异、仅由来源声明的模型归属及第三方复用限制。
+
 ## 2026-09-24
 
 - Published P98–P104 from seven user-approved, unpublished Feishu records: five X cases, one Facebook post, and one Threads post, with eleven unchanged source images and complete English/Simplified Chinese pages. Recorded source-only model claims, missing clean reference inputs, the two reference/result painting pairs, named but unlinked inspiration, and third-party reuse limits.

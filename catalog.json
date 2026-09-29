@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-29",
   "entries": [
     {
       "id": "C01",
@@ -5275,6 +5275,365 @@
       "updated": "2026-09-24",
       "readme_anchor": "p104-production-character-reference-sheet",
       "display_number": "2.15"
+    },
+    {
+      "id": "P105",
+      "title": "Architectural Travel Postcards",
+      "title_zh": "建筑旅行明信片",
+      "slug": "p105-architectural-travel-postcards",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2104813775610384490",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2104813775610384490",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p105-architectural-travel-postcards.md",
+      "prompts": [
+        "prompts/p105-architectural-travel-postcards/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p105-architectural-travel-postcards/image-prompt.txt": "prompts/p105-architectural-travel-postcards/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p105-architectural-travel-postcards/image-prompt.txt": "4889fee98907cb714f53ed73f160e6660220bfca3ae17a9760fa24faa8bcc863"
+      },
+      "preview": "assets/p105-architectural-travel-postcards/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p105-architectural-travel-postcards/source-example-01.jpg",
+          "sha256": "ea5bfbf2d38892045750ee33fce1ca2285011d178302a5ea2d01a56d46a5fe0f",
+          "width": 453,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p105-architectural-travel-postcards/source-example-02.jpg",
+          "sha256": "e7225b336a7417c4cba2a7a0cf37bf1734e5b31e7ad10c0b03d664da5244d7e8",
+          "width": 453,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p105-architectural-travel-postcards",
+      "display_number": "4.29"
+    },
+    {
+      "id": "P106",
+      "title": "Photo and Ink Wash Memory Posters",
+      "title_zh": "照片与水墨记忆海报",
+      "slug": "p106-photo-and-ink-wash-memory-posters",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@harboriis",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/harboriis/status/2104799948072161492",
+        "publisher": "@harboriis",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2104799948072161492",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p106-photo-and-ink-wash-memory-posters.md",
+      "prompts": [
+        "prompts/p106-photo-and-ink-wash-memory-posters/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p106-photo-and-ink-wash-memory-posters/image-prompt.txt": "prompts/p106-photo-and-ink-wash-memory-posters/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p106-photo-and-ink-wash-memory-posters/image-prompt.txt": "9313e37f875934b0a6b96caf77ce39c690ffd7278349979be3c28ba3c50b24a1"
+      },
+      "preview": "assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg",
+          "sha256": "f553d21b50b809356d48f993603d86c8c474a6dc09807024a1e664d70b4c3df3",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p106-photo-and-ink-wash-memory-posters/source-example-02.jpg",
+          "sha256": "3567b480ecfafce6086b92f7a97c8665d4399d699497abc8c3d82d553c9ef510",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p106-photo-and-ink-wash-memory-posters/source-example-03.jpg",
+          "sha256": "ca0dfa4f900d10280a8f4f7b8bed0b4a3315453c5cc5a60d1dfc190d7938aeeb",
+          "width": 510,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p106-photo-and-ink-wash-memory-posters",
+      "display_number": "4.30"
+    },
+    {
+      "id": "P107",
+      "title": "Travel Scenes with Geometric Vignettes",
+      "title_zh": "城市景观与几何插图",
+      "slug": "p107-travel-scenes-with-geometric-vignettes",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2104518835076551144",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2104518835076551144",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p107-travel-scenes-with-geometric-vignettes.md",
+      "prompts": [
+        "prompts/p107-travel-scenes-with-geometric-vignettes/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p107-travel-scenes-with-geometric-vignettes/image-prompt.txt": "prompts/p107-travel-scenes-with-geometric-vignettes/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p107-travel-scenes-with-geometric-vignettes/image-prompt.txt": "08a0045d9416de460be9c880001c3dcfecbcbd1dbd0be249d30bfc3c05b5e859"
+      },
+      "preview": "assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg",
+          "sha256": "1d5428ee0d0df137f5e77e692e442056c1321758f25f21428046461431eb1fc2",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p107-travel-scenes-with-geometric-vignettes/source-example-02.jpg",
+          "sha256": "55223ed54fa1e0ac91c28c396eac76f0ec1053112aeb9e0dc4e30d51ef071117",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p107-travel-scenes-with-geometric-vignettes/source-example-03.jpg",
+          "sha256": "31b005f45f7d508fda5d9e19f0b04314ffe7efb3946b516c820135d4d848e75c",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p107-travel-scenes-with-geometric-vignettes/source-example-04.jpg",
+          "sha256": "d1fb0549d8d65896bb605b7f4478bf1401b22197c07327bda1c97c07409f03b4",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p107-travel-scenes-with-geometric-vignettes",
+      "display_number": "4.31"
+    },
+    {
+      "id": "P108",
+      "title": "Monochrome Mini-Me Shoulder Portrait",
+      "title_zh": "黑白肩头迷你分身肖像",
+      "slug": "p108-monochrome-mini-me-shoulder-portrait",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "Chinonso Victor",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.facebook.com/61565779293097/posts/try-this-viral-prompt-below-gpt-image-25/122212116734525976",
+        "publisher": "Chinonso Victor",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "122212116734525976",
+        "platform": "Facebook"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p108-monochrome-mini-me-shoulder-portrait.md",
+      "prompts": [
+        "prompts/p108-monochrome-mini-me-shoulder-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p108-monochrome-mini-me-shoulder-portrait/image-prompt.txt": "prompts/p108-monochrome-mini-me-shoulder-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p108-monochrome-mini-me-shoulder-portrait/image-prompt.txt": "3f2372a6065eaaf04b828f30d9ec45c062169b8bded6c7782389db8ec57c4059"
+      },
+      "preview": "assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg",
+          "sha256": "f032f694372536cf7f2d2ca66dd2b3aefed02b325e8ee056869c178be5289999",
+          "width": 1080,
+          "height": 1341,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p108-monochrome-mini-me-shoulder-portrait",
+      "display_number": "2.16"
+    },
+    {
+      "id": "P109",
+      "title": "Reference Makeup Transfer",
+      "title_zh": "参考妆容迁移",
+      "slug": "p109-reference-makeup-transfer",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "WeShop AI",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5",
+        "publisher": "WeShop AI",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5",
+        "platform": "WeShop AI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p109-reference-makeup-transfer.md",
+      "prompts": [
+        "prompts/p109-reference-makeup-transfer/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p109-reference-makeup-transfer/image-prompt.txt": "prompts/p109-reference-makeup-transfer/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p109-reference-makeup-transfer/image-prompt.txt": "1fd5b84546c1fa8720d4d40fc39a91694fe5a145396a0a199ad05beb3a563a8c"
+      },
+      "preview": "assets/p109-reference-makeup-transfer/source-example-03.png",
+      "media": [
+        {
+          "path": "assets/p109-reference-makeup-transfer/source-reference-01.png",
+          "sha256": "27ae442eb60d18d2b9940913100259f37669beae8e05cd2b711bfd0bf8220e46",
+          "width": 735,
+          "height": 1092,
+          "role": "source-reference",
+          "variant": "Makeup reference"
+        },
+        {
+          "path": "assets/p109-reference-makeup-transfer/source-reference-02.png",
+          "sha256": "eac7b0a16dc10eeaeb94381be836bbcc4d7edebd9f034c81379c3432cdcf8a99",
+          "width": 736,
+          "height": 1039,
+          "role": "source-reference",
+          "variant": "Selfie reference"
+        },
+        {
+          "path": "assets/p109-reference-makeup-transfer/source-example-03.png",
+          "sha256": "784501ec62db12ab7dde393af2c8f468fecbca4aabb67881557a14e6f3f13f43",
+          "width": 880,
+          "height": 1184,
+          "role": "source-example",
+          "variant": "Makeup result"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p109-reference-makeup-transfer",
+      "display_number": "1.40"
+    },
+    {
+      "id": "P110",
+      "title": "Modern Anime Style Upgrade",
+      "title_zh": "现代动漫画风升级",
+      "slug": "p110-modern-anime-style-upgrade",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@SuzukaBike",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/SuzukaBike/status/2104487587021041696",
+        "publisher": "@SuzukaBike",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2104487587021041696",
+        "platform": "X",
+        "original_prompt_language": "ja",
+        "original_prompt_path": "prompts/p110-modern-anime-style-upgrade/image-prompt.ja.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p110-modern-anime-style-upgrade.md",
+      "prompts": [
+        "prompts/p110-modern-anime-style-upgrade/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p110-modern-anime-style-upgrade/image-prompt.txt": "prompts/p110-modern-anime-style-upgrade/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p110-modern-anime-style-upgrade/image-prompt.txt": "488304f76701796851e5c87e9109cafc82d12a601b2da698a82f7418526296f7"
+      },
+      "preview": "assets/p110-modern-anime-style-upgrade/source-example-02.jpg",
+      "media": [
+        {
+          "path": "assets/p110-modern-anime-style-upgrade/source-reference-01.jpg",
+          "sha256": "afdc340e7d87a462eb380cc34ce77dfb00c8d43e2eaba42fb7de7baa799581f7",
+          "width": 510,
+          "height": 680,
+          "role": "source-reference",
+          "variant": "Before"
+        },
+        {
+          "path": "assets/p110-modern-anime-style-upgrade/source-example-02.jpg",
+          "sha256": "e1c53c1fad07eeb595cef9e3639361d3020dcf3507aebfc9b8ef99b6ac3a0d4a",
+          "width": 510,
+          "height": 680,
+          "role": "source-example",
+          "variant": "After"
+        }
+      ],
+      "updated": "2026-09-29",
+      "readme_anchor": "p110-modern-anime-style-upgrade",
+      "display_number": "2.17"
     }
   ]
 }

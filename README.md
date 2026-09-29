@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 104 standalone prompts · Updated September 24, 2026**
+**5 creative workflows · 110 standalone prompts · Updated September 29, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2508,6 +2508,40 @@ Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, r
 
 <sub>(by [@adam_x_____](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)) · [Source: Threads](https://www.threads.com/@adam_x_____/post/Ddl6A2-jccL/gpt-image-on-chat-gpt-prompt-create-a-x-four-panel-cinematic-photo-collage)</sub>
 
+<a id="p109-reference-makeup-transfer"></a>
+
+### 📌 1.40. Reference Makeup Transfer
+
+#### 👀 Preview
+
+**Makeup reference**
+
+[<img src="assets/p109-reference-makeup-transfer/source-reference-01.png" width="269" height="400" alt="Reference Makeup Transfer — Makeup reference">](assets/p109-reference-makeup-transfer/source-reference-01.png)
+
+**Selfie reference**
+
+[<img src="assets/p109-reference-makeup-transfer/source-reference-02.png" width="283" height="400" alt="Reference Makeup Transfer — Selfie reference">](assets/p109-reference-makeup-transfer/source-reference-02.png)
+
+**Makeup result**
+
+[<img src="assets/p109-reference-makeup-transfer/source-example-03.png" width="297" height="400" alt="Reference Makeup Transfer — Makeup result">](assets/p109-reference-makeup-transfer/source-example-03.png)
+
+#### 👇 Workflow
+
+`Makeup reference + selfie → makeup transfer`
+
+#### 🔖 Full Prompt
+
+```text
+Transfer the makeup style from Image 1 to the person in Image 2.
+
+Only change the makeup on the person in Image 2, including eyeshadow, eyeliner, lashes, blush, contour, lip color, and overall makeup finish.
+
+Keep the person’s facial features, identity, hairstyle, clothing, pose, lighting, background, and photo style unchanged.
+```
+
+<sub>(by [WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)) · [Source: WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)</sub>
+
 ## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
@@ -3287,6 +3321,64 @@ Overall goal: create a highly polished, production-grade character model sheet t
 ```
 
 <sub>(by [@HeyZoyaKhan](https://x.com/HeyZoyaKhan/status/2102455966369280388)) · [Source: X](https://x.com/HeyZoyaKhan/status/2102455966369280388)</sub>
+
+<a id="p108-monochrome-mini-me-shoulder-portrait"></a>
+
+### 📌 2.16. Monochrome Mini-Me Shoulder Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg" width="322" height="400" alt="Monochrome Mini-Me Shoulder Portrait — source example 1">](assets/p108-monochrome-mini-me-shoulder-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → monochrome portrait with a miniature self`
+
+#### 🔖 Full Prompt
+
+```text
+Use my uploaded photo as the exact identity reference for the main male subject. Preserve my facial identity, face shape, skin tone, hairstyle, hair texture, facial hair, eyes, nose, lips, and recognizable features with maximum consistency.
+Create a hyper-realistic black-and-white cinematic portrait of me with a miniature version of myself (“mini me”).
+The main subject is an adult man seated in a relaxed, confident pose against a deep black studio background. He wears a simple black turtleneck sweater with a clean, sophisticated appearance. His expression is calm, warm, and slightly serious as he looks directly into the camera.
+A miniature adult version of the exact same man is sitting comfortably on the main subject’s shoulder and partially wrapping his arms around the main subject’s neck in an affectionate, playful pose. The mini-me must have the same face, hairstyle, facial hair, skin tone, and recognizable features as the main subject, but scaled down to approximately 20–25% of the adult’s height.
+The main subject wears a simple, premium black sweatshirt with a relaxed fit, crew neckline, long sleeves, and clean minimal styling. The sweatshirt should have a realistic soft cotton texture with natural folds and fabric weight. No logos, graphics, text, or visible branding.
+The mini-me wears a miniature white shirt, scaled naturally to his smaller body.
+The main subject gently holds the mini-me’s arm with one hand, creating a believable physical connection between them. Make the interaction feel natural and emotionally warm rather than cartoonish.
+Composition: vertical portrait, medium close-up, centered composition, both faces clearly visible, main subject occupying most of the frame, mini-me positioned naturally on the shoulder, symmetrical and visually balanced framing.
+Camera: professional studio portrait photography, eye-level camera, approximately 85mm portrait lens, shallow depth of field while keeping both faces sharply focused, natural perspective, realistic proportions and scale.
+Lighting: dramatic soft studio lighting from the front and slightly above, gentle highlights across the faces, subtle shadow falloff, beautifully sculpted facial features, realistic skin texture.
+Color treatment: entirely black and white, rich monochrome tones, deep blacks, bright whites, subtle gray transitions, high contrast, timeless fine-art photography aesthetic.
+Style: hyper-realistic photography, premium editorial portrait, cinematic fine-art photography, realistic skin pores, detailed hair strands, natural fabric texture, physically accurate shadows, realistic miniature scale, sophisticated and emotional, ultra-detailed, 8K.
+Important: The mini-me must clearly be a miniature adult version of the same man, not a different person and not a random child. Maintain exact facial identity between the large subject and mini-me. Make the size difference obvious while keeping the mini-me anatomically realistic.
+```
+
+<sub>(by [Chinonso Victor](https://www.facebook.com/61565779293097/posts/try-this-viral-prompt-below-gpt-image-25/122212116734525976)) · [Source: Facebook](https://www.facebook.com/61565779293097/posts/try-this-viral-prompt-below-gpt-image-25/122212116734525976)</sub>
+
+<a id="p110-modern-anime-style-upgrade"></a>
+
+### 📌 2.17. Modern Anime Style Upgrade
+
+#### 👀 Preview
+
+**Before**
+
+[<img src="assets/p110-modern-anime-style-upgrade/source-reference-01.jpg" width="300" height="400" alt="Modern Anime Style Upgrade — Before">](assets/p110-modern-anime-style-upgrade/source-reference-01.jpg)
+
+**After**
+
+[<img src="assets/p110-modern-anime-style-upgrade/source-example-02.jpg" width="300" height="400" alt="Modern Anime Style Upgrade — After">](assets/p110-modern-anime-style-upgrade/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Anime reference → modern anime style upgrade`
+
+#### 🔖 Full Prompt
+
+```text
+Keep the framing unchanged, enhance with super-resolution, and convert to a modern anime style.
+```
+
+<sub>(by [@SuzukaBike](https://x.com/SuzukaBike/status/2104487587021041696)) · [Source: X](https://x.com/SuzukaBike/status/2104487587021041696) · English translation by SeeAPI</sub>
 
 ## 🛍️ Products & Branding
 
@@ -4666,6 +4758,173 @@ Create a set of ornate clocks arranged like a surreal still life on a bright sea
 ```
 
 <sub>(by [@CliffWade](https://x.com/CliffWade/status/2102771495495688586)) · [Source: X](https://x.com/CliffWade/status/2102771495495688586)</sub>
+
+<a id="p105-architectural-travel-postcards"></a>
+
+### 📌 4.29. Architectural Travel Postcards
+
+#### 👀 Preview
+
+[<img src="assets/p105-architectural-travel-postcards/source-example-01.jpg" width="266" height="400" alt="Architectural Travel Postcards — source example 1">](assets/p105-architectural-travel-postcards/source-example-01.jpg)
+
+[<img src="assets/p105-architectural-travel-postcards/source-example-02.jpg" width="266" height="400" alt="Architectural Travel Postcards — source example 2">](assets/p105-architectural-travel-postcards/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Destination → architectural travel postcard`
+
+#### 🔖 Full Prompt
+
+```text
+DESTINATION: [DESTINATION]
+
+Create a sophisticated vertical 2:3 architectural travel postcard featuring [DESTINATION].
+
+STYLE
+
+Premium contemporary editorial postcard with subtle vintage influence. Combine precise architectural pen-and-ink illustration, restrained travel graphics, archival details, and modern graphic design. The result should feel cultured, timeless, architectural, and collectible—not like a tourist souvenir.
+
+MAIN SUBJECT
+
+Feature ONE iconic building, monument, structure, street façade, or architectural landmark strongly associated with [DESTINATION]. Make it the clear visual hero, shown from a believable three-quarter or slightly dramatic architectural perspective. No landmark collage.
+
+ILLUSTRATION
+
+Use exceptionally fine black or dark graphite linework, detailed architectural hatching, accurate proportions, and subtle hand-drawn imperfections. Include recognizable structural details such as windows, façades, roofs, columns, or ornaments where appropriate.
+
+COLOR
+
+Keep much of the architecture as line art with selective flat color using only 2–4 destination-specific tones. Colors should be sophisticated and slightly muted. Avoid gradients, glossy rendering, photorealism, excessive beige, and muddy sepia.
+
+BACKGROUND
+
+Use a clean pure white background with subtle archival elements such as faint maps, street plans, coordinates, contour lines, architectural diagrams, or minimal local-language annotations. Keep these elements secondary and lightly faded.
+
+COMPOSITION
+
+Vertical 2:3 format, with the landmark occupying roughly 60–75% of the artwork. Use generous negative space and an asymmetric editorial layout. Allow tasteful cropping when it improves the composition.
+
+TYPOGRAPHY
+
+Add restrained typography:
+
+[LOCAL NAME]
+[DESTINATION]
+
+Use elegant architectural or museum-catalogue-inspired typography. Add a tiny bottom information strip with relevant details such as CITY / COUNTRY · ARCHITECTURE · EST. YEAR · COORDINATES.
+
+DETAILS & MOOD
+
+Add only a few tiny contextual elements—people, bicycles, trees, lamps, vehicles, or street details—when appropriate, mainly to establish scale.
+
+Mood: quiet urban sophistication, cultural authenticity, history, and refined design.
+
+AVOID
+
+Tourist clichés, cartoon styling, fake architecture, landmark collages, giant typography, excessive decoration, heavy vintage filters, fake stamps, clutter, 3D rendering, and unnecessary text.
+
+FINAL GOAL: A timeless, highly detailed, premium architectural postcard that feels like a museum-shop collectible or contemporary design print.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104813775610384490)) · [Source: X](https://x.com/Goodmanprotocol/status/2104813775610384490)</sub>
+
+<a id="p106-photo-and-ink-wash-memory-posters"></a>
+
+### 📌 4.30. Photo and Ink Wash Memory Posters
+
+#### 👀 Preview
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg" width="300" height="400" alt="Photo and Ink Wash Memory Posters — source example 1">](assets/p106-photo-and-ink-wash-memory-posters/source-example-01.jpg)
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-02.jpg" width="300" height="400" alt="Photo and Ink Wash Memory Posters — source example 2">](assets/p106-photo-and-ink-wash-memory-posters/source-example-02.jpg)
+
+[<img src="assets/p106-photo-and-ink-wash-memory-posters/source-example-03.jpg" width="300" height="400" alt="Photo and Ink Wash Memory Posters — source example 3">](assets/p106-photo-and-ink-wash-memory-posters/source-example-03.jpg)
+
+#### 👇 Workflow
+
+`Photo reference → photo and ink wash split poster`
+
+#### 🔖 Full Prompt
+
+```text
+Split-Frame Ink Wash Reconstruction
+3:4 vertical composition · photo / ink wash split · contemporary Eastern aesthetic
+The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.
+Upper Region — Original Photo Shoot Area
+Preserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.
+Lower Region — Minimalist Ink Wash Reconstruction Area
+First, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.
+The overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.
+The most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.
+The main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%–45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.
+Text Treatment
+Text is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.
+Overall Presentation
+Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.
+```
+
+<sub>(by [@harboriis](https://x.com/harboriis/status/2104799948072161492)) · [Source: X](https://x.com/harboriis/status/2104799948072161492)</sub>
+
+<a id="p107-travel-scenes-with-geometric-vignettes"></a>
+
+### 📌 4.31. Travel Scenes with Geometric Vignettes
+
+#### 👀 Preview
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg" width="320" height="400" alt="Travel Scenes with Geometric Vignettes — source example 1">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-01.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-02.jpg" width="320" height="400" alt="Travel Scenes with Geometric Vignettes — source example 2">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-02.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-03.jpg" width="320" height="400" alt="Travel Scenes with Geometric Vignettes — source example 3">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-03.jpg)
+
+[<img src="assets/p107-travel-scenes-with-geometric-vignettes/source-example-04.jpg" width="320" height="400" alt="Travel Scenes with Geometric Vignettes — source example 4">](assets/p107-travel-scenes-with-geometric-vignettes/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`Destination → travel scene and geometric vignette`
+
+#### 🔖 Full Prompt
+
+```text
+Create a premium 4:5 vertical editorial travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+TEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.
+
+CORE CONCEPT
+Create a realistic upper scene representing [COUNTRY / CITY / LOCATION / SUBJECT], paired with a small Minimal Geometric Graphic Vignette in the lower section. The lower artwork should visually echo the main scene without literally reproducing it.
+
+GRAPHIC VIGNETTE
+Automatically identify the 2–5 strongest visual memory points of [COUNTRY / CITY / LOCATION / SUBJECT]—its most recognizable silhouette, movement, posture, structure, object, or narrative relationship. Remove everything unnecessary and reconstruct these elements using simple geometric forms, clean silhouettes, solid color blocks, and a few carefully layered shapes.
+
+The vignette should remain small and refined, never attempting to recreate the entire scene. It may be slightly off-center, edge-aligned, floating, partially cropped, or asymmetrically positioned according to the visual weight of the subject.
+
+NEGATIVE SPACE
+Give the geometric artwork generous surrounding whitespace. Treat negative space as an essential design element, using scale contrast, positive/negative shapes, spacing, clustering, and asymmetrical balance to create a sophisticated editorial rhythm.
+
+COLOR
+Derive a restrained 2–4 color palette from the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Extract meaningful colors associated with the subject, environment, materials, season, atmosphere, clothing, architecture, vegetation, water, or food, then simplify and slightly brighten them into clean graphic colors.
+
+Use a very pale, soft background close to white. Avoid muddy neutrals, unnecessary muted palettes, fluorescent colors, or decorative colors unrelated to the subject.
+
+STYLE
+Keep the vignette small, simple, precise, and highly recognizable. Use professional graphic-design language rather than realistic volume, complex textures, or cartoon styling.
+
+Whether the subject is a person, building, animal, plant, object, vehicle, or landscape, transform it into an elegant spot illustration with strong visual identity and minimal geometry.
+
+TYPOGRAPHY
+Add only a very small amount of restrained editorial text if appropriate. Derive a short word or phrase from the destination, subject, action, mood, or visual metaphor. Keep it subtle and integrated into the surrounding negative space.
+
+FINAL AESTHETIC
+Minimal geometric graphic design × editorial spot illustration × contemporary travel art × intelligent negative space × semantic color palette.
+
+The result should feel refined, modern, playful, highly intentional, and collectible—not like a photo tracing or ordinary cartoon.
+
+Avoid photorealistic lower artwork, literal photo recreation, excessive detail, complex shading, gradients, 3D rendering, oversized graphics, clutter, decorative colors, generic icons, excessive typography, logos, watermarks, or filled-in backgrounds.
+
+FORMAT: 4:5 vertical, premium editorial composition, small geometric vignette with generous negative space.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104518835076551144)) · [Source: X](https://x.com/Goodmanprotocol/status/2104518835076551144)</sub>
 
 ## 🏡 Home & Interior Design
 
