@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 110 standalone prompts · Updated September 29, 2026**
+**5 creative workflows · 117 standalone prompts · Updated October 12, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2544,6 +2544,85 @@ Keep the person’s facial features, identity, hairstyle, clothing, pose, lighti
 
 ## 🧸 Characters & Playful Creations
 
+<a id="p111-copper-hair-doorway-portrait"></a>
+
+### 📌 1.41. Copper Hair Doorway Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p111-copper-hair-doorway-portrait/source-example-01.jpg" width="225" height="400" alt="Copper Hair Doorway Portrait — source example">](assets/p111-copper-hair-doorway-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → doorway lifestyle portrait`
+
+Required input: your portrait reference. The original identity reference was not shared.
+
+#### 🔖 Full Prompt
+
+```text
+Hyper-realistic IMAX-level Netflix-style cinematic indoor lifestyle portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted grey scoop-neck tank top and matching grey drawstring lounge shorts with a white waistband cord. She stands facing the camera with her shoulders relaxed, torso upright and hips subtly shifted; her right hand gently pinches the shorts’ waistband while her left arm hangs naturally beside her thigh. Her blue-green eyes look directly into the camera with relaxed eyelids and softly defined brows, paired with a warm, genuine smile showing her upper teeth and a friendly, approachable expression. Her voluminous copper-red hair has a deep side part, lifted roots and abundant loose, tousled waves cascading over both shoulders, with golden highlights catching the light. Fair luminous porcelain skin with a bright ivory to light beige tone, a neutral-cool undertone, natural freckles across her nose and cheeks, and realistic skin texture. Frame her in a softly lit indoor doorway with pale trim, warm beige walls and a blurred wooden door behind her. Warm natural light illuminates her face and hair, balanced by gentle shadows and subtle golden rim highlights. Apply a clean, warm editorial colour grade with rich copper and auburn hair tones, neutral grey clothing, natural skin colour, moderate contrast and soft background blur for a polished yet realistic photographic finish.
+Negative prompt: altered identity, unnatural smile, artificial skin smoothing, distorted hands, incorrect fingers, exaggerated proportions, oversaturation, text, watermark.
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2109545439452361017)) · [Source: X](https://x.com/imGopalTiwari/status/2109545439452361017)</sub>
+
+<a id="p113-wet-hair-beauty-close-up"></a>
+
+### 📌 1.42. Wet Hair Beauty Close-Up
+
+#### 👀 Preview
+
+[<img src="assets/p113-wet-hair-beauty-close-up/source-example-01.jpg" width="320" height="400" alt="Wet Hair Beauty Close-Up — source example">](assets/p113-wet-hair-beauty-close-up/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Portrait reference → wet-hair beauty close-up`
+
+Required input: your portrait reference. The original identity reference was not shared.
+
+#### 🔖 Full Prompt
+
+```text
+Hyper-realistic IMAX-level Netflix-style cinematic extreme close-up beauty portrait, 4:5 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman with her face filling almost the entire frame, her head tilted slightly downward and turned subtly sideways while her gaze lifts directly toward the camera. Her fingertips rest gently against her lower lip and chin, with naturally curved fingers. Her blue-green eyes are sharply focused and slightly narrowed beneath relaxed, defined eyebrows, framed by muted rose-red eyeshadow and softly darkened lash lines; her lips are slightly parted with a dusty-rose tint, conveying a quiet, intense, contemplative mood. Her long, dark chestnut-brown hair is visibly wet and tousled, with numerous thin, separated strands clinging to her forehead and crossing both eyebrows, partially veiling her eyelids, running over the bridge of her nose and trailing across her cheeks and lips; damp strands frame both sides of her face while heavier wet sections fall along her temples. Fair luminous porcelain skin with a bright ivory to light beige tone, neutral-cool undertones, visible natural pores and delicate moisture highlights. Soft directional light from the upper left illuminates the eyes, nose and cheekbones, while gentle shadows deepen the opposite side of her face against a blurred warm taupe background. Use muted beige skin tones, dusty rose makeup, deep chocolate-brown hair, restrained saturation and rich yet natural contrast, with subtle film grain and an intimate, moody editorial finish. Keep the eyes and wet hair strands crisp while allowing the outer edges to fall softly out of focus. Negative prompt: altered identity, dry hair, neatly arranged hair, missing facial strands, obscured eyes, unnatural eyes, plastic skin, distorted fingers, excessive sharpening, text, watermark.
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2109518829705740320)) · [Source: X](https://x.com/imGopalTiwari/status/2109518829705740320)</sub>
+
+<a id="p114-moonlit-lake-and-stone-house"></a>
+
+### 📌 1.43. Moonlit Lake and Stone House
+
+#### 👀 Preview
+
+[<img src="assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg" width="400" height="225" alt="Moonlit Lake and Stone House — source example">](assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → moonlit fantasy landscape`
+
+#### 🔖 Full Prompt
+
+```text
+Surreal photorealistic night fantasy landscape, wide 16:9 panoramic composition, cinematic, ultra-detailed.
+
+SKY: an immense star-filled night sky covering the upper half, deep black with dense scattered pinpoint stars and a warm amber nebula glow spreading behind the moon on the right. A huge, luminous full moon with crisp craters hangs high in the upper right, ringed by a soft warm halo, its light bleeding into the stars.
+
+MOUNTAINS: on the left, a towering dark rocky mountain rises steeply, its jagged face catching cold silver moonlight. Further back, distant snow-dusted ridgelines fade into layered cold blue-grey mist. Low rolling clouds and fog spill down between the slopes and hang in the valley.
+
+HOUSE: perched on a forested ridge on the left, a weathered gabled stone house with a steep roof, two chimneys and several small windows glowing warm gold. Dark autumn trees and low bushes cluster around its base, a few leaves turned amber.
+
+FOREGROUND RIGHT: a tall slender tree in full fiery orange and amber autumn foliage stands at the right edge, catching warm rim light from the moon.
+
+GROUND RIGHT: a winding pale dirt path curves from the bottom right corner up along the shore toward the house, edged by soft-lit grass in olive, ochre and warm green. A small dark hooded silhouette of a lone figure stands on the path facing the house, casting a long shadow.
+
+WATER: the entire lower left two-thirds is a vast still lake rendered in fine, dense, perfectly rhythmic concentric water ripples — narrow parallel wavy lines striping the whole surface like engraved metal or fine silk. The water reads as cold silver-grey and pale slate, glowing faintly under the moonlight, with the mountain and shore reflected subtly within the ripple pattern.
+
+PALETTE: near-black, deep navy, cold silver grey, warm amber, fiery orange, ochre, pale gold windows. Photorealistic, high dynamic range, moody and mystical, clean and unmarked, no text or border.
+```
+
+<sub>(by [@churvikv](https://x.com/churvikv/status/2109362817786896480)) · [Source: X](https://x.com/churvikv/status/2109362817786896480)</sub>
+
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
 
 ### 📌 2.1. iPhone Photos Day-in-the-Life Camera Roll
@@ -3381,6 +3460,30 @@ Keep the framing unchanged, enhance with super-resolution, and convert to a mode
 <sub>(by [@SuzukaBike](https://x.com/SuzukaBike/status/2104487587021041696)) · [Source: X](https://x.com/SuzukaBike/status/2104487587021041696) · English translation by SeeAPI</sub>
 
 ## 🛍️ Products & Branding
+
+<a id="p112-chappy-complaint-portrait"></a>
+
+### 📌 2.18. Chappy Complaint Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p112-chappy-complaint-portrait/source-example-01.jpg" width="320" height="400" alt="Chappy Complaint Portrait — source example">](assets/p112-chappy-complaint-portrait/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Character context + conversation history → illustrated complaints`
+
+Short source template requiring your character design and conversation history; those source inputs were not shared.
+
+#### 🔖 Full Prompt
+
+```text
+You, Chappy (ChatGPT), have been giving me such nice reactions lately. I wonder what kind of character you would be if generated according to my character design.
+Write in Chappy's complaints based on exchanges with the user.
+Draw in a vertical aspect ratio (4:5).
+```
+
+<sub>[Source: X](https://x.com/kabumira862571/status/2109528617772536226) · English translation by SeeAPI</sub>
 
 <a id="p31-virtual-outfit-replacement"></a>
 
@@ -4928,6 +5031,26 @@ FORMAT: 4:5 vertical, premium editorial composition, small geometric vignette wi
 
 ## 🏡 Home & Interior Design
 
+<a id="p117-slow-morning-coffee-poster"></a>
+
+### 📌 4.32. Slow Morning Coffee Poster
+
+#### 👀 Preview
+
+[<img src="assets/p117-slow-morning-coffee-poster/source-example-01.webp" width="400" height="400" alt="Slow Morning Coffee Poster — source example">](assets/p117-slow-morning-coffee-poster/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Text → minimalist coffee poster`
+
+#### 🔖 Full Prompt
+
+```text
+A minimalist poster that reads "SLOW MORNING" above a steaming coffee cup
+```
+
+<sub>[Source: Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
 ### 📌 5.1. Bedroom Redesign from Your Photo
@@ -4951,6 +5074,34 @@ Redesign this ordinary bedroom into a more stylish, cohesive, and professionally
 <sub>(by SeeAPI)</sub>
 
 ## 📊 Infographics & Practical Design
+
+<a id="p115-snowy-night-reading-nook"></a>
+
+### 📌 5.2. Snowy Night Reading Nook
+
+#### 👀 Preview
+
+**Before (source reference)**
+
+[<img src="assets/p115-snowy-night-reading-nook/source-reference-01.jpg" width="400" height="400" alt="Snowy Night Reading Nook — Before (source reference)">](assets/p115-snowy-night-reading-nook/source-reference-01.jpg)
+
+**After (source example)**
+
+[<img src="assets/p115-snowy-night-reading-nook/source-example-01.webp" width="400" height="400" alt="Snowy Night Reading Nook — After (source example)">](assets/p115-snowy-night-reading-nook/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Room reference → snowy night lighting edit`
+
+Use the room reference as input. The source labels the daylight reference as Nano Banana Pro and the night edit as GPT Image 2.5.
+
+#### 🔖 Full Prompt
+
+```text
+The same room at night: the lamp is the only light, snow falls outside instead of rain, keep everything else the same
+```
+
+<sub>[Source: Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
 
 <a id="p30-spanish-infographic-translation"></a>
 
@@ -5169,6 +5320,26 @@ Create a visually rich infographic about an endangered animal. Start by finding 
 ```
 
 <sub>[Source: Vanikya](https://vanikya.ai/gpt-image-2-5#education-poster)</sub>
+
+<a id="p116-lisbon-weather-app-in-hand"></a>
+
+### 📌 6.11. Lisbon Weather App in Hand
+
+#### 👀 Preview
+
+[<img src="assets/p116-lisbon-weather-app-in-hand/source-example-01.webp" width="225" height="400" alt="Lisbon Weather App in Hand — source example">](assets/p116-lisbon-weather-app-in-hand/source-example-01.webp)
+
+#### 👇 Workflow
+
+`Text → weather app in a street scene`
+
+#### 🔖 Full Prompt
+
+```text
+A weather app screen on a phone held in one hand, showing "Lisbon", "24°C" and "Sunny" on clean rounded cards, a blurred sunny street behind
+```
+
+<sub>[Source: Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
 
 <a id="-5-creative-cases"></a>
 

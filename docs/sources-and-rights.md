@@ -129,6 +129,24 @@ P105 和 P107 包含目的地占位符，来源未公开示例所用的准确输
 
 本批案例未确认单独的再分发许可。来源照片、角色、建筑、商标和其他第三方元素仍受各自权利约束；署名不产生额外复用权利。
 
+## October 12, 2026 Additions / 2026 年 10 月 12 日新增
+
+P111–P117 preserve seven user-approved cases from four X posts and three Anyscene examples. Eight unchanged source images are included: seven outputs and one room reference. Model labels remain source claims, including GPT Image 2.5 Flare for P114; SeeAPI did not independently verify generation logs, exact settings, or matching reruns.
+
+P111 and P113 already request uploaded identity references, so their original English wording is unchanged. The original identity references were not shared. P112 is a short Japanese template that depends on the user's character design and conversation history; these source inputs were not supplied. Its original Japanese text is preserved in `image-prompt.ja.txt`, with English and Chinese translations by SeeAPI. The X publisher credits @panzer343343 for the prompt idea, but authorship of the exact wording remains unconfirmed; the public case credits the source without substituting SeeAPI as the author.
+
+P115 pairs the daylight room reference with its night-and-snow edit. Anyscene labels the daylight input as Nano Banana Pro and the output as GPT Image 2.5; the reference is not presented as a 2.5 output. The source examples broadly preserve the reader, cat, shelves, mug, and room layout, but their exported dimensions differ and pixel-level preservation has not been verified. P116 preserves the literal strings "Lisbon", "24°C", and "Sunny"; P117 preserves "SLOW MORNING". The individual prompt authors and publication dates for the three Anyscene examples were not supplied.
+
+No case-specific redistribution permission was established for this batch. Source credit, public availability, and editorial approval do not add rights to the source photographs, characters, or other third-party material.
+
+P111–P117 收录七条经用户审核通过的案例：四条 X 原帖和三个 Anyscene 示例，共八张保持原始字节的来源图片，包括七张效果图和一张房间参考图。模型标签均为来源声明，P114 声明 GPT Image 2.5 Flare；SeeAPI 未独立核验生成记录、准确参数，也未进行匹配复现。
+
+P111 和 P113 原文已要求上传身份参考图，因此保留完整英文原文；来源未提供原始身份参考图。P112 是依赖用户角色设定和对话历史的日文短模板，这些来源输入未提供。日文原文保存在 `image-prompt.ja.txt`，英文和中文由 SeeAPI 翻译。X 发布者将提示词思路归功于 @panzer343343，但该段具体措辞的作者未确认；公开案例保留来源署名，不将未知作者替换为 SeeAPI。
+
+P115 配对展示日间房间参考图与夜雪编辑结果。Anyscene 将日间输入标注为 Nano Banana Pro，将效果图标注为 GPT Image 2.5；参考图不作为 2.5 效果图。来源示例中的读者、猫、书架、杯子和房间布局整体对应，但导出尺寸不同，未经像素级保持验证。P116 保留原样文字 "Lisbon"、"24°C" 和 "Sunny"；P117 保留 "SLOW MORNING"。三个 Anyscene 示例的独立提示词作者和发布时间未提供。
+
+本批案例未确认单独的再分发许可。署名、公开可访问以及编辑审核均不会为来源照片、角色或其他第三方素材增加使用权利。
+
 ## Reuse Terms
 
 No repository-wide license has been assigned to all text, scripts, and media. A public repository and a creator credit do not by themselves establish unrestricted reuse terms.

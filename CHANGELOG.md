@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-12
+
+- Published P111–P117 from seven approved cases: four X posts and three Anyscene examples, with seven unchanged outputs, one labeled room reference, and complete English/Simplified Chinese pages. Preserved the Japanese original for P112 and credited its translations. Retained missing identity/context inputs, unconfirmed authorship, source-only model claims, and third-party reuse limits.
+- 按审核结果发布七条通过案例，新增 P111–P117：四条 X 原帖和三个 Anyscene 示例，共七张原始效果图、一张已标明角色的房间参考图及完整中英文页面；保留 P112 日文原文并标明翻译署名，记录身份或对话输入缺失、作者未确认、仅由来源声明的模型归属及第三方复用限制。
+
 ## 2026-09-29
 
 - Published P105–P110 from six user-approved records: four X cases, one Facebook post, and one WeShop AI page, with twelve unchanged outputs, three labeled references, and complete English/Simplified Chinese pages. Preserved the Japanese original for P110 and credited its translations. Documented missing inputs, visual deviations, source-only model claims, and third-party reuse limits.

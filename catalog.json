@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-10-12",
   "entries": [
     {
       "id": "C01",
@@ -5634,6 +5634,363 @@
       "updated": "2026-09-29",
       "readme_anchor": "p110-modern-anime-style-upgrade",
       "display_number": "2.17"
+    },
+    {
+      "id": "P111",
+      "title": "Copper Hair Doorway Portrait",
+      "title_zh": "铜红发门口人像",
+      "slug": "p111-copper-hair-doorway-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@imGopalTiwari",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/imGopalTiwari/status/2109545439452361017",
+        "publisher": "@imGopalTiwari",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2109545439452361017",
+        "platform": "X",
+        "original_prompt_path": "docs/source-prompts/p111-copper-hair-doorway-portrait.json",
+        "original_prompt_format": "json",
+        "formatting_normalization": "Removed one trailing space before a newline; wording and paragraph boundaries unchanged."
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p111-copper-hair-doorway-portrait.md",
+      "prompts": [
+        "prompts/p111-copper-hair-doorway-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p111-copper-hair-doorway-portrait/image-prompt.txt": "prompts/p111-copper-hair-doorway-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p111-copper-hair-doorway-portrait/image-prompt.txt": "0c1ab0e8b7842b8dc1aabe1f84c8091d2d9a1650a35998521920d815896924e0"
+      },
+      "preview": "assets/p111-copper-hair-doorway-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p111-copper-hair-doorway-portrait/source-example-01.jpg",
+          "sha256": "94c5375087a448a086097efcc14ebd614d1c0783d4e7aeb3309e5db189d60fb3",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p111-copper-hair-doorway-portrait",
+      "display_number": "1.41",
+      "source_limitations": "缺人物参考图"
+    },
+    {
+      "id": "P112",
+      "title": "Chappy Complaint Portrait",
+      "title_zh": "Chappy 吐槽角色肖像",
+      "slug": "p112-chappy-complaint-portrait",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/kabumira862571/status/2109528617772536226",
+        "publisher": "@kabumira862571",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "2109528617772536226",
+        "platform": "X",
+        "original_prompt_language": "ja",
+        "original_prompt_path": "prompts/p112-chappy-complaint-portrait/image-prompt.ja.txt",
+        "english_translation_by": "SeeAPI",
+        "authorship_note": "The publisher credits @panzer343343 for the prompt idea; the author of this exact wording is unconfirmed."
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT-Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p112-chappy-complaint-portrait.md",
+      "prompts": [
+        "prompts/p112-chappy-complaint-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p112-chappy-complaint-portrait/image-prompt.txt": "prompts/p112-chappy-complaint-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p112-chappy-complaint-portrait/image-prompt.txt": "0868627ed44559c125e8c23d32ee16b3384391c3d8ee74cb997fbe56baef428b"
+      },
+      "preview": "assets/p112-chappy-complaint-portrait/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p112-chappy-complaint-portrait/source-example-01.jpg",
+          "sha256": "2358747dd475c810d9585e5428366b809e8060d8a6baa7513db5085b4b04d04c",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p112-chappy-complaint-portrait",
+      "display_number": "2.18",
+      "source_limitations": "缺角色与对话上下文"
+    },
+    {
+      "id": "P113",
+      "title": "Wet Hair Beauty Close-Up",
+      "title_zh": "湿发美妆特写",
+      "slug": "p113-wet-hair-beauty-close-up",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@imGopalTiwari",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/imGopalTiwari/status/2109518829705740320",
+        "publisher": "@imGopalTiwari",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2109518829705740320",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p113-wet-hair-beauty-close-up.md",
+      "prompts": [
+        "prompts/p113-wet-hair-beauty-close-up/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p113-wet-hair-beauty-close-up/image-prompt.txt": "prompts/p113-wet-hair-beauty-close-up/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p113-wet-hair-beauty-close-up/image-prompt.txt": "a6e32517bfae84717a30ed93a7200fb4266ff29c2d634204ec8a2e02799e6459"
+      },
+      "preview": "assets/p113-wet-hair-beauty-close-up/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p113-wet-hair-beauty-close-up/source-example-01.jpg",
+          "sha256": "513b5f2f0b2b165f02861a7b0a91fdf382e76866a80b72b07fa10bcf50438b48",
+          "width": 544,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p113-wet-hair-beauty-close-up",
+      "display_number": "1.42",
+      "source_limitations": "缺人物参考图"
+    },
+    {
+      "id": "P114",
+      "title": "Moonlit Lake and Stone House",
+      "title_zh": "月夜湖泊与石屋",
+      "slug": "p114-moonlit-lake-and-stone-house",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "@churvikv",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/churvikv/status/2109362817786896480",
+        "publisher": "@churvikv",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2109362817786896480",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Flare",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p114-moonlit-lake-and-stone-house.md",
+      "prompts": [
+        "prompts/p114-moonlit-lake-and-stone-house/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p114-moonlit-lake-and-stone-house/image-prompt.txt": "prompts/p114-moonlit-lake-and-stone-house/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p114-moonlit-lake-and-stone-house/image-prompt.txt": "eb9bac333ede97fb0d9dfa483ad0695e0c095f2bf19d823714965ec8c3f2e312"
+      },
+      "preview": "assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg",
+          "sha256": "5c564fe11045e8a406def11232dfe314313962aa4f55f23f70fd5695b8a564b4",
+          "width": 680,
+          "height": 383,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p114-moonlit-lake-and-stone-house",
+      "display_number": "1.43"
+    },
+    {
+      "id": "P115",
+      "title": "Snowy Night Reading Nook",
+      "title_zh": "夜雪阅读角",
+      "slug": "p115-snowy-night-reading-nook",
+      "categories": [
+        "Home & Interior Design"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://anyscene.app/gpt-image-2-5",
+        "publisher": "Anyscene",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "nook-at-night",
+        "platform": "Anyscene"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p115-snowy-night-reading-nook.md",
+      "prompts": [
+        "prompts/p115-snowy-night-reading-nook/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p115-snowy-night-reading-nook/image-prompt.txt": "prompts/p115-snowy-night-reading-nook/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p115-snowy-night-reading-nook/image-prompt.txt": "a6b0aa0fee23961acba6622a6c3eb0c53cf95c6960e5da9eedfad28f6ba615b6"
+      },
+      "preview": "assets/p115-snowy-night-reading-nook/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p115-snowy-night-reading-nook/source-reference-01.jpg",
+          "sha256": "352f027575ad498752eea90f147eb64249dd17c8442ee2059d7cb37d26860254",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-reference",
+          "variant": "Before (source reference)",
+          "model_claim": "Nano Banana Pro",
+          "model_verification": "source-claim-only"
+        },
+        {
+          "path": "assets/p115-snowy-night-reading-nook/source-example-01.webp",
+          "sha256": "90050c3b26d74b945059d840f3fb1432158418f834b75007142a5b4af1e5627b",
+          "width": 1254,
+          "height": 1254,
+          "role": "source-example",
+          "variant": "After (source example)"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p115-snowy-night-reading-nook",
+      "display_number": "5.2"
+    },
+    {
+      "id": "P116",
+      "title": "Lisbon Weather App in Hand",
+      "title_zh": "手持里斯本天气应用",
+      "slug": "p116-lisbon-weather-app-in-hand",
+      "categories": [
+        "Infographics & Practical Design"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://anyscene.app/gpt-image-2-5",
+        "publisher": "Anyscene",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "weather-app",
+        "platform": "Anyscene"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p116-lisbon-weather-app-in-hand.md",
+      "prompts": [
+        "prompts/p116-lisbon-weather-app-in-hand/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p116-lisbon-weather-app-in-hand/image-prompt.txt": "prompts/p116-lisbon-weather-app-in-hand/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p116-lisbon-weather-app-in-hand/image-prompt.txt": "af767eb7e904bcf7c3828e8c0119430e6b84ff15866538c4239e28686fbd75b8"
+      },
+      "preview": "assets/p116-lisbon-weather-app-in-hand/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p116-lisbon-weather-app-in-hand/source-example-01.webp",
+          "sha256": "1735c131af48c0cbd6907518b7fe711c167b5fa0f96543d3510a1f612ab59936",
+          "width": 720,
+          "height": 1280,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p116-lisbon-weather-app-in-hand",
+      "display_number": "6.11"
+    },
+    {
+      "id": "P117",
+      "title": "Slow Morning Coffee Poster",
+      "title_zh": "Slow Morning 咖啡海报",
+      "slug": "p117-slow-morning-coffee-poster",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "Author unconfirmed",
+      "inspiration": null,
+      "source": {
+        "url": "https://anyscene.app/gpt-image-2-5",
+        "publisher": "Anyscene",
+        "author_status": "unconfirmed",
+        "relationship": "collected",
+        "item_key": "slow-morning",
+        "platform": "Anyscene"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p117-slow-morning-coffee-poster.md",
+      "prompts": [
+        "prompts/p117-slow-morning-coffee-poster/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p117-slow-morning-coffee-poster/image-prompt.txt": "prompts/p117-slow-morning-coffee-poster/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p117-slow-morning-coffee-poster/image-prompt.txt": "eb0bc2d4a8b43f919deb6602627025951f1dcdea5c3897ad13d26fff68921fa8"
+      },
+      "preview": "assets/p117-slow-morning-coffee-poster/source-example-01.webp",
+      "media": [
+        {
+          "path": "assets/p117-slow-morning-coffee-poster/source-example-01.webp",
+          "sha256": "20a0e5c7b702a37a33fc448317012e82b3c477d5663b9d8ec052cddd3dbf9578",
+          "width": 1024,
+          "height": 1024,
+          "role": "source-example"
+        }
+      ],
+      "updated": "2026-10-12",
+      "readme_anchor": "p117-slow-morning-coffee-poster",
+      "display_number": "4.32"
     }
   ]
 }

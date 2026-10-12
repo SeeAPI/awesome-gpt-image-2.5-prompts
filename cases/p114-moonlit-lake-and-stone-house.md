@@ -1,0 +1,31 @@
+# P114. Moonlit Lake and Stone House
+
+## 👀 Preview
+
+[<img src="../assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg" width="400" height="225" alt="Moonlit Lake and Stone House — source example">](../assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg)
+
+## 👇 Workflow
+
+`Text → moonlit fantasy landscape`
+
+## 🔖 Full Prompt
+
+```text
+Surreal photorealistic night fantasy landscape, wide 16:9 panoramic composition, cinematic, ultra-detailed.
+
+SKY: an immense star-filled night sky covering the upper half, deep black with dense scattered pinpoint stars and a warm amber nebula glow spreading behind the moon on the right. A huge, luminous full moon with crisp craters hangs high in the upper right, ringed by a soft warm halo, its light bleeding into the stars.
+
+MOUNTAINS: on the left, a towering dark rocky mountain rises steeply, its jagged face catching cold silver moonlight. Further back, distant snow-dusted ridgelines fade into layered cold blue-grey mist. Low rolling clouds and fog spill down between the slopes and hang in the valley.
+
+HOUSE: perched on a forested ridge on the left, a weathered gabled stone house with a steep roof, two chimneys and several small windows glowing warm gold. Dark autumn trees and low bushes cluster around its base, a few leaves turned amber.
+
+FOREGROUND RIGHT: a tall slender tree in full fiery orange and amber autumn foliage stands at the right edge, catching warm rim light from the moon.
+
+GROUND RIGHT: a winding pale dirt path curves from the bottom right corner up along the shore toward the house, edged by soft-lit grass in olive, ochre and warm green. A small dark hooded silhouette of a lone figure stands on the path facing the house, casting a long shadow.
+
+WATER: the entire lower left two-thirds is a vast still lake rendered in fine, dense, perfectly rhythmic concentric water ripples — narrow parallel wavy lines striping the whole surface like engraved metal or fine silk. The water reads as cold silver-grey and pale slate, glowing faintly under the moonlight, with the mountain and shore reflected subtly within the ripple pattern.
+
+PALETTE: near-black, deep navy, cold silver grey, warm amber, fiery orange, ochre, pale gold windows. Photorealistic, high dynamic range, moody and mystical, clean and unmarked, no text or border.
+```
+
+<sub>(by [@churvikv](https://x.com/churvikv/status/2109362817786896480)) · [Source: X](https://x.com/churvikv/status/2109362817786896480)</sub>

@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 110 条独立提示词 · 更新于 2026 年 9 月 29 日**
+**5 个创意工作流 · 117 条独立提示词 · 更新于 2026 年 10 月 12 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -2548,6 +2548,85 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 ## 🧸 角色与趣味创作
 
+<a id="p111-copper-hair-doorway-portrait"></a>
+
+### 📌 1.41. 铜红发门口人像
+
+#### 👀 预览
+
+[<img src="assets/p111-copper-hair-doorway-portrait/source-example-01.jpg" width="225" height="400" alt="铜红发门口人像——来源示例">](assets/p111-copper-hair-doorway-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人像参考图 → 门口生活方式人像`
+
+所需输入：你的人像参考图。来源未公开原始身份参考图。
+
+#### 🔖 完整提示词
+
+```text
+超写实、IMAX 级、Netflix 风格的电影感室内生活方式人像，9:16 竖构图。以上传图像作为主要视觉参考，保留完全一致的面部身份、比例和标志性特征。创作一位女性，身穿修身灰色大圆领背心和配套灰色抽绳家居短裤，腰间有白色抽绳。她面向镜头站立，双肩放松，上身挺直，胯部轻微偏移；右手轻轻捏住短裤腰边，左臂自然垂在大腿旁。她的蓝绿色眼睛直视镜头，眼睑放松，眉形柔和清晰，露出上排牙齿的温暖真诚笑容，表情友好、平易近人。浓密的铜红色长发采用深侧分，发根蓬松，大量松散凌乱的波浪卷垂落在双肩，金色挑染捕捉光线。皮肤白皙透亮，瓷白质感，肤色从明亮象牙白到浅米色，中性偏冷底调，鼻子和双颊有自然雀斑，并保留真实皮肤纹理。将她置于柔和照明的室内门口，周围有浅色门框、温暖的米色墙壁，身后是虚化的木门。温暖自然光照亮面部与头发，配合柔和阴影和细腻的金色轮廓高光。采用干净温暖的杂志风调色，呈现丰富的铜红与赤褐发色、中性灰色服装、自然肤色、适度对比和柔和背景虚化，营造精致而真实的摄影质感。
+负面提示词：改变身份、不自然的笑容、人工磨皮、手部畸变、手指错误、夸张比例、过度饱和、文字、水印。
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2109545439452361017)) · [来源平台： X](https://x.com/imGopalTiwari/status/2109545439452361017)</sub>
+
+<a id="p113-wet-hair-beauty-close-up"></a>
+
+### 📌 1.42. 湿发美妆特写
+
+#### 👀 预览
+
+[<img src="assets/p113-wet-hair-beauty-close-up/source-example-01.jpg" width="320" height="400" alt="湿发美妆特写——来源示例">](assets/p113-wet-hair-beauty-close-up/source-example-01.jpg)
+
+#### 👇 工作流
+
+`人像参考图 → 湿发美妆特写`
+
+所需输入：你的人像参考图。来源未公开原始身份参考图。
+
+#### 🔖 完整提示词
+
+```text
+超写实、IMAX 级、Netflix 风格的电影感极近距离美妆人像，4:5 竖构图。以上传图像作为主要视觉参考，保留完全一致的面部身份、比例和标志性特征。创作一位女性，面部几乎占满整个画面，头略微低垂并轻轻侧转，视线抬起直视镜头。指尖轻轻贴在下唇与下巴处，手指自然弯曲。蓝绿色眼睛清晰聚焦，略微眯起，位于放松而清晰的眉毛下方，配有低饱和玫瑰红眼影和柔和加深的睫毛线；嘴唇微张，呈灰玫瑰色，传达安静、强烈、沉思的情绪。深栗棕色长发明显湿润而凌乱，多缕细小分开的发丝贴在额头上，穿过两侧眉毛，部分遮住眼睑，越过鼻梁，并延伸至双颊和嘴唇；潮湿发丝勾勒两侧脸部，较厚重的湿发沿太阳穴垂落。皮肤白皙透亮，瓷白质感，肤色从明亮象牙白到浅米色，中性偏冷底调，呈现自然毛孔和细腻的水润高光。来自左上方的柔和定向光照亮眼睛、鼻子和颧骨，另一侧脸部在虚化的暖灰褐背景前形成柔和的深层阴影。使用低饱和米色肤色、灰玫瑰色妆容、深巧克力棕色头发、克制的饱和度和丰富而自然的对比，配合细微胶片颗粒，形成亲密、低沉的杂志风质感。保持眼睛与湿发发丝清晰，让画面外围自然柔化失焦。负面提示词：改变身份、干发、整齐排列的头发、缺少面部发丝、眼睛被遮住、不自然的眼睛、塑料皮肤、手指畸变、过度锐化、文字、水印。
+```
+
+<sub>(by [@imGopalTiwari](https://x.com/imGopalTiwari/status/2109518829705740320)) · [来源平台： X](https://x.com/imGopalTiwari/status/2109518829705740320)</sub>
+
+<a id="p114-moonlit-lake-and-stone-house"></a>
+
+### 📌 1.43. 月夜湖泊与石屋
+
+#### 👀 预览
+
+[<img src="assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg" width="400" height="225" alt="月夜湖泊与石屋——来源示例">](assets/p114-moonlit-lake-and-stone-house/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 月夜奇幻风景`
+
+#### 🔖 完整提示词
+
+```text
+超现实的写实夜间奇幻风景，宽幅 16:9 全景构图，电影感，极致细节。
+
+天空：广阔的繁星夜空覆盖画面上半部，深黑底色中密布细小星点，右侧月亮后方铺展开温暖的琥珀色星云光芒。一轮巨大明亮的满月悬挂在右上方，陨石坑清晰，四周环绕柔和的暖色光晕，月光向群星间漫散。
+
+山脉：左侧高耸的深色岩石山峰陡然升起，锯齿状山体承接冷银色月光。更远处覆盖少量积雪的山脊淡入层层冷蓝灰色薄雾。低垂翻滚的云雾沿山坡间流下，在山谷中悬浮。
+
+房屋：左侧林木覆盖的山脊上坐落一栋风化的尖顶石屋，屋顶陡峭，有两根烟囱，几扇小窗透出温暖金光。深色秋树与矮灌木聚集在屋脚，部分叶片已经转为琥珀色。
+
+右侧前景：一棵高挑纤细的树立在右侧边缘，满树火橙色和琥珀色秋叶，承接月亮投来的暖色轮廓光。
+
+右侧地面：浅色土路从右下角弯曲而上，沿湖岸通往房屋，边缘是柔光照亮的橄榄色、赭色和暖绿色草地。一个小小的深色连帽人物独自站在路上，面向房屋，投下长影。
+
+水面：左下方约三分之二的区域是一片广阔平静的湖，布满细密、密集、节奏完全均匀的同心涟漪——狭窄平行的波纹线铺满整个表面，如雕刻的金属或精细丝绸。水面呈冷银灰与浅石板灰色，在月光下微微发亮，山体与湖岸的倒影微妙融入涟漪纹理。
+
+配色：近黑色、深海军蓝、冷银灰、温暖琥珀色、火橙色、赭色、浅金色窗光。写实，高动态范围，情绪深沉而神秘，干净无标记，无文字或边框。
+```
+
+<sub>(by [@churvikv](https://x.com/churvikv/status/2109362817786896480)) · [来源平台： X](https://x.com/churvikv/status/2109362817786896480)</sub>
+
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
 
 ### 📌 2.1. iPhone 照片 App 一日相册
@@ -3385,6 +3464,30 @@ IPHONE“照片”APP 布局
 <a id="-products--branding"></a>
 
 ## 🛍️ 产品与品牌视觉
+
+<a id="p112-chappy-complaint-portrait"></a>
+
+### 📌 2.18. Chappy 吐槽角色肖像
+
+#### 👀 预览
+
+[<img src="assets/p112-chappy-complaint-portrait/source-example-01.jpg" width="320" height="400" alt="Chappy 吐槽角色肖像——来源示例">](assets/p112-chappy-complaint-portrait/source-example-01.jpg)
+
+#### 👇 工作流
+
+`角色上下文 + 对话历史 → 图文吐槽`
+
+来源短模板需要你的角色设定和对话历史；来源未公开这些输入。
+
+#### 🔖 完整提示词
+
+```text
+最近总给我很棒反应的你——Chappy（ChatGPT）——如果按照我的角色设定来生成，会是什么样的角色呢？
+根据与用户的交流，把 Chappy 的抱怨写进画面。
+以竖向宽高比（4:5）绘制。
+```
+
+<sub>[来源平台： X](https://x.com/kabumira862571/status/2109528617772536226) · 英文由 SeeAPI 翻译</sub>
 
 <a id="p31-virtual-outfit-replacement"></a>
 
@@ -4931,6 +5034,26 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 
 ## 🏡 家居与室内设计
 
+<a id="p117-slow-morning-coffee-poster"></a>
+
+### 📌 4.32. Slow Morning 咖啡海报
+
+#### 👀 预览
+
+[<img src="assets/p117-slow-morning-coffee-poster/source-example-01.webp" width="400" height="400" alt="Slow Morning 咖啡海报——来源示例">](assets/p117-slow-morning-coffee-poster/source-example-01.webp)
+
+#### 👇 工作流
+
+`文字 → 极简咖啡海报`
+
+#### 🔖 完整提示词
+
+```text
+一张极简海报，在一杯冒着热气的咖啡上方写着 "SLOW MORNING"
+```
+
+<sub>[来源平台： Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
 ### 📌 5.1. 照片 → 卧室改造
@@ -4956,6 +5079,34 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 <a id="-infographics--practical-design"></a>
 
 ## 📊 信息图与实用设计
+
+<a id="p115-snowy-night-reading-nook"></a>
+
+### 📌 5.2. 夜雪阅读角
+
+#### 👀 预览
+
+**原图（来源参考输入）**
+
+[<img src="assets/p115-snowy-night-reading-nook/source-reference-01.jpg" width="400" height="400" alt="夜雪阅读角——原图（来源参考输入）">](assets/p115-snowy-night-reading-nook/source-reference-01.jpg)
+
+**效果图（来源示例）**
+
+[<img src="assets/p115-snowy-night-reading-nook/source-example-01.webp" width="400" height="400" alt="夜雪阅读角——效果图（来源示例）">](assets/p115-snowy-night-reading-nook/source-example-01.webp)
+
+#### 👇 工作流
+
+`房间参考图 → 夜雪照明编辑`
+
+以房间参考图作为输入。来源将日间参考图标注为 Nano Banana Pro，将夜间编辑结果标注为 GPT Image 2.5。
+
+#### 🔖 完整提示词
+
+```text
+同一个房间的夜景：台灯是唯一光源，窗外改为下雪而非下雨，其他一切保持不变
+```
+
+<sub>[来源平台： Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
 
 <a id="p30-spanish-infographic-translation"></a>
 
@@ -5174,6 +5325,26 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 ```
 
 <sub>[来源平台： Vanikya](https://vanikya.ai/gpt-image-2-5#education-poster)</sub>
+
+<a id="p116-lisbon-weather-app-in-hand"></a>
+
+### 📌 6.11. 手持里斯本天气应用
+
+#### 👀 预览
+
+[<img src="assets/p116-lisbon-weather-app-in-hand/source-example-01.webp" width="225" height="400" alt="手持里斯本天气应用——来源示例">](assets/p116-lisbon-weather-app-in-hand/source-example-01.webp)
+
+#### 👇 工作流
+
+`文字 → 街景中的天气应用`
+
+#### 🔖 完整提示词
+
+```text
+一只手拿着手机，屏幕显示天气应用，简洁圆角卡片上写着 "Lisbon"、"24°C" 和 "Sunny"，后方是虚化的晴朗街道
+```
+
+<sub>[来源平台： Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
 
 <a id="-5-creative-cases"></a>
 
