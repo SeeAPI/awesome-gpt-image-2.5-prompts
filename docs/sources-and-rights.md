@@ -176,3 +176,13 @@ The Chinese README, case pages, and `*.zh-CN.txt` files are SeeAPI translations 
 P43 requires a `[PLACE_OR_CULTURE]` value; the four-city grouping shown in its preview is not specified by the source prompt.
 
 P43 需要填写 `[PLACE_OR_CULTURE]`；示例图中的四城分组并未在来源提示词中明确指定。
+
+## October 20, 2026 Additions / 2026 年 10 月 20 日新增
+
+P118–P124 contain seven approved source prompts and twelve unchanged source images: five X cases, one Facebook post, and one Reddit post. P118 and P124 preserve the original Chinese prompts with credited English translations by SeeAPI. The other five source prompts are preserved in English with complete Simplified Chinese translations. These seven prompts were collected without reference adaptations. Every model label remains a claim by the source publisher; SeeAPI did not regenerate these examples or independently verify generation records, exact settings, or filled template inputs. Source attribution does not establish a case-specific redistribution license, and this collection grants no additional rights to the third-party text or images.
+
+P118 requests ten independent images, while the source post provides four retained examples. Its creature names, descriptions, and pinyin annotations have not been independently fact-checked. P119, P120, and P121 use placeholders; the exact values used for their examples were not disclosed. P120 is a short source template. P123 preserves one composite containing three output examples, not an input-reference collage; the clean identity reference was not supplied, so identity preservation cannot be independently checked. P124 includes only the phoenix-feather character from the current post and excludes the different goldfish character in its quoted earlier post. Two other reviewed candidates were declined and are not included.
+
+P118–P124 收录七条已通过审核的来源提示词与十二张保持原始字节的来源图片：五条 X 案例、一条 Facebook 帖子和一条 Reddit 帖子。P118 与 P124 保留中文原始提示词，英文翻译明确署名 SeeAPI；其余五条保留英文原文并提供完整简体中文翻译。这七条提示词均为直接收录，没有进行参考图改编。所有模型标签仍仅为来源发布者声明；SeeAPI 未重新生成示例，也未独立核验生成记录、准确参数或已填模板输入。来源署名不等于确认单独的再分发许可，本仓库不为第三方文字或图片授予额外权利。
+
+P118 要求十张独立图片，但原帖仅提供并保留了四张示例；异兽名称、形态介绍和拼音注释未经独立事实核查。P119、P120、P121 含占位符，来源未披露示例所用的准确实参；P120 是来源短模板。P123 保留一张包含三个输出示例的拼图，不将其当成输入参考图拼图；来源未提供干净的人物身份参考图，无法独立核验身份保持程度。P124 只收录当前帖的凤羽角色图，排除被引用旧帖中的另一位金鱼角色。另两条审核否决的候选未收录。

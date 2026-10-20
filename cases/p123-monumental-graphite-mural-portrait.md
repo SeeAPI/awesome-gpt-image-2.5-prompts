@@ -1,0 +1,43 @@
+# P123. Monumental Graphite Mural Portrait
+
+## 👀 Preview
+
+[<img src="../assets/p123-monumental-graphite-mural-portrait/source-example-01.png" width="400" height="178" alt="Monumental Graphite Mural Portrait — source examples (three-output composite)">](../assets/p123-monumental-graphite-mural-portrait/source-example-01.png)
+
+## 👇 Workflow
+
+`Portrait reference + monumental location → mural portrait`
+
+Required input: your portrait reference. The original identity reference was not shared.
+
+## 🔖 Full Prompt
+
+```text
+INPUTS:
+- PERSON_REFERENCE: [uploaded photo of the person]
+- EPIC_LOCATION: [an awe-inducing monumental site: megastructure, cliff citadel, colossal dam, launch complex, or temple court]
+- ASPECT_RATIO: 3:4
+
+MAIN PROMPT:
+Create a full-body environmental fashion photograph of exactly one real person standing before a building-sized monochrome mural of that same person; the mural echoes their pose and styling as a monumental double-image. EPIC_LOCATION must feel awe-inducing, immense, and site-specific—not a generic street or studio. Its height, weathering, depth, and oversized geometry establish epic scale while providing an uninterrupted plane for the mural.
+
+Medium: contemporary editorial location photography, not illustration. Use a 35–50 mm documentary lens feel from eye-to-waist camera height, vertical 3:4 framing, deep focus, restrained perspective, and a centered-to-slightly-offset composition. Show the person head to toe in the lower third, small but unmistakable; the mural towers behind and fills most of the frame, cropped by architecture to feel many stories tall. Render worn concrete, mineral streaks, seams, subtle grime, dry graphite grain, and ambient depth.
+
+The mural is a hand-rendered black, white, and graphite portrait painted directly onto the monumental surface. It reproduces PERSON_REFERENCE as a waist-up or three-quarter figure at colossal scale, with crisp contour lines, soft charcoal shading, visible hatching, and detailed facial features. It clearly depicts the same identity, hairstyle, outfit family, accessories, and pose motif as the real person, never a stranger. It is flat artwork on the surface—never a living giant, screen, projection, pasted photo, or sculpture.
+
+Preserve the recognizable identity from PERSON_REFERENCE: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and presence. Do not replace them with a generic model or celebrity. Adapt pose, wardrobe cut, grooming, and hair length naturally to the person's gender presentation: masculine references receive masculine styling and feminine references feminine styling; never force the reference model's gender onto the subject.
+
+Wardrobe: contemporary layered street fashion suited to the person and location, with a light knit or structured top, relaxed denim or utility trousers, understated shoes, and no more than two small accessories. Keep the real outfit softly muted; translate the same clothing shapes into graphite in the mural. The person repeats one easy motif from the mural: one arm bent, their own hand resting on or just above their head, the other arm relaxed at their side. Exactly one real person; the mural portrait is the only depicted figure.
+
+Lighting/color: overcast or open-shade daylight with soft directional modeling. Tonal key: ~70% pale-to-mid gray architecture, ~25% charcoal mural marks, saturation muted throughout; only skin and restrained wardrobe colors carry chroma, with no clipped highlights. Keep clear separation between the human-scale person and huge drawing.
+
+All people anatomically correct: each hand matches its arm (a right arm ends in a right hand), five fingers per hand, wrists and joints at natural angles; no extra hands or limbs. The real person has exactly two naturally connected hands; mural anatomy is coherent and intentionally drawn.
+
+NEGATIVE INSTRUCTIONS:
+No watermark, logo, captions, readable text, AI badge, stock mark, extra real people or mural figures, generic alley, ordinary wall, small mural, duplicated physical person, billboard, digital screen, portal, oversaturation, heavy bokeh, plastic skin, malformed or detached anatomy, hands entering from outside frame, or unrelated props. The location must communicate sublime monumental scale, not decorative scenery.
+
+QUALITY:
+High-end editorial realism, convincing identity, credible mural texture, precise scale hierarchy, coherent anatomy, full-bleed 3:4 composition.
+```
+
+<sub>(by [u/Beginning-Willow-801](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)) · [Source: Reddit](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)</sub>

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-20
+
+- Published P118–P124 from seven approved cases: five X posts, one Facebook post, and one Reddit post, with twelve unchanged source images and complete English/Simplified Chinese pages. Preserved both Chinese originals with credited English translations, source-only model claims, unverified creature labels, parameterized-template limits, and the missing portrait reference. Corrected six existing README case placements to match their catalog categories without changing IDs or content.
+- 按审核结果发布七条通过案例，新增 P118–P124：五条 X 原帖、一条 Facebook 帖子、一条 Reddit 帖子，包含十二张未改动的来源图片及完整中英文页面；保留两条中文原文并标注英文翻译署名，记录仅由来源声明的模型归属、未核验异兽标注、模板实参限制和缺失人物参考图。将六个既有 README 案例移回目录所属分类，编号与正文保持不变。
+
 ## 2026-10-12
 
 - Published P111–P117 from seven approved cases: four X posts and three Anyscene examples, with seven unchanged outputs, one labeled room reference, and complete English/Simplified Chinese pages. Preserved the Japanese original for P112 and credited its translations. Retained missing identity/context inputs, unconfirmed authorship, source-only model claims, and third-party reuse limits.

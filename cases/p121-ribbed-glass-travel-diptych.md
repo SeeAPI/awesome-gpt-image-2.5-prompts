@@ -1,0 +1,38 @@
+# P121. Ribbed Glass Travel Diptych
+
+## 👀 Preview
+
+[<img src="../assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg" width="288" height="360" alt="Ribbed Glass Travel Diptych — source example 1">](../assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg)
+
+[<img src="../assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg" width="288" height="360" alt="Ribbed Glass Travel Diptych — source example 2">](../assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg)
+
+## 👇 Workflow
+
+`Location → photograph and ribbed-glass diptych`
+
+## 🔖 Full Prompt
+
+```text
+Create a cinematic 4:5 vertical photographic diptych using [LOCATION / DESTINATION / SUBJECT] as the scene.
+
+COMPOSITION:
+Divide the image into two equal horizontal halves.
+
+TOP HALF — ORIGINAL PHOTOGRAPH:
+Show an authentic, beautifully composed photograph with natural lighting, realistic details, atmospheric depth, and refined editorial color grading. Preserve the destination’s recognizable features and genuine photographic appearance.
+
+BOTTOM HALF — RIBBED GLASS TRANSFORMATION:
+Recreate the same scene through vertically fluted, translucent glass, as though the original photograph is viewed through a textured architectural glass panel. The closely spaced vertical ridges refract and stretch the buildings, trees, water, lights, and reflections into elegant elongated patterns. Preserve the original scene’s overall composition and recognizable silhouettes while creating a soft, mesmerizing optical distortion.
+
+LIGHT & TEXTURE:
+Use natural highlights, subtle reflections, realistic glass refraction, delicate vertical lines, and atmospheric blur. Adapt the lighting and colors to the scene, from lush forest greens to warm sunset oranges or cool coastal blues.
+
+ART DIRECTION:
+Minimalist fine-art photography, sophisticated editorial aesthetics, tactile glass texture, poetic visual storytelling, and seamless visual continuity between both halves. Add tiny, understated editorial typography only if desired.
+
+Avoid excessive distortion, artificial neon colors, heavy blur, random patterns, unrelated elements, borders, and watermarks.
+
+FORMAT: Vertical 4:5, precise 50/50 horizontal split, high resolution.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2112233324760686617)) · [Source: X](https://x.com/Goodmanprotocol/status/2112233324760686617)</sub>

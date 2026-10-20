@@ -8,7 +8,7 @@
 
 本仓库将持续更新提示词示例、生成图片和实用复现说明。
 
-**5 个创意工作流 · 117 条独立提示词 · 更新于 2026 年 10 月 12 日**
+**5 个创意工作流 · 124 条独立提示词 · 更新于 2026 年 10 月 20 日**
 
 ⭐ 点击 Star 收藏本仓库，为下一次创作留存灵感。
 
@@ -2544,10 +2544,6 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 
 <sub>(by [WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)) · [来源平台： WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)</sub>
 
-<a id="-characters--playful-creations"></a>
-
-## 🧸 角色与趣味创作
-
 <a id="p111-copper-hair-doorway-portrait"></a>
 
 ### 📌 1.41. 铜红发门口人像
@@ -2626,6 +2622,56 @@ OpenAI 的 GPT Image 2.5 系列包括 **GPT Image 2.5 Sunburst** 和 **GPT Image
 ```
 
 <sub>(by [@churvikv](https://x.com/churvikv/status/2109362817786896480)) · [来源平台： X](https://x.com/churvikv/status/2109362817786896480)</sub>
+
+<a id="p123-monumental-graphite-mural-portrait"></a>
+
+### 📌 1.44. 巨幅石墨壁画人像
+
+#### 👀 预览
+
+[<img src="assets/p123-monumental-graphite-mural-portrait/source-example-01.png" width="400" height="178" alt="巨幅石墨壁画人像——来源示例（三张输出拼图）">](assets/p123-monumental-graphite-mural-portrait/source-example-01.png)
+
+#### 👇 工作流
+
+`人像参考图＋宏伟地点 → 壁画人像`
+
+所需输入：你的人像参考图。来源未公开原始身份参考图。
+
+#### 🔖 完整提示词
+
+```text
+输入：
+- PERSON_REFERENCE: [uploaded photo of the person]
+- EPIC_LOCATION: [an awe-inducing monumental site: megastructure, cliff citadel, colossal dam, launch complex, or temple court]
+- ASPECT_RATIO: 3:4
+
+主提示词：
+创作一张全身环境时尚摄影照片：恰好一位真实人物站在一幅与建筑同等尺度的、描绘其本人的单色壁画前；壁画以宏伟的双重肖像呼应人物的姿势与造型。EPIC_LOCATION 必须令人敬畏、尺度巨大且具备明确场所特征，不能是普通街道或摄影棚。场所的高度、风化、纵深与超大几何结构应建立史诗般的尺度感，同时为壁画提供不间断的平面。
+
+媒介：当代编辑式实地摄影，而非插画。采用 35–50 mm 纪实镜头感，机位位于视线到腰部高度之间，3:4 竖版，深景深，克制的透视，居中至略微偏置的构图。人物从头到脚完整出现在画面下三分之一，小但清晰可辨；壁画高耸其后，占据画面大部，并被建筑边缘裁切，呈现多层楼高的体量。表现磨损混凝土、矿物水痕、接缝、轻微污垢、干燥石墨颗粒和环境纵深。
+
+壁画是一幅直接绘制于宏伟建筑表面的黑、白与石墨色手绘人像。以巨大尺度将 PERSON_REFERENCE 重现为半身或四分之三身人物，轮廓清晰，炭笔晕染柔和，可见排线和细致五官。壁画必须明显描绘与真人相同的身份、发型、服装类型、配饰和姿势母题，绝不是陌生人。它是表面上的平面绘画，绝不是活体巨人、屏幕、投影、粘贴照片或雕塑。
+
+保留 PERSON_REFERENCE 中可辨识的身份特征：脸形、肤色、发型走向、面部比例、年龄印象、表情与气质。不要将其替换为泛化模特或名人。根据人物的性别呈现，自然调整姿势、服装剪裁、仪容和发长：阳刚呈现的参考人物采用阳刚造型，阴柔呈现的参考人物采用阴柔造型；绝不将参考模特的性别强加给主体。
+
+服装：适合人物和场所的当代层叠街头时尚，搭配轻薄针织或挺括上衣、宽松牛仔裤或工装裤、低调鞋履，最多两件小配饰。真人服装保持柔和低饱和，将相同衣物形状转译为壁画中的石墨表现。真人重复壁画中的一个简单姿势母题：一只手臂弯曲，自己的手放在头上或略高于头顶，另一只手臂自然垂在身侧。恰好一位真实人物；壁画肖像是唯一另一个被描绘的人物形象。
+
+光线／色彩：阴天或开阔阴影中的日光，柔和的定向塑形。影调比例：约 70% 为浅至中灰建筑，约 25% 为炭色壁画笔触，整体饱和度克制；仅皮肤和低调服装颜色带有彩色，不出现高光溢出。清楚区分真人尺度的人物与巨大绘画。
+
+所有人物解剖结构正确：每只手与其手臂对应（右臂末端是右手），每只手五根手指，手腕与关节角度自然；不多手、不多肢。真人恰好有两只自然连接的手；壁画解剖连贯，具有明确的手绘意图。
+
+负面指令：
+不要水印、标志、标题、可读文字、AI 徽章、图库标记、额外真人或壁画人物、普通小巷、普通墙面、小壁画、复制的实体人物、广告牌、数字屏幕、传送门、过饱和、重度散景、塑料皮肤、畸形或脱离的解剖结构、从画面外伸入的手，或无关道具。场所必须传达崇高的宏伟尺度，而非装饰性布景。
+
+品质：
+高端编辑摄影写实、可信的身份、真实的壁画肌理、精确的尺度层级、连贯的解剖结构、满版 3:4 构图。
+```
+
+<sub>(by [u/Beginning-Willow-801](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)) · [来源平台： Reddit](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)</sub>
+
+<a id="-characters--playful-creations"></a>
+
+## 🧸 角色与趣味创作
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
 
@@ -3461,10 +3507,6 @@ IPHONE“照片”APP 布局
 
 <sub>(by [@SuzukaBike](https://x.com/SuzukaBike/status/2104487587021041696)) · [来源平台： X](https://x.com/SuzukaBike/status/2104487587021041696) · 英文由 SeeAPI 翻译</sub>
 
-<a id="-products--branding"></a>
-
-## 🛍️ 产品与品牌视觉
-
 <a id="p112-chappy-complaint-portrait"></a>
 
 ### 📌 2.18. Chappy 吐槽角色肖像
@@ -3488,6 +3530,108 @@ IPHONE“照片”APP 布局
 ```
 
 <sub>[来源平台： X](https://x.com/kabumira862571/status/2109528617772536226) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p118-shan-hai-jing-creature-installations"></a>
+
+### 📌 2.19. 山海经异兽展厅装置
+
+#### 👀 预览
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg" width="225" height="400" alt="山海经异兽展厅装置——来源示例 1">](assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg" width="225" height="400" alt="山海经异兽展厅装置——来源示例 2">](assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg" width="225" height="400" alt="山海经异兽展厅装置——来源示例 3">](assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg" width="225" height="400" alt="山海经异兽展厅装置——来源示例 4">](assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg)
+
+#### 👇 工作流
+
+`异兽选择 → 展厅装置图`
+
+#### 🔖 完整提示词
+
+```text
+主题：山海经异兽 × 古典绘画空间再生 × 东方美学 × 艺术展览 Editorial
+
+每张从《山海经》中独立选择一种形态鲜明的异兽，保留原典记载的标志性特征，将其转化为真实展厅中的大型实体艺术装置。关键形态清楚可辨，主体轮廓完整，身体结构与支撑关系自然可信。
+
+借鉴中国古典绘画的线条、设色与气韵，融入装置自身的造型与材质。根据异兽形态独立探索制作方式，细节有所取舍，保留自然手工质感。少量山石、云气或植物意象形成空间呼应，展厅疏朗。
+
+真实展览现场摄影，柔和光线，低饱和东方色彩，材质层次清楚，影调自然干净。构图简练，疏密有致，保留大面积艺术留白。
+
+画面中文统一采用准确繁体字，以前卫、克制的书法 Editorial 编排异兽名称与一句通俗简短的形态介绍。
+
+名称采用富有书写感的书法字体，随异兽气质探索篆隶意趣、行书或草书笔意，保留可辨的字形结构。通过结体、笔势、尺度、疏密与横竖布局形成古拙、神秘而富有变化的版式，文字与装置形态自然呼应。
+
+名称中的生僻字或易误读多音字，在对应字旁小巧标注该异兽名称中的正确读音，采用带声调的汉语拼音。简介采用清晰小字，注音与正文层级分明，兼顾手机浏览的可读性。
+
+9:16竖版，n=10。十张独立单图，选择不同异兽，分别变化材质、姿态、主体位置、拍摄视角、书法气质与文字布局，不拼图。
+
+左下签名：深蓝色实心圆点在前，白色自然手写体“DeepBlue”在后。
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2112419997125665147)) · [来源平台： X](https://x.com/DeepBlueX0/status/2112419997125665147) · 英文由 SeeAPI 翻译</sub>
+
+<a id="p122-faceted-well-of-souls-adventure"></a>
+
+### 📌 2.20. 切面灵魂之井冒险场景
+
+#### 👀 预览
+
+[<img src="assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg" width="400" height="267" alt="切面灵魂之井冒险场景——来源示例">](assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 几何切面考古冒险场景`
+
+#### 🔖 完整提示词
+
+```text
+创作一幅超越现实尺度的电影感 3D 冒险插画，结合大胆雕塑化的几何块面、流动轮廓和极具沉浸感的纵深。所有可见表面都由醒目的不规则多边形切面构成，具备深切斜边、暗色凹陷接缝与强烈明暗对比。服装、雕像、建筑和环境表面以大而清晰的几何面板为主。面部使用更小、更细腻的雕刻切面，保留可辨识的五官与自然表情。整幅场景应像宏伟的三维马赛克雕塑，而非传统照片写实。
+在古代塔尼斯地下传说中的灵魂之井（Well of Souls）内，两名冒险者站在数百条蛇的包围中。
+男子看起来像一位接近四十岁、饱经风霜的 1930 年代考古学家，体格精瘦健壮，肩膀宽阔，下颌方正，颧骨明显，榛色眼睛富有表现力，深棕色短发，留着浅浅胡茬。他戴一顶破旧的棕色软呢帽，穿磨损的棕色皮夹克、敞领米色衬衫、卡其长裤、皮带和旧靴子。
+他身旁站着一位接近三十岁的纤细女性，鹅蛋脸，富有表现力的棕色眼睛，五官精巧，浓密的深棕色波浪发齐肩。她身穿飘逸的象牙白 1930 年代连衣裙，短袖，收腰。
+他们的服装由大块、明显雕塑化的多边形面板构成，带有棱角分明的褶皱和突出的几何浮雕感。面部保留更细小的切面。
+男子举起一支燃烧的火把，女子抓住他的手臂。两人都抬头望向遥远的天花板开口，几名身穿 1930 年代服装的人正将一块巨大的薄而平的长方形砂岩板水平滑过入口。这块石板沿石槽像滑盖一样移动，始终保持完全水平。它宽阔的平面和薄边清晰可见。它不是立方体，也不是厚石块。开口被部分遮住，金色阳光仍能穿入地下空间。
+巨大的地下神殿拥有高耸的象形文字墙面、庞大的砂岩柱、巨型阿努比斯雕像、古埃及雕刻和散落的考古遗物。每一处建筑元素，包括远处背景，都呈现大块、深刻雕塑化的多边形切面与鲜明的棱角边界。
+数百条具有几何鳞片的蛇覆盖石地面，流动的身体与刚硬的马赛克建筑形成对比。
+史诗般的超宽电影构图，富有戏剧感的 18mm 透视，机位贴近地面向上仰拍。两名冒险者全身出现在画面下方中央三分之一区域，约占画面高度的 35–40%。宏伟建筑主导场景，强调地下空间惊人的高度与纵深。两尊巨大的埃及雕像框住构图。天花板开口位于极高处，人物缩小为小剪影。
+强烈金色阳光穿过不断缩小的入口，与暖琥珀火把光、焦赭色、砂岩赭黄、铜色高光和深石油蓝阴影形成对比。戏剧性的体积光束、悬浮尘埃、强烈明暗对照和定向照明突出每一处几何切面。
+高级电影 CGI，极为鲜明的多边形马赛克结构、雕塑化几何服装、宏伟切面建筑、精细面部几何、清晰斜边和强大的三维纵深。
+优先呈现大胆的雕塑几何，而不是摄影写实。避免光滑写实织物、几乎不可见的切面、平面印刷马赛克图案、过大的前景人物、扭曲解剖结构和立方体形石盖。
+```
+
+<sub>(by [Christophe Saint-Eloi](https://www.facebook.com/groups/bingprompts/posts/2173075564095098/)) · [来源平台： Facebook](https://www.facebook.com/groups/bingprompts/posts/2173075564095098/)</sub>
+
+<a id="p124-phoenix-feather-fantasy-character"></a>
+
+### 📌 2.21. 凤羽东方幻想角色
+
+#### 👀 预览
+
+[<img src="assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg" width="225" height="400" alt="凤羽东方幻想角色——来源示例">](assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg)
+
+#### 👇 工作流
+
+`文字 → 凤羽幻想角色`
+
+#### 🔖 完整提示词
+
+```text
+9:16竖版，高精度风格化3D东方幻想女性角色原型，high-end stylized 3D oriental fantasy character design，电影级CG渲染，东方古典神鸟意象与高级幻想服装设计融合。
+一位24–28岁的成年东方幻想女性，五官精致明艳，柔和鹅蛋脸，细长清亮的杏眼，鼻梁秀挺，唇形柔润，肌肤白皙细腻且具有生命感，神情高贵、清冷、华丽。颈部修长，身形纤细挺拔，比例优雅。
+发型雕塑： 乌黑浓密长发在头顶与后方塑造成巨大的凤翎式大发髻，发束向后上方层层展开，像抽象化的凤凰尾羽。发髻具有清晰的发束组织与柔顺光泽，局部插入细长泥金凤羽发簪与小型石青珐琅饰片，耳侧垂下细长流苏。
+服饰设计： 身穿以妃色为主的东方幻想华服，修长收腰，肩背延伸出长而华丽的凤尾状披饰，外层披帛与裙摆采用石青与月白交叠。宽大长袖轻柔下垂，主裙布面有精细羽纹刺绣与泥金边饰。下摆宽阔铺展，形成华丽稳重的底座。
+色彩控制： 妃色用于最大面积主裙与凤尾披饰，石青用于次级裙层与头饰局部，月白用于内裙、纱层和留白缓冲区，泥金用于细节边线、发簪与刺绣点睛。整体鲜艳明亮，但色块清晰分区，避免整图泛红。
+高精度3D建模，真实细密发丝，柔亮真丝，半透明轻纱，精致刺绣与金属饰件，明亮柔和的影棚主光，轻微轮廓光，中性浅灰背景，正面全身完整展示。避免人偶、手办、塑料皮肤、普通古装、廉价仙侠风、文字和水印。
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2111858511537955077)) · [来源平台： X](https://x.com/liyue_ai/status/2111858511537955077) · 英文由 SeeAPI 翻译</sub>
+
+<a id="-products--branding"></a>
+
+## 🛍️ 产品与品牌视觉
 
 <a id="p31-virtual-outfit-replacement"></a>
 
@@ -5030,10 +5174,6 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 
 <sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104518835076551144)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2104518835076551144)</sub>
 
-<a id="-home--interior-design"></a>
-
-## 🏡 家居与室内设计
-
 <a id="p117-slow-morning-coffee-poster"></a>
 
 ### 📌 4.32. Slow Morning 咖啡海报
@@ -5053,6 +5193,121 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 ```
 
 <sub>[来源平台： Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
+<a id="p119-halloween-geometric-travel-posters"></a>
+
+### 📌 4.33. 万圣节几何旅行海报
+
+#### 👀 预览
+
+[<img src="assets/p119-halloween-geometric-travel-posters/source-example-01.jpg" width="266" height="400" alt="万圣节几何旅行海报——来源示例 1">](assets/p119-halloween-geometric-travel-posters/source-example-01.jpg)
+
+[<img src="assets/p119-halloween-geometric-travel-posters/source-example-02.jpg" width="266" height="400" alt="万圣节几何旅行海报——来源示例 2">](assets/p119-halloween-geometric-travel-posters/source-example-02.jpg)
+
+#### 👇 工作流
+
+`目的地 → 万圣节旅行海报`
+
+#### 🔖 完整提示词
+
+```text
+目的地：[DESTINATION]
+
+为 [DESTINATION] 创作一张精致的万圣节特别版几何旅行艺术海报。2:3 竖版，高分辨率，博物馆级编辑插画品质。
+
+核心原则
+70% 为可辨识的地标与真实城市景观，30% 为几何抽象。选择一到两处标志性地标作为一眼可辨的视觉焦点，保留其真实轮廓、建筑比例和独特细节。将周围屋顶、街道、桥梁、山丘与植物简化为优雅的几何色块。
+
+构图
+上方 40–50% 留给开阔而富有氛围的暮色天空。仅在上方中央附近，以小号、宽字距的大写无衬线字体放置“[DESTINATION]”。将真实城市景观安排在画面下半部，营造优美的建筑层次、鲜明的空间纵深和清晰的地标焦点。
+
+万圣节氛围
+将城市变为迷人、略带幽灵气息的秋日傍晚，而非恐怖场景。使用灰调薰衣草蓝天空、柔和发光的丰收月、几只小小的飞蝠、轻柔飘动的云、铜橙色秋叶，以及从历史建筑窗户透出的暖琥珀灯光。融入温和的神秘感、浪漫暮色与克制的电影魔法。根据目的地的真实建筑与地理特征调整季节细节。万圣节元素必须始终从属于可辨识的城市。
+
+几何艺术指导
+融合斯堪的纳维亚编辑插画、二十世纪中期现代几何设计和精致的建筑水粉画。以克制的拱形、半圆、矩形平面和分层剪影作为辅助构图元素，绝不压过地标。保持细致建筑与简化几何之间的优雅平衡。
+
+色彩与肌理
+将色板限制为 6–10 种协调的颜色：灰调长春花蓝、柔和紫罗兰、午夜海军蓝、陶土色、焦橙色、浅桃色、柔和象牙白和暖琥珀色。加入细腻的手工水粉、干笔、彩色铅笔和细纸纤维肌理。呈现清晰精致的博物馆艺术印刷品质，而非光滑的矢量艺术。
+
+情绪
+诗意、富有氛围、静谧而奇幻、神秘、浪漫、精致、值得收藏的万圣节旅行艺术。
+
+避免
+泛化的幻想建筑、变形地标、过大的南瓜、卡通幽灵、女巫、骷髅、恐怖画面、过多蝙蝠、霓虹橙、沉重黑色阴影、巨型几何圆形、照片写实、3D 渲染、幼稚插画、棕褐滤镜、泛黄纸张、装饰边框、标志、口号和额外文字。
+
+最终检验
+观看者应立即认出 [DESTINATION]，然后才发现细腻的万圣节魔法。成品必须像当代精美艺术旅行海报，而不是万圣节派对广告。
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2112410576509087808)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2112410576509087808)</sub>
+
+<a id="p120-surreal-office-object-still-life"></a>
+
+### 📌 4.34. 超现实办公物件静物
+
+#### 👀 预览
+
+[<img src="assets/p120-surreal-office-object-still-life/source-example-01.jpg" width="400" height="400" alt="超现实办公物件静物——来源示例">](assets/p120-surreal-office-object-still-life/source-example-01.jpg)
+
+#### 👇 工作流
+
+`办公物件＋两个自然元素 → 超现实静物`
+
+来源短模板。示例所用占位符实参未公开。
+
+#### 🔖 完整提示词
+
+```text
+创作一张方形、高级感的超现实编辑摄影作品：一个超大的 [OFFICE OBJECT] 与恰好两个 [NATURAL ELEMENTS] 相互作用，仿佛它们都是普通的桌面材料。呈现清晰的物理连接、可信的接触关系、可触知的表面和协调的尺度。一个视觉焦点，定向阳光，克制的色彩，大量留白。不要人物、品牌或宣传声明。加入小小的手写 Ksa8Turky 签名；不要其他文字。概念幻想。
+```
+
+<sub>(by [@ksa8Turky](https://x.com/ksa8Turky/status/2112262255295549766)) · [来源平台： X](https://x.com/ksa8Turky/status/2112262255295549766)</sub>
+
+<a id="p121-ribbed-glass-travel-diptych"></a>
+
+### 📌 4.35. 长虹玻璃旅行双联画
+
+#### 👀 预览
+
+[<img src="assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg" width="288" height="360" alt="长虹玻璃旅行双联画——来源示例 1">](assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg)
+
+[<img src="assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg" width="288" height="360" alt="长虹玻璃旅行双联画——来源示例 2">](assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg)
+
+#### 👇 工作流
+
+`地点 → 摄影与长虹玻璃双联画`
+
+#### 🔖 完整提示词
+
+```text
+以 [LOCATION / DESTINATION / SUBJECT] 为场景，创作一张电影感的 4:5 竖版摄影双联画。
+
+构图：
+将图像水平分为相等的上下两半。
+
+上半部分——原始摄影：
+呈现一张真实、构图精美的照片，具备自然光线、写实细节、富有氛围的纵深和精致的编辑级调色。保留目的地可辨识的特征与真实摄影质感。
+
+下半部分——长虹玻璃变换：
+通过竖向凹槽的半透明玻璃重现同一场景，仿佛透过带纹理的建筑玻璃面板观看原始照片。密集排列的竖向棱纹将建筑、树木、水面、灯光和倒影折射并拉伸成优雅的细长图案。保留原场景整体构图与可辨识的轮廓，同时营造柔和、迷人的光学扭曲。
+
+光线与肌理：
+使用自然高光、细微反射、真实玻璃折射、细密竖线和富有氛围的模糊。根据场景调整光线和色彩，从茂盛森林的绿色，到暖日落的橙色，或清凉海岸的蓝色。
+
+艺术指导：
+极简精美艺术摄影、精致编辑美学、可触知的玻璃肌理、诗意视觉叙事，以及上下两半无缝的视觉连续性。仅在需要时加入极小、克制的编辑字体。
+
+避免过度扭曲、人造霓虹色、严重模糊、随机图案、无关元素、边框和水印。
+
+格式：4:5 竖版，精确的 50/50 水平分割，高分辨率。
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2112233324760686617)) · [来源平台： X](https://x.com/Goodmanprotocol/status/2112233324760686617)</sub>
+
+<a id="-home--interior-design"></a>
+
+## 🏡 家居与室内设计
 
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
@@ -5075,10 +5330,6 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 ```
 
 <sub>(作者：SeeAPI)</sub>
-
-<a id="-infographics--practical-design"></a>
-
-## 📊 信息图与实用设计
 
 <a id="p115-snowy-night-reading-nook"></a>
 
@@ -5107,6 +5358,10 @@ COUNTRY 标题 → 主角纪念品 → 辅助物件 → 其余纪念物 → 图�
 ```
 
 <sub>[来源平台： Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
+<a id="-infographics--practical-design"></a>
+
+## 📊 信息图与实用设计
 
 <a id="p30-spanish-infographic-translation"></a>
 

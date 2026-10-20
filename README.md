@@ -8,7 +8,7 @@ Explore GPT Image 2.5 ideas for character stickers, product visuals, miniature w
 
 This collection will grow with regular additions of prompt examples, generated images, and practical reproduction notes.
 
-**5 creative workflows · 117 standalone prompts · Updated October 12, 2026**
+**5 creative workflows · 124 standalone prompts · Updated October 20, 2026**
 
 ⭐ Star this collection to save it for your next creative project.
 
@@ -2542,8 +2542,6 @@ Keep the person’s facial features, identity, hairstyle, clothing, pose, lighti
 
 <sub>(by [WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)) · [Source: WeShop AI](https://www.weshop.ai/solutions/models/ai-image-generator-for-makeup-transfer-apply-a-reference-look-to-your-selfie-with-gpt-image-2-5)</sub>
 
-## 🧸 Characters & Playful Creations
-
 <a id="p111-copper-hair-doorway-portrait"></a>
 
 ### 📌 1.41. Copper Hair Doorway Portrait
@@ -2622,6 +2620,54 @@ PALETTE: near-black, deep navy, cold silver grey, warm amber, fiery orange, ochr
 ```
 
 <sub>(by [@churvikv](https://x.com/churvikv/status/2109362817786896480)) · [Source: X](https://x.com/churvikv/status/2109362817786896480)</sub>
+
+<a id="p123-monumental-graphite-mural-portrait"></a>
+
+### 📌 1.44. Monumental Graphite Mural Portrait
+
+#### 👀 Preview
+
+[<img src="assets/p123-monumental-graphite-mural-portrait/source-example-01.png" width="400" height="178" alt="Monumental Graphite Mural Portrait — source examples (three-output composite)">](assets/p123-monumental-graphite-mural-portrait/source-example-01.png)
+
+#### 👇 Workflow
+
+`Portrait reference + monumental location → mural portrait`
+
+Required input: your portrait reference. The original identity reference was not shared.
+
+#### 🔖 Full Prompt
+
+```text
+INPUTS:
+- PERSON_REFERENCE: [uploaded photo of the person]
+- EPIC_LOCATION: [an awe-inducing monumental site: megastructure, cliff citadel, colossal dam, launch complex, or temple court]
+- ASPECT_RATIO: 3:4
+
+MAIN PROMPT:
+Create a full-body environmental fashion photograph of exactly one real person standing before a building-sized monochrome mural of that same person; the mural echoes their pose and styling as a monumental double-image. EPIC_LOCATION must feel awe-inducing, immense, and site-specific—not a generic street or studio. Its height, weathering, depth, and oversized geometry establish epic scale while providing an uninterrupted plane for the mural.
+
+Medium: contemporary editorial location photography, not illustration. Use a 35–50 mm documentary lens feel from eye-to-waist camera height, vertical 3:4 framing, deep focus, restrained perspective, and a centered-to-slightly-offset composition. Show the person head to toe in the lower third, small but unmistakable; the mural towers behind and fills most of the frame, cropped by architecture to feel many stories tall. Render worn concrete, mineral streaks, seams, subtle grime, dry graphite grain, and ambient depth.
+
+The mural is a hand-rendered black, white, and graphite portrait painted directly onto the monumental surface. It reproduces PERSON_REFERENCE as a waist-up or three-quarter figure at colossal scale, with crisp contour lines, soft charcoal shading, visible hatching, and detailed facial features. It clearly depicts the same identity, hairstyle, outfit family, accessories, and pose motif as the real person, never a stranger. It is flat artwork on the surface—never a living giant, screen, projection, pasted photo, or sculpture.
+
+Preserve the recognizable identity from PERSON_REFERENCE: face shape, skin tone, hairstyle direction, facial proportions, age impression, expression, and presence. Do not replace them with a generic model or celebrity. Adapt pose, wardrobe cut, grooming, and hair length naturally to the person's gender presentation: masculine references receive masculine styling and feminine references feminine styling; never force the reference model's gender onto the subject.
+
+Wardrobe: contemporary layered street fashion suited to the person and location, with a light knit or structured top, relaxed denim or utility trousers, understated shoes, and no more than two small accessories. Keep the real outfit softly muted; translate the same clothing shapes into graphite in the mural. The person repeats one easy motif from the mural: one arm bent, their own hand resting on or just above their head, the other arm relaxed at their side. Exactly one real person; the mural portrait is the only depicted figure.
+
+Lighting/color: overcast or open-shade daylight with soft directional modeling. Tonal key: ~70% pale-to-mid gray architecture, ~25% charcoal mural marks, saturation muted throughout; only skin and restrained wardrobe colors carry chroma, with no clipped highlights. Keep clear separation between the human-scale person and huge drawing.
+
+All people anatomically correct: each hand matches its arm (a right arm ends in a right hand), five fingers per hand, wrists and joints at natural angles; no extra hands or limbs. The real person has exactly two naturally connected hands; mural anatomy is coherent and intentionally drawn.
+
+NEGATIVE INSTRUCTIONS:
+No watermark, logo, captions, readable text, AI badge, stock mark, extra real people or mural figures, generic alley, ordinary wall, small mural, duplicated physical person, billboard, digital screen, portal, oversaturation, heavy bokeh, plastic skin, malformed or detached anatomy, hands entering from outside frame, or unrelated props. The location must communicate sublime monumental scale, not decorative scenery.
+
+QUALITY:
+High-end editorial realism, convincing identity, credible mural texture, precise scale hierarchy, coherent anatomy, full-bleed 3:4 composition.
+```
+
+<sub>(by [u/Beginning-Willow-801](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)) · [Source: Reddit](https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/)</sub>
+
+## 🧸 Characters & Playful Creations
 
 <a id="p52-iphone-photos-day-in-the-life-camera-roll"></a>
 
@@ -3459,8 +3505,6 @@ Keep the framing unchanged, enhance with super-resolution, and convert to a mode
 
 <sub>(by [@SuzukaBike](https://x.com/SuzukaBike/status/2104487587021041696)) · [Source: X](https://x.com/SuzukaBike/status/2104487587021041696) · English translation by SeeAPI</sub>
 
-## 🛍️ Products & Branding
-
 <a id="p112-chappy-complaint-portrait"></a>
 
 ### 📌 2.18. Chappy Complaint Portrait
@@ -3484,6 +3528,106 @@ Draw in a vertical aspect ratio (4:5).
 ```
 
 <sub>[Source: X](https://x.com/kabumira862571/status/2109528617772536226) · English translation by SeeAPI</sub>
+
+<a id="p118-shan-hai-jing-creature-installations"></a>
+
+### 📌 2.19. Shan Hai Jing Creature Installations
+
+#### 👀 Preview
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 1">](assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 2">](assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 3">](assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg)
+
+[<img src="assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 4">](assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg)
+
+#### 👇 Workflow
+
+`Creature selection → exhibition installation image`
+
+#### 🔖 Full Prompt
+
+```text
+Theme: Shan Hai Jing creatures × reimagining classical painting in physical space × Eastern aesthetics × exhibition editorial
+
+For each image, independently choose a creature with a distinctive form from the Shan Hai Jing. Preserve its defining features as recorded in the original text and turn it into a large physical art installation inside a real exhibition hall. Make the key features clearly recognizable, the subject's silhouette complete, and its anatomy and structural support naturally convincing.
+
+Draw on the lines, colors, and expressive spirit of classical Chinese painting, incorporating them into the installation's own form and materials. Explore a different construction method for each creature, selectively simplifying details while retaining a natural handmade texture. A few rocks, clouds, or plant motifs should echo the installation spatially; keep the exhibition hall open and uncluttered.
+
+Photograph a real exhibition setting with soft light, muted Eastern colors, clearly layered materials, and clean, natural tones. Use a simple composition with a thoughtful balance of density and openness, leaving generous artistic negative space.
+
+All Chinese text in the image must use accurate Traditional Chinese characters. Present the creature's name and one short, accessible description of its form through avant-garde, restrained calligraphic editorial typography.
+
+Use expressive handwritten calligraphy for the name. Explore the qualities of seal or clerical script, running script, or cursive brushwork according to the creature's character, while retaining recognizable character structures. Create an archaic, mysterious, and varied layout through character construction, brush movement, scale, spacing, and horizontal or vertical arrangements. Let the text respond naturally to the installation's form.
+
+For rare characters or easily misread polyphonic characters in the name, add a small annotation beside the relevant character showing its correct pronunciation in that creature's name, using Hanyu Pinyin with tone marks. Use clear small type for the description, with distinct hierarchy between pronunciation annotations and body text, and ensure readability on a phone.
+
+Vertical 9:16, n=10. Ten independent single images, choosing different creatures and varying materials, poses, subject positions, camera angles, calligraphic character, and text layouts. Do not make a collage.
+
+Signature in the lower left: a solid deep-blue dot first, followed by “DeepBlue” in natural white handwriting.
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2112419997125665147)) · [Source: X](https://x.com/DeepBlueX0/status/2112419997125665147) · English translation by SeeAPI</sub>
+
+<a id="p122-faceted-well-of-souls-adventure"></a>
+
+### 📌 2.20. Faceted Well of Souls Adventure
+
+#### 👀 Preview
+
+[<img src="assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg" width="400" height="267" alt="Faceted Well of Souls Adventure — source example">](assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → faceted archaeological adventure scene`
+
+#### 🔖 Full Prompt
+
+```text
+Larger-than-life cinematic 3D adventure illustration, combining boldly sculpted geometric blocks, flowing contours, and extraordinary immersive depth. Every visible surface is constructed from prominent irregular polygonal facets, with deeply beveled edges, dark recessed seams, and strong tonal contrasts. Large, sharply defined geometric panels dominate clothing, statues, architecture, and environmental surfaces. Faces feature smaller, subtler sculpted facets, preserving recognizable features and natural expressions. The entire scene resembles a monumental three-dimensional mosaic sculpture, not conventional photorealism.
+Inside the legendary Well of Souls beneath ancient Tanis, two adventurers stand surrounded by hundreds of snakes.
+The man, resembling a rugged 1930s archaeologist in his late thirties, has a lean athletic build, broad shoulders, a square jaw, pronounced cheekbones, expressive hazel eyes, short dark-brown hair, and light stubble. He wears a battered brown fedora, weathered brown leather jacket, open-necked beige shirt, khaki trousers, leather belt, and worn boots.
+Beside him stands a slender woman in her late twenties, with an oval face, expressive brown eyes, delicate features, and thick, shoulder-length wavy dark-brown hair. She wears a flowing ivory-white 1930s dress with short sleeves and a fitted waist.
+Their clothing consists of large, distinctly sculpted polygonal panels with angular folds and pronounced geometric relief. Their faces retain finer facets.
+The man raises a flaming torch while the woman grips his arm. Both look upward toward the distant ceiling opening, where several figures in 1930s clothing are sliding a single enormous, thin, flat rectangular sandstone slab horizontally across the entrance. The slab moves along stone grooves like a sliding lid, remaining perfectly horizontal. Its broad flat surface and thin edge are clearly visible. It is not a cube or a thick stone block. The opening is partially covered, allowing golden sunlight to penetrate the chamber.
+The immense underground temple features towering hieroglyph-covered walls, gigantic sandstone columns, colossal statues of Anubis, ancient Egyptian carvings, and scattered archaeological relics. Every architectural element, including the distant background, displays large, deeply sculpted polygonal facets with strong angular boundaries.
+Hundreds of snakes with geometric scales cover the stone floor, their flowing bodies contrasting with the rigid mosaic architecture.
+Epic ultra-wide cinematic composition, dramatic 18mm perspective, camera positioned near floor level, looking upward. The two adventurers appear full-body in the lower central third, occupying approximately 35–40% of the image height. The monumental architecture dominates the scene, emphasizing the extraordinary height and depth of the chamber. Two colossal Egyptian statues frame the composition. The ceiling opening appears very high above, with the figures reduced to small silhouettes.
+Intense golden sunlight streams through the narrowing entrance, contrasting with warm amber torchlight, burnt sienna, sandstone ochre, copper highlights, and deep petrol-blue shadows. Dramatic volumetric light beams, suspended dust, strong chiaroscuro, and directional lighting accentuate every geometric facet.
+Premium cinematic CGI, exceptionally pronounced polygonal mosaic construction, sculpted geometric clothing, monumental faceted architecture, refined facial geometry, crisp beveled edges, and powerful three-dimensional depth.
+Prioritize bold sculptural geometry over photographic realism. Avoid smooth realistic fabrics, barely visible facets, flat printed mosaic patterns, oversized foreground characters, distorted anatomy, and cube-shaped stone lids.
+```
+
+<sub>(by [Christophe Saint-Eloi](https://www.facebook.com/groups/bingprompts/posts/2173075564095098/)) · [Source: Facebook](https://www.facebook.com/groups/bingprompts/posts/2173075564095098/)</sub>
+
+<a id="p124-phoenix-feather-fantasy-character"></a>
+
+### 📌 2.21. Phoenix Feather Fantasy Character
+
+#### 👀 Preview
+
+[<img src="assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg" width="225" height="400" alt="Phoenix Feather Fantasy Character — source example">](assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Text → phoenix-feather fantasy character`
+
+#### 🔖 Full Prompt
+
+```text
+Vertical 9:16, a highly detailed stylized 3D Eastern fantasy female character prototype, high-end stylized 3D oriental fantasy character design, cinematic CG rendering, combining classical Eastern divine-bird imagery with sophisticated fantasy costume design.
+An adult Eastern fantasy woman aged 24–28, with refined, luminous features, a softly oval face, long clear almond-shaped eyes, an elegant straight nose, soft supple lips, fair delicate skin with a living quality, and a noble, cool, magnificent expression. A long neck, a slender upright figure, and elegant proportions.
+Sculptural hairstyle: Thick, glossy black hair is shaped into an enormous phoenix-feather updo above and behind the head. The hair sections spread upward and backward in layers like abstracted phoenix tail feathers. The updo has clearly organized strands and a smooth sheen. Insert slender gold-painted phoenix-feather hairpins and small azurite-blue enamel pieces in selected areas, with fine tassels hanging beside the ears.
+Costume design: She wears an Eastern fantasy gown dominated by rosy pink, with an elongated fitted waist. Long, magnificent phoenix-tail ornaments extend from the shoulders and back. The outer draped silks and skirt combine azurite blue with moon white. Wide sleeves fall softly, and the main skirt has fine feather embroidery and gold-painted edging. The hem spreads broadly to form a magnificent, stable base.
+Color control: Use rosy pink for the largest areas of the main skirt and phoenix-tail ornaments; azurite blue for secondary skirt layers and selected headdress details; moon white for the inner skirt, gauze layers, and visual breathing room; and gold pigment for detail outlines, hairpins, and embroidered accents. The overall palette is vivid and bright, but the color areas must remain clearly separated. Avoid a red cast across the whole image.
+Highly detailed 3D modeling, realistic fine hair strands, softly lustrous silk, translucent gauze, delicate embroidery and metal ornaments, bright soft studio key light, subtle rim light, neutral light-gray background, and a complete front-facing full-body presentation. Avoid dolls, figurines, plastic skin, ordinary historical clothing, cheap xianxia-style fantasy costumes, text, and watermarks.
+```
+
+<sub>(by [@liyue_ai](https://x.com/liyue_ai/status/2111858511537955077)) · [Source: X](https://x.com/liyue_ai/status/2111858511537955077) · English translation by SeeAPI</sub>
+
+## 🛍️ Products & Branding
 
 <a id="p31-virtual-outfit-replacement"></a>
 
@@ -5029,8 +5173,6 @@ FORMAT: 4:5 vertical, premium editorial composition, small geometric vignette wi
 
 <sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2104518835076551144)) · [Source: X](https://x.com/Goodmanprotocol/status/2104518835076551144)</sub>
 
-## 🏡 Home & Interior Design
-
 <a id="p117-slow-morning-coffee-poster"></a>
 
 ### 📌 4.32. Slow Morning Coffee Poster
@@ -5050,6 +5192,119 @@ A minimalist poster that reads "SLOW MORNING" above a steaming coffee cup
 ```
 
 <sub>[Source: Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
+<a id="p119-halloween-geometric-travel-posters"></a>
+
+### 📌 4.33. Halloween Geometric Travel Posters
+
+#### 👀 Preview
+
+[<img src="assets/p119-halloween-geometric-travel-posters/source-example-01.jpg" width="266" height="400" alt="Halloween Geometric Travel Posters — source example 1">](assets/p119-halloween-geometric-travel-posters/source-example-01.jpg)
+
+[<img src="assets/p119-halloween-geometric-travel-posters/source-example-02.jpg" width="266" height="400" alt="Halloween Geometric Travel Posters — source example 2">](assets/p119-halloween-geometric-travel-posters/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Destination → Halloween travel poster`
+
+#### 🔖 Full Prompt
+
+```text
+DESTINATION: [DESTINATION]
+
+Create a sophisticated Halloween-edition geometric travel art poster of [DESTINATION]. Vertical 2:3, high-resolution, museum-quality editorial illustration.
+
+CORE PRINCIPLE
+70% recognizable landmark and authentic cityscape, 30% geometric abstraction. Select one or two iconic landmarks as the unmistakable focal points, preserving their real silhouettes, architectural proportions and distinctive details. Simplify surrounding rooftops, streets, bridges, hills and foliage into elegant geometric color fields.
+
+COMPOSITION
+Reserve the upper 40–50% for an expansive, atmospheric twilight sky. Place only “[DESTINATION]” in small, widely spaced uppercase sans-serif lettering near the upper center. Arrange the authentic cityscape across the lower half with graceful architectural layering, compelling depth and a clear focal landmark.
+
+HALLOWEEN ATMOSPHERE
+Transform the city into an enchanting, subtly haunted autumn evening, not a horror scene. Use a dusky lavender-blue sky, a softly glowing harvest moon, a few tiny flying bats, delicate drifting clouds, copper-orange autumn leaves and warm amber lights shining through historic windows. Introduce gentle mystery, romantic twilight and understated cinematic magic. Adapt the seasonal details to the destination's actual architecture and geography. Halloween elements must remain secondary to the recognizable city.
+
+GEOMETRIC ART DIRECTION
+Blend Scandinavian editorial illustration, mid-century geometric design and refined architectural gouache painting. Use restrained arches, semicircles, rectangular planes and layered silhouettes as supporting compositional accents, never overwhelming the landmarks. Preserve an elegant balance of detailed architecture and simplified geometry.
+
+COLOR & TEXTURE
+Limit the palette to 6–10 harmonious colors: dusty periwinkle, muted violet, midnight navy, terracotta, burnt orange, pale peach, soft ivory and warm amber. Add subtle handmade gouache, dry-brush, colored-pencil and fine paper-fiber textures. Crisp, refined museum-print quality, not glossy vector art.
+
+MOOD
+Poetic, atmospheric, quietly magical, mysterious, romantic, sophisticated, collectible Halloween travel art.
+
+AVOID
+Generic fantasy architecture, distorted landmarks, oversized pumpkins, cartoon ghosts, witches, skeletons, horror imagery, excessive bats, neon orange, heavy black shadows, giant geometric circles, photorealism, 3D rendering, childish illustration, sepia filters, yellowed paper, decorative borders, logos, slogans and extra text.
+
+FINAL TEST
+The viewer should recognize [DESTINATION] immediately, then discover the subtle Halloween magic. The result must feel like a contemporary fine-art travel poster rather than a Halloween party advertisement.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2112410576509087808)) · [Source: X](https://x.com/Goodmanprotocol/status/2112410576509087808)</sub>
+
+<a id="p120-surreal-office-object-still-life"></a>
+
+### 📌 4.34. Surreal Office Object Still Life
+
+#### 👀 Preview
+
+[<img src="assets/p120-surreal-office-object-still-life/source-example-01.jpg" width="400" height="400" alt="Surreal Office Object Still Life — source example">](assets/p120-surreal-office-object-still-life/source-example-01.jpg)
+
+#### 👇 Workflow
+
+`Office object + two natural elements → surreal still life`
+
+Short source template. The example placeholder values were not disclosed.
+
+#### 🔖 Full Prompt
+
+```text
+Create a square premium surreal editorial photograph of one oversized [OFFICE OBJECT] interacting with exactly two [NATURAL ELEMENTS] as if they were ordinary desk materials. Show clear physical connection, believable contact, tactile surfaces and coherent scale. One focal point, directional sunlight, restrained colors and generous negative space. No people, brands or claims. Small handwritten Ksa8Turky signature; no other text. Conceptual fantasy.
+```
+
+<sub>(by [@ksa8Turky](https://x.com/ksa8Turky/status/2112262255295549766)) · [Source: X](https://x.com/ksa8Turky/status/2112262255295549766)</sub>
+
+<a id="p121-ribbed-glass-travel-diptych"></a>
+
+### 📌 4.35. Ribbed Glass Travel Diptych
+
+#### 👀 Preview
+
+[<img src="assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg" width="288" height="360" alt="Ribbed Glass Travel Diptych — source example 1">](assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg)
+
+[<img src="assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg" width="288" height="360" alt="Ribbed Glass Travel Diptych — source example 2">](assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg)
+
+#### 👇 Workflow
+
+`Location → photograph and ribbed-glass diptych`
+
+#### 🔖 Full Prompt
+
+```text
+Create a cinematic 4:5 vertical photographic diptych using [LOCATION / DESTINATION / SUBJECT] as the scene.
+
+COMPOSITION:
+Divide the image into two equal horizontal halves.
+
+TOP HALF — ORIGINAL PHOTOGRAPH:
+Show an authentic, beautifully composed photograph with natural lighting, realistic details, atmospheric depth, and refined editorial color grading. Preserve the destination’s recognizable features and genuine photographic appearance.
+
+BOTTOM HALF — RIBBED GLASS TRANSFORMATION:
+Recreate the same scene through vertically fluted, translucent glass, as though the original photograph is viewed through a textured architectural glass panel. The closely spaced vertical ridges refract and stretch the buildings, trees, water, lights, and reflections into elegant elongated patterns. Preserve the original scene’s overall composition and recognizable silhouettes while creating a soft, mesmerizing optical distortion.
+
+LIGHT & TEXTURE:
+Use natural highlights, subtle reflections, realistic glass refraction, delicate vertical lines, and atmospheric blur. Adapt the lighting and colors to the scene, from lush forest greens to warm sunset oranges or cool coastal blues.
+
+ART DIRECTION:
+Minimalist fine-art photography, sophisticated editorial aesthetics, tactile glass texture, poetic visual storytelling, and seamless visual continuity between both halves. Add tiny, understated editorial typography only if desired.
+
+Avoid excessive distortion, artificial neon colors, heavy blur, random patterns, unrelated elements, borders, and watermarks.
+
+FORMAT: Vertical 4:5, precise 50/50 horizontal split, high resolution.
+```
+
+<sub>(by [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2112233324760686617)) · [Source: X](https://x.com/Goodmanprotocol/status/2112233324760686617)</sub>
+
+## 🏡 Home & Interior Design
 
 <a id="p42-bedroom-redesign-from-your-photo"></a>
 
@@ -5072,8 +5327,6 @@ Redesign this ordinary bedroom into a more stylish, cohesive, and professionally
 ```
 
 <sub>(by SeeAPI)</sub>
-
-## 📊 Infographics & Practical Design
 
 <a id="p115-snowy-night-reading-nook"></a>
 
@@ -5102,6 +5355,8 @@ The same room at night: the lamp is the only light, snow falls outside instead o
 ```
 
 <sub>[Source: Anyscene](https://anyscene.app/gpt-image-2-5)</sub>
+
+## 📊 Infographics & Practical Design
 
 <a id="p30-spanish-infographic-translation"></a>
 

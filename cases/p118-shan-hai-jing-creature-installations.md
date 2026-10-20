@@ -1,0 +1,39 @@
+# P118. Shan Hai Jing Creature Installations
+
+## 👀 Preview
+
+[<img src="../assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 1">](../assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg)
+
+[<img src="../assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 2">](../assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg)
+
+[<img src="../assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 3">](../assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg)
+
+[<img src="../assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg" width="225" height="400" alt="Shan Hai Jing Creature Installations — source example 4">](../assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg)
+
+## 👇 Workflow
+
+`Creature selection → exhibition installation image`
+
+## 🔖 Full Prompt
+
+```text
+Theme: Shan Hai Jing creatures × reimagining classical painting in physical space × Eastern aesthetics × exhibition editorial
+
+For each image, independently choose a creature with a distinctive form from the Shan Hai Jing. Preserve its defining features as recorded in the original text and turn it into a large physical art installation inside a real exhibition hall. Make the key features clearly recognizable, the subject's silhouette complete, and its anatomy and structural support naturally convincing.
+
+Draw on the lines, colors, and expressive spirit of classical Chinese painting, incorporating them into the installation's own form and materials. Explore a different construction method for each creature, selectively simplifying details while retaining a natural handmade texture. A few rocks, clouds, or plant motifs should echo the installation spatially; keep the exhibition hall open and uncluttered.
+
+Photograph a real exhibition setting with soft light, muted Eastern colors, clearly layered materials, and clean, natural tones. Use a simple composition with a thoughtful balance of density and openness, leaving generous artistic negative space.
+
+All Chinese text in the image must use accurate Traditional Chinese characters. Present the creature's name and one short, accessible description of its form through avant-garde, restrained calligraphic editorial typography.
+
+Use expressive handwritten calligraphy for the name. Explore the qualities of seal or clerical script, running script, or cursive brushwork according to the creature's character, while retaining recognizable character structures. Create an archaic, mysterious, and varied layout through character construction, brush movement, scale, spacing, and horizontal or vertical arrangements. Let the text respond naturally to the installation's form.
+
+For rare characters or easily misread polyphonic characters in the name, add a small annotation beside the relevant character showing its correct pronunciation in that creature's name, using Hanyu Pinyin with tone marks. Use clear small type for the description, with distinct hierarchy between pronunciation annotations and body text, and ensure readability on a phone.
+
+Vertical 9:16, n=10. Ten independent single images, choosing different creatures and varying materials, poses, subject positions, camera angles, calligraphic character, and text layouts. Do not make a collage.
+
+Signature in the lower left: a solid deep-blue dot first, followed by “DeepBlue” in natural white handwriting.
+```
+
+<sub>(by [@DeepBlueX0](https://x.com/DeepBlueX0/status/2112419997125665147)) · [Source: X](https://x.com/DeepBlueX0/status/2112419997125665147) · English translation by SeeAPI</sub>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-20",
   "entries": [
     {
       "id": "C01",
@@ -5991,6 +5991,391 @@
       "updated": "2026-10-12",
       "readme_anchor": "p117-slow-morning-coffee-poster",
       "display_number": "4.32"
+    },
+    {
+      "id": "P118",
+      "title": "Shan Hai Jing Creature Installations",
+      "title_zh": "山海经异兽展厅装置",
+      "slug": "p118-shan-hai-jing-creature-installations",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@DeepBlueX0",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/DeepBlueX0/status/2112419997125665147",
+        "publisher": "@DeepBlueX0",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2112419997125665147",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p118-shan-hai-jing-creature-installations/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p118-shan-hai-jing-creature-installations.md",
+      "prompts": [
+        "prompts/p118-shan-hai-jing-creature-installations/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p118-shan-hai-jing-creature-installations/image-prompt.txt": "prompts/p118-shan-hai-jing-creature-installations/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p118-shan-hai-jing-creature-installations/image-prompt.txt": "f35e3ddeabc4e067e274f97adad006202e5f71148e600927ea6cc985cbb53eed"
+      },
+      "preview": "assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p118-shan-hai-jing-creature-installations/source-example-01.jpg",
+          "sha256": "ec473af78db57ac5bde1f10609fe24f9f5747d52cc3a40732dfc4ed3f1ef53d1",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p118-shan-hai-jing-creature-installations/source-example-02.jpg",
+          "sha256": "f501faf2b4be0bef688ffda88eeeab91df5385905212dcbdc3f6e315293e7c3b",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p118-shan-hai-jing-creature-installations/source-example-03.jpg",
+          "sha256": "d307b5a3e490333f72da927203a66b1f65e534fb639fbbe9a5890470f6f823c4",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p118-shan-hai-jing-creature-installations/source-example-04.jpg",
+          "sha256": "93e38418d12d780dbc6153d55f8a392a8f1e1a6ee86edce88361de69f0b78b13",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "The source requests ten images; four source examples are included. Creature labels, descriptions and pinyin have not been independently fact-checked.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p118-shan-hai-jing-creature-installations",
+      "display_number": "2.19"
+    },
+    {
+      "id": "P119",
+      "title": "Halloween Geometric Travel Posters",
+      "title_zh": "万圣节几何旅行海报",
+      "slug": "p119-halloween-geometric-travel-posters",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2112410576509087808",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2112410576509087808",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p119-halloween-geometric-travel-posters.md",
+      "prompts": [
+        "prompts/p119-halloween-geometric-travel-posters/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p119-halloween-geometric-travel-posters/image-prompt.txt": "prompts/p119-halloween-geometric-travel-posters/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p119-halloween-geometric-travel-posters/image-prompt.txt": "64d6ecf80aa1d32abc577b3fcb1890059d0d2b19ead7fb77db5c27675a1a6186"
+      },
+      "preview": "assets/p119-halloween-geometric-travel-posters/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p119-halloween-geometric-travel-posters/source-example-01.jpg",
+          "sha256": "9fa08c4a70f9a7d83191b62a5e18167e3f692b2bb0ce00f9309c35cf487c95cd",
+          "width": 453,
+          "height": 680,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p119-halloween-geometric-travel-posters/source-example-02.jpg",
+          "sha256": "8fdf1280bafa2effeaa16d084f25e655329778db01244e2b6bdad18b2ced62d5",
+          "width": 453,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "The destination values used for the two source examples were not disclosed as complete generation inputs.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p119-halloween-geometric-travel-posters",
+      "display_number": "4.33"
+    },
+    {
+      "id": "P120",
+      "title": "Surreal Office Object Still Life",
+      "title_zh": "超现实办公物件静物",
+      "slug": "p120-surreal-office-object-still-life",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@ksa8Turky",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/ksa8Turky/status/2112262255295549766",
+        "publisher": "@ksa8Turky",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2112262255295549766",
+        "platform": "X"
+      },
+      "content_type": "short-template",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p120-surreal-office-object-still-life.md",
+      "prompts": [
+        "prompts/p120-surreal-office-object-still-life/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p120-surreal-office-object-still-life/image-prompt.txt": "prompts/p120-surreal-office-object-still-life/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p120-surreal-office-object-still-life/image-prompt.txt": "61f6ca9e79ef01d8bbb3a8fe9660196920cc08b286854e89f4f3360d4d6ee885"
+      },
+      "preview": "assets/p120-surreal-office-object-still-life/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p120-surreal-office-object-still-life/source-example-01.jpg",
+          "sha256": "97dcf9383c3c5ce19936f35bd97bb21c07af0f34fa0005dde3094b64b896f892",
+          "width": 680,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "Short source template. The exact filled office-object and natural-element values were not disclosed.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p120-surreal-office-object-still-life",
+      "display_number": "4.34"
+    },
+    {
+      "id": "P121",
+      "title": "Ribbed Glass Travel Diptych",
+      "title_zh": "长虹玻璃旅行双联画",
+      "slug": "p121-ribbed-glass-travel-diptych",
+      "categories": [
+        "Posters & Artistic Styles"
+      ],
+      "status": "image-included",
+      "author": "@Goodmanprotocol",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/Goodmanprotocol/status/2112233324760686617",
+        "publisher": "@Goodmanprotocol",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2112233324760686617",
+        "platform": "X"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p121-ribbed-glass-travel-diptych.md",
+      "prompts": [
+        "prompts/p121-ribbed-glass-travel-diptych/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p121-ribbed-glass-travel-diptych/image-prompt.txt": "prompts/p121-ribbed-glass-travel-diptych/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p121-ribbed-glass-travel-diptych/image-prompt.txt": "3462d03b54e5dc53561a144d76c3f0fa0e57ef1a6ce180780f0a3a2ba269bb66"
+      },
+      "preview": "assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p121-ribbed-glass-travel-diptych/source-example-01.jpg",
+          "sha256": "ed393815d27a7bf5404e471a427d6c37a7724c3686ec38dcbdd41c9d53ecd26b",
+          "width": 288,
+          "height": 360,
+          "role": "source-example"
+        },
+        {
+          "path": "assets/p121-ribbed-glass-travel-diptych/source-example-02.jpg",
+          "sha256": "54776df23cc848a3532bd4950ae98f08afde353d85be04fd9b755fb64603efc9",
+          "width": 288,
+          "height": 360,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "The example location values and exact generation settings were not supplied.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p121-ribbed-glass-travel-diptych",
+      "display_number": "4.35"
+    },
+    {
+      "id": "P122",
+      "title": "Faceted Well of Souls Adventure",
+      "title_zh": "切面灵魂之井冒险场景",
+      "slug": "p122-faceted-well-of-souls-adventure",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "Christophe Saint-Eloi",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.facebook.com/groups/bingprompts/posts/2173075564095098/",
+        "publisher": "Christophe Saint-Eloi",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2173075564095098",
+        "platform": "Facebook"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5 Sunburst",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p122-faceted-well-of-souls-adventure.md",
+      "prompts": [
+        "prompts/p122-faceted-well-of-souls-adventure/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p122-faceted-well-of-souls-adventure/image-prompt.txt": "prompts/p122-faceted-well-of-souls-adventure/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p122-faceted-well-of-souls-adventure/image-prompt.txt": "b6a53938ef41511843e7c9f9caadfa06f1a88ca48047dc01c16a786be7a8ae5c"
+      },
+      "preview": "assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p122-faceted-well-of-souls-adventure/source-example-01.jpg",
+          "sha256": "b01d3ed90f980ea34635639bcc8ec317229eb7918ca8e4d4d71dc662771fbe48",
+          "width": 1536,
+          "height": 1024,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "The source claims GPT Image 2.5 Sunburst. Exact generation records and case-specific reuse permission were not supplied.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p122-faceted-well-of-souls-adventure",
+      "display_number": "2.20"
+    },
+    {
+      "id": "P123",
+      "title": "Monumental Graphite Mural Portrait",
+      "title_zh": "巨幅石墨壁画人像",
+      "slug": "p123-monumental-graphite-mural-portrait",
+      "categories": [
+        "Portraits & Photography"
+      ],
+      "status": "image-included",
+      "author": "u/Beginning-Willow-801",
+      "inspiration": null,
+      "source": {
+        "url": "https://www.reddit.com/r/promptingmagic/comments/1x9mn06/turn_your_reference_photo_into_a_monumental_mural/",
+        "publisher": "u/Beginning-Willow-801",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "1x9mn06",
+        "platform": "Reddit"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p123-monumental-graphite-mural-portrait.md",
+      "prompts": [
+        "prompts/p123-monumental-graphite-mural-portrait/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p123-monumental-graphite-mural-portrait/image-prompt.txt": "prompts/p123-monumental-graphite-mural-portrait/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p123-monumental-graphite-mural-portrait/image-prompt.txt": "46b0bc8dd19259fc0a82818e8b8e4b55ab95d9e08becc1dc8beaf379c1127ca3"
+      },
+      "preview": "assets/p123-monumental-graphite-mural-portrait/source-example-01.png",
+      "media": [
+        {
+          "path": "assets/p123-monumental-graphite-mural-portrait/source-example-01.png",
+          "sha256": "4a540c75aea3d8feed19c5a426cfecc0b9fd4d2abaca862e8330f4b9e4379b09",
+          "width": 1080,
+          "height": 480,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "The included source composite contains three output examples. The original identity reference was not supplied; identity fidelity cannot be independently checked.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p123-monumental-graphite-mural-portrait",
+      "display_number": "1.44"
+    },
+    {
+      "id": "P124",
+      "title": "Phoenix Feather Fantasy Character",
+      "title_zh": "凤羽东方幻想角色",
+      "slug": "p124-phoenix-feather-fantasy-character",
+      "categories": [
+        "Characters & Playful Creations"
+      ],
+      "status": "image-included",
+      "author": "@liyue_ai",
+      "inspiration": null,
+      "source": {
+        "url": "https://x.com/liyue_ai/status/2111858511537955077",
+        "publisher": "@liyue_ai",
+        "author_status": "credited-by-source",
+        "relationship": "collected",
+        "item_key": "2111858511537955077",
+        "platform": "X",
+        "original_prompt_language": "zh-CN",
+        "original_prompt_path": "prompts/p124-phoenix-feather-fantasy-character/image-prompt.zh-CN.txt",
+        "english_translation_by": "SeeAPI",
+        "collection_url": "https://youmind.com/zh-CN/prompts/oriental-fantasy-phoenix-princess-36658"
+      },
+      "content_type": "full-prompt",
+      "model_provenance": {
+        "claim": "GPT Image 2.5",
+        "verification": "source-claim-only"
+      },
+      "case": "cases/p124-phoenix-feather-fantasy-character.md",
+      "prompts": [
+        "prompts/p124-phoenix-feather-fantasy-character/image-prompt.txt"
+      ],
+      "prompts_zh": {
+        "prompts/p124-phoenix-feather-fantasy-character/image-prompt.txt": "prompts/p124-phoenix-feather-fantasy-character/image-prompt.zh-CN.txt"
+      },
+      "translation_source_sha256": {
+        "prompts/p124-phoenix-feather-fantasy-character/image-prompt.txt": "9d1ebbc374bc27893cf9f90d64c65ee07e4794504cfc08fbe507b8cc72eafc29"
+      },
+      "preview": "assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg",
+      "media": [
+        {
+          "path": "assets/p124-phoenix-feather-fantasy-character/source-example-01.jpg",
+          "sha256": "99f5d5cdaac2e775a55ee36fe8bf45320a75ceb04e13b9a1d6190c87a60c7e78",
+          "width": 383,
+          "height": 680,
+          "role": "source-example"
+        }
+      ],
+      "source_limitations": "Only the phoenix-feather output from the current post is included; the quoted earlier goldfish character is excluded.",
+      "updated": "2026-10-20",
+      "readme_anchor": "p124-phoenix-feather-fantasy-character",
+      "display_number": "2.21"
     }
   ]
 }
